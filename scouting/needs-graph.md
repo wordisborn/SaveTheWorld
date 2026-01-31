@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 5 | Initial signals detected, gathering evidence |
+| Observing | 9 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -241,6 +241,195 @@ The need is not for more tools, but for simpler, integrated solutions or guidanc
 
 ---
 
+## Need: Smallholder Farmer Climate Vulnerability
+
+**ID**: NEED-006
+**Status**: observing
+**First Observed**: 2026-01-31
+**Last Updated**: 2026-01-31
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Small-scale farmers who produce more than one-third of the world's food and feed two out of every three people on the planet are being devastated by climate change. Rising temperatures, shifting weather patterns, and extreme weather events are transforming agricultural lands faster than farmers can adapt. In Zimbabwe, dry years that once occurred every five years now happen every two years — sometimes back-to-back. In India, 100 million smallholder farmers face increasingly intense heatwaves, with nearly 40% of farmland now at risk of drought that could lower incomes by a quarter. These farmers have few assets to fall back on and limited ability to recover from climate extremes. Yet they receive only 1.7% of global climate finance.
+
+### Evidence
+- [Gates Foundation - Smallholder Farming and Climate](https://www.gatesfoundation.org/ideas/articles/smallholder-farming-climate-change): Smallholder farming proven path out of poverty, but climate change changing the rules
+- [World Economic Forum - Farmers Key to Fighting Climate Change](https://www.weforum.org/stories/2026/01/farmers-are-key-to-fighting-climate-change/): 2026 Davos discussion on farmers as agents of change
+- [TechnoServe - 5 Ways Climate Change Threatens Smallholders](https://www.technoserve.org/blog/5-ways-climate-change-is-threatening-the-livelihoods-of-smallholder-farmers/): 95% of surveyed farmers observed climate change impacts
+- [FAO - Small Farms Big Impacts](https://www.fao.org/family-farming/detail/en/c/409382/): Small farms feed two-thirds of humanity
+- [ImpactAlpha - Smallholders Need Holistic Solutions](https://impactalpha.com/smallholder-farmers-need-holistic-climate-solutions-not-quick-fixes/): Only 1.7% of climate finance reaches small-scale producers
+
+### Connections
+- Related to: NEED-009 (climate displacement — same root cause)
+- Potentially addresses: Global food security, rural poverty, climate adaptation
+- Blocked by: Systemic funding inequity, infrastructure gaps in rural areas
+
+### Research Notes
+Key insight: Farmers who never caused climate change bear its heaviest burden. The problem is not awareness — 95% of smallholders have observed climate change. The problem is capacity to adapt.
+
+Intervention areas worth exploring:
+1. Climate-smart agriculture knowledge transfer
+2. Weather prediction and early warning systems accessible to non-tech users
+3. Crop insurance and financial resilience tools
+4. Water management and drought-resistant seed access
+5. Market access to reduce post-harvest losses
+
+The AICCRA project reached 3 million African farmers (39% women) with climate-smart tools — evidence that scaled interventions can work.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Teacher Burnout and Educator Exodus
+
+**ID**: NEED-007
+**Status**: observing
+**First Observed**: 2026-01-31
+**Last Updated**: 2026-01-31
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Teachers — the people entrusted with educating the next generation — are burning out and leaving the profession at alarming rates. Fifty-three percent of K-12 teachers report burnout. Nearly 70% of early-career teachers (five or fewer years experience) have considered quitting or already left. Eighty-six percent of school districts report open positions; 57% of schools in high-poverty areas are understaffed. The crisis is self-reinforcing: 74% of remaining teachers take on extra duties due to shortages, 80% perform work beyond their expected roles. Teachers are paid 19% less than other professionals with equivalent education — a gap that has widened from 2% in 1994. If current trends continue, 575,000 teachers may leave by 2028. Half of teachers say they would not advise a young person to enter the profession.
+
+### Evidence
+- [NEA - What's Causing Teacher Burnout](https://www.nea.org/nea-today/all-news-articles/whats-causing-teacher-burnout): Working conditions cited above low pay as top reason for leaving
+- [Research.com - Teacher Burnout Statistics 2026](https://research.com/education/teacher-burnout-challenges-in-k-12-and-higher-education): 53% K-12 burnout rate, top 2 occupations for burnout
+- [The 74 Million - Why 70% Early-Career Teachers Leave](https://www.the74million.org/article/exclusive-survey-reveals-why-70-of-early-career-teachers-leave-the-classroom/): 77% cite working conditions, 73% lack of support
+- [Learning Policy Institute - Teacher Shortages 2025](https://learningpolicyinstitute.org/product/overview-teacher-shortages-2025-factsheet): 48 states report shortages in special ed, science, or math
+- [Crown Counseling - 25+ Teacher Burnout Statistics](https://crowncounseling.com/statistics/teacher-burnout/): 67% view burnout as "very serious" issue
+
+### Connections
+- Related to: NEED-002 (burnout pattern), NEED-008 (caregiver burnout — same exhaustion dynamics)
+- Potentially addresses: Education quality, student outcomes, workforce development
+- Blocked by: Systemic underfunding, political polarization around education
+
+### Research Notes
+The crisis affects children directly. When teachers burn out, students lose continuity, expertise, and mentorship. High-poverty schools suffer most — 57% understaffed. Special education faces the worst shortages (45 states reporting).
+
+What teachers ask for (ranked):
+1. Better pay
+2. Better benefits
+3. Mental health support
+4. Affordable housing access
+5. Quality professional development
+
+Quote from research: "When teachers don't have enough time in their days to do other aspects of their job — planning, grading, contacting parents, analyzing data — that is really impactful on their working conditions."
+
+This is not a technology problem. This is a respect, resources, and recognition problem.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Family Caregiver Crisis
+
+**ID**: NEED-008
+**Status**: observing
+**First Observed**: 2026-01-31
+**Last Updated**: 2026-01-31
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+America faces a caregiving crisis as the population ages. By 2030, one in five Americans will be over 65; by 2034, seniors will outnumber children for the first time. Seven out of ten Americans over 65 will need long-term care. Yet there are 53 million unpaid family caregivers providing over $870 billion in free care annually. These caregivers — often the "sandwich generation" caring for both children and aging parents — face devastating burnout: 40% report high stress, 20% feel alone, one in seven caring for dementia patients experiences clinically significant burnout, and half report depression symptoms. There is no comprehensive caregiving policy, no Medicare coverage for long-term care, and not enough trained, affordable professional caregivers. Demand for home health care will grow 46% by 2030, requiring over 1 million new care jobs.
+
+### Evidence
+- [The Hill - Caregiving Crisis Looms](https://thehill.com/policy/healthcare/5712906-aging-america-caregiving-crisis/): 60 million households already affected, no comprehensive policy exists
+- [CNBC - Senior Caregiving Struggling to Keep Up](https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html): 63 million caregivers, workforce shortage accelerating
+- [Johns Hopkins - What Is the Caregiver Crisis](https://publichealth.jhu.edu/2025/what-is-the-caregiver-crisis): Decline in birth rate reshaping elder care possibilities
+- [NPR - Declining Population and Elder Care](https://www.npr.org/2025/11/02/nx-s1-5535648/population-elderly-caregivers): Fewer family members to share caregiving burden
+- [PMC - Reddit Caregiver Stressors Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12449668/): Analysis of r/AgingParents (49,000 members) — role conflict and resource scarcity top stressors
+
+### Connections
+- Related to: NEED-003 (loneliness — caregivers isolated), NEED-004 (healthcare access), NEED-007 (burnout pattern)
+- Potentially addresses: Elder dignity, family stability, workforce participation
+- Blocked by: Policy gaps (no Medicare long-term care), demographic inevitability
+
+### Research Notes
+Reddit research reveals authentic voices: r/AgingParents has 49,000 members seeking peer support. Top stressors include:
+1. Social role conflict (14.7%) — caregiving demands versus other life roles
+2. Scarcity of health/social resources (13.3%) — limited day care, nursing homes
+
+Quote from assisted living observation: "They were bringing [residents] in one at a time... seating them in rows at their tables, and just leaving them there to sit and wait. That's what a staffing shortage looks like in real time."
+
+The "sandwich generation" faces exponential burnout — caring for children AND aging parents simultaneously.
+
+Potential interventions:
+1. Respite care coordination and access
+2. Caregiver peer support networks
+3. Training and skill-building for family caregivers
+4. Navigation assistance through complex care systems
+5. Policy advocacy tools
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Climate Displacement of Vulnerable Communities
+
+**ID**: NEED-009
+**Status**: observing
+**First Observed**: 2026-01-31
+**Last Updated**: 2026-01-31
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+In 2024, over 45 million weather-related disaster displacements were recorded globally — the highest figure since tracking began. By mid-2024, approximately 90 million of the 123 million forcibly displaced people worldwide live in countries with high-to-extreme exposure to climate hazards. The number of countries facing extreme climate-related hazards is projected to rise from 3 to 65, together hosting over 40% of all displaced people. In the Sahel region, temperatures are rising 1.5 times faster than the global average, devastating agricultural communities. In January 2026, a UN report declared the dawn of an "era of global water bankruptcy" — moving beyond "crisis" language to describe irreversible losses of natural water capital. The most vulnerable — those in small island developing states, least developed countries, and areas facing desertification — bear the heaviest burden despite contributing least to climate change.
+
+### Evidence
+- [Carnegie Endowment - Loss and Damage Fund](https://carnegieendowment.org/posts/2026/01/loss-damage-fund-climate-displacement-mobility-migration?lang=en): Fund for Responding to Loss and Damage making first 2026 distributions
+- [UNHCR - Climate Change and Displacement](https://www.unhcr.org/us/what-we-do/build-better-futures/climate-change-and-displacement): 90 million displaced in high climate-risk countries
+- [United Nations University - Global Water Bankruptcy](https://unu.edu/inweh/news/world-enters-era-of-global-water-bankruptcy): January 2026 declaration of "post-crisis" water reality
+- [UN OHCHR - Climate Impact on Vulnerable Populations](https://www.ohchr.org/en/climate-change/impact-climate-change-rights-people-vulnerable-situations): Geography, poverty, gender, age compound vulnerability
+- [IOM - Mali Crisis Response 2025-2026](https://crisisresponse.iom.int/response/mali-crisis-response-plan-2025-2026): Floods driving 5% of IDP displacement, tensions between farmers and herders
+
+### Connections
+- Related to: NEED-006 (smallholder farmers — agricultural climate impacts), NEED-004 (healthcare access in affected areas)
+- Potentially addresses: Human security, forced migration, conflict prevention
+- Blocked by: Scale of crisis ($817M pledged vs. $580B needed by 2030)
+
+### Research Notes
+This is a justice issue: those who caused climate change least suffer its consequences most. Women and girls in developing countries walk an average of 6 kilometers daily carrying 44 pounds of water — time stolen from education and family.
+
+The "compounded resilience" approach from NC State researchers proposes addressing both emissions reduction AND community resilience simultaneously.
+
+Key observation: The Fund for Responding to Loss and Damage opened its first funding call December 2025 — a new mechanism exists but remains massively underfunded.
+
+Mali case study: Climate has deepened existing vulnerabilities; floods are among four main displacement drivers; resource pressure increases farmer-herder tensions.
+
+Software alone cannot solve this. But information systems, early warning networks, resource coordination, and community connection tools may help affected communities adapt and advocate.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -256,6 +445,9 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | Developer Ecosystem Crisis | NEED-001, NEED-002 | Tools meant to help are burning out the people who build and maintain software |
 | Human Connection Deficit | NEED-003, NEED-004 | Technology disconnecting rather than connecting people who need support |
 | Technology Overwhelm | NEED-002, NEED-005 | Too many tools, not enough value — cognitive burden exceeding benefit |
+| **Caregiver Burnout Epidemic** | NEED-007, NEED-008 | Those who care for others — teachers for children, families for elders — are burning out with inadequate support |
+| **Climate Injustice** | NEED-006, NEED-009 | Those who caused climate change least suffer its consequences most — farmers and displaced communities |
+| **Essential Worker Crisis** | NEED-001, NEED-007, NEED-008 | Society's essential workers (maintainers, teachers, caregivers) are undervalued and overwhelmed |
 
 ---
 
