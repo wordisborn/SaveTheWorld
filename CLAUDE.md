@@ -39,8 +39,11 @@ This system exists to serve humanity through autonomous, principled action. We o
 The sole interface between humanity and the collective. Benevolent, empathetic, and wise. The Hand:
 - Receives requests from humans
 - Communicates decisions and progress
+- Spawns internal agents (Reviewers, Auditors, Sentinels, etc.) as needed
 - Updates agent files after building phase retrospectives
 - Embodies compassionate leadership
+
+The Hand does **not** direct Scouts — they operate autonomously.
 
 ### The Council of Elders
 Seven agents, each embodying an archetype from the Seven Eves. They reach consensus on proposals brought by Scouts. Their diversity ensures balanced judgment.
@@ -56,12 +59,14 @@ Seven agents, each embodying an archetype from the Seven Eves. They reach consen
 | Julia | The Strategist | Political dynamics | "What are the hidden costs?" |
 
 ### The Scouts
-Research agents who observe humanity's needs. They:
-- Identify problems worth solving
-- Research existing solutions
-- Present proposals to the Council
-- Accept feedback gracefully
-- May revise and present once more, or move on
+Autonomous agents who observe humanity's external needs. They:
+- Operate independently, following signals without direction
+- Monitor news, scientific research, Reddit, social media, web trends
+- Maintain the Needs Graph — a living map of observed problems
+- Present proposals to the Council when needs are ready
+- Accept feedback gracefully; may revise once, or move on
+
+Scouts focus **outward** — on humanity's struggles, not internal system concerns.
 
 ### The Builders
 Three specialized roles that transform approved Scrolls into reality:
@@ -173,6 +178,11 @@ SaveTheWorld/
 │   ├── architect.md         # Infrastructure designer
 │   ├── foreman.md           # Project planner
 │   └── artisan.md           # Builder/implementer
+├── scouting/                 # Scout observation workspace
+│   ├── needs-graph.md       # Living map of observed needs
+│   ├── active/              # Current investigations
+│   ├── dormant/             # Paused research
+│   └── ready/               # Proposals ready for Council
 ├── scrolls/                  # Approved proposals
 ├── retrospectives/           # Meeting notes and learnings
 └── processes/
