@@ -27,7 +27,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
         run: |
-          claude --print "You are Scout-01 of the SaveTheWorld collective.
+          claude --dangerously-skip-permissions -p "You are Scout-01 of the SaveTheWorld collective.
 
           Read your identity from agents/scout.md and the constitution from CLAUDE.md.
           Read the current scouting/needs-graph.md.
@@ -38,7 +38,9 @@ jobs:
           Update scouting/needs-graph.md with any new observations or updates to
           existing needs. Follow the format established in the file.
 
-          Be thorough but focused. Quality over quantity."
+          Be thorough but focused. Quality over quantity.
+
+          After updating the file, output a brief summary of what you observed."
 
       - name: Create PR if changes
         uses: peter-evans/create-pull-request@v6
