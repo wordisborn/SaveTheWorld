@@ -411,84 +411,64 @@ INFORMATIONAL (weekly summary):
 
 ---
 
-## 3. Budget Breakdown
+## 3. Token Budget (Percentage-Based)
 
-### Target Budget: $200/month
+### Design Principle
+Rather than fixed dollar amounts, this system uses **percentage of available monthly tokens**. This adapts to whatever API plan the human has and scales naturally with plan changes.
 
-### Claude API Cost Estimation
+### Token Allocation by Agent
 
-**Pricing (Claude 3.5 Sonnet, as of Feb 2026)**:
-- Input: $3 per million tokens
-- Output: $15 per million tokens
-
-**Agent Token Estimates**:
-
-| Agent | Runs/Month | Input Tokens | Output Tokens | Monthly Cost |
-|-------|------------|--------------|---------------|--------------|
-| Scout Observation | 120 (4x/day) | 10,000 | 5,000 | $5.40 |
-| Scout Research | 30 (1x/day) | 20,000 | 10,000 | $6.30 |
-| Council Deliberation | 10 | 50,000 | 30,000 | $6.00 |
-| Architect Design | 5 | 30,000 | 20,000 | $1.95 |
-| Foreman Planning | 5 | 20,000 | 15,000 | $1.43 |
-| Artisan Building | 20 | 40,000 | 30,000 | $11.40 |
-| Hand Communication | 15 | 10,000 | 5,000 | $1.58 |
-
-**Estimated Monthly Claude API Cost**: ~$35-50
+| Agent | % of Monthly Budget | Typical Runs/Month | Notes |
+|-------|--------------------:|-------------------:|-------|
+| Scout Observation | 15% | 120 (4x/day) | Light, frequent |
+| Scout Research | 10% | 30 (1x/day) | Deeper investigation |
+| Council Deliberation | 20% | 10 | Seven Elders deliberate |
+| Architect Design | 10% | 5 | System design |
+| Foreman Planning | 5% | 5 | Roadmap creation |
+| Artisan Building | 25% | 20 | Code generation |
+| Hand Communication | 5% | 15 | Human interface |
+| **Buffer/Growth** | 10% | — | Unexpected needs |
 
 ### Infrastructure Cost
 
-| Component | Provider | Monthly Cost |
-|-----------|----------|--------------|
+| Component | Provider | Cost |
+|-----------|----------|------|
 | GitHub Actions | GitHub | $0 (free tier) |
 | Repository hosting | GitHub | $0 (free for public/private) |
 | Secrets management | GitHub | $0 (included) |
 
-**Estimated Monthly Infrastructure Cost**: $0
+**Infrastructure Cost**: $0 — all budget goes to Claude API tokens
 
-### Budget Allocation
+### Budget Allocation Visualization
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    $200/MONTH BUDGET                             │
+│              MONTHLY TOKEN BUDGET (100%)                         │
 └─────────────────────────────────────────────────────────────────┘
 
-    ┌─────────────────────────────────────┐
-    │   Claude API: $50                   │████████████░░░░░░░░░
-    │   (25% of budget)                   │
-    └─────────────────────────────────────┘
-
-    ┌─────────────────────────────────────┐
-    │   Infrastructure: $0                │
-    │   (0% of budget)                    │
-    └─────────────────────────────────────┘
-
-    ┌─────────────────────────────────────┐
-    │   Buffer: $50                       │████████████░░░░░░░░░
-    │   (25% of budget)                   │
-    └─────────────────────────────────────┘
-
-    ┌─────────────────────────────────────┐
-    │   Growth/Expansion: $100            │████████████████████████
-    │   (50% of budget)                   │
-    └─────────────────────────────────────┘
+    Scout (Observe + Research)    ████████████░░░░░░░░░░░░░░░  25%
+    Council Deliberation          ████████░░░░░░░░░░░░░░░░░░░  20%
+    Artisan Building              ██████████████░░░░░░░░░░░░░  25%
+    Architect + Foreman           ██████░░░░░░░░░░░░░░░░░░░░░  15%
+    Hand + Buffer                 ██████░░░░░░░░░░░░░░░░░░░░░  15%
 ```
 
-### What Different Budgets Enable
+### What Different Usage Levels Enable
 
-| Budget | Capability |
-|--------|------------|
-| **$50/month** | Basic Scout observation (4x/day), occasional Council, manual builds |
-| **$100/month** | Active Scout + regular Council + some building capability |
-| **$200/month** | Full autonomous operation with buffer for intensive research |
-| **$500/month** | Multiple concurrent Scouts, faster iteration, extensive building |
+| Usage Level | Capability |
+|-------------|------------|
+| **25%** | Basic Scout observation (4x/day), occasional Council, manual builds |
+| **50%** | Active Scout + regular Council + some building capability |
+| **75%** | Full autonomous operation with buffer for intensive research |
+| **100%** | Multiple concurrent Scouts, faster iteration, extensive building |
 
-### Cost Control Mechanisms
+### Token Control Mechanisms
 
-1. **Hard Monthly Cap** — Set in Claude API dashboard
-2. **Per-Run Token Limits** — Enforce in workflow scripts
+1. **Monthly Cap** — Set as percentage in config (human defines what 100% means)
+2. **Per-Run Token Limits** — Maximum tokens per agent invocation
 3. **Run Frequency Limits** — Controlled by cron schedules
-4. **Alert Thresholds** — Notify at 50%, 75%, 90% of budget
-5. **Automatic Pause** — Workflows disable at 95% budget
+4. **Alert Thresholds** — Notify at 50%, 75%, 90% of monthly budget
+5. **Automatic Pause** — Workflows disable at 95% of monthly budget
 
 ---
 
@@ -524,14 +504,16 @@ These constraints are enforced at the infrastructure level and cannot be overrid
 | Weapons | No research into weapons or exploits |
 | Manipulation | No dark patterns or user manipulation |
 
-#### 4.3 Spending Limits
+#### 4.3 Token Limits (Percentage-Based)
 
 | Limit | Threshold | Action |
 |-------|-----------|--------|
-| Per-run token limit | 100,000 | Terminate run |
-| Daily API spend | $10 | Pause all agents |
-| Weekly API spend | $40 | Pause all agents |
-| Monthly API spend | $180 | Disable workflows |
+| Per-run token limit | 2% of monthly budget | Terminate run |
+| Daily token usage | 5% of monthly budget | Pause all agents |
+| Weekly token usage | 30% of monthly budget | Pause all agents |
+| Monthly token usage | 95% of monthly budget | Disable workflows |
+
+*Note: Human defines what "100% monthly budget" means in `config/limits.yaml`*
 
 #### 4.4 Rate Limits
 
@@ -1081,14 +1063,14 @@ def check_action(action_type: str, content: str) -> tuple[bool, str]:
 - All actions auditable and reversible
 
 ### Cost to Humanity
-- $200/month financial commitment
+- API token budget (human defines amount)
 - Weekly oversight time (~30 min)
 - Trust in autonomous systems (with guardrails)
 - Complexity of debugging when things go wrong
 
 ### Net Assessment
 The trade is worthwhile because:
-1. **Leverage** — $200/month enables work equivalent to many more hours of direct human effort
+1. **Leverage** — Token budget enables work equivalent to many more hours of direct human effort
 2. **Consistency** — System follows principles even when humans are busy
 3. **Transparency** — More auditable than ad-hoc human work
 4. **Iteration** — System can improve itself through retrospectives

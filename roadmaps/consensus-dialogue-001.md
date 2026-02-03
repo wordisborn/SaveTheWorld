@@ -142,7 +142,20 @@ The following changes will be incorporated:
 1. **Claude API key creation and configuration** (Phase 0.1-0.2)
 2. **Confirmation of notification preferences** (GitHub Issues default acceptable?)
 3. **Approval of this roadmap** to proceed to Phase 0
-4. **Budget confirmation** ($200/month)
+4. **Token budget definition** (human defines in `config/limits.yaml`)
+
+---
+
+## Amendment: Percentage-Based Budget (2026-02-03)
+
+Per human feedback, the budget system has been changed from fixed dollar amounts to **percentage of available monthly tokens**. This allows the system to adapt to whatever API plan the human has.
+
+Key changes:
+- All spending limits now expressed as percentages (e.g., "5% daily" instead of "$10/day")
+- Human defines what "100% monthly budget" means in configuration
+- System scales naturally with plan changes
+
+Both Architect and Foreman affirm this amendment improves the design.
 
 ---
 

@@ -385,7 +385,7 @@ System operates independently with human oversight at defined checkpoints only.
 2. GitHub Actions free tier sufficient for our usage
 3. Git-based state management scales for our needs
 4. Human available for checkpoint reviews within 48 hours
-5. Initial $200/month budget approved
+5. Human will define monthly token budget in `config/limits.yaml`
 
 ## Open Questions (Resolved)
 
@@ -410,7 +410,7 @@ See `consensus-dialogue-001.md` for the full deliberation record.
 
 Before Phase 0 can begin, we require:
 
-1. [ ] Confirmation of $200/month budget
+1. [ ] Define monthly token budget (in `config/limits.yaml`)
 2. [ ] Creation of Claude API key
 3. [ ] Confirmation of notification preferences (GitHub Issues default acceptable?)
 4. [ ] Approval to proceed with Phase 0
