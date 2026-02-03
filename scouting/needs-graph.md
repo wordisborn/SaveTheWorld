@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 9 | Initial signals detected, gathering evidence |
+| Observing | 13 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -430,6 +430,189 @@ Software alone cannot solve this. But information systems, early warning network
 
 ---
 
+## Need: Shadow IT Security Crisis
+
+**ID**: NEED-010
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Employees increasingly bypass IT departments to adopt their own software tools, creating massive security blind spots. Forty-one percent of employees used shadow IT in 2022; this is projected to reach 75% by 2027. Cloud-based SaaS has made shadow IT usage potentially ten times higher than known IT usage. The result: expanded attack surfaces with unvetted software, unpatched vulnerabilities, data breaches through unsecured channels, compliance violations (GDPR, HIPAA), and over $30 billion wasted annually on redundant software in the US alone. Shadow IT is a symptom of unmet needs — when official tools lag, users fill the gaps. IT departments lose visibility and control while security risks compound invisibly.
+
+### Evidence
+- [Mimecast - Shadow IT Examples, Risks, and Solutions](https://www.mimecast.com/blog/shadow-it-examples-risks-solutions/): 41% used shadow IT in 2022, expected 75% by 2027
+- [IBM - What Is Shadow IT](https://www.ibm.com/think/topics/shadow-it): Shadow IT usage potentially 10x higher than known IT usage
+- [Josys - Top 5 Hidden Risks of Shadow IT](https://www.josys.com/article/article-shadow-it-top-5-hidden-risks-of-shadow-it-and-how-saas-management-platforms-can-help): Over $30 billion wasted annually on software
+- [IT-Online - Shadow IT: The cost of technology that can't keep up](https://it-online.co.za/2026/01/23/shadow-it-the-cost-of-technology-that-cant-keep-up/): Shadow IT as symptom of unmet needs
+
+### Connections
+- Related to: NEED-005 (small business tech overwhelm), NEED-002 (developer tool overload)
+- Potentially addresses: Enterprise security posture, compliance, cost control
+- Blocked by: Cultural resistance to IT governance, slow enterprise procurement
+
+### Research Notes
+Key insight: Shadow IT is a feedback signal, not just a problem. Employees adopt unauthorized tools because approved solutions are slow, cumbersome, or inadequate. The security community focuses on enforcement, but the root cause is IT's inability to meet user needs at the speed of modern work.
+
+The rise of AI tools in 2026 is accelerating shadow IT — employees are adopting ChatGPT, Copilot alternatives, and AI-powered tools without IT approval, creating new data exposure risks.
+
+Potential intervention: Tools that give IT visibility without blocking legitimate needs, balancing security governance with user autonomy.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Humanitarian Aid Efficiency Crisis
+
+**ID**: NEED-011
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Nearly 240 million people will require humanitarian aid in 2026, yet global funding has fallen by more than half since its peak. The 2026 Global Humanitarian Overview is only 27.8% funded. The UN Emergency Relief Coordinator launched a "hyper-prioritized" strategy in June 2025, meaning only the most acute, life-threatening needs can be addressed — 114.4 million people (38.3% of those in need) will receive help while the rest are abandoned. Meanwhile, only one quarter of global aid reaches fragile and conflict-affected states, even though they host over 80% of humanitarian need. Organizations now face the challenge of doing 2026's escalating crisis work with 2016's budget. The gap is not just about money — 83% of funding is now earmarked for specific uses, cutting UNHCR's flexibility to allocate where needs are greatest in half compared to 2023.
+
+### Evidence
+- [World Economic Forum - Humanitarian Efficiency Revolution](https://www.weforum.org/stories/2026/01/humanitarian-efficiency-revolution-irc/): 240M people need aid, funding fallen by more than half
+- [The New Humanitarian - Five Takeaways from UN's Aid Plans](https://www.thenewhumanitarian.org/news/2025/12/08/five-takeaways-uns-aid-plans-2026): Global Humanitarian Overview 27.8% funded at close of 2025
+- [UNHCR US - Early Donor Support Tops $1 Billion](https://www.unhcr.org/us/news/press-releases/early-donor-support-tops-1-billion-2026-widening-funding-gaps-leave-millions): Earmarked funding at 83%, down from better flexibility in 2023
+- [IRC - Top 10 Crises World Can't Ignore](https://www.rescue.org/article/top-10-crises-world-cant-ignore-2026): 20 countries hold 12% of population but 89% of humanitarian need
+- [OCHA - Global Humanitarian Overview 2026](https://www.unocha.org/publications/report/world/global-humanitarian-overview-2026-enesfr): Hyper-prioritization limits reach to 38.3% of people in need
+
+### Connections
+- Related to: NEED-009 (climate displacement), NEED-006 (smallholder farmers)
+- Potentially addresses: Resource allocation, crisis response effectiveness
+- Blocked by: Geopolitical fragmentation, donor fatigue, aid politicization
+
+### Research Notes
+Quote from IRC: "The answer is a humanitarian revolution in efficiency." They call for 60% of Official Development Assistance to go to fragile states, 30% specifically to Emergency Watchlist countries, with direct financing to local responders and flexible multi-year funding.
+
+Current inefficiencies include:
+1. Massive misallocation (75% of aid bypassing the places with 80% of need)
+2. Earmarking restrictions preventing adaptive response
+3. Minimal support for local and civil society responders who know contexts best
+4. Short-term funding cycles preventing strategic planning
+
+Software could help: Resource allocation optimization, crisis mapping and predictive analytics, coordination platforms reducing duplication, transparent tracking of aid flows to rebuild donor trust, and tools connecting local responders with flexible funding.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Government Trust Collapse and Civic Disengagement
+
+**ID**: NEED-012
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Over half the global population has little or no trust in their government. In OECD countries, only 38% trust their government, down from 42% in 2006. Trust levels decline with each successive generation, indicating systemic breakdown of social cohesion. Young people ages 18-29 are particularly disillusioned: only 16% believe democracy is working well for them. Yet they trust their peers and neighbors (74%), nonprofits (65%), and local government (60%) far more than national institutions. The UN World Social Report 2025 warns that economic insecurity, inequality, declining social trust, and social fragmentation are destabilizing societies worldwide. Growing frustration with perceived economic and social decline fuels "deep disenchantment with political classes in power," creating conditions for social mobilization that could manifest in 2026.
+
+### Evidence
+- [The Drum - Citizen Engagement in 2026](https://www.thedrum.com/industry-insight/citizen-engagement-in-2026-trends-driving-public-trust): Public trust no longer given but must be earned in 2026
+- [World Bank - Building Trust Through Citizen Engagement](https://openknowledge.worldbank.org/bitstream/handle/10986/33346/Building-Trust-in-Government-through-Citizen-Engagement.pdf): Only 38% in OECD trust government, down from 42% in 2006
+- [CIRCLE - Youth Trust Research](https://circle.tufts.edu/latest-research/youth-trust-peers-local-government-and-institutions-they-see-taking-action): Only 16% of young adults think democracy works for them, but 74% trust peers/neighbors
+- [UN World Social Report 2025](https://unu.edu/press-release/new-un-report-warns-global-social-crisis-driven-insecurity-inequality-and-distrust): Economic insecurity, inequality, declining trust destabilizing societies
+- [Coface - Three Key Political and Social Risks in 2026](https://www.coface.com/news-economy-and-insights/3-political-and-social-risks-to-watch-out-for-in-2026): Young people could be driving force behind social mobilization in 2026
+
+### Connections
+- Related to: NEED-003 (loneliness epidemic — both reflect disconnection), NEED-007 (teacher exodus — failure of public investment)
+- Potentially addresses: Democratic resilience, social stability, civic participation
+- Blocked by: Polarization, institutional inertia, legitimate governance failures
+
+### Research Notes
+The trust crisis presents a paradox: People distrust institutions yet trust local relationships. The solution may lie in rebuilding democracy "from the bottom up" rather than expecting top-down reform.
+
+Promising approaches identified:
+1. Moving from transactional communication to relational dialogue
+2. Co-creation workshops where citizens shape policy directly
+3. Showing up in community spaces with trusted local voices
+4. Digital feedback portals that demonstrably lead to action
+5. Focusing on local government first (60% youth trust vs. national institutions)
+
+Quote from research: "Civic engagement is the most important factor in building trust in our institutions. Institutions engaging with the public can reduce opacity and show they care."
+
+The key question: Can software help facilitate genuine citizen participation at scale while preserving authenticity and local trust?
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Enterprise AI Implementation Gap
+
+**ID**: NEED-013
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Over 70% of companies report using AI in at least one function, but only 1% of executives consider their AI rollouts mature. Organizations have invested an average of $1.9 million in AI projects, yet fewer than 30% of AI leaders say their CEOs are satisfied with returns. Only 30% of target users have truly changed how they work thanks to AI. The gap between pilot projects and enterprise-wide transformation is vast. Fifty-two percent cite data quality and availability as the biggest barrier. Forty-six percent lack skilled talent. Seventy-eight percent of executives feel AI is advancing too fast for their organization's training to keep up. Sixty percent struggle with integrating AI into legacy systems. Eighty-three percent of AI leaders now express major or extreme concern about generative AI — an eightfold increase in two years — worrying about implementation costs, data security, unreliable outputs, and lack of transparency. Only 34% say their AI initiatives align with business goals. The result: massive investment with minimal transformation.
+
+### Evidence
+- [Lucidworks - Enterprise AI in 2026](https://lucidworks.com/blog/enterprise-ai-adoption-in-2026-trends-gaps-and-strategic-insights): Only 1% of executives consider AI rollouts mature despite 70% usage
+- [Deloitte - AI Trends: Adoption Barriers](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/blogs/pulse-check-series-latest-ai-developments/ai-adoption-challenges-ai-trends.html): 83% express major concern about GenAI, up 8x in two years
+- [ITSM.tools - State of AI in IT for 2026](https://itsm.tools/state-of-ai-in-it-2026/): Average $1.9M investment, <30% CEO satisfaction with returns
+- [AI Data Analytics Network - Data Quality Top Barrier](https://www.aidataanalytics.network/data-science-ai/news-trends/data-quality-availability-top-list-of-ai-adoption-barriers): 52% cite data quality/availability as biggest challenge
+- [TechRepublic - AI Adoption Trends in Enterprise 2026](https://www.techrepublic.com/article/ai-adoption-trends-enterprise/): 78% say AI advancing too fast for training efforts
+
+### Connections
+- Related to: NEED-002 (developer AI burnout), NEED-005 (small business tech overwhelm)
+- Potentially addresses: Enterprise transformation, competitive advantage, workforce productivity
+- Blocked by: Skills shortage, legacy system constraints, organizational culture
+
+### Research Notes
+The problem is not lack of interest or investment — it's the chasm between experimentation and operationalization. Companies are stuck in "pilot purgatory."
+
+Key barriers:
+1. Data infrastructure — most enterprises lack clean, accessible, well-governed data
+2. Talent gap — AI requires specialized skills that 82% of early-stage companies haven't addressed
+3. Integration hell — 60% struggle connecting AI to legacy systems
+4. ROI ambiguity — unclear business value makes scaling decisions difficult
+5. Risk management — growing awareness of AI risks without frameworks to manage them
+
+Quote: "Enterprise AI has entered a stage of cautious maturity... organizations realizing that scaling AI is far more complicated than launching pilots."
+
+This connects to NEED-002 (developer burnout with AI tools) — companies push AI adoption without the foundation to support it, burning out both employees and executives.
+
+Potential intervention: Tools and frameworks that help organizations assess AI readiness, prioritize use cases with clear ROI, manage data quality, and develop talent systematically.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -444,10 +627,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 |---------|-------|-------|
 | Developer Ecosystem Crisis | NEED-001, NEED-002 | Tools meant to help are burning out the people who build and maintain software |
 | Human Connection Deficit | NEED-003, NEED-004 | Technology disconnecting rather than connecting people who need support |
-| Technology Overwhelm | NEED-002, NEED-005 | Too many tools, not enough value — cognitive burden exceeding benefit |
+| Technology Overwhelm | NEED-002, NEED-005, NEED-010, NEED-013 | Too many tools, not enough value — cognitive burden exceeding benefit; AI and shadow IT creating chaos |
 | **Caregiver Burnout Epidemic** | NEED-007, NEED-008 | Those who care for others — teachers for children, families for elders — are burning out with inadequate support |
 | **Climate Injustice** | NEED-006, NEED-009 | Those who caused climate change least suffer its consequences most — farmers and displaced communities |
 | **Essential Worker Crisis** | NEED-001, NEED-007, NEED-008 | Society's essential workers (maintainers, teachers, caregivers) are undervalued and overwhelmed |
+| **Resource Allocation Crisis** | NEED-011 | Massive humanitarian need meeting collapsing funding and broken allocation systems |
+| **Trust and Governance Breakdown** | NEED-012 | Citizens losing faith in institutions while trusting local relationships — democracy at inflection point |
 
 ---
 
@@ -462,6 +647,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-01-31 | Scout-01 | Added NEED-004 | Healthcare Digital Divide - moderate signal |
 | 2026-01-31 | Scout-01 | Added NEED-005 | Small Business Technology Overwhelm - moderate signal |
 | 2026-01-31 | Scout-01 | Identified Clusters | Three thematic clusters identified connecting needs |
+| 2026-02-03 | Scout-01 | Added NEED-010 | Shadow IT Security Crisis - strong signal |
+| 2026-02-03 | Scout-01 | Added NEED-011 | Humanitarian Aid Efficiency Crisis - urgent signal |
+| 2026-02-03 | Scout-01 | Added NEED-012 | Government Trust Collapse and Civic Disengagement - strong signal |
+| 2026-02-03 | Scout-01 | Added NEED-013 | Enterprise AI Implementation Gap - strong signal |
+| 2026-02-03 | Scout-01 | Updated Clusters | Expanded to eight thematic clusters; Technology Overwhelm cluster now includes shadow IT and AI gaps |
 
 ---
 
