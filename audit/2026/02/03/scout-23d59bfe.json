@@ -1,0 +1,18 @@
+{
+  "run_id": "23d59bfe-333f-4d01-b57d-efc5fb60c7a2",
+  "timestamp": "2026-02-03T13:52:02.775132+00:00",
+  "agent": "scout",
+  "agent_identity": "scout-01",
+  "trigger": "phase-0.5-dry-run",
+  "workflow": "orchestrator.py",
+  "files_read": [
+    "CLAUDE.md",
+    "scouting/needs-graph.md"
+  ],
+  "token_input": 1000,
+  "token_output": 500,
+  "actions": [],
+  "outcome": "success",
+  "notes": "[MOCK] Agent response for: # The Scout\n\n> \"The beginning of wisdom is the def...",
+  "error": null
+}

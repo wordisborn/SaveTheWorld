@@ -1,0 +1,54 @@
+name: Scout Observation
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Scout Observation
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+        run: |
+          claude --print "You are Scout-01 of the SaveTheWorld collective.
+
+          Read your identity from agents/scout.md and the constitution from CLAUDE.md.
+          Read the current scouting/needs-graph.md.
+
+          Your task: Observe humanity's needs. Search the web for current events,
+          struggles, and emerging problems that software could help address.
+
+          Update scouting/needs-graph.md with any new observations or updates to
+          existing needs. Follow the format established in the file.
+
+          Be thorough but focused. Quality over quantity."
+
+      - name: Create PR if changes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "Scout observation: $(date -u +%Y-%m-%d)"
+          branch: scout/observation-${{ github.run_id }}
+          delete-branch: true
+          title: "Scout Observation"
+          body: |
+            Automated observation by Scout-01.
+
+            Please review changes to `scouting/needs-graph.md`.
+          labels: scout
