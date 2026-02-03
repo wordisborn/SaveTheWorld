@@ -1,0 +1,12 @@
+{
+  "runs": [
+    {
+      "run_id": "23d59bfe-333f-4d01-b57d-efc5fb60c7a2",
+      "agent": "scout",
+      "timestamp": "2026-02-03T13:52:02.776644+00:00",
+      "input_tokens": 1000,
+      "output_tokens": 500
+    }
+  ],
+  "monthly_budget_tokens": 0
+}
