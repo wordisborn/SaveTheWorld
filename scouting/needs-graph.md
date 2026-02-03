@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 13 | Initial signals detected, gathering evidence |
+| Observing | 17 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -340,12 +340,12 @@ This is not a technology problem. This is a respect, resources, and recognition 
 **ID**: NEED-008
 **Status**: observing
 **First Observed**: 2026-01-31
-**Last Updated**: 2026-01-31
-**Signal Strength**: strong
+**Last Updated**: 2026-02-03
+**Signal Strength**: urgent
 **Scout**: Scout-01
 
 ### The Need
-America faces a caregiving crisis as the population ages. By 2030, one in five Americans will be over 65; by 2034, seniors will outnumber children for the first time. Seven out of ten Americans over 65 will need long-term care. Yet there are 53 million unpaid family caregivers providing over $870 billion in free care annually. These caregivers — often the "sandwich generation" caring for both children and aging parents — face devastating burnout: 40% report high stress, 20% feel alone, one in seven caring for dementia patients experiences clinically significant burnout, and half report depression symptoms. There is no comprehensive caregiving policy, no Medicare coverage for long-term care, and not enough trained, affordable professional caregivers. Demand for home health care will grow 46% by 2030, requiring over 1 million new care jobs.
+America faces a caregiving crisis as the population ages. By 2030, one in five Americans will be over 65; by 2034, seniors will outnumber children for the first time. Seven out of ten Americans over 65 will need long-term care. Yet there are 53 million unpaid family caregivers providing over $870 billion in free care annually. These caregivers — often the "sandwich generation" caring for both children and aging parents — face devastating burnout: 40% report high stress, 20% feel alone, one in seven caring for dementia patients experiences clinically significant burnout, and half report depression symptoms. The crisis is compounded by collapsing nursing home capacity: national nursing home operating capacity fell 5% between 2019-2024 (nearly 4,000 fewer beds daily), with one quarter of U.S. counties experiencing declines of 15%+ and rural areas hit hardest. Eighty-seven percent of nursing homes face moderate-to-high staffing shortages; 61% limit new admissions due to workforce issues. The nation may need 3,000 new nursing facilities just to keep pace with aging population. There is no comprehensive caregiving policy, no Medicare coverage for long-term care, and not enough trained, affordable professional caregivers. Demand for home health care will grow 46% by 2030, requiring over 1 million new care jobs.
 
 ### Evidence
 - [The Hill - Caregiving Crisis Looms](https://thehill.com/policy/healthcare/5712906-aging-america-caregiving-crisis/): 60 million households already affected, no comprehensive policy exists
@@ -353,6 +353,9 @@ America faces a caregiving crisis as the population ages. By 2030, one in five A
 - [Johns Hopkins - What Is the Caregiver Crisis](https://publichealth.jhu.edu/2025/what-is-the-caregiver-crisis): Decline in birth rate reshaping elder care possibilities
 - [NPR - Declining Population and Elder Care](https://www.npr.org/2025/11/02/nx-s1-5535648/population-elderly-caregivers): Fewer family members to share caregiving burden
 - [PMC - Reddit Caregiver Stressors Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12449668/): Analysis of r/AgingParents (49,000 members) — role conflict and resource scarcity top stressors
+- [SeniorLiving.org - 2026 Nursing Home Demand](https://www.seniorliving.org/nursing-homes/nursing-home-demand-projections/): 68M baby boomers age 62-80 now; 3,000+ new facilities needed
+- [URMC - Nursing Home Capacity Decline](https://www.urmc.rochester.edu/news/story/decline-in-u-s-nursing-home-capacity-since-covid-19-rural-areas-hit-hardest): 5% capacity decline 2019-2024; rural areas hit hardest
+- [AHCA/NCAL - Access to Nursing Home Care Crisis](https://www.ahcancal.org/News-and-Communications/Press-Releases/Pages/New-Report-Finds-Access-To-Nursing-Home-Care-A-Growing-Crisis-.aspx): 87% face staffing shortages, 61% limit admissions
 
 ### Connections
 - Related to: NEED-003 (loneliness — caregivers isolated), NEED-004 (healthcare access), NEED-007 (burnout pattern)
@@ -368,12 +371,18 @@ Quote from assisted living observation: "They were bringing [residents] in one a
 
 The "sandwich generation" faces exponential burnout — caring for children AND aging parents simultaneously.
 
+The nursing home capacity crisis creates a vicious cycle: as capacity declines, more care falls on family caregivers, who burn out. Rural areas face the worst crisis — one quarter of counties saw 15%+ capacity declines, with rural counties most likely to lose 25%+. This means rural families face both fewer professional options AND often greater geographic distance from extended family support.
+
+The demographic math is unforgiving: 68 million baby boomers now age 62-80. The oldest will be 85 within five years. The population aged 85+ will nearly triple from 6.7M (2020) to 11.8M (2035) to 18.5M (2050). Meanwhile, birth rates decline, meaning fewer adult children to share caregiving.
+
 Potential interventions:
 1. Respite care coordination and access
-2. Caregiver peer support networks
+2. Caregiver peer support networks (building on r/AgingParents model)
 3. Training and skill-building for family caregivers
 4. Navigation assistance through complex care systems
 5. Policy advocacy tools
+6. Nursing home and care worker matching platforms
+7. Remote monitoring and check-in systems reducing caregiver burden
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -613,6 +622,208 @@ Potential intervention: Tools and frameworks that help organizations assess AI r
 
 ---
 
+## Need: Youth Mental Health Crisis
+
+**ID**: NEED-014
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Young people face a mental health crisis of unprecedented scale. Nearly one in three youth ages 12-17 (31%) have a mental, emotional, developmental, or behavioral problem. Two in five high schoolers (40%) report persistent feelings of sadness or hopelessness, with rates especially high for girls (53%) and LGBTQ+ youth (65%). Nearly one in five youth ages 12-17 (18%) have had at least one major depressive episode in the past year. The treatment gap is devastating: 60% of adolescents with major depression receive no care at all. This is not better awareness or diagnosis — evidence confirms a genuine public health crisis emerging over the past two decades. Youth face unprecedented pressures from family dynamics, educational stress (83% cite school pressure as top stressor), climate anxiety, social media effects, and socioeconomic challenges. As 2026 begins, the crisis demands ongoing investment, innovation, and empathy.
+
+### Evidence
+- [PMC - Youth Mental Health Crisis Analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11790661/): Evidence confirms genuine public health crisis beyond awareness
+- [NPR - CDC Youth Risk Behavior Survey 2023](https://www.npr.org/sections/shots-health-news/2024/08/07/nx-s1-5064406/cdc-youth-risk-behavior-survey-suicide-mental-health-drugs-alcohol): 40% persistent sadness, 53% among girls, 65% among LGBTQ+ youth
+- [Huntington Psychological - 2026 Statistical Report](https://huntingtonpsych.com/blog/teen-mental-health-statistics): Teens are loneliest people in the world
+- [Annie E. Casey Foundation - Youth Mental Health Statistics](https://www.aecf.org/blog/youth-mental-health-statistics): 31% of youth ages 12-17 have mental/emotional/behavioral problems
+- [HUPC - Teen Mental Health 2026](https://hupcfl.com/teen-mental-health-2026-why-it-needs-more-attention/): 60% of adolescents with major depression receive no care
+
+### Connections
+- Related to: NEED-003 (loneliness epidemic — youth most affected), NEED-007 (teacher burnout — school environment factor), NEED-012 (government trust collapse — youth disillusionment)
+- Potentially addresses: Suicide prevention, school outcomes, workforce readiness, long-term societal health
+- Blocked by: Treatment capacity shortage, stigma, fragmented systems, insurance gaps
+
+### Research Notes
+This is the most urgent signal encountered today. The scale is staggering: 60% treatment gap means millions of suffering youth receiving no help. Contributing factors are systemic and interconnected — school pressure, social media, climate anxiety, economic insecurity, and loneliness compound each other.
+
+Key insight: 83% of teenagers cite school and pressure to get good grades as their top stressor. This suggests interventions at the school level could reach most affected youth.
+
+Areas for intervention:
+1. Expanding telehealth mental health access for youth
+2. Training more youth mental health practitioners
+3. Integrating mental health education in schools
+4. Peer support and connection platforms that build genuine relationships
+5. Reducing academic pressure and competitive stress in educational systems
+
+This connects to NEED-003 (loneliness) and NEED-007 (teacher burnout) — the school environment is failing both students and teachers simultaneously.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Affordable Housing and Homelessness Crisis
+
+**ID**: NEED-015
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+America faces the worst homelessness crisis on record. In 2024, more than 770,000 people experienced homelessness — the highest number ever recorded, representing an 18% increase from 653,104 in 2023. The primary cause is clear: lack of deeply affordable housing. Only 35 affordable and available rental homes exist for every 100 extremely low-income renter households. From 2001-2023, median rents increased 23% (after adjusting for inflation) while renters' median incomes rose just 5%. In California, nearly one-third of renters spend over 50% of their income on rent and utilities. The 2026 federal budget proposes cutting 44% of HUD's affordable housing funding, which will cut assistance to housing-insecure households and deny help to many more. The crisis is worsening precisely when federal support is collapsing. State and local governments are scrambling to fill the gap, but the scale exceeds their capacity.
+
+### Evidence
+- [National Alliance to End Homelessness - State of Homelessness 2025](https://endhomelessness.org/state-of-homelessness/): 770,000+ people homeless in 2024, highest ever recorded, 18% increase
+- [National Alliance to End Homelessness - FY2026 Budget Analysis](https://endhomelessness.org/resources/policy-information/the-presidents-fy2026-budget-proposal-potential-impacts-on-efforts-to-prevent-and-end-homelessness/): President proposes 44% cut to HUD affordable housing programs
+- [National Alliance to End Homelessness - Causes](https://endhomelessness.org/a-shortage-of-affordable-housing/): Only 35 affordable homes per 100 extremely low-income households
+- [Harvard JCHS - Housing Affordability Crisis](https://www.jchs.harvard.edu/press-releases/new-report-highlights-unease-housing-market-amid-worsening-affordability-crisis): Median rents up 23%, incomes up 5% (2001-2023)
+- [Spotlight Delaware - Homelessness and Housing](https://spotlightdelaware.org/2026/01/02/as-homeless-crisis-worsens-affordable-housing-in-de-becomes-hard-to-find/): Worsening crisis despite awareness
+
+### Connections
+- Related to: NEED-008 (caregiver crisis — housing instability affects care), NEED-007 (teacher housing needs), NEED-012 (trust collapse — government failure to provide basic needs), NEED-017 (student debt prevents housing)
+- Potentially addresses: Family stability, workforce participation, health outcomes, child development
+- Blocked by: Federal funding cuts, zoning restrictions, construction costs, political will
+
+### Research Notes
+The numbers are stark and worsening. An 18% year-over-year increase in homelessness while federal support is being cut by 44% suggests a humanitarian catastrophe in the making.
+
+Housing is the foundation for everything else — health, education, employment, family stability. When housing fails, cascading crises follow. This connects to multiple other needs: caregivers cannot care for elders without stable housing, teachers leave professions they cannot afford, students delay life milestones due to housing costs.
+
+The 35-to-100 ratio (35 affordable homes for every 100 extremely low-income households) means the shortage is structural, not cyclical. The market alone cannot solve this.
+
+Potential software interventions:
+1. Matching systems connecting housing-insecure individuals with available affordable units
+2. Navigation tools through complex housing assistance programs
+3. Coordination platforms for homeless services reducing duplication
+4. Advocacy and organizing tools to fight for policy change
+5. Transparency platforms tracking housing development and funding
+
+This is fundamentally a policy and investment problem, but technology could reduce friction in existing systems and mobilize political will.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Online Content Moderation and AI-Generated Content Crisis
+
+**ID**: NEED-016
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Online platforms face an existential content moderation crisis driven by AI-generated synthetic content. By 2026, up to 90% of online content may be synthetically generated. Cornell researchers found AI-generated content threatens communities on three levels: degrading content quality (60% of moderators cite this), disrupting social dynamics and authentic human connection (67%), and creating nearly impossible governance challenges (53%). Reddit moderators — unpaid volunteers managing 110 million users — report being burnt out, overwhelmed by AI spam, and equipped with outdated tools. Only 1.2% of communities have policies addressing AI content. AI detection accuracy ranges from 0-100%, making it unreliable. Meanwhile, regulatory pressure is intensifying globally, creating compliance obligations. The content moderation services market grew from $12.48 billion (2025) to a projected $13.94 billion (2026), reflecting the urgency. Platforms face an impossible tension: upscaling AI for efficiency while protecting public safety, knowing that removing humans from the loop puts safety at risk.
+
+### Evidence
+- [Medium - AI Moderation Crisis on Reddit](https://medium.com/@truthbit.ai/the-ai-moderation-crisis-reddits-110-million-users-don-t-see-2a92a8080372): 60% cite quality degradation, 67% disrupted social dynamics, 53% governance breakdown; 90% of content may be AI-generated by 2026
+- [GetStream - Content Moderation Trends 2026](https://getstream.io/blog/content-moderation-trends/): Content at critical juncture; user-generated content explosion, regulation increasing
+- [TrustLab - Redefining Content Moderation](https://www.trustlab.com/post/redefining-content-moderation-in-the-era-of-synthetic-content): Era of synthetic content requires redefinition
+- [Research Nester - Market Forecast](https://www.researchnester.com/reports/content-moderation-services-market/7630): Market size $12.48B (2025) to $13.94B (2026) to $42.36B (2035)
+- [Imagga - Future of Content Moderation](https://imagga.com/blog/the-future-of-content-moderation-trends-for-2026-and-beyond/): Tension between AI efficiency and human judgment
+
+### Connections
+- Related to: NEED-001 (OSS maintainer burnout — volunteer moderation similar), NEED-002 (AI tool paradox), NEED-014 (youth mental health — toxic content exposure)
+- Potentially addresses: Platform safety, authentic human connection, community health, regulatory compliance
+- Blocked by: Scale of content volume, inadequate detection tools, volunteer moderator burnout, cost of human moderation
+
+### Research Notes
+This crisis reflects a fundamental question: Can authentic human community exist at internet scale? The 90% synthetic content projection is staggering. If true, the internet becomes primarily machine-generated, with human voices drowned in noise.
+
+Reddit is a microcosm: 110 million users, volunteer moderators, outdated tools, and AI spam overwhelming the system. Moderators burn out. Tension from the 2023 API controversy never healed. Communities are managed more poorly now than years ago.
+
+Key insight: Only 1.2% of communities have AI content policies. This suggests a massive policy and governance gap where communities don't even know how to address the problem.
+
+The tension between automated efficiency and human safety judgment is irreconcilable at current technology levels. Removing humans creates safety risks; keeping humans creates burnout and cost problems.
+
+Potential interventions:
+1. Better detection tools for AI-generated content (though arms race dynamics apply)
+2. Moderator support and coordination tools reducing burnout
+3. Community governance frameworks and policy templates for AI content
+4. Transparency systems showing users what content is AI-generated
+5. Incentive redesign — moving from engagement maximization to connection quality
+
+This problem connects to NEED-001 (volunteer maintainer burnout) and NEED-014 (youth mental health affected by toxic online environments).
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Student Loan Default Cliff
+
+**ID**: NEED-017
+**Status**: observing
+**First Observed**: 2026-02-03
+**Last Updated**: 2026-02-03
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+America stands at "the precipice of a default cliff" as roughly one-quarter of all federal student loan borrowers face defaulted loans. If current delinquency trends hold, as many as 13 million borrowers may default by the end of 2026. The crisis affects 42.5 million Americans owing $1.797 trillion in federal and private student loan debt combined. As of May 2025, only 38% of federal loan borrowers were current on payments. More than 5 million have not made a payment in over a year; 4 million are in late-stage delinquency. The average federal student loan debt balance is $39,547; total average (including private loans) reaches $43,333. The economic impact mirrors a recession: each 1 percentage point increase in student debt-to-income ratio reduces consumer spending by 3.7 percentage points. Borrowers delay life milestones: 51% of renters have not bought homes due to debt, 31% delayed car purchases, 22% postponed starting businesses. The U.S. Department of Education is ending the SAVE repayment plan and cutting access to billions in federal loans in 2026, potentially worsening the crisis.
+
+### Evidence
+- [EducationData.org - Student Loan Debt Statistics 2026](https://educationdata.org/student-loan-debt-statistics): 42.5M Americans owe $1.797T; average federal debt $39,547
+- [EducationData.org - Economic Impact](https://educationdata.org/student-loan-debt-economic-impact): 1% debt-to-income increase = 3.7% consumption decline; effect mirrors recession
+- [Debt Collection Lab - Default Cliff](https://debtcollectionlab.org/research/falling-off-student-loan-default-cliff/): "Precipice of default cliff"; 13M may default by end of 2026; only 38% current on payments (May 2025)
+- [Research.com - Student Loan Statistics 2026](https://research.com/education/student-loan-statistics): 5M+ have not paid in over a year, 4M in late-stage delinquency
+- [Detroit News - Student Loans Changing in 2026](https://www.detroitnews.com/story/business/2026/01/02/how-student-loans-and-financial-aid-are-changing-in-2026/87993182007/): Federal government curbing loan access, ending SAVE plan
+
+### Connections
+- Related to: NEED-015 (affordable housing — debt prevents homeownership), NEED-014 (youth mental health — financial stress), NEED-012 (trust collapse — government policy failures)
+- Potentially addresses: Economic mobility, consumer spending, business formation, family formation, mental health
+- Blocked by: Policy decisions, existing debt scale, wage stagnation, education costs
+
+### Research Notes
+The "default cliff" metaphor is apt — 13 million borrowers potentially falling into default by year-end represents a systemic shock. Default destroys credit, wages can be garnished, tax refunds seized, and financial futures derailed.
+
+The economic ripple effects are severe: reduced consumer spending (3.7% per 1% debt-to-income increase), delayed homeownership (51% of renters), delayed entrepreneurship (22%), delayed family formation. This creates a generational economic drag.
+
+Quote from Persis Yu: "America is at the precipice of a default cliff." This is not hyperbole when only 38% of borrowers are current on payments.
+
+The 2026 policy changes — ending SAVE, cutting loan access — may be intended to reduce future debt but will create hardship for current borrowers and prospective students.
+
+This is fundamentally a policy problem requiring legislative and regulatory solutions. However, software interventions could help:
+1. Default prevention tools helping borrowers navigate repayment options
+2. Financial literacy and planning platforms
+3. Income-driven repayment calculators and enrollment assistance
+4. Advocacy tools organizing borrowers for policy change
+5. Transparency platforms tracking servicer performance and borrower outcomes
+
+The connection to NEED-015 (housing crisis) is direct: student debt is a primary barrier to homeownership, creating housing insecurity cascading effects.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -626,13 +837,15 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | Cluster | Needs | Theme |
 |---------|-------|-------|
 | Developer Ecosystem Crisis | NEED-001, NEED-002 | Tools meant to help are burning out the people who build and maintain software |
-| Human Connection Deficit | NEED-003, NEED-004 | Technology disconnecting rather than connecting people who need support |
+| Human Connection Deficit | NEED-003, NEED-004, NEED-016 | Technology disconnecting rather than connecting people who need support; AI-generated content drowning authentic human voices |
 | Technology Overwhelm | NEED-002, NEED-005, NEED-010, NEED-013 | Too many tools, not enough value — cognitive burden exceeding benefit; AI and shadow IT creating chaos |
 | **Caregiver Burnout Epidemic** | NEED-007, NEED-008 | Those who care for others — teachers for children, families for elders — are burning out with inadequate support |
 | **Climate Injustice** | NEED-006, NEED-009 | Those who caused climate change least suffer its consequences most — farmers and displaced communities |
-| **Essential Worker Crisis** | NEED-001, NEED-007, NEED-008 | Society's essential workers (maintainers, teachers, caregivers) are undervalued and overwhelmed |
+| **Essential Worker Crisis** | NEED-001, NEED-007, NEED-008, NEED-016 | Society's essential workers (maintainers, teachers, caregivers, volunteer moderators) are undervalued and overwhelmed |
 | **Resource Allocation Crisis** | NEED-011 | Massive humanitarian need meeting collapsing funding and broken allocation systems |
 | **Trust and Governance Breakdown** | NEED-012 | Citizens losing faith in institutions while trusting local relationships — democracy at inflection point |
+| **Youth Crisis Constellation** | NEED-014, NEED-003, NEED-017 | Young people facing unprecedented mental health crisis, loneliness, and financial burden simultaneously |
+| **Housing and Economic Instability** | NEED-015, NEED-017 | Affordable housing crisis and student debt creating cascading economic and social instability |
 
 ---
 
@@ -652,6 +865,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-03 | Scout-01 | Added NEED-012 | Government Trust Collapse and Civic Disengagement - strong signal |
 | 2026-02-03 | Scout-01 | Added NEED-013 | Enterprise AI Implementation Gap - strong signal |
 | 2026-02-03 | Scout-01 | Updated Clusters | Expanded to eight thematic clusters; Technology Overwhelm cluster now includes shadow IT and AI gaps |
+| 2026-02-03 | Scout-01 | Added NEED-014 | Youth Mental Health Crisis - URGENT signal; 60% treatment gap, 40% persistent sadness in high schoolers |
+| 2026-02-03 | Scout-01 | Added NEED-015 | Affordable Housing and Homelessness Crisis - URGENT signal; 770K+ homeless (record high), federal funding cut 44% |
+| 2026-02-03 | Scout-01 | Added NEED-016 | Online Content Moderation and AI-Generated Content Crisis - strong signal; 90% of content may be AI by 2026 |
+| 2026-02-03 | Scout-01 | Added NEED-017 | Student Loan Default Cliff - URGENT signal; 13M borrowers may default by end of 2026 |
+| 2026-02-03 | Scout-01 | Updated Clusters | Expanded to ten thematic clusters; added Youth Crisis Constellation and Housing/Economic Instability clusters |
 
 ---
 
