@@ -1,0 +1,66 @@
+# SaveTheWorld Token Budget Configuration
+#
+# All limits are expressed as percentages of the monthly token budget.
+# The system will query the Anthropic API for your plan's limits at runtime.
+
+budget:
+  # What percentage of your monthly token allowance this system may use
+  monthly_allocation_percent: 25
+
+  # Alert thresholds (percentage of monthly_allocation)
+  alert_at_percent: [50, 75, 90]
+
+  # Automatic pause threshold
+  pause_at_percent: 95
+
+limits:
+  # Per-run token limits (percentage of monthly allocation)
+  per_run_max_percent: 2
+
+  # Daily usage cap (percentage of monthly allocation)
+  daily_max_percent: 5
+
+  # Weekly usage cap (percentage of monthly allocation)
+  weekly_max_percent: 30
+
+rate_limits:
+  # Maximum agent runs per time window
+  scout_observations_per_day: 6
+  council_deliberations_per_day: 3
+  git_commits_per_day: 50
+  claude_api_calls_per_hour: 100
+
+agent_allocations:
+  # How to distribute the monthly allocation among agents
+  # Must sum to 100
+  scout_observation: 15
+  scout_research: 10
+  council_deliberation: 20
+  architect_design: 10
+  foreman_planning: 5
+  artisan_building: 25
+  hand_communication: 5
+  buffer: 10
+
+notifications:
+  # Where to send notifications
+  channel: github_issues
+
+  # What triggers immediate notification
+  urgent:
+    - ethical_boundary_triggered
+    - budget_threshold_exceeded
+    - consensus_blocked
+    - security_concern
+
+  # What goes in daily digest
+  standard:
+    - scout_observations
+    - council_decisions
+    - build_completions
+
+  # What goes in weekly summary
+  informational:
+    - needs_graph_evolution
+    - cost_tracking_report
+    - system_health_metrics

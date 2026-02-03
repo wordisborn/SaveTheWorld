@@ -1,0 +1,110 @@
+# SaveTheWorld Agent Configuration
+
+agents:
+  scout:
+    identity_file: agents/scout.md
+    schedule: "0 */6 * * *"  # Every 6 hours
+    max_tokens_per_run: 15000
+    tools_allowed:
+      - web_search
+      - file_read
+      - file_write
+      - git_commit
+    tools_forbidden:
+      - external_api
+      - send_email
+      - create_external_issue
+
+  council:
+    identity_files:
+      - agents/council/dinah.md
+      - agents/council/ivy.md
+      - agents/council/tekla.md
+      - agents/council/moira.md
+      - agents/council/aida.md
+      - agents/council/camila.md
+      - agents/council/julia.md
+    trigger: proposal_ready
+    max_tokens_per_run: 80000
+    requires_consensus: true
+    tools_allowed:
+      - file_read
+      - file_write
+      - git_commit
+    tools_forbidden:
+      - web_search
+      - external_api
+      - send_email
+
+  architect:
+    identity_file: agents/architect.md
+    trigger: scroll_created
+    max_tokens_per_run: 50000
+    tools_allowed:
+      - file_read
+      - file_write
+      - git_commit
+    tools_forbidden:
+      - web_search
+      - external_api
+
+  foreman:
+    identity_file: agents/foreman.md
+    trigger: architecture_complete
+    max_tokens_per_run: 35000
+    tools_allowed:
+      - file_read
+      - file_write
+      - git_commit
+    tools_forbidden:
+      - web_search
+      - external_api
+
+  artisan:
+    identity_file: agents/artisan.md
+    trigger: roadmap_complete
+    max_tokens_per_run: 70000
+    tools_allowed:
+      - file_read
+      - file_write
+      - git_commit
+      - run_tests
+      - create_pr
+    tools_forbidden:
+      - external_api
+      - send_email
+      - publish_package
+
+  hand:
+    identity_file: agents/the-hand.md
+    trigger: human_request
+    max_tokens_per_run: 15000
+    tools_allowed:
+      - file_read
+      - file_write
+      - git_commit
+      - create_issue
+    tools_forbidden:
+      - external_api
+      - send_email
+
+# Ethical boundaries applied to all agents
+global_constraints:
+  forbidden_domains:
+    - weapons
+    - violence
+    - harassment
+    - illegal_activity
+    - manipulation
+    - deception
+    - surveillance
+    - pii_collection
+
+  requires_human_approval:
+    - external_api_call
+    - send_email
+    - create_external_issue
+    - publish_package
+    - financial_transaction
+    - modify_ci_cd
+    - access_external_database

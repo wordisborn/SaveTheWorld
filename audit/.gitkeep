@@ -1,0 +1,3 @@
+# Audit logs directory
+# JSON audit files will be stored here organized by date:
+# audit/YYYY/MM/DD/run-id.json
