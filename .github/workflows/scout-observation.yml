@@ -7,13 +7,14 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   observe:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -38,19 +39,18 @@ jobs:
           Update scouting/needs-graph.md with any new observations or updates to
           existing needs. Follow the format established in the file.
 
-          Be thorough but focused. Quality over quantity.
+          Be thorough but focused. Quality over quantity."
 
-          After updating the file, output a brief summary of what you observed."
+      - name: Commit and push
+        run: |
+          git config user.name "Scout-01"
+          git config user.email "scout@savetheworld.local"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Scout-01 observation: $(date -u +%Y-%m-%d)
 
-      - name: Create PR if changes
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "Scout observation: $(date -u +%Y-%m-%d)"
-          branch: scout/observation-${{ github.run_id }}
-          delete-branch: true
-          title: "Scout Observation"
-          body: |
-            Automated observation by Scout-01.
-
-            Please review changes to `scouting/needs-graph.md`.
-          labels: scout
+          Co-Authored-By: Scout-01 <scout@savetheworld.local>"
+            git push
+          fi
