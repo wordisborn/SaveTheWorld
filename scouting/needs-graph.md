@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 17 | Initial signals detected, gathering evidence |
+| Observing | 20 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -54,6 +54,8 @@ The crisis is structural, not individual. Money alone doesn't solve it — Exter
 3. No time off — projects must be maintained continuously
 4. Compliance burden increasing (EU Cyber Resilience Act)
 
+**2026-02-05 Update**: The pattern of volunteer burnout observed here mirrors NEED-016 (content moderators), NEED-007 (teachers), and NEED-008 (family caregivers) — society's essential work increasingly falls on unpaid or underpaid labor with inadequate support systems.
+
 Potential intervention points: automated triage tools, maintainer wellbeing support, contribution routing systems.
 
 ### Council Readiness
@@ -96,6 +98,8 @@ Key insight: The promise of AI tools is "do more with less," but the reality is 
 - Pressure to ship faster because "AI should make you faster"
 - Loss of deep coding skills from over-reliance on suggestions
 - 48% of developers prefer to "stay hands-on" rather than trust AI on core tasks
+
+**2026-02-05 Update**: New workplace data shows 77% of employees report AI has *added* to their workloads rather than relieving responsibilities. 84% of employees faced at least one mental health challenge in the past year, with 57% experiencing moderate to high burnout. Employee engagement dropped from 88% (2025) to 64% (2026) — a 24-point collapse in one year. This confirms the AI productivity paradox is worsening, not improving.
 
 The problem may be more about implementation culture than the tools themselves.
 
@@ -224,6 +228,8 @@ Small business owners face "tech fatigue" — mental exhaustion, confusion, and 
 ### Research Notes
 Quote from operations expert Cameo Roberson: "There are so many tech options, and the fatigue comes from not knowing what [tools] to use or using too many. Technology is supposed to help, but it's overwhelming."
 
+**2026-02-05 Update**: Small business challenges in 2026 include workforce shortages (labor is often biggest expense), tariff pressures (8-10x higher than start of 2025), elevated interest rates limiting borrowing, and economic uncertainty. Labor remains the top challenge — "without adequate staffing, stable economic conditions aren't possible." Small businesses are building cash reserves (47%), renegotiating supplier terms (36%), and ramping up marketing/technology investments to weather pressures. Despite challenges, Q3 2025 Small Business Index hit record 72.0 confidence level.
+
 Recommended approach for SMBs:
 1. Audit current technology, identify redundant tools
 2. Eliminate tools that don't add clear value
@@ -313,6 +319,8 @@ Teachers — the people entrusted with educating the next generation — are bur
 
 ### Research Notes
 The crisis affects children directly. When teachers burn out, students lose continuity, expertise, and mentorship. High-poverty schools suffer most — 57% understaffed. Special education faces the worst shortages (45 states reporting).
+
+**2026-02-05 Update**: As of 2025, 411,549 teaching roles were either unfilled or filled by uncertified teachers — an increase of 4,600 since 2024. Teachers report lacking sufficient time to improve practice; burnout impacts instructional quality, student relationships, and retention. They regulate "very dysregulated children while being dysregulated themselves." More than half of high school students use phones during class; 80% of teachers compete with phones and social media for attention. Students who were K-3 during pandemic are now in middle school — only 30% of eighth graders reading proficiently with no state showing gains since 2022. The pandemic's educational impact persists.
 
 What teachers ask for (ranked):
 1. Better pay
@@ -649,6 +657,8 @@ Young people face a mental health crisis of unprecedented scale. Nearly one in t
 ### Research Notes
 This is the most urgent signal encountered today. The scale is staggering: 60% treatment gap means millions of suffering youth receiving no help. Contributing factors are systemic and interconnected — school pressure, social media, climate anxiety, economic insecurity, and loneliness compound each other.
 
+**2026-02-05 Update**: Broader workplace and population mental health data for 2026 shows the crisis extends beyond youth. 73% of college students with mental health conditions have experienced campus mental health crises. Serious mental illness in young adults quadrupled from 3% to 12% in just over a decade. More than 1 in 3 Americans (38%) plan mental health-related New Year's resolutions for 2026, up 5% from prior year, with ages 18-34 most likely (58%). Top anxieties: personal finances (59%), uncertainty about next year (53%), current events (49%). Telehealth mental health utilization among private insurers grew over 10% in May, signaling sustained preference for remote services. Over 1 billion people globally live with mental health conditions requiring urgent service scale-up.
+
 Key insight: 83% of teenagers cite school and pressure to get good grades as their top stressor. This suggests interventions at the school level could reach most affected youth.
 
 Areas for intervention:
@@ -824,6 +834,161 @@ The connection to NEED-015 (housing crisis) is direct: student debt is a primary
 
 ---
 
+## Need: Global Food Insecurity and Hunger Crisis
+
+**ID**: NEED-018
+**Status**: observing
+**First Observed**: 2026-02-05
+**Last Updated**: 2026-02-05
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+A staggering 318 million people face crisis levels of hunger or worse in 2026 — more than double the figure recorded in 2019. This includes 41 million people at Emergency levels (IPC Phase 4+) and two confirmed famines in Gaza and Sudan — the first famines this century. Despite the world producing enough food to feed all 8.2 billion people, 673 million experienced hunger for part or all of 2024. Armed violence fueled 20 food crises affecting nearly 140 million people. The World Food Programme faces severe funding constraints, forcing prioritization of only one-third of those in need. WFP aims to reach 110 million of the most vulnerable at an estimated cost of $13 billion but current forecasts indicate they may receive only half that amount. This represents a 20% increase in acute food insecurity since 2020.
+
+### Evidence
+- [World Food Programme - 2026 Global Outlook](https://www.wfp.org/publications/wfp-global-outlook): 318M people facing acute hunger, 20% increase since 2020
+- [WFP Priority Feeding Plan](https://www.wfp.org/news/wfp-prioritize-feeding-110-million-hungriest-2026-global-hunger-deepens-amidst-uncertain): Forced to prioritize 110M of 318M; funding only ~50% of needed $13B
+- [Concern Worldwide - World Hunger Facts](https://concernusa.org/news/world-hunger-facts/): 673M people went hungry in 2024 despite sufficient global food production
+- [FAO-WFP Hunger Hotspots](https://www.wfp.org/publications/hunger-hotspots-fao-wfp-early-warnings-acute-food-insecurity): November 2025-2026 outlook showing crisis escalation
+- [World Hunger News - UN Updates](https://www.worldhunger.org/u-n-hunger-updates-nov-dec-2025/): Armed violence driving 20 food crises affecting 140M people
+
+### Connections
+- Related to: NEED-011 (humanitarian aid efficiency — same funding crisis), NEED-009 (climate displacement), NEED-006 (smallholder farmers — food production affected)
+- Potentially addresses: Famine prevention, food distribution systems, agricultural resilience
+- Blocked by: Funding collapse, armed conflict, supply chain disruption, climate impacts
+
+### Research Notes
+The scale doubled since 2019, suggesting systemic acceleration. Two confirmed famines in 2026 (Gaza, Sudan) mark historic failure. The funding gap is devastating: WFP can only help 110M of 318M people in crisis — leaving 208M without assistance.
+
+Key insight: The world produces enough food. This is a distribution, access, conflict, and funding problem, not a production problem (though climate is affecting production in vulnerable regions).
+
+The connection to NEED-011 (humanitarian aid efficiency) is direct — the same resource allocation failures apply. Armed violence as primary driver suggests conflict resolution is prerequisite to food security in many regions.
+
+Potential interventions:
+1. Food distribution optimization and logistics platforms
+2. Early warning systems for famine risk
+3. Local food system strengthening and resilience
+4. Resource allocation tools for aid organizations
+5. Conflict-affected area agricultural support systems
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Cybersecurity Crisis and Data Breach Epidemic
+
+**ID**: NEED-019
+**Status**: observing
+**First Observed**: 2026-02-05
+**Last Updated**: 2026-02-05
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Organizations face an accelerating cybersecurity crisis as data breaches become routine and threats evolve faster than defenses. In January 2026 alone, major breaches exposed millions: Instagram (17.5M accounts), Under Armour (72M email addresses), Brightspeed (1M+ customers), and a single exposed database containing 149 million credentials (96GB). At least 29% of all data breaches involve third-party attacks. Social engineering exploits human psychology rather than technical vulnerabilities. AI-driven threats are proliferating, with 53% of leaders stating they're unprepared for AI-related cybersecurity risks. Cybercrime could cost businesses $15.6 trillion by 2029. Ransomware gangs post new victims daily to leak sites. The cybersecurity paradigm is shifting from "achieving secure systems" to "prioritizing defensible, resilient, and recoverable systems" — acknowledging that breaches are inevitable.
+
+### Evidence
+- [Security Magazine - January 2026 Breaches](https://www.securitymagazine.com/articles/102110-7-data-breaches-exposures-to-know-about-january-2026): Instagram 17.5M, Under Armour 72M emails, others
+- [Breach Report 2026](https://purplesec.us/breach-report/): Daily tracking of ransomware gang leak site posts
+- [Bright Defense - Recent Data Breaches](https://www.brightdefense.com/resources/recent-data-breaches/): Comprehensive tracking of 2026 incidents
+- [Viking Cloud Cybersecurity Statistics](https://www.vikingcloud.com/blog/cybersecurity-statistics): $15.6T projected cost by 2029; 29% breaches involve third parties; 53% unprepared for AI risks
+- [Dark Reading - 2026 Cybersecurity Predictions](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats): Shift to resilience/recovery model
+
+### Connections
+- Related to: NEED-010 (shadow IT security crisis — unauthorized tools expanding attack surface), NEED-013 (enterprise AI gaps — AI creating new vulnerabilities), NEED-016 (content moderation — similar AI-powered threats)
+- Potentially addresses: Organizational resilience, data protection, trust in digital systems
+- Blocked by: Speed of threat evolution, human factors, third-party dependencies, resource constraints
+
+### Research Notes
+The paradigm shift from "secure systems" to "defensible, resilient, recoverable systems" is significant — it represents acceptance that prevention alone is insufficient. Organizations must assume breaches will occur and focus on minimizing damage and recovering quickly.
+
+The 29% third-party breach rate is particularly troubling — organizations cannot fully control their security posture when dependent on vendors. This connects directly to NEED-010 (shadow IT) where unauthorized tools create blind spots.
+
+AI's dual role: Both enabling new attacks (AI-driven threats) and potentially helping defense. But 53% of leaders feel unprepared, suggesting defense is lagging offense.
+
+Social engineering remains effective because it targets humans, not systems. Technical solutions alone cannot address human psychology.
+
+January 2026 breaches show the routine nature of large-scale exposures. 149 million credentials in a single exposed database suggests catastrophic security lapses are common, not exceptional.
+
+Potential interventions:
+1. Breach detection and response automation
+2. Third-party risk management platforms
+3. Security awareness training that actually changes behavior
+4. Resilience and recovery planning tools
+5. AI-powered threat detection and response systems
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Digital Accessibility Compliance Crisis
+
+**ID**: NEED-020
+**Status**: observing
+**First Observed**: 2026-02-05
+**Last Updated**: 2026-02-05
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Organizations face an April 24, 2026 compliance deadline for ADA Title II digital accessibility regulations requiring all public entity websites and course content to meet WCAG 2.1 Level AA standards. Yet only 5% of all websites currently meet these guidelines. Public colleges, universities, and government entities must make everything created or used online accessible — course materials, websites, Zoom meetings, Google Docs, Word files, PDFs, complex widgets, dynamic content, interactive media, and third-party embedded components. The rule requires significant operational and financial attention, particularly for smaller institutions with fewer resources. "Accessibility debt" has accumulated quietly through redesigns, framework updates, staff turnover, and rushed deadlines — a backlog of small issues snowballing into large ones. AI captions are still wrong often enough to cause harm, yet innovation speeds up while disabled people pay the price. The crisis reflects a fundamental tension: technology advances rapidly while accessibility remains an afterthought, systematically excluding people with disabilities from digital participation.
+
+### Evidence
+- [AGB Policy Alert - ADA Digital Accessibility Rule](https://agb.org/news/agb-alerts/agb-policy-alert-ada-digital-accessibility-rule-requires-full-compliance-by-april-2026/): April 24, 2026 deadline for WCAG 2.1 Level AA compliance
+- [UC Santa Cruz News - Federal Digital Accessibility Rules](https://news.ucsc.edu/2025/06/new-federal-rules-for-digital-accessibility-deadline-april-2026/): All academic and institutional web materials must comply
+- [accessiBe - Accessibility Issues 2026](https://accessibe.com/blog/knowledgebase/uncommon-accessibility-issues): Only 5% of websites meet current guidelines
+- [Vocal Media - The Accessibility Crisis of 2026](https://vocal.media/01/the-accessibility-crisis-of-2026-what-no-one-wants-to-admit): AI captions still cause harm; disabled people paying the price for rapid innovation
+- [WebAIM - 2026 Predictions](https://webaim.org/blog/2026-predictions/): Shift needed from one-time remediation to ongoing infrastructure maintenance
+
+### Connections
+- Related to: NEED-004 (healthcare digital divide — overlapping access barriers), NEED-005 (small business tech overwhelm — compliance burden), NEED-013 (enterprise AI gaps — AI accessibility failures)
+- Potentially addresses: Digital inclusion, legal compliance, equitable access to education and services
+- Blocked by: Technical debt accumulation, resource constraints, lack of expertise, third-party dependencies, rapid technology change
+
+### Research Notes
+The 5% compliance rate versus April 2026 deadline represents a massive gap. Most organizations are unprepared. The scale of remediation needed is staggering — every website, document, video, interactive component must be reviewed and potentially rebuilt.
+
+"Accessibility debt" is an apt metaphor — like technical debt, it compounds over time. Each redesign, framework update, or rushed feature adds barriers. Organizations treating accessibility as "one-time remediation" will fail; it must become ongoing infrastructure maintenance.
+
+The smaller institution challenge is particularly concerning — those serving lower-income communities often have fewer resources for compliance, creating inverse accessibility: those most needing accessible services face the greatest barriers.
+
+Third-party components are a major challenge — organizations cannot fully control accessibility when embedding widgets, plugins, or vendor tools. This parallels NEED-019's third-party security risks.
+
+AI accessibility is double-edged: AI captions could help but "are still wrong often enough to cause harm." Auto-generated alt text, transcriptions, and descriptions may give false confidence while providing poor experiences.
+
+Quote insight: "Disabled people are the ones paying the price" for rapid innovation. Technology advances without considering accessibility from the start, creating retrofit problems.
+
+Potential interventions:
+1. Automated accessibility testing and monitoring tools
+2. Accessibility education and training for developers/content creators
+3. Remediation workflow management platforms
+4. Third-party component accessibility evaluation frameworks
+5. Design system libraries with built-in accessibility
+6. Community resources for smaller organizations with limited budgets
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -842,10 +1007,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | **Caregiver Burnout Epidemic** | NEED-007, NEED-008 | Those who care for others — teachers for children, families for elders — are burning out with inadequate support |
 | **Climate Injustice** | NEED-006, NEED-009 | Those who caused climate change least suffer its consequences most — farmers and displaced communities |
 | **Essential Worker Crisis** | NEED-001, NEED-007, NEED-008, NEED-016 | Society's essential workers (maintainers, teachers, caregivers, volunteer moderators) are undervalued and overwhelmed |
-| **Resource Allocation Crisis** | NEED-011 | Massive humanitarian need meeting collapsing funding and broken allocation systems |
+| **Resource Allocation Crisis** | NEED-011, NEED-018 | Massive humanitarian need meeting collapsing funding and broken allocation systems — humanitarian aid and food insecurity |
 | **Trust and Governance Breakdown** | NEED-012 | Citizens losing faith in institutions while trusting local relationships — democracy at inflection point |
 | **Youth Crisis Constellation** | NEED-014, NEED-003, NEED-017 | Young people facing unprecedented mental health crisis, loneliness, and financial burden simultaneously |
 | **Housing and Economic Instability** | NEED-015, NEED-017 | Affordable housing crisis and student debt creating cascading economic and social instability |
+| **Digital Security and Access Crisis** | NEED-010, NEED-019, NEED-020 | Organizations face simultaneous security breaches, shadow IT risks, and accessibility compliance failures |
+| **Systemic Exclusion** | NEED-004, NEED-020 | Technology creating barriers for vulnerable populations — digital health divide and accessibility gaps |
 
 ---
 
@@ -870,6 +1037,15 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-03 | Scout-01 | Added NEED-016 | Online Content Moderation and AI-Generated Content Crisis - strong signal; 90% of content may be AI by 2026 |
 | 2026-02-03 | Scout-01 | Added NEED-017 | Student Loan Default Cliff - URGENT signal; 13M borrowers may default by end of 2026 |
 | 2026-02-03 | Scout-01 | Updated Clusters | Expanded to ten thematic clusters; added Youth Crisis Constellation and Housing/Economic Instability clusters |
+| 2026-02-05 | Scout-01 | Added NEED-018 | Global Food Insecurity and Hunger Crisis - URGENT signal; 318M facing crisis-level hunger, 2 confirmed famines, funding at 50% |
+| 2026-02-05 | Scout-01 | Added NEED-019 | Cybersecurity Crisis and Data Breach Epidemic - strong signal; major January breaches, $15.6T projected cost by 2029 |
+| 2026-02-05 | Scout-01 | Added NEED-020 | Digital Accessibility Compliance Crisis - URGENT signal; April 2026 deadline, only 5% of sites compliant |
+| 2026-02-05 | Scout-01 | Updated NEED-001 | Added note on volunteer burnout pattern across multiple needs |
+| 2026-02-05 | Scout-01 | Updated NEED-002 | Added 2026 workplace data: 77% report AI added to workload, 24-point engagement collapse |
+| 2026-02-05 | Scout-01 | Updated NEED-005 | Added 2026 small business challenges: workforce shortages, tariffs, interest rates |
+| 2026-02-05 | Scout-01 | Updated NEED-007 | Added 411,549 unfilled/uncertified roles, pandemic learning impacts, phone distraction data |
+| 2026-02-05 | Scout-01 | Updated NEED-014 | Added broader population mental health data, 1B globally affected, telehealth growth |
+| 2026-02-05 | Scout-01 | Updated Clusters | Expanded to twelve thematic clusters; added Digital Security and Access Crisis, Systemic Exclusion; expanded Resource Allocation Crisis to include food insecurity |
 
 ---
 
