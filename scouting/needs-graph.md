@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 24 | Initial signals detected, gathering evidence |
+| Observing | 28 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -74,7 +74,7 @@ Potential intervention points: automated triage tools, maintainer wellbeing supp
 **Status**: observing
 **First Observed**: 2026-01-31
 **Last Updated**: 2026-02-06
-**Signal Strength**: urgent
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -103,7 +103,7 @@ Key insight: The promise of AI tools is "do more with less," but the reality is 
 
 **2026-02-06 Update**: The quality crisis intensifies. More than two-thirds of developers feel pressured to deliver projects faster. 48% prefer to "stay hands-on" when using AI in core tasks like testing or code reviews, reflecting distrust in AI outputs. CIOs report cultural and organizational change as a top challenge — technology is outpacing teams' ability to keep up. The tension between AI-driven speed expectations and quality control practices is creating a skills erosion crisis. Burnout is now cited as a "critical issue plaguing software engineering teams" for 2026. Organizations are pushing AI adoption without the foundation to support it, burning out both employees and executives.
 
-The problem may be more about implementation culture than the tools themselves.
+**2026-02-06 Workplace Burnout Data**: The crisis has reached unprecedented levels. 82% of employees in the tech industry report feeling close to burnout in 2025. "Quiet burnout" is emerging as a new pattern — employees who appear engaged but are running on empty, masking emotional fatigue while privately nearing collapse. This makes detection harder than traditional burnout. Sustained chronic workplace stress now affects nearly half of the world's employees globally. Tech industries show 38% burnout rates, with 23% citing poor leadership and 19.4% citing work overload as primary causes. Companies lose an estimated $300 billion annually due to stress-related absenteeism. The generational divide is stark: Gen Z reaches highest stress levels at average age 25, with 68% of Gen Z and 73% of millennials reporting burnout. The problem may be more about implementation culture than the tools themselves.
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -494,8 +494,8 @@ Potential intervention: Tools that give IT visibility without blocking legitimat
 **ID**: NEED-011
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-03
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-06
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -521,6 +521,8 @@ Current inefficiencies include:
 2. Earmarking restrictions preventing adaptive response
 3. Minimal support for local and civil society responders who know contexts best
 4. Short-term funding cycles preventing strategic planning
+
+**2026-02-06 Update**: February 2026 observations confirm the crisis is accelerating. The 2026 Watchlist sounds alarm on "dangerous divergence: as humanitarian crises surge, global support is collapsing." Specific crisis hot spots identified for 2026 include Sudan (world's largest displacement and hunger crisis, 33.7M people needing assistance — 10% increase), Gaza (catastrophic conditions after 14 months of conflict, UN requesting $4.05B — highest for any crisis in 2026), Haiti (1.4M displaced, nearly half the population in acute food insecurity), Burkina Faso (armed groups blockading 1M+ people from food, water, healthcare), and 11 priority WHO emergency response areas. The 2026 Global Humanitarian Overview reveals how drastic funding cuts have forced scaling back life-saving assistance, with 239M people in need at end of 2025. Armed conflict is now "a defining feature of our time" — spreading, lasting longer, becoming more complex.
 
 Software could help: Resource allocation optimization, crisis mapping and predictive analytics, coordination platforms reducing duplication, transparent tracking of aid flows to rebuild donor trust, and tools connecting local responders with flexible funding.
 
@@ -639,8 +641,8 @@ Potential intervention: Tools and frameworks that help organizations assess AI r
 **ID**: NEED-014
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-03
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-06
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -662,6 +664,8 @@ Young people face a mental health crisis of unprecedented scale. Nearly one in t
 This is the most urgent signal encountered today. The scale is staggering: 60% treatment gap means millions of suffering youth receiving no help. Contributing factors are systemic and interconnected — school pressure, social media, climate anxiety, economic insecurity, and loneliness compound each other.
 
 **2026-02-05 Update**: Broader workplace and population mental health data for 2026 shows the crisis extends beyond youth. 73% of college students with mental health conditions have experienced campus mental health crises. Serious mental illness in young adults quadrupled from 3% to 12% in just over a decade. More than 1 in 3 Americans (38%) plan mental health-related New Year's resolutions for 2026, up 5% from prior year, with ages 18-34 most likely (58%). Top anxieties: personal finances (59%), uncertainty about next year (53%), current events (49%). Telehealth mental health utilization among private insurers grew over 10% in May, signaling sustained preference for remote services. Over 1 billion people globally live with mental health conditions requiring urgent service scale-up.
+
+**2026-02-06 Federal Funding Crisis**: On January 13, 2026, SAMHSA terminated hundreds of grants supporting mental health and substance use disorder services, totaling approximately $2 billion. Following immediate bipartisan pushback, funding was reinstated on January 14 — but the 24-hour chaos revealed vulnerability. Additional threats include: reduced funding for LGBTQ+ crisis services through 988 Suicide & Crisis Lifeline, $1 billion in school mental health professional grants halted by Department of Education, VA return-to-office mandates compromising confidential care delivery, and proposed $1 trillion Medicaid cuts over 10 years that would disproportionately damage behavioral health access (Medicaid pays for a quarter of behavioral health spending). Mental health disorders among young people are becoming more acute, not just more common — emergency rooms seeing 2-3x more youth mental health emergencies than a decade ago. Several policies could substantially reduce access to mental health care at a time when Americans face unprecedented mental health challenges.
 
 Key insight: 83% of teenagers cite school and pressure to get good grades as their top stressor. This suggests interventions at the school level could reach most affected youth.
 
@@ -1225,6 +1229,243 @@ This connects to multiple climate-related needs and represents a systemic tensio
 
 ---
 
+## Need: Pandemic Learning Loss and Education Recovery Failure
+
+**ID**: NEED-025
+**Status**: observing
+**First Observed**: 2026-02-06
+**Last Updated**: 2026-02-06
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Students entering the 2025-26 school year are missing critical foundational skills typically developed in earlier grades, creating a compounding crisis for educators who must address both current standards and prerequisite knowledge gaps. Achievement gaps that existed before the pandemic have not only persisted but widened across demographic lines. Students from low-income families, English language learners, and students of color face disproportionate academic challenges. The middle school literacy crisis has reached critical levels — years of testing pressure, fragmented reading instruction, and limited focus on adolescent literacy have left students underprepared for complex, content-rich texts. In 2026, federal education research programs and large-scale data collections face budget cut risks, potentially limiting schools' ability to understand student progress during recovery efforts. Academic recovery from pandemic-related learning loss remains incomplete, with particularly concerning gaps in foundational skills representing fundamental deficits in literacy, numeracy, and scientific thinking building blocks. Poverty relief remains an afterthought, and federal policy is creating gaps and uncertainty, making education-as-social-safety-net apparatus weaker.
+
+### Evidence
+- [NWEA - Key Education Trends 2026](https://www.nwea.org/news-center/press-releases/nwea-experts-outline-key-education-trends-to-watch-in-2026/): Students missing foundational skills from earlier grades
+- [Acacia - U.S. Education 2026](https://acacia.edu/blog/u-s-education-in-2026-the-big-changes-every-educator-should-prepare-for/): Achievement gaps widened across demographic lines
+- [Discovery Education - 2026 Education Trends](https://www.discoveryeducation.com/blog/educational-leadership/2026-education-trends/): Middle school literacy crisis reaching critical levels
+- [PBS - Learning Gaps](https://www.pbs.org/newshour/show/schools-and-students-face-difficult-battle-to-close-learning-gaps-worsened-by-pandemic): Schools face difficult battle to close learning gaps
+- [Narayan Seva USA - U.S. Education Fails Poor Kids](https://www.narayansevausa.org/how-the-us-education-system-challenges-poor-children-in-2025-and-what-2026-could-change/): Poverty relief an afterthought, federal policy creating gaps
+
+### Connections
+- Related to: NEED-007 (teacher burnout — same broken system), NEED-014 (youth mental health — school stress), NEED-022 (AI in education harming development)
+- Potentially addresses: Educational equity, workforce readiness, social mobility, generational outcomes
+- Blocked by: Budget cuts to education research, teacher shortages, inadequate support for struggling students, poverty
+
+### Research Notes
+The pandemic's educational impact persists with devastating clarity. Students who were K-3 during the pandemic are now in middle school — NEED-007 noted that only 30% of eighth graders are reading proficiently, with no state showing gains since 2022. This is not recovery; this is entrenchment of educational inequality.
+
+The "data scarcity" concern is particularly troubling — as recovery efforts face their most critical phase, the tools to measure and understand student progress face budget elimination. You cannot improve what you cannot measure.
+
+Middle school represents a critical inflection point: Students who fall behind in middle school rarely catch up. The literacy crisis at this level suggests a generation at risk.
+
+The equity dimension is stark: the students most harmed by pandemic disruption (low-income, English learners, students of color) are least likely to receive the intensive support needed for recovery.
+
+Poverty is the elephant in the room. No amount of educational intervention can fully overcome the cognitive and emotional toll of housing instability, food insecurity, and family economic stress. Yet "poverty relief remains an afterthought."
+
+Connection to NEED-007: Teachers cannot close learning gaps when they're burning out from overwhelming workload. Connection to NEED-014: Students cannot learn when they're drowning in anxiety. Connection to NEED-022: AI tools marketed as solutions may actually widen gaps by undermining foundational skill development.
+
+Potential interventions:
+1. High-dosage tutoring and intensive intervention programs
+2. Data systems tracking student progress and identifying at-risk students early
+3. Summer learning programs preventing regression
+4. Family economic support recognizing poverty as educational barrier
+5. Teacher support and professional development for differentiated instruction
+6. Middle school literacy interventions with evidence-based approaches
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Critical Infrastructure Decay and Water Crisis
+
+**ID**: NEED-026
+**Status**: observing
+**First Observed**: 2026-02-06
+**Last Updated**: 2026-02-06
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+America's water and energy infrastructure is collapsing under decades of deferred maintenance and inadequate investment. Over 60% of water utilities report systems operating well beyond their intended lifespan. An estimated $3.4 trillion will be needed over the next two decades to bring drinking water, stormwater, and wastewater infrastructure up to date, with $1.6 trillion needed for drinking water infrastructure alone. The American Society of Civil Engineers gave the country's water infrastructure grades ranging from C- to D. Much of the nation's water infrastructure was built in the 1970s-80s; years of deferred maintenance have created crisis conditions. The U.S. water utility sector faced an estimated $110 billion funding gap in 2024, projected to increase to approximately $194 billion by 2030. Federal support has collapsed: in 1981, the federal government provided $25 billion in capital investment (almost half of total for the year); by 2021, this had decreased to $4 billion (7% of total funding). The Infrastructure Investment and Jobs Act expires September 2026, and reauthorization is in doubt, potentially resulting in hundreds of millions in funding cuts for most states. S&P Global projects public power and cooperative utilities face negative outlook in 2026, reflecting converging substantial and costly infrastructure financing needs and diminished consumer rate affordability. Industry groups project utilities will spend $1.1-1.4 trillion by 2030 — roughly doubling previous decade spending — driven largely by data center demand and grid modernization needs. Civil engineers warn that structurally deficient bridges and antiquated water infrastructure pose safety risks and hold economic performance back.
+
+### Evidence
+- [Freedom Waterworks - 2026 National Water Infrastructure Trends](https://freedomwaterworks.com/2026-national-water-infrastructure-trends/): 60%+ of utilities operating beyond intended lifespan
+- [Governing - Water Infrastructure Investments](https://www.governing.com/infrastructure/the-water-infrastructure-investments-states-will-need): $3.4T needed over next two decades
+- [Council on Foreign Relations - State of U.S. Infrastructure](https://www.cfr.org/backgrounders/state-us-infrastructure): ASCE grades water infrastructure C- to D
+- [McKinsey - Water Resilience Funding Gap](https://www.mckinsey.com/industries/energy-and-materials/our-insights/water-resilience-closing-the-funding-gap-for-utilities): $110B funding gap in 2024, $194B by 2030
+- [Utility Dive - Power Sector Trends 2026](https://www.utilitydive.com/news/utility-power-sector-trends-2026/808782/): Utilities spending $1.1-1.4T by 2030, doubling previous decade
+
+### Connections
+- Related to: NEED-009 (global water bankruptcy), NEED-024 (data center environmental crisis — infrastructure strain), NEED-015 (housing crisis — infrastructure affects affordability)
+- Potentially addresses: Public health, economic development, climate resilience, environmental protection
+- Blocked by: Federal funding collapse, political gridlock, rate affordability constraints, competing priorities
+
+### Research Notes
+The infrastructure crisis represents a slow-motion catastrophe. Unlike dramatic disasters, the decay is gradual — a water main break here, a bridge closure there — but the cumulative effect threatens public health, economic competitiveness, and quality of life.
+
+The federal funding collapse is staggering: from $25B (50% of total) in 1981 to $4B (7% of total) in 2021. This 86% reduction in real federal commitment has shifted burden to states and localities, who lack resources and face rate affordability constraints.
+
+The September 2026 Infrastructure Investment and Jobs Act expiration creates cliff risk. If not reauthorized, hundreds of millions in state funding disappears at precisely the moment needs are most acute.
+
+The $110B-to-$194B funding gap projection (2024-2030) suggests crisis acceleration. Water utilities face impossible math: aging infrastructure requires massive investment, but rate increases face political and affordability limits.
+
+The data center boom (NEED-024) compounds the crisis. Utilities must spend $1.1-1.4T by 2030 — double the previous decade — largely driven by data center electricity and water demands. This creates tension: AI infrastructure accelerates both environmental crisis (NEED-024) and critical infrastructure strain.
+
+Three key workforce challenges compound the problem: aging infrastructure, capital constraints from rising material/labor costs, and workforce gaps from skilled labor shortages.
+
+Connection to NEED-009: The UN declared "global water bankruptcy" in January 2026. America's water infrastructure crisis is the developed-world manifestation of global water stress.
+
+The safety dimension is real: structurally deficient bridges, lead pipes, contaminated water supplies. This is not abstract future risk; this is present danger.
+
+Potential interventions:
+1. Asset management and predictive maintenance systems
+2. Infrastructure financing innovation (bonds, public-private partnerships)
+3. Water loss detection and prevention technology
+4. Workforce training and recruitment programs
+5. Rate design tools balancing affordability and investment needs
+6. Transparency platforms tracking infrastructure conditions and investment
+7. Advocacy tools for federal policy change
+
+This is fundamentally a political and investment problem, but technology can improve efficiency, transparency, and decision-making within resource constraints.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Mass Digital Surveillance and Privacy Erosion
+
+**ID**: NEED-027
+**Status**: observing
+**First Observed**: 2026-02-06
+**Last Updated**: 2026-02-06
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Citizens face unprecedented erosion of digital privacy as government agencies, corporations, and AI systems conduct mass surveillance with limited oversight or accountability. Immigration and Customs Enforcement (ICE) is utilizing advanced tools to identify and track people using data originally collected from people's online activity, phone apps, smart devices, and vehicles. ICE appears to be accessing information collected by data brokers who collect massive amounts of data, create profiles about individuals, and sell this information. AI is changing the nature of policing by hyper-charging older surveillance capabilities — live video feeds from traffic cameras or municipal CCTV are being transformed into automated networks able to track people and constantly look for perceived threats. Edmonton police announced they would test facial recognition on live video feeds from body-worn cameras, turning what was once a police accountability mechanism into a powerful surveillance capability. An array of neurotechnologies are developing the ability to read people's very thoughts, putting one of the last remaining private refuges on the technological chopping block. As organizations navigate 2026, they face increasingly stringent requirements and enforcement actions, with 20 states now enforcing consumer privacy statutes. Children's privacy is under particular threat, with the FTC prioritizing aggressive enforcement of COPPA under Chairman Andrew Ferguson's leadership.
+
+### Evidence
+- [Minnesota AG - DHS Digital Surveillance Alert](https://www.ag.state.mn.us/Office/Communications/2026/01/15_DHS_Digital-Surveillance.asp): ICE using data brokers to track people via online activity, apps, smart devices
+- [CCLA - Data Protection & Privacy Day 2026](https://ccla.org/privacy/data-protection-and-privacy-day-2026/): AI hyper-charging surveillance; Edmonton police testing facial recognition on body cams
+- [Osano - 5 Emerging Data Privacy Trends 2026](https://www.osano.com/articles/data-privacy-trends): 20 states enforcing privacy statutes, FTC prioritizing COPPA enforcement
+- [White & Case - Privacy and Cybersecurity 2025-2026](https://www.whitecase.com/insight-alert/privacy-and-cybersecurity-2025-2026-insights-challenges-and-trends-ahead): Increasingly stringent requirements from state and federal authorities
+- Multiple law firm analyses documenting neurotechnology threats to mental privacy
+
+### Connections
+- Related to: NEED-019 (cybersecurity crisis — surveillance as security threat), NEED-021 (AI safety — surveillance capabilities), NEED-012 (trust collapse — surveillance erodes trust)
+- Potentially addresses: Civil liberties, democratic governance, personal autonomy, minority protection
+- Blocked by: Lack of federal privacy law, commercial incentives for data collection, national security claims, technology advancing faster than regulation
+
+### Research Notes
+The surveillance state is not coming; it is here. ICE's use of data broker information represents normalized mass surveillance — data collected for commercial purposes (apps, smart devices, online activity) repurposed for immigration enforcement without warrant or oversight.
+
+The body camera transformation is particularly insidious. Technology deployed for police accountability is being repurposed for facial recognition surveillance, inverting its original purpose. Citizens who supported body cameras for transparency now face being tracked by those same devices.
+
+AI "hyper-charges" surveillance in ways that change kind, not just degree. Automated tracking networks operating 24/7 across entire cities create persistent surveillance impossible with human monitoring. The scale and persistence create chilling effects on lawful behavior.
+
+Neurotechnology threats are emerging: the ability to read thoughts would eliminate the last refuge of privacy — internal mental states. While still developing, the trajectory is clear.
+
+The regulatory landscape is fragmented: 20 states with different privacy laws create compliance complexity without coherent protection. The lack of federal comprehensive privacy law leaves citizens vulnerable.
+
+Children face particular vulnerability. Digital natives generate massive data trails from birth. The FTC's COPPA enforcement prioritization suggests recognition of crisis, but enforcement alone cannot address systemic data collection business models.
+
+The data broker ecosystem is the infrastructure enabling surveillance. Commercial data collection creates repositories that government agencies access — blurring lines between corporate data harvesting and state surveillance.
+
+Connection to NEED-012 (trust collapse): Citizens cannot trust institutions that surveil them without accountability. Connection to NEED-021 (AI safety): Surveillance capabilities represent dual-use AI risk. Connection to NEED-019 (cybersecurity): Massive data collection creates breach targets and security risks.
+
+Potential interventions:
+1. Privacy-preserving technologies and encryption tools
+2. Data broker transparency and accountability platforms
+3. Surveillance mapping and public awareness tools
+4. Policy advocacy for comprehensive federal privacy law
+5. Consent management and data rights platforms
+6. Secure communication tools for vulnerable populations
+
+This is fundamentally a political and legal problem requiring democratic governance of surveillance technologies. Software can provide tools for individual protection and collective advocacy but cannot substitute for legal reform.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: AI-Driven Cybercrime Acceleration
+
+**ID**: NEED-028
+**Status**: observing
+**First Observed**: 2026-02-06
+**Last Updated**: 2026-02-06
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Artificial intelligence is fundamentally transforming cybercrime, enabling attacks at speeds and scales previously impossible while lowering the skill threshold for criminals. Malicious actors actively use general-purpose AI in cyberattacks, with AI systems generating harmful code and discovering vulnerabilities in software that criminals exploit. In 2025, an AI agent placed in the top 5% of teams in a major cybersecurity competition. Underground marketplaces now sell pre-packaged AI tools that lower the skill threshold for attacks — enabling novice criminals to execute sophisticated operations. The number of deepfakes shared on content platforms is projected to reach 8 million in 2025, a 1,500% increase from 500,000 in 2023. Humans can now only detect high-quality deepfake videos about one in every four times (25% accuracy). In November 2025, a Chinese state-sponsored cyberattack leveraged AI agents to execute 80-90% of the operation independently at speeds no human hackers could match. Artificial intelligence has surged to #2 in the Allianz Risk Barometer 2026 from #10 in 2025, ranking #2 in the Americas, Asia Pacific, and Africa/Middle East, and #3 in Europe. The first major enforcement wave under the EU AI Act is intensifying in 2026, and the SEC has made AI washing a top enforcement priority.
+
+### Evidence
+- [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026): AI agent top 5% in cybersecurity competition; underground marketplaces selling pre-packaged AI attack tools
+- [Clarifai - Top AI Risks 2026](https://www.clarifai.com/blog/ai-risks): Deepfakes reach 8M in 2025 (1,500% increase from 500K in 2023); human detection only 25% accurate
+- [Allianz Risk Barometer 2026](https://commercial.allianz.com/news-and-insights/expert-risk-articles/allianz-risk-barometer-2026-ai.html): AI surges to #2 risk from #10 in one year
+- Reports of Chinese state-sponsored AI-powered cyberattack (November 2025) operating at 80-90% autonomy
+- Multiple sources on EU AI Act enforcement and SEC AI washing priority
+
+### Connections
+- Related to: NEED-019 (cybersecurity crisis — AI accelerating existing threats), NEED-021 (AI safety — malicious use category), NEED-023 (deepfake democracy threat), NEED-010 (shadow IT — attack surface expansion)
+- Potentially addresses: Organizational security, national security, financial system integrity, trust in digital systems
+- Blocked by: Speed of AI capability advancement, attribution difficulty, international coordination gaps, defensive technology lag
+
+### Research Notes
+The November 2025 Chinese state-sponsored attack represents an inflection point: AI-powered cyberattacks operating at 80-90% autonomy at superhuman speeds demonstrate that cyber warfare has fundamentally changed. Human defenders cannot match AI attack speeds.
+
+The skill threshold lowering is particularly concerning. Cybercrime previously required technical expertise, limiting threat actors. Pre-packaged AI tools democratize sophisticated attacks — a script kiddie with an AI toolkit can now execute operations that once required skilled hackers.
+
+The deepfake explosion — 1,500% increase in two years — coupled with 25% human detection accuracy creates information warfare crisis. When humans cannot distinguish real from fake, all video evidence becomes questionable. This connects directly to NEED-023 (deepfake democracy threat).
+
+The AI agent placing top 5% in a cybersecurity competition suggests AI offensive capabilities may already exceed many human defenders. This creates asymmetric threat: attackers can deploy AI at scale; defenders struggle to match capability.
+
+Allianz Risk Barometer surge from #10 to #2 in one year reflects business community recognition of crisis. Organizations understand AI creates existential security risks.
+
+The EU AI Act enforcement and SEC AI washing priority suggest regulatory response beginning, but regulation trails technology by years. Criminals operate in regulatory gaps.
+
+The connection to NEED-019 (cybersecurity epidemic) is direct: AI accelerates and amplifies existing cybersecurity challenges. The connection to NEED-021 (AI safety) places this within "malicious use" risk category. The connection to NEED-010 (shadow IT) is multiplicative: unauthorized AI tool adoption expands attack surfaces while AI-powered attacks increase threat sophistication.
+
+Potential interventions:
+1. AI-powered defense and threat detection systems
+2. Automated incident response and containment platforms
+3. AI attack attribution and forensics tools
+4. Security awareness training on AI-powered threats
+5. Defensive AI research and development
+6. International cooperation frameworks for AI cybercrime
+
+This is an arms race: offensive AI capabilities advancing rapidly while defensive AI struggles to keep pace. The asymmetry favors attackers.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -1245,11 +1486,13 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | **Essential Worker Crisis** | NEED-001, NEED-007, NEED-008, NEED-016 | Society's essential workers (maintainers, teachers, caregivers, volunteer moderators) are undervalued and overwhelmed |
 | **Resource Allocation Crisis** | NEED-011, NEED-018 | Massive humanitarian need meeting collapsing funding and broken allocation systems — humanitarian aid and food insecurity |
 | **Trust and Governance Breakdown** | NEED-012, NEED-023 | Citizens losing faith in institutions while trusting local relationships — democracy at inflection point; deepfakes accelerating distrust |
-| **Youth Crisis Constellation** | NEED-014, NEED-003, NEED-017, NEED-022 | Young people facing unprecedented mental health crisis, loneliness, financial burden, and AI-induced developmental harm simultaneously |
+| **Youth Crisis Constellation** | NEED-014, NEED-003, NEED-017, NEED-022, NEED-025 | Young people facing unprecedented mental health crisis, loneliness, financial burden, AI-induced developmental harm, and unresolved pandemic learning loss simultaneously |
 | **Housing and Economic Instability** | NEED-015, NEED-017 | Affordable housing crisis and student debt creating cascading economic and social instability |
 | **Digital Security and Access Crisis** | NEED-010, NEED-019, NEED-020 | Organizations face simultaneous security breaches, shadow IT risks, and accessibility compliance failures |
 | **Systemic Exclusion** | NEED-004, NEED-020 | Technology creating barriers for vulnerable populations — digital health divide and accessibility gaps |
-| **AI Existential Risk Cluster** | NEED-021, NEED-022, NEED-023, NEED-024 | AI systems exhibiting unsafe behaviors, harming child development, threatening democracy, and driving environmental crisis — the technology advancing faster than our ability to govern it safely |
+| **AI Existential Risk Cluster** | NEED-021, NEED-022, NEED-023, NEED-024, NEED-028 | AI systems exhibiting unsafe behaviors, harming child development, threatening democracy, driving environmental crisis, and enabling cybercrime at unprecedented scale — the technology advancing faster than our ability to govern it safely |
+| **Surveillance and Control** | NEED-027, NEED-021, NEED-019, NEED-028 | Mass digital surveillance eroding privacy while AI-powered cybercrime and security threats create authoritarian pressures |
+| **Critical Systems Failure** | NEED-026, NEED-009, NEED-024 | Infrastructure decay (water, energy), global water bankruptcy, and data center environmental impacts creating compound crisis in essential systems |
 
 ---
 
@@ -1290,6 +1533,14 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-06 | Scout-01 | Added NEED-023 | Deepfake Democracy Threat - URGENT signal; 2026 midterm elections face unprecedented AI-generated misinformation |
 | 2026-02-06 | Scout-01 | Added NEED-024 | Data Center Environmental Crisis - URGENT signal; 1,050 TWh consumption by 2026, 2.5B tons CO₂ through 2030 |
 | 2026-02-06 | Scout-01 | Updated Clusters | Expanded to thirteen thematic clusters; added AI Existential Risk Cluster (NEED-021, 022, 023, 024); updated Climate Injustice, Trust/Governance, Youth Crisis clusters |
+| 2026-02-06 | Scout-01 | Updated NEED-002 | Escalated to CRITICAL; added workplace burnout data: 82% tech workers near burnout, "quiet burnout" emerging, $300B annual cost |
+| 2026-02-06 | Scout-01 | Updated NEED-011 | Escalated to CRITICAL; added Feb 2026 data: 239M in need, Sudan 33.7M (10% increase), Gaza $4.05B request (highest), armed conflict "defining feature of our time" |
+| 2026-02-06 | Scout-01 | Updated NEED-014 | Escalated to CRITICAL; added January 2026 SAMHSA funding crisis: $2B terminated then restored in 24 hours, additional threats to LGBTQ+ services, school grants, VA care, Medicaid cuts |
+| 2026-02-06 | Scout-01 | Added NEED-025 | Pandemic Learning Loss and Education Recovery Failure - URGENT signal; foundational skills gaps, achievement gaps widened, middle school literacy crisis, federal research budget cuts |
+| 2026-02-06 | Scout-01 | Added NEED-026 | Critical Infrastructure Decay and Water Crisis - URGENT signal; 60%+ utilities beyond lifespan, $3.4T needed, $110B-$194B funding gap, Infrastructure Act expires Sept 2026 |
+| 2026-02-06 | Scout-01 | Added NEED-027 | Mass Digital Surveillance and Privacy Erosion - strong signal; ICE using data brokers, AI-powered surveillance, facial recognition on body cams, neurotechnology threats |
+| 2026-02-06 | Scout-01 | Added NEED-028 | AI-Driven Cybercrime Acceleration - URGENT signal; AI agents 80-90% autonomous attacks, 8M deepfakes (1,500% increase), 25% human detection accuracy, AI #2 in risk barometer |
+| 2026-02-06 | Scout-01 | Updated Clusters | Expanded to sixteen thematic clusters; added Surveillance and Control, Critical Systems Failure; updated Youth Crisis Constellation and AI Existential Risk Cluster |
 
 ---
 
