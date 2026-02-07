@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 28 | Initial signals detected, gathering evidence |
+| Observing | 32 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -1116,8 +1116,8 @@ Potential interventions:
 **ID**: NEED-023
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-06
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-07
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -1159,6 +1159,20 @@ Potential interventions:
 6. News organization verification workflows
 
 This is a 2026 crisis — it's happening now. The midterms are months away.
+
+**2026-02-07 Update**: Fresh intelligence on 2026 midterm threats confirms escalating sophistication. Experts warn that faster AI advancements mean midterms will suffer from more advanced attack strategies that hadn't fully developed in 2024 — bad actors have learned what works and what doesn't, making attacks much more sophisticated going into 2026. Technology is only getting better at aiding misinformation campaigns, which are now embedded in society's fabric. The deepfake volume explosion is confirmed: 8 million deepfakes projected in 2025, representing a 1,500% increase from 500,000 in 2023. Human detection accuracy for high-quality deepfakes has collapsed to approximately 25% — meaning three out of four people cannot distinguish sophisticated fakes from reality. This enables the "liar's dividend" at scale: bad actors can dismiss real evidence as deepfakes while flooding the zone with synthetic content, muddying all public discourse.
+
+The sophistication gap is the critical new observation: 2026 attacks will not be experimental like 2024; they will be refined, targeted, and scaled based on lessons learned. Misinformation campaigns are no longer novelty — they are operational doctrine.
+
+Recommended solutions from security experts:
+1. Digital provenance and watermarking tools for authentic content
+2. International cooperation between electoral regulators for knowledge-sharing
+3. Clear standards for digital advertising transparency
+4. Platform transparency requirements for AI-generated content
+5. Strengthened trust and safety team resources
+6. Accountability mechanisms with teeth
+
+The window for defensive preparation is closing. The 2026 midterms represent nine months of lead time — inadequate for systemic solutions but potentially sufficient for targeted interventions.
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -1466,6 +1480,268 @@ This is an arms race: offensive AI capabilities advancing rapidly while defensiv
 
 ---
 
+## Need: Higher Education Digital Accessibility Compliance Crisis
+
+**ID**: NEED-029
+**Status**: observing
+**First Observed**: 2026-02-07
+**Last Updated**: 2026-02-07
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Higher education institutions across the United States face a regulatory deadline of April 24, 2026, requiring all websites, mobile apps, course content, and digital platforms to meet WCAG 2.1 Level AA accessibility standards. The readiness gap is severe: only 14% of school districts report near-completion of required updates, fewer than 46% consider digital accessibility a high priority, and nearly half of U.S. universities have just one or two staff members working on technology accessibility. Only 22% of instructors consider accessibility when designing course materials. The scope is vast: almost everything in higher education now lives digitally — applications, enrollments, bill payments, courses, instructional materials, library resources. The government has provided no funding for compliance. Ninety-seven percent cite lack of staff awareness and 94% need additional training as major barriers. The compliance deadline creates what one analyst called a "regulatory time bomb," with smaller colleges and Minority-Serving Institutions particularly vulnerable due to limited resources.
+
+### Evidence
+- [Pressbooks - Navigating 2026 Accessibility Requirements](https://pressbooks.com/webinar/navigating-the-2026-accessibility-requirements/): Higher ed strategies for April 24, 2026 deadline
+- [Inside Higher Ed - New Era of Accessibility](https://www.insidehighered.com/news/government/colleges-localities/2026/01/21/higher-ed-prepares-new-era-ada): Higher ed scrambling to meet deadline
+- [EdWeek Market Brief - Districts Not Ready](https://marketbrief.edweek.org/regulation-policy/report-shows-few-districts-are-ready-for-looming-accessibility-compliance-deadline-and-how-vendors-can-help/2026/01): Only 14% near completion, 46% consider it high priority
+- [AGB Policy Alert](https://agb.org/news/agb-alerts/agb-policy-alert-ada-digital-accessibility-rule-requires-full-compliance-by-april-2026/): Full compliance by April 2026 required, no federal funding provided
+- [EAB - Is Your Site Ready](https://eab.com/resources/blog/enrollment-blog/2026-edu-accessibility-mandate-ready/): Few institutions prepared for mandate
+
+### Connections
+- Related to: NEED-020 (web accessibility crisis — higher ed specific), NEED-007 (teacher burden — additional compliance work), NEED-015 (funding constraints for smaller institutions)
+- Potentially addresses: Educational equity, disability access, legal compliance, inclusive learning
+- Blocked by: Staffing shortages, funding gaps, cultural resistance, legacy system constraints, decentralized governance in higher ed
+
+### Research Notes
+The April 24, 2026 deadline is 77 days away. This is not a hypothetical future crisis — it is happening now. Institutions face potential legal liability, loss of federal funding, and most importantly, continued exclusion of students with disabilities.
+
+The readiness gap is structural, not merely implementation delay:
+1. **Staffing crisis**: Half of universities have 1-2 accessibility staff for entire campuses
+2. **Awareness deficit**: 97% cite lack of staff awareness as barrier
+3. **Cultural challenge**: Mapping central mandates to decentralized academic cultures
+4. **Resource inequality**: Smaller and MSI institutions lack resources for compliance
+5. **Scope vastness**: Every digital touchpoint must be remediated
+
+Key quote: "The challenge for postsecondary institutions is that almost everything lives in a digital environment now."
+
+Only 22% of instructors consider accessibility when designing course materials, suggesting the problem extends beyond technical compliance to pedagogical practice.
+
+The government requiring compliance without funding creates unfunded mandate pressure, particularly harmful to under-resourced institutions serving vulnerable populations.
+
+This connects to NEED-020 (general web accessibility crisis) but merits separate tracking because:
+1. Federal compliance deadline creates time-bound urgency
+2. Higher education has unique decentralized governance challenges
+3. Educational equity stakes are distinct (access to education vs. access to services)
+4. Resource constraints affect MSIs and smaller colleges disproportionately
+
+Potential interventions:
+1. Automated accessibility scanning and remediation tools
+2. Faculty training programs and resources
+3. Content creation workflows with accessibility built-in
+4. Centralized accessibility management platforms
+5. Collaboration and knowledge-sharing networks among institutions
+6. Policy advocacy for compliance deadline extensions or funding
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (higher education, April 2026 deadline)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Elder Digital Divide and Technology Literacy Crisis
+
+**ID**: NEED-030
+**Status**: observing
+**First Observed**: 2026-02-07
+**Last Updated**: 2026-02-07
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+As essential services increasingly move online, older adults face barriers that leave them isolated and excluded. Older adults experience age-related declines in visual (presbyopia, glare sensitivity), motor (mouse control difficulties), and cognitive (perceptual speed, memory, spatial ability) capacities that make technology adoption harder. They face learning barriers in three key areas: IT-related language and jargon, understanding digital device hardware, and grasping software concepts and internet use. Psychological barriers compound technical ones: fear of making mistakes, concerns over privacy, low digital confidence, feelings of comparison and inadequacy, and technology-related anxiety suppress both motivation and perceived ability. Even the most basic tenets of digital technology are neither trivial nor simple to grasp for older adults with no prior experience. Research from 2026 shows that digital disparities, technology anxiety, and insufficient support systems continue to hinder older individuals from fully participating in digital society, affecting their health status and social inclusion.
+
+### Evidence
+- [JMIR Aging - Digital Anxiety to Empowerment 2026](https://aging.jmir.org/2026/1/e75245): Cross-sectional study on psychosocial drivers of digital literacy
+- [Frontiers in Education - How Basic Is Basic Digital Literacy](https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1231701/full): Insights from digital skills instructors on elder challenges
+- [PMC - Digital Literacy Health Impact](https://pmc.ncbi.nlm.nih.gov/articles/PMC11773774/): How digital literacy affects senior citizens' health status
+- [Senior Hope - Overcoming Barriers](https://seniorhope.com/overcoming-barriers-to-digital-literacy-and-bridging-the-digital-divide-among-older-adults/): Comprehensive barrier analysis
+- [Springer - Digital Literacy Training Study](https://link.springer.com/article/10.1007/s10639-025-13364-4): Case study of sustainable digital literacy programs
+
+### Connections
+- Related to: NEED-004 (healthcare digital divide — telemedicine access), NEED-003 (loneliness epidemic — elders isolated), NEED-008 (caregiver crisis — digital tools could reduce burden)
+- Potentially addresses: Social isolation, healthcare access, financial independence, safety from fraud, civic participation
+- Blocked by: Age-related capability changes, insufficient specialized training, lack of patient instruction, vulnerability to misinformation and fraud
+
+### Research Notes
+This is distinct from NEED-004 (healthcare digital divide) because it addresses broader digital exclusion beyond healthcare access. As society digitizes essential services — banking, government benefits, social connection, healthcare, commerce — those who cannot navigate digital systems face systemic exclusion.
+
+The 2026 research emphasizes that strengthening older adults' intention to engage with digital tools through emotional reinforcement, achievement-oriented experiences, and supportive social environments is key to narrowing the divide.
+
+Key insight: Older adults express "lack of instructions," "lack of confidence," "too complex technology" — not resistance to technology per se, but barriers to entry that are surmountable with appropriate support.
+
+The two-level digital divide framework applies:
+1. **First level**: Disparities in infrastructural access (connectivity, devices)
+2. **Second level**: Gaps in skill levels, digital literacy, and meaningful use
+
+Effective interventions identified in research:
+1. Hands-on training over multiple weeks (not one-shot sessions)
+2. Tailored training programs meeting specific needs of older adults
+3. Intergenerational learning initiatives leveraging social bonds
+4. Community-based engagement programs in trusted settings
+5. Leveraging social influence to offset weakened family support
+6. Patient, specialized instruction acknowledging learning curve
+
+Quote from research: "Even the most basic tenets of digital technology are neither trivial nor simple to grasp for older adults with no or limited prior experience."
+
+This connects to NEED-008 (caregiver crisis) because digital tools could reduce caregiver burden — remote monitoring, telehealth check-ins, communication platforms — but only if elders can use them. Digital literacy is prerequisite to technology-enabled care solutions.
+
+This connects to NEED-003 (loneliness epidemic) because digital connection platforms could combat elder isolation, but digital barriers prevent access.
+
+The health impact is documented: digital literacy affects health status. In aging societies, elder digital exclusion is a growing public health concern.
+
+Potential interventions:
+1. Tailored digital literacy training programs for older adults
+2. Intergenerational mentorship platforms connecting youth and elders
+3. Simplified interfaces and age-friendly design frameworks
+4. Community-based training in trusted locations (libraries, senior centers)
+5. Ongoing support systems beyond initial training
+6. Fraud and misinformation education specific to elder vulnerabilities
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Renewable Energy Grid Infrastructure Transition Crisis
+
+**ID**: NEED-031
+**Status**: observing
+**First Observed**: 2026-02-07
+**Last Updated**: 2026-02-07
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+The world's electricity grid infrastructure has become the critical bottleneck in the energy transition. Grid investment has lagged energy decarbonization for decades, creating systemic crisis. In the EU, 40% of distribution infrastructure exceeds 40 years old, built for a fossil fuel era and inadequate for renewable integration. The European Commission estimates €584 billion in grid capital expenditure is needed by 2030, rising to €1.2 trillion by 2040 — yet permitting delays average 12 to 17 years for new transmission lines. Europe may need to double infrastructure investment over the next decade to avert power crisis. In the US, interconnection bottlenecks prevent utility-scale renewables from coming online despite being ready to deploy. AI's explosive power demand compounds the crisis, testing grid limits, revenue models, and sustainability goals. Grid modernization is now a key constraint on energy security and competitiveness. Competition for grid connections and flexible, low-carbon power will intensify in 2026. Renewable energy forecasts have been revised down approximately 5% due to permitting delays, supply chain bottlenecks, and policy uncertainties.
+
+### Evidence
+- [Deloitte - 2026 Renewable Energy Outlook](https://www.deloitte.com/us/en/insights/industry/renewable-energy/renewable-energy-industry-outlook.html): Comprehensive industry analysis for 2026
+- [World Economic Forum - Investing in Energy Infrastructure](https://www.weforum.org/stories/2026/01/power-infrastructure-grid-energy-security/): Grid investment critical bottleneck
+- [RMI - Energy Transition 2026: 10 Trends](https://rmi.org/the-energy-transition-in-2026-10-trends-to-watch/): Grid modernization key constraint
+- [Utility Dive - 6 Power Sector Trends 2026](https://www.utilitydive.com/news/utility-power-sector-trends-2026/808782/): Utilities under pressure from grid demands
+- [Energy Infrastructure Partners - Five Trends](https://energy-infrastructure-partners.com/five-trends-shaping-energy-infrastructure-in-2026/): EU grid crisis and investment needs
+
+### Connections
+- Related to: NEED-024 (data center energy crisis — AI driving demand), NEED-006 (smallholder climate adaptation — renewable energy access), NEED-009 (climate displacement — energy transition urgency)
+- Potentially addresses: Climate change mitigation, energy security, economic competitiveness, grid reliability
+- Blocked by: Permitting delays (12-17 years), aging infrastructure (40% over 40 years old), investment gaps (need to double spending), supply chain constraints, policy uncertainty
+
+### Research Notes
+This is distinct from NEED-024 (data center environmental crisis) and general climate needs because the grid infrastructure bottleneck affects all energy transition efforts, not just AI or specific sectors.
+
+The crisis has shifted from renewables technology readiness to grid integration capacity. The main challenges now lie in orchestrating renewable technologies into a new energy system efficiently. This is an infrastructure and regulatory problem, not a technology generation problem.
+
+The permitting timeline — 12 to 17 years for new transmission — is catastrophic given climate urgency. By the time new transmission is permitted and built under current systems, climate targets will be missed.
+
+The 40%+ infrastructure age in Europe (built for fossil fuel era) means fundamental replacement is needed, not merely maintenance. U.S. faces similar aging infrastructure challenges.
+
+The investment gap is staggering: €584 billion by 2030, €1.2 trillion by 2040 in EU alone. Europe may need to double infrastructure investment. This is public goods investment at massive scale.
+
+AI power demand compounds existing grid stress. Data centers compete with renewable energy projects for grid connections. The energy transition is happening simultaneously with AI scaling, creating multiplicative demand on already-strained infrastructure.
+
+Key insight: Grid infrastructure has moved from enabling infrastructure to critical infrastructure. Energy security and economic competitiveness now depend on grid modernization.
+
+The 5% downward revision in renewable forecasts due to interconnection bottlenecks demonstrates the real-world impact: renewable projects are ready but cannot connect to grids.
+
+This creates a vicious cycle: delayed grid modernization slows renewable deployment, which slows decarbonization, which worsens climate impacts. The grid is the chokepoint.
+
+Potential interventions:
+1. Permitting process optimization and automation tools
+2. Grid interconnection queue management and coordination platforms
+3. Investment prioritization frameworks for transmission projects
+4. Community engagement and siting approval tools
+5. Supply chain coordination for grid components
+6. Policy advocacy and transparency platforms tracking permitting delays
+7. Grid modeling and optimization for renewable integration
+8. Distributed energy resource coordination systems
+
+This is fundamentally an infrastructure investment and regulatory reform problem. Software alone cannot build transmission lines. However, software could reduce permitting friction, optimize existing grid capacity, coordinate distributed resources, and mobilize political will through transparency.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (grid infrastructure for renewable integration)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Election Integrity and Deepfake Misinformation Crisis
+
+**ID**: NEED-032
+**Status**: observing
+**First Observed**: 2026-02-07
+**Last Updated**: 2026-02-07
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+The 2026 midterm elections face unprecedented threats from AI-generated misinformation and deepfakes. There is strong likelihood that 2026 will see further use of AI tools to influence voters and undermine election integrity. Technology is only getting better at aiding misinformation campaigns, which are now embedded in society's fabric. Faster advancements in AI mean the midterms will suffer from more advanced attack strategies that hadn't fully developed in 2024 — bad actors have learned what works and what doesn't, making attacks much more sophisticated going into 2026. The rise of AI-generated deepfake videos, images, and audio misrepresenting political candidates and events is already influencing the information ecosystem. The misuse of these tools is eroding public trust in elections by making it harder to distinguish fact from fiction. As deepfakes grow more sophisticated, bad actors can exploit confusion through the "liar's dividend" — dismissing real evidence as fake and muddying public discourse. The number of deepfakes is projected to reach 8 million in 2025, a 1,500% increase from 500,000 in 2023. Humans can now only detect high-quality deepfake videos about one in every four times (25% accuracy).
+
+### Evidence
+- [Centre for Emerging Technology and Security - Deepfakes and Elections 2025](https://cetas.turing.ac.uk/publications/deepfake-scams-poisoned-chatbots): AI and election security comprehensive analysis
+- [Brennan Center - Gauging AI Threat to Elections](https://www.brennancenter.org/our-work/analysis-opinion/gauging-ai-threat-free-and-fair-elections): Analysis of AI impact on free and fair elections
+- [WLRN - Midterm Elections Misinformation](https://www.wlrn.org/government-politics/2025-10-20/midterm-elections-likely-to-see-increased-effects-of-misinformation-reduced-security-experts-say): Experts warn of increased misinformation in 2026
+- [CIGI - AI Electoral Interference Comparison](https://www.cigionline.org/articles/then-and-now-how-does-ai-electoral-interference-compare-in-2025/): How AI electoral interference evolved
+- [Carnegie Mellon Heinz College - Spotting AI Deepfakes](https://www.heinz.cmu.edu/media/2024/October/voters-heres-how-to-spot-ai-deepfakes-that-spread-election-related-misinformation1): Voter education on detecting deepfakes
+
+### Connections
+- Related to: NEED-023 (deepfake democracy threat — same issue), NEED-012 (government trust collapse — misinformation accelerates distrust), NEED-028 (AI cybercrime — deepfakes as weapon), NEED-016 (content moderation crisis — platform governance failure)
+- Potentially addresses: Democratic integrity, informed voting, public trust, free and fair elections
+- Blocked by: Rapid AI capability advancement, detection technology lag, platform governance gaps, international coordination failure, First Amendment tensions
+
+### Research Notes
+This may significantly overlap with NEED-023 (deepfake democracy threat) but warrants consideration as distinct because:
+1. NEED-023 may focus on broader democracy threats; this is specifically 2026 midterm election integrity
+2. Time-bound urgency — 2026 midterms are nine months away
+3. US-specific vs. global democratic crisis
+
+However, upon reflection, this is likely better as an UPDATE to NEED-023 rather than separate need. The core problem — AI-generated misinformation threatening democracy — is the same. The 2026 midterms are the next critical test case of an ongoing crisis.
+
+The sophistication increase from 2024 to 2026 is the key observation: bad actors learned and adapted. Attacks will be more sophisticated, better targeted, harder to detect.
+
+The 25% human detection accuracy for high-quality deepfakes is catastrophic for democratic discourse. When three out of four people cannot distinguish real from fake video evidence, all video evidence becomes questionable. This enables the "liar's dividend" — real evidence dismissed as deepfakes.
+
+The 1,500% increase in deepfakes (500K in 2023 to 8M in 2025) demonstrates exponential growth in threat volume.
+
+Recommended solutions from sources:
+1. Digital provenance and watermarking tools
+2. Cooperation between electoral regulators for knowledge-sharing
+3. Clear standards for digital advertising processes
+4. Transparency requirements for AI-generated content
+5. Strengthened trust and safety protections on platforms
+6. Accountability mechanisms for AI-generated political content
+
+The sources emphasize that while direct impact on election outcomes hasn't been definitively proven, the erosion of trust and increasing sophistication pose serious ongoing threats to democratic processes.
+
+This connects to NEED-012 (government trust collapse) because misinformation accelerates institutional distrust. When citizens cannot trust what they see and hear about candidates and policies, democratic deliberation breaks down.
+
+This connects to NEED-016 (content moderation crisis) because platforms face impossible governance challenges with synthetic content at scale.
+
+**Decision**: This should be an UPDATE to NEED-023 rather than a new need, providing 2026-specific midterm election data and sophistication analysis. The core problem is identical; this is new evidence of acceleration.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (2026 midterm elections)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -1541,6 +1817,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-06 | Scout-01 | Added NEED-027 | Mass Digital Surveillance and Privacy Erosion - strong signal; ICE using data brokers, AI-powered surveillance, facial recognition on body cams, neurotechnology threats |
 | 2026-02-06 | Scout-01 | Added NEED-028 | AI-Driven Cybercrime Acceleration - URGENT signal; AI agents 80-90% autonomous attacks, 8M deepfakes (1,500% increase), 25% human detection accuracy, AI #2 in risk barometer |
 | 2026-02-06 | Scout-01 | Updated Clusters | Expanded to sixteen thematic clusters; added Surveillance and Control, Critical Systems Failure; updated Youth Crisis Constellation and AI Existential Risk Cluster |
+| 2026-02-07 | Scout-01 | Added NEED-029 | Higher Education Digital Accessibility Compliance Crisis - URGENT signal; April 24, 2026 deadline, only 14% near completion, no federal funding |
+| 2026-02-07 | Scout-01 | Added NEED-030 | Elder Digital Divide and Technology Literacy Crisis - strong signal; age-related barriers, psychological obstacles, digital exclusion from essential services |
+| 2026-02-07 | Scout-01 | Added NEED-031 | Renewable Energy Grid Infrastructure Transition Crisis - URGENT signal; 40% of EU grid over 40 years old, 12-17 year permitting delays, €1.2T needed by 2040 |
+| 2026-02-07 | Scout-01 | Added NEED-032 | Election Integrity and Deepfake Misinformation Crisis - CRITICAL signal; 2026 midterms face sophisticated AI attacks, 8M deepfakes (1,500% increase), 25% human detection accuracy |
+| 2026-02-07 | Scout-01 | Updated NEED-023 | Escalated to CRITICAL; added Feb 7 intelligence on 2026 midterm attack sophistication, 8M deepfakes (1,500% increase), 25% detection accuracy, bad actors learning and adapting |
 
 ---
 
