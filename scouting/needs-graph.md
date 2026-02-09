@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 32 | Initial signals detected, gathering evidence |
+| Observing | 36 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -674,6 +674,8 @@ This is the most urgent signal encountered today. The scale is staggering: 60% t
 **2026-02-06 Federal Funding Crisis**: On January 13, 2026, SAMHSA terminated hundreds of grants supporting mental health and substance use disorder services, totaling approximately $2 billion. Following immediate bipartisan pushback, funding was reinstated on January 14 — but the 24-hour chaos revealed vulnerability. Additional threats include: reduced funding for LGBTQ+ crisis services through 988 Suicide & Crisis Lifeline, $1 billion in school mental health professional grants halted by Department of Education, VA return-to-office mandates compromising confidential care delivery, and proposed $1 trillion Medicaid cuts over 10 years that would disproportionately damage behavioral health access (Medicaid pays for a quarter of behavioral health spending). Mental health disorders among young people are becoming more acute, not just more common — emergency rooms seeing 2-3x more youth mental health emergencies than a decade ago. Several policies could substantially reduce access to mental health care at a time when Americans face unprecedented mental health challenges.
 
 **2026-02-08 Update**: Fresh 2026 observations paint fuller picture of mental health as systemic societal crisis. By early 2026, mental health has shifted from private health concern to **acute societal issue**, with more than **1 billion people worldwide** living with mental health conditions. The crisis is "the by-product of a world that has prioritized technological acceleration and economic output over the psychological and emotional needs of its people." **Economic impact**: Depression and anxiety alone cost global economy over **$1 trillion annually** in lost productivity, with broader estimates placing total impact in multi-trillion-dollar range including disability, healthcare burden, and workforce attrition. **Structural factors**: Rapid technological change, prolonged economic uncertainty, and steady erosion of social and community support systems have created current crisis. Americans heading into 2026 report feeling anxious about: personal finances (59%), uncertainty about next year (53%), and current events (49%). **Disparities**: Prevalence of mental health crises higher among Hispanic (10.5%) and Black adults (11.8%) than White adults (7.4%), and among those with lower household income. The mental health crisis of 2026 represents a "global emergency" — a silent emergency that increasingly threatens global productivity and social cohesion.
+
+**2026-02-09 Social Media Complexity**: New research from University of Manchester tracking 25,629 adolescents for three years suggests the widely accepted narrative that social media is a major cause of youth mental health crisis may be oversimplified. Research found that increased time on social media or online gaming does not, by itself, cause mental health problems in adolescents. However, children who spend more than 3 hours daily on social media face double the risk of mental health problems including depression and anxiety symptoms. Pew Research from April 2025 shows nearly 1 in 3 high schoolers (30%) reported feeling "so sad or hopeless almost every day for two or more weeks in a row" that they stopped usual activities, reaching 43% for teen girls. The growing body of research points to conclusion: **there is no concrete evidence to support one-size-fits-all approaches** when it comes to social media and youth mental health. Several states are proposing or enacting laws to regulate teen social media access (parental consent requirements, screen-time limits), but research suggests bans may not be the answer. The relationship between social media and teen mental health is more nuanced than simple causation — context, usage patterns, and underlying factors matter significantly.
 
 Key insight: 83% of teenagers cite school and pressure to get good grades as their top stressor. This suggests interventions at the school level could reach most affected youth.
 
@@ -1754,6 +1756,291 @@ This connects to NEED-016 (content moderation crisis) because platforms face imp
 
 ---
 
+## Need: Global Water Bankruptcy and Security Crisis
+
+**ID**: NEED-033
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+In January 2026, UN scientists formally declared the world has entered an era of "global water bankruptcy" — a permanent, systemic failure where humanity has liquidated the natural capital needed for recovery. This is not a temporary crisis but irreversible collapse. Four billion people experience severe water scarcity at least one month per year. Nearly three-quarters of the world's population lives in water-insecure countries. Two billion people live on sinking ground. Water bankruptcy is defined as "persistent over-withdrawal from surface and groundwater relative to renewable inflows and safe levels of depletion, and the resulting irreversible or prohibitively costly loss of water-related natural capital." When water scarcity undermines farming in one region, the effects ripple through global markets, political stability, and food security elsewhere. This is a shared global risk, not isolated local crises.
+
+### Evidence
+- [UN News - Global Water Bankruptcy](https://news.un.org/en/story/2026/01/1166800): Official UN declaration, January 2026
+- [United Nations University - World Enters Era of Global Water Bankruptcy](https://unu.edu/inweh/news/world-enters-era-of-global-water-bankruptcy): Led by Kaveh Madani, formal definition of post-crisis reality
+- [Washington Post - New Era of Water Bankruptcy](https://www.washingtonpost.com/climate-environment/2026/01/20/global-water-bankruptcy/): Coverage of UN declaration and implications
+- [The Conversation - What Water Bankruptcy Means](https://theconversation.com/the-world-is-in-water-bankruptcy-un-scientists-report-heres-what-that-means-273213): Analysis of irreversibility and systemic failure
+- [Chatham House - World Off Meeting Water Needs](https://www.chathamhouse.org/2026/02/world-far-meeting-its-growing-water-needs-can-un-still-lead-response): Can UN lead response to crisis?
+
+### Connections
+- Related to: NEED-026 (critical infrastructure water crisis — US-specific), NEED-006 (smallholder farmers — agricultural water), NEED-009 (climate displacement — water scarcity driver), NEED-018 (food insecurity — agricultural impact)
+- Potentially addresses: Global food security, conflict prevention, human survival
+- Blocked by: Irreversible natural capital loss, lack of global water governance architecture
+
+### Research Notes
+The term "bankruptcy" is deliberate and critical: it signals that we have moved beyond temporary crisis into permanent depletion. Water systems can no longer realistically return to their historical baselines. The report calls for transition from crisis response to bankruptcy management.
+
+Key observation: Half of humanity lives under water stress with NO ARCHITECTURE to manage it. The governance vacuum is deepening in 2026:
+- Indus Waters Treaty suspended
+- Ethiopia's Nile dam operational with no binding agreement
+- China building world's largest dam with no downstream treaty
+
+This is categorically different from NEED-026 (US infrastructure water crisis), which focuses on aging pipes and federal funding. NEED-033 is about irreversible global natural capital depletion.
+
+The report is described as "a call for honesty, realism, and transformation rather than a statement of hopelessness." It demands we protect remaining water resources and accept that some losses are permanent.
+
+Software interventions must be realistic: we cannot solve water bankruptcy through apps. But information systems for resource allocation, early warning networks, conflict mediation, and transparent governance might help manage the bankruptcy rather than pretend recovery is possible.
+
+This connects to NEED-009 (climate displacement) — water bankruptcy is a major displacement driver. It connects to NEED-006 (smallholder farmers) and NEED-018 (food insecurity) — agriculture depends on water. It connects to NEED-026 (US water infrastructure) — even wealthy nations face water crises, though for different reasons.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources (UN official declaration)
+- [x] Scope is bounded (global water systems)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: AI Investment Bubble and Economic Risk
+
+**ID**: NEED-034
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Worldwide AI spending is projected to reach $2.52 trillion in 2026, with US mega caps expected to spend $1.1 trillion between 2026 and 2029. Yet 95% of organizations investing in Generative AI are getting zero return. Total AI revenue is estimated at less than $50 billion against over a trillion dollars of investment. The Bank of England and International Monetary Fund have both warned of growing risks of global market correction due to possible overvaluation of AI tech firms, with comparisons to the dot-com bubble of 2001. AI still does not have a clear path to profitability. Morgan Stanley estimates $3 trillion in global data center spending between 2025-2028, with $1.5 trillion covered by private credit, raising concerns about circular investment patterns and debt-driven financing that could trigger systemic financial risk. Despite massive capital expenditure, the returns remain unclear, and investor concerns about funding mechanisms could trigger an asset bubble burst.
+
+### Evidence
+- [Impact Wealth - State of $2.52 Trillion AI Bubble](https://impactwealth.org/the-state-of-the-2-52-trillion-ai-bubble-january-2026-analysis/): January 2026 analysis of investment vs. returns
+- [Yale Insights - How the AI Bubble Bursts](https://insights.som.yale.edu/insights/this-is-how-the-ai-bubble-bursts): Academic analysis of bubble dynamics
+- [World Economic Forum - AI Bubble Talk Overblown?](https://www.weforum.org/stories/2026/01/ai-bubble-value-gap/): Debate on whether bubble concerns justified
+- [PCWorld - 8 Signs AI Bubble May Pop in 2026](https://www.pcworld.com/article/3026273/signs-the-ai-bubble-may-pop-in-2026.html): Warning signs analysis
+- [World Economic Forum - Anatomy of an AI Reckoning](https://www.weforum.org/stories/2026/01/how-would-the-bursting-of-an-ai-bubble-actually-play-out/): How bubble burst would unfold
+
+### Connections
+- Related to: NEED-013 (enterprise AI implementation gap — investment without results), NEED-002 (developer AI burnout — pressure to justify spending), NEED-021 (AI safety crisis — moving too fast), NEED-024 (data center environmental crisis — infrastructure buildout)
+- Potentially addresses: Economic stability, responsible technology investment, realistic expectations
+- Blocked by: Institutional momentum, fear of missing out (FOMO), unclear profitability metrics
+
+### Research Notes
+The contrast is stark: $2.52 trillion spending against less than $50 billion in revenue. The MIT Media Lab reports 95% of organizations getting zero return on GenAI investment.
+
+Bank of England and IMF warnings are significant — these are not tech skeptics but major financial institutions concerned about systemic risk. The dot-com bubble comparison is explicit.
+
+The circular financing concern is critical: companies borrowing heavily to build AI infrastructure based on projected future returns that may never materialize. Morgan Stanley's estimate of $1.5 trillion in private credit covering data center spending raises red flags about debt exposure.
+
+This is distinct from NEED-013 (enterprise AI implementation gap), which focuses on organizational failure to execute. NEED-034 is about macro-economic risk of coordinated overinvestment creating asset bubble and potential crash.
+
+The World Economic Forum's Global Risks Report 2026 lists "geoeconomic confrontation" and "AI investment bubble" as top risks most likely to trigger material global crisis.
+
+A societal backlash against AI buildout is possible — concerns around data center water usage, unemployment, or inequality could shift public sentiment and investor confidence rapidly.
+
+The question is whether this is a financial/economic crisis or one where software can help. Potential interventions:
+1. ROI tracking and transparency tools for AI investments
+2. Risk assessment frameworks for AI project evaluation
+3. Alternative approaches to AI that are less capital-intensive
+4. Tools to help organizations avoid following herd behavior
+
+However, this may be primarily a financial regulation and market dynamics problem, not a software problem.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Sudan Famine and Humanitarian Catastrophe
+
+**ID**: NEED-035
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Sudan is the world's largest hunger crisis. More people are living in famine conditions in Sudan than the rest of the world combined. Famine conditions are confirmed in Al Fasher and Kadugli, with risk of famine in 20 additional areas across Greater Darfur and Greater Kordofan. More than 21 million people face acute or worse food insecurity. Roughly 375,000 Sudanese face catastrophic hunger — the highest level. The Sudanese Civil War will enter its fourth year in April 2026. OCHA estimates 33.7 million people will require assistance in 2026, a 10% increase from the previous year. The conflict has killed tens of thousands, displaced nearly 11 million, and driven multiple regions into famine. South Kordofan is now the epicenter of the war, with civilians facing intensified fighting and near-total blockage of humanitarian supplies. More than 70% of Sudan's hospitals have been destroyed, with more than 120,000 confirmed cholera cases and over 3,000 deaths. WFP urgently requires $700 million to continue operations from January to June 2026. In 2025, 62% of needs went unfunded. The US has committed $200 million to a new UN fund, but humanitarian organizations reaching 80% of people in 27 famine and risk-of-famine areas can only address a fraction of total needs.
+
+### Evidence
+- [World Food Programme - Famine in Sudan](https://www.wfp.org/emergencies/sudan): Sudan as world's largest hunger crisis
+- [IOM - Sudan Crisis Response Plan 2026](https://crisisresponse.iom.int/response/sudan-crisis-response-plan-2026): 33.7M requiring assistance (10% increase)
+- [PBS NewsHour - Biblical Famine Warning](https://www.pbs.org/newshour/show/head-of-humanitarian-group-urges-nations-to-step-up-sudan-aid-to-prevent-biblical-famine): Humanitarian leader warns of catastrophic scale
+- [Norwegian Refugee Council - Countdown to Catastrophe](https://www.nrc.no/news/2026/sudan-countdown-to-catastrophe-in-kordofan-as-world-once-again-looks-away): Kordofan crisis, world looking away
+- [ReliefWeb - Sudan Becomes World's Hungriest Country](https://reliefweb.int/report/sudan/sudan-becomes-worlds-hungriest-country-famine-spreads-two-new-areas-darfur): Famine spreading to new areas
+
+### Connections
+- Related to: NEED-011 (humanitarian aid efficiency crisis — same funding collapse), NEED-018 (global food insecurity — Sudan is largest crisis)
+- Potentially addresses: Mass starvation prevention, humanitarian aid effectiveness, conflict resolution support
+- Blocked by: Active warfare blocking humanitarian access, massive funding shortfall (62% unfunded in 2025)
+
+### Research Notes
+"More people are living in famine conditions in Sudan than the rest of the world combined." This single sentence captures the crisis scale.
+
+The vicious cycle is clear:
+1. Civil war blocks humanitarian access
+2. Funding is massively inadequate (62% unfunded)
+3. Hospitals destroyed (70%+)
+4. Disease outbreaks compound hunger (120K cholera cases)
+5. Crisis deepens, displacement increases
+6. More aid needed, less funding available
+
+South Kordofan observation is critical: "near-total blockage of humanitarian supplies" to an area already facing famine-like conditions. All major supply routes to Kadugli and Dilling are cut. The Norwegian Refugee Council's Secretary General said two actions are needed:
+1. Securing humanitarian access through cease-fire and pressure on armed actors
+2. Surging aid rapidly to prevent further famine deaths
+
+This is related to but distinct from NEED-011 (humanitarian aid efficiency crisis) and NEED-018 (global food insecurity). Those are systemic patterns; NEED-035 is the most acute manifestation — a specific country facing unprecedented famine during active warfare.
+
+Software alone cannot solve this. The primary blockers are:
+1. Active warfare preventing access
+2. Political will and funding
+3. International coordination
+
+However, software could potentially help with:
+1. Coordination of humanitarian resources
+2. Supply chain optimization for limited access windows
+3. Remote needs assessment via satellite/data analysis
+4. Donor coordination and transparency
+5. Early warning systems for spreading famine
+6. Tracking funding flows and accountability
+
+The scale is staggering: 33.7 million needing assistance (10% increase year-over-year), 21 million facing acute food insecurity, 375,000 in catastrophic hunger. WFP needs $700 million just for January-June 2026.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (Sudan-specific)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Haiti Gang Violence and State Collapse
+
+**ID**: NEED-036
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Haiti is experiencing one of the world's most acute humanitarian crises, driven by escalating gang violence, political paralysis, and deep economic distress. Armed gangs control an estimated 90% of Port-au-Prince and have expanded their reach to parts of Artibonite and Centre departments. The political transition was set to expire February 7, 2026, with no clear path forward. The murder rate in 2025 rose nearly 20% compared to 2024. Intentional homicides in Artibonite and Centre departments increased 210%, totaling 1,303 victims between January-August 2025 versus 419 during the same period in 2024. The humanitarian crisis has deepened, leaving 6.4 million people — more than half of Haiti's entire population — in need of humanitarian support. More than 1.4 million people (over 10% of the population) have been driven from their homes; roughly half are children. Over half of Haiti's population faced crisis or worse levels of food insecurity in 2025. Sexual violence cases being treated at clinics have tripled in the past four years. Gangs are using sexual violence to systematically consolidate control and strike fear in communities. Haiti's humanitarian response plan is among the least funded in the world. At the beginning of February 2026, the appeal was less than 4% funded.
+
+### Evidence
+- [International Rescue Committee - Haiti Gang Violence Crisis](https://www.rescue.org/article/haitis-gang-violence-crisis-what-know-and-how-help): 90% of Port-au-Prince under gang control
+- [UN News - Haiti Crisis at Breaking Point](https://news.un.org/en/story/2026/01/1166806): Crisis at breaking point ahead of transition deadline
+- [Amnesty International - Haiti Humanitarian Crisis](https://www.amnesty.org/en/projects/gang-violence-in-haiti/): Severe humanitarian and human rights crisis
+- [UNODC - Organized Crime in Haiti](https://www.unodc.org/unodc/frontpage/2026/January/explainer_-organized-crime-and-gang-violence-in-haiti.html): Explainer on organized crime patterns
+- [Euronews - Haiti Sexual Violence Crisis](https://www.euronews.com/2026/01/28/haiti-faces-sexual-violence-and-abuse-crisis-as-gang-violence-spreads-msf-says): MSF reports sexual violence crisis
+
+### Connections
+- Related to: NEED-011 (humanitarian aid crisis — Haiti among least funded), NEED-012 (government trust collapse — total state failure)
+- Potentially addresses: Humanitarian coordination, displaced persons support, violence early warning
+- Blocked by: Near-total gang control, political paralysis, funding collapse (less than 4% of appeal funded)
+
+### Research Notes
+The 210% increase in homicides outside Port-au-Prince shows the crisis is spreading beyond the capital. Gangs are expanding territorial control systematically.
+
+The sexual violence pattern is particularly horrific: tripled in four years, being used as systematic weapon to consolidate control and terrorize communities. This is not incidental violence but strategic terror.
+
+The funding crisis is catastrophic: less than 4% of the humanitarian appeal funded as of early February 2026. Compare to the scale of need: 6.4 million (half the country) requiring humanitarian support.
+
+The political transition deadline of February 7, 2026 passed with no resolution. The October 2025 UN authorization of a "gang suppression force" followed a previous 2024 stabilization effort that "achieved little as it was underfunded and underequipped."
+
+This pattern is familiar: international attention, symbolic responses, inadequate funding, continued collapse.
+
+This is distinct from other humanitarian crises in that the primary driver is not natural disaster or traditional warfare but organized criminal gang control approaching state collapse. The gangs control 90% of the capital city.
+
+Software alone cannot solve gang violence and state failure. However, potential interventions:
+1. Resource coordination for the limited humanitarian access that exists
+2. Displaced persons tracking and family reunification
+3. Early warning systems for violence spread
+4. Donor accountability and funding transparency
+5. Remote education/health access for displaced populations
+6. Documentation of atrocities for future accountability
+
+The critical observation is that this is simultaneous failure across multiple dimensions: security (gang control), politics (transition deadline passed), economics (deep distress), humanitarian (least funded response), and human rights (systematic sexual violence).
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (Haiti-specific)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Digital Literacy and AI Skills Workforce Gap
+
+**ID**: NEED-037
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Today's workforce demands fluency with technology, data, and increasingly AI, yet a massive skills gap persists. A National Skills Coalition study of over 43 million job postings found 92% of jobs in the United States require digital literacy skills, yet nearly a third of the U.S. workforce has "little to no" digital literacy skills. The gap extends beyond basic digital skills to AI competencies. According to Microsoft and LinkedIn's survey of 31,000+ professionals, 66% of leaders say they wouldn't hire someone without AI skills, and 71% would rather hire a less experienced candidate with AI skills than a more experienced candidate without them. Research by Cognizant and the World Economic Forum reveals demand for digital skills (AI, big data, technology literacy) is accelerating far more quickly than global supply, leaving only a fraction of business leaders confident in their ability to find the quantity and quality of talent they need. EDUCAUSE identifies "Technology Literacy for the Future Workforce" as issue #7 in their 2026 Top 10. The literature emphasizes that solving this requires multi-stakeholder collaboration involving educational reform, corporate training programs, and public-private partnerships rather than isolated interventions.
+
+### Evidence
+- [EDUCAUSE - 2026 Top 10 #7](https://er.educause.edu/articles/2025/10/2026-educause-top-10-7-technology-literacy-for-the-future-workforce): Technology literacy as top higher education priority
+- [World Economic Forum - Skills Development for Digital Talent Gap](https://www.weforum.org/stories/2025/12/bridging-the-digital-talent-crisis/): Demand accelerating faster than supply
+- [National Skills Coalition via LINCS](https://community.lincs.ed.gov/group/21/discussion/crunched-numbers-digital-skills-gap-workforce): 92% of jobs require digital skills, 1/3 of workers lack them
+- [Research Leap - Digital Literacy for Workforce Readiness](https://researchleap.com/digital-literacy-for-workforce-readiness-bridging-the-skills-gap-in-the-21st-century/): Multi-stakeholder solutions needed
+- [PMC - Digital Literacy Model](https://pmc.ncbi.nlm.nih.gov/articles/PMC10070644/): Model to narrow skills gap
+
+### Connections
+- Related to: NEED-002 (developer AI burnout — skills mismatch), NEED-005 (small business tech overwhelm — lack of guidance), NEED-013 (enterprise AI implementation gap — workforce not ready), NEED-030 (elder digital divide — age-specific literacy gap)
+- Potentially addresses: Workforce competitiveness, economic opportunity, technology adoption effectiveness
+- Blocked by: Educational system lag, rapid technology evolution, lack of standardized curricula
+
+### Research Notes
+The AI skills hiring preference data is striking: 66% of leaders won't hire without AI skills, 71% prefer less experienced candidates WITH AI skills over more experienced candidates WITHOUT them. This represents a fundamental shift in hiring criteria.
+
+The scale mismatch is concerning: 92% of jobs require digital literacy, yet ~33% of workers have little to no digital literacy. This is a structural workforce readiness crisis.
+
+This is distinct from NEED-030 (elder digital divide), which focuses on age-specific barriers. NEED-037 is about the entire workforce facing accelerating technology skill demands.
+
+This connects to NEED-013 (enterprise AI implementation gap) from the other direction: organizations struggle to implement AI partly because their workforces lack the skills to use it effectively. NEED-013 is about organizational execution failure; NEED-037 is about workforce skill deficits.
+
+The EDUCAUSE designation as a top 10 issue for higher education in 2026 signals institutional recognition at the university level.
+
+The emphasis on "multi-stakeholder collaboration" in research is important — no single entity (education, business, government) can solve this alone. Educational reform takes years. Technology evolves in months. Corporate training programs are siloed. Public-private partnerships are complex to coordinate.
+
+Potential software interventions:
+1. Adaptive learning platforms for digital/AI skills
+2. Skill assessment and gap analysis tools
+3. Micro-credentialing and verification systems
+4. Peer learning and mentorship matching platforms
+5. Open educational resources for digital literacy
+6. Career pathways and progression tracking
+
+The critical question: is this a training content problem (need better courses) or a delivery/access problem (need better platforms/incentives/time)?
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -1840,6 +2127,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-08 | Scout-01 | Updated NEED-022 | Added Feb 2026 education technology implementation challenges: teacher overwhelm (can't keep up), 80% compete with phones/social media, student AI cheating, budget constraints (federal relief gone), data privacy gaps, digital divide, tech-for-tech's-sake era over |
 | 2026-02-08 | Scout-01 | Updated NEED-005 | Escalated to STRONG; added Feb 2026 digital transformation struggles: execution challenge not technology, limited resources/skills gaps/legacy infrastructure, 96% plan to adopt tech despite challenges, requires continuous evolution not one-time project |
 | 2026-02-08 | Scout-01 | Updated NEED-009 | Escalated to URGENT; added Feb 2026 climate mobility data: 45M+ weather displacements in 2024 (record high), FRLD first distribution 2026 (opened Dec 2025 call), climate mobility encompasses displacement/migration/relocation/immobility, economic and noneconomic losses, interconnected with human rights/poverty/conflict |
+| 2026-02-09 | Scout-01 | Added NEED-033 | Global Water Bankruptcy and Security Crisis - CRITICAL signal; UN formally declared "era of global water bankruptcy" January 2026, 4B experiencing severe scarcity, irreversible natural capital loss, permanent systemic failure |
+| 2026-02-09 | Scout-01 | Added NEED-034 | AI Investment Bubble and Economic Risk - strong signal; $2.52T spending in 2026, 95% of orgs getting zero return, Bank of England and IMF warning of bubble, $1.5T in private credit for data centers |
+| 2026-02-09 | Scout-01 | Added NEED-035 | Sudan Famine and Humanitarian Catastrophe - CRITICAL signal; world's largest hunger crisis, more in famine than rest of world combined, 33.7M requiring assistance, 70% hospitals destroyed, 62% needs unfunded |
+| 2026-02-09 | Scout-01 | Added NEED-036 | Haiti Gang Violence and State Collapse - CRITICAL signal; 90% of Port-au-Prince under gang control, 6.4M (half population) need humanitarian aid, 210% homicide increase outside capital, sexual violence tripled, less than 4% of appeal funded |
+| 2026-02-09 | Scout-01 | Added NEED-037 | Digital Literacy and AI Skills Workforce Gap - strong signal; 92% of jobs require digital literacy yet 1/3 of workers lack it, 66% of leaders won't hire without AI skills, demand accelerating far faster than supply |
+| 2026-02-09 | Scout-01 | Updated NEED-014 | Added social media complexity nuance: Manchester study of 25K+ teens suggests causation oversimplified, no evidence for one-size-fits-all bans, relationship more nuanced than simple causation; 3+ hours/day doubles risk but time alone doesn't cause problems |
 
 ---
 
