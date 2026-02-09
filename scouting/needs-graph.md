@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 36 | Initial signals detected, gathering evidence |
+| Observing | 41 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -905,12 +905,14 @@ Potential interventions:
 **ID**: NEED-019
 **Status**: observing
 **First Observed**: 2026-02-05
-**Last Updated**: 2026-02-05
-**Signal Strength**: strong
+**Last Updated**: 2026-02-09
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
 Organizations face an accelerating cybersecurity crisis as data breaches become routine and threats evolve faster than defenses. In January 2026 alone, major breaches exposed millions: Instagram (17.5M accounts), Under Armour (72M email addresses), Brightspeed (1M+ customers), and a single exposed database containing 149 million credentials (96GB). At least 29% of all data breaches involve third-party attacks. Social engineering exploits human psychology rather than technical vulnerabilities. AI-driven threats are proliferating, with 53% of leaders stating they're unprepared for AI-related cybersecurity risks. Cybercrime could cost businesses $15.6 trillion by 2029. Ransomware gangs post new victims daily to leak sites. The cybersecurity paradigm is shifting from "achieving secure systems" to "prioritizing defensible, resilient, and recoverable systems" — acknowledging that breaches are inevitable.
+
+**2026-02-09 Update**: The threat landscape continues deteriorating. Ransomware has evolved with double extortion (encrypting and stealing data) and triple extortion (threatening partners, customers, or public release). Ransomware-as-a-Service (RaaS) platforms democratize cybercrime, allowing inexperienced attackers to deploy sophisticated campaigns. By 2026, identity abuse has overtaken network exploits as the primary breach vector, with hackers focusing on stealing credentials, hijacking sessions, and bypassing multi-factor authentication. Identity security failures remain a key ransomware entry point. AI-driven autonomous threat agents can now autonomously scan systems, probe vulnerabilities, generate exploit code, and adapt tactics on the fly without human supervision. Approximately 11 data breaches are publicly disclosed daily based on 4,100+ breaches reported last year. In August 2025, Jaguar Land Rover suffered what is widely regarded as the most economically damaging cyber incident in UK history, expected to cost £1.9 billion. Poorly secured APIs and cloud setups are prime targets for data exfiltration and unauthorized access. Supply chain compromises targeting software dependencies and infrastructure providers can expose thousands of downstream customers through single vendor breaches. Ransomware is evolving beyond opportunistic attacks toward targeted disruptions designed to maximize operational and business impact. Success increasingly depends on early detection, credential protection, and behavioral intelligence.
 
 ### Evidence
 - [Security Magazine - January 2026 Breaches](https://www.securitymagazine.com/articles/102110-7-data-breaches-exposures-to-know-about-january-2026): Instagram 17.5M, Under Armour 72M emails, others
@@ -918,6 +920,11 @@ Organizations face an accelerating cybersecurity crisis as data breaches become 
 - [Bright Defense - Recent Data Breaches](https://www.brightdefense.com/resources/recent-data-breaches/): Comprehensive tracking of 2026 incidents
 - [Viking Cloud Cybersecurity Statistics](https://www.vikingcloud.com/blog/cybersecurity-statistics): $15.6T projected cost by 2029; 29% breaches involve third parties; 53% unprepared for AI risks
 - [Dark Reading - 2026 Cybersecurity Predictions](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats): Shift to resilience/recovery model
+- [Cybersecurity Insiders - Cyber Threats 2026](https://www.cybersecurity-insiders.com/significant-cyber-threats-of-2026-a-comprehensive-outlook/): Ransomware double/triple extortion, RaaS platforms, identity-based attacks primary vector
+- [Cyble - Ransomware Trends 2026](https://cyble.com/knowledge-hub/10-new-ransomware-groups-of-2025-threat-trend-2026/): 10 new ransomware groups emerged in 2025
+- [Integrity360 - Biggest Cyber Attacks 2025](https://insights.integrity360.com/the-biggest-cyber-attacks-of-2025-and-what-they-mean-for-2026): Jaguar Land Rover £1.9B loss in August 2025
+- [BreachSense - Recent Data Breaches 2026](https://www.breachsense.com/breaches/): Approximately 11 breaches disclosed daily
+- [OP Innovate - 6 Cyber Attack Paths 2026](https://op-c.net/blog/6-cyber-attack-paths-to-watch-in-2026/): API/cloud vulnerabilities, supply chain risks
 
 ### Connections
 - Related to: NEED-010 (shadow IT security crisis — unauthorized tools expanding attack surface), NEED-013 (enterprise AI gaps — AI creating new vulnerabilities), NEED-016 (content moderation — similar AI-powered threats)
@@ -2041,6 +2048,250 @@ The critical question: is this a training content problem (need better courses) 
 
 ---
 
+## Need: Gig Economy Worker Exploitation and Rights Erosion
+
+**ID**: NEED-038
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Gig economy workers — the foundation of platform capitalism — face systematic exploitation disguised as flexibility. Worker misclassification as independent contractors severs access to labor protections, transforming rights into privileges and vulnerability into a business model. Gig workers experience income instability from dynamic pricing and demand swings, lack basic protections (health care, unemployment insurance, Social Security), and face algorithmic control that digitizes and disguises traditional management oversight. Control has not disappeared — it has been algorithmically disguised through acceptance rates, deactivation risks, customer ratings, and payment incentives. Replacing direct employees with contractors reduces corporate labor costs by eliminating benefits and protections employees receive. Global rulemaking efforts are underway: the International Labour Organization is developing the first global rules for digital platform work, with final negotiations scheduled for 2026. Yet platforms resist regulation while workers bear growing burdens.
+
+### Evidence
+- [The Workers Rights - Gig Economy Labour Rights Debate 2026](https://www.theworkersrights.com/gig-economy-labour-rights-debate-2026/): Worker classification issues and income instability
+- [CLASP - Framework for Gig Economy Equity](https://www.clasp.org/publications/report/brief/framework-gig-economy-equity/): Workers lack protections and benefits
+- [NY State Bar - Reimagining Workers Rights](https://nysba.org/reimagining-workers-rights-in-the-gig-economy-bridging-the-gap-between-independent-contractors-and-employees/): Bridging contractor-employee gap
+- [Human Rights Watch - ILO Strengthen Rules](https://www.hrw.org/news/2025/11/14/ilo-strengthen-global-rules-to-protect-gig-workers): ILO developing first global rules, negotiations in 2026
+- [Poster Compliance - Labor Law for Gig Workers 2026](https://www.postercompliance.com/blog/labor-law-compliance-for-gig-workers-what-employers-need-to-know/): Misclassification penalties and consequences
+- [Drishti IAS - Gig Economy Balancing Growth with Protection](https://www.drishtiias.com/daily-updates/daily-news-editorials/gig-economy-balancing-growth-with-worker-protection): India draft rules require 90-day engagement for benefits
+
+### Connections
+- Related to: NEED-002 (burnout patterns), NEED-007 (teacher exodus — both reflect devaluation of essential work), NEED-012 (trust collapse — government failure to protect workers)
+- Potentially addresses: Worker security, economic justice, labor market stability
+- Blocked by: Platform resistance, regulatory arbitrage, political lobbying power of tech companies
+
+### Research Notes
+The phrase "vulnerability as a business model" captures the essence: platforms profit by shifting risk and cost to workers while maintaining algorithmic control.
+
+Key insight: Algorithmic control is control disguised. Workers appear independent but face automated enforcement mechanisms determining their income, work access, and livelihood. The platform retains power while avoiding employer responsibilities.
+
+ILO negotiations in 2026 represent a critical juncture — the first attempt at global platform work standards. Comments from governments, workers, and employers are being submitted ahead of final negotiations.
+
+India's draft rules requiring 90-day engagement for benefits eligibility creates a perverse incentive: platforms may cycle workers before the 90-day threshold to avoid obligations.
+
+California's AB 5 was upheld by Ninth Circuit in June 2024, attempting to reclassify workers, but faced significant corporate pushback. The legal battles continue.
+
+This connects to broader patterns of essential work being systematically devalued (NEED-007 teachers, NEED-001 OSS maintainers, NEED-008 family caregivers, NEED-016 content moderators).
+
+Potential software interventions:
+1. Worker cooperatives and platform alternatives with equitable governance
+2. Transparency tools revealing true algorithmic control and pay rates
+3. Organizing and collective bargaining platforms for distributed workers
+4. Portable benefits systems not tied to single employer
+5. Income smoothing and financial stability tools for variable earnings
+
+But fundamentally, this is a power and policy problem. Software alone cannot rebalance the relationship when platforms control the infrastructure and regulatory capture is significant.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Climate Anxiety and Eco-Despair in Youth
+
+**ID**: NEED-039
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Young people face not just the reality of climate change but the psychological burden of inheriting a damaged planet with diminishing time to act. Eco-anxiety — chronic fear of environmental doom — is rising particularly among teenagers and children as 2026 begins. Generation Z (ages 18-28) reports the highest levels, with 48.4% exhibiting high eco-anxiety — more than four times the rate of Baby Boomers. Two-thirds of surveyed youth feel sadness about climate change; 62% feel anxious; 67% feel afraid; only 31% feel optimistic. Fifty-one percent feel helpless. Climate anxiety affects long-term life decisions including family planning. Yet crucial nuance emerges from research: while climate anxiety correlates with poor mental health when examined alone, loneliness is the strongest predictor of mental health problems, and financial anxiety the strongest predictor of insomnia. Climate anxiety diminishes significantly when other stressors are considered. The problem is real but may be amplified by broader youth mental health crisis factors. Proposed state laws to ban or restrict teen social media use around climate content may not address root causes. The relationship between climate information exposure and mental health is more complex than simple causation.
+
+### Evidence
+- [Sustainable Living Association - Eco-Anxiety Psychology 2026](https://sustainablelivingassociation.org/the-psychology-of-eco-anxiety-in-youth-new-communication-strategies-for-parents-in-2026/): Eco-anxiety rising in 2026, particularly in teenagers
+- [PMC - Eco-Anxiety in Children Scoping Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9359205/): Mental health impacts of climate awareness in children
+- [PNAS - Psychological Impacts on US Youth](https://www.pnas.org/doi/10.1073/pnas.2311400122): Self-reported climate exposure linked to eco-anxiety and life planning impacts
+- [SAGE - Eco-Anxiety Across Age Groups](https://journals.sagepub.com/doi/10.1177/00207640251380066): Gen Z 48.4% high eco-anxiety, 4x Baby Boomers after adjusting for general anxiety
+- [PMC - Climate Anxiety in Youth Mental Health Context](https://pmc.ncbi.nlm.nih.gov/articles/PMC12576874/): Loneliness most important predictor of mental health; climate anxiety association diminishes when other stressors considered
+- [TIME - Climate Anxiety Taking Toll](https://time.com/7280989/climate-anxiety-mental-health-young-people/): 67% afraid, 62% anxious, 51% helpless, 31% optimistic
+
+### Connections
+- Related to: NEED-014 (youth mental health crisis — eco-anxiety as one component), NEED-006 (smallholder farmers — those experiencing climate firsthand), NEED-009 (climate displacement — the concrete reality driving the anxiety)
+- Potentially addresses: Youth mental health, climate action engagement, future planning resilience
+- Blocked by: Systemic climate inaction, inadequate climate education, media sensationalism
+
+### Research Notes
+The critical nuance from recent research: climate anxiety may be a symptom within a broader constellation of youth stressors rather than the primary driver. Loneliness is the most important predictor of poor mental health. Financial anxiety the most important predictor of insomnia. When these factors are controlled for, climate anxiety's association with mental health outcomes diminishes or becomes nonsignificant.
+
+This suggests: (1) addressing youth mental health requires holistic approaches, not single-issue interventions; (2) reducing loneliness and economic insecurity may be more impactful than solely addressing climate anxiety; (3) climate anxiety is real but interacts with other systemic youth challenges.
+
+The helplessness statistic (51%) is particularly concerning — it suggests learned helplessness and disempowerment rather than mobilization. Only 31% optimism indicates a generation struggling with hopelessness.
+
+Recommendations from research include: age-appropriate climate education considering youth emotions, promoting healthy coping through empowerment (not just information), and avoiding one-size-fits-all policy approaches like social media bans.
+
+The insight about family planning impacts is significant — climate anxiety is shaping major life decisions, potentially affecting long-term demographics and social patterns.
+
+This connects to NEED-014 (youth mental health) as one stressor among many. It also connects to NEED-012 (government trust collapse) — youth feel institutions have failed to address climate, increasing anxiety and disillusionment.
+
+Potential interventions:
+1. Climate education emphasizing agency and solutions, not just doom
+2. Youth-led climate action platforms building efficacy
+3. Mental health support specifically addressing eco-anxiety
+4. Community resilience building that reduces isolation while addressing climate
+5. Intergenerational connection programs pairing anxious youth with climate-active mentors
+
+The key insight: addressing eco-anxiety requires both climate action AND addressing the loneliness, economic insecurity, and systemic disconnection that amplify it.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Misinformation Industrialization and Trust Collapse
+
+**ID**: NEED-040
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+In 2026, we face not merely a crisis of disinformation — falsehoods spread with intent to deceive — but a crisis of knowing itself. Artificial intelligence has industrialized misinformation, enabling deepfakes that once required specialized expertise to be generated in seconds. By 2026, deepfakes and AI companions have become seamlessly integrated into everyday life, posing new ethical challenges and security threats. False narratives, deepfakes, and manipulated content are no longer isolated incidents requiring reactive response — they are an ambient condition of the communications environment. The Generative AI market is projected to grow 560% between 2025-2031, reaching $442 billion. Deloitte predicts generative AI could drive U.S. fraud losses from $12.3 billion (2023) to $40 billion by 2027 — a 32% annual growth rate. Forty-six percent of fraud experts have encountered synthetic identity fraud, 37% voice deepfakes, and 29% video deepfakes. During elections, deepfakes propagate misinformation at alarming rates, swaying public opinion during critically sensitive periods. A four-day military crisis between India and Pakistan in May 2025 became more dangerous when both countries integrated disinformation and fake images into conventional warfighting, with AI-aided generation making it difficult to verify reality during the crisis. Russia is escalating coordinated foreign information manipulation in Armenia ahead of 2026 elections, using bots, deepfakes, and impersonation sites. The defining challenge for 2026 is rebuilding trust when everything can be faked.
+
+### Evidence
+- [OpenTools.ai - Deepfakes and Digital Deception 2026](https://opentools.ai/news/deepfakes-and-digital-deception-how-ai-is-shaping-2026s-reality): Deepfakes seamlessly integrated into life, posing ethical and security threats
+- [WorldCom Group - 2026 Predictions Combating Misinformation](https://worldcomgroup.com/insights/2026-predictions-combating-misinformation-and-disinformation/): False narratives are ambient condition, not isolated incidents
+- [UNESCO - Deepfakes and Crisis of Knowing](https://www.unesco.org/en/articles/deepfakes-and-crisis-knowing): Crisis of knowing itself, not just disinformation
+- [NBC Bay Area - AI Deepfakes Costing Billions](https://www.nbcbayarea.com/news/local/ai-deepfakes-fraud/3979308/): Deloitte predicts $12.3B (2023) to $40B (2027) fraud losses
+- [Bulletin of Atomic Scientists - India-Pakistan Crisis](https://thebulletin.org/2026/01/disinformation-and-deepfakes-improving-crisis-communications-in-india-and-pakistan/): May 2025 four-day crisis made more dangerous by disinformation integrated into warfighting
+- [NEPYORK - Nepal Election Disinformation](https://nepyork.com/2026/01/30/surge-of-disinformation-clouds-nepals-upcoming-federal-election-as-ai-and-deepfakes-add-challenges/): AI and deepfakes clouding elections
+- [EU DisinfoLab - Armenia Foreign Information Manipulation](https://www.disinfo.eu/disinfo-update-16-12-2025-2-2-2-2-2-2): Russia escalating coordinated campaign with bots, deepfakes, impersonation sites
+
+### Connections
+- Related to: NEED-023 (deepfake democracy threat — electoral dimension), NEED-032 (election integrity crisis), NEED-012 (government trust collapse — misinformation accelerating distrust), NEED-014 (youth mental health — information environment toxicity)
+- Potentially addresses: Democratic stability, public safety, international security, civic discourse quality
+- Blocked by: Technology advancing faster than detection, economic incentives favoring engagement over truth, regulatory fragmentation globally
+
+### Research Notes
+UNESCO's framing as "crisis of knowing" is profound. This goes beyond fact-checking individual claims. When anything can be faked convincingly, epistemology itself breaks down. How do we know what we know?
+
+The industrialization framing is critical: This is no longer artisanal misinformation requiring skill and effort. GenAI has democratized sophisticated deception. The 560% market growth projection (2025-2031) to $442B suggests massive capital flowing into the technology enabling this crisis.
+
+The fraud cost projection — $12.3B to $40B in four years — represents preventable harm at staggering scale. 46% of fraud experts encountering synthetic identity fraud signals this is already mainstream, not emerging.
+
+The May 2025 India-Pakistan crisis example is chilling: disinformation integrated into conventional military operations created fog of war that made crisis resolution more difficult. This represents a new dimension of international security risk where adversaries cannot trust what they see during time-critical decision-making.
+
+The Russia-Armenia election interference shows coordinated state-level information warfare becoming standard practice ahead of 2026 elections globally.
+
+The key tension: The same generative AI technology powering productivity gains is simultaneously weaponizing deception. There is no "pause the bad AI, keep the good AI" option when they are the same systems.
+
+This connects to NEED-023 and NEED-032 (election integrity) as specific high-stakes applications. It connects to NEED-012 (trust collapse) as a accelerant — when citizens cannot trust what they see and hear, institutional trust collapses further.
+
+The challenge for 2026 is not preventing deepfakes (impossible given technology diffusion) but building societal resilience to operate in an environment where audio-visual evidence is no longer reliable.
+
+Potential interventions:
+1. Provenance and authentication systems for genuine content
+2. Media literacy education emphasizing verification processes
+3. Detection tools (though arms race dynamics apply)
+4. Platform accountability for viral misinformation amplification
+5. Alternative information architectures prioritizing trust over virality
+6. Regulatory frameworks with international coordination
+
+But fundamentally: we are in an epistemological crisis. Software can help at the margins, but societal adaptation to "trust nothing you see online" is the deeper requirement.
+
+This may be the most existentially threatening need identified — it undermines the foundation for addressing all other needs. If we cannot establish shared facts, collective action becomes impossible.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Mental Health Treatment Access and Insurance Barrier Crisis
+
+**ID**: NEED-041
+**Status**: observing
+**First Observed**: 2026-02-09
+**Last Updated**: 2026-02-09
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+America faces a mental health treatment access crisis driven by systemic barriers even as need reaches unprecedented levels. In January 2026, SAMHSA terminated hundreds of grants totaling approximately $2 billion supporting mental health and substance use disorder services, though funding was reinstated after immediate bipartisan pushback — the 24-hour chaos revealed system fragility. The "One Big Beautiful Bill Act" passed July 2025 cut federal Medicaid funding by $1 trillion over 10 years, which CBO estimates will result in nearly 15 million people losing Medicaid coverage. Since Medicaid beneficiaries are more likely to experience behavioral health disorders and the program pays for a quarter of behavioral health spending, these cuts will disproportionately damage access. Financial barriers are most prevalent: traditional therapy sessions range $100-$200 per session. According to HRSA, 149 million Americans — nearly half the U.S. population — live in federally-designated Mental Health Professional Shortage Areas, compared to 93 million in primary-care shortage areas. Insurance companies adopt restrictive practices including paying mental health providers lower rates than other medical providers and excluding mental health providers from insurance networks. White adults are significantly more likely to receive mental health treatment (23%) compared to Black adults (13.6%) and Hispanic adults (12.9%). Patients face familiar struggles: limited access to care, administrative hurdles, stigma, and misinformation. Despite some recent progress, stigma, systemic barriers, and inequitable access remain deeply rooted.
+
+### Evidence
+- [APA Services - New Policies Affecting Mental Health Access](https://updates.apaservices.org/new-policies-affecting-access-to-mental-health-care): January 2026 SAMHSA funding terminated then restored; Medicaid cuts impacting behavioral health
+- [AAPC - 2026 Outlook Behavioral Health](https://www.aapc.com/blog/93688-2026-outlook-behavioral-health-and-drug-dependence/): Policy changes threatening access at time of unprecedented need
+- [AAMC - Exploring Barriers to Mental Health Care](https://www.aamc.org/about-us/mission-areas/clinical-care/exploring-barriers-mental-health-care-us): 149M in shortage areas, insurance restrictive practices
+- [Rego Park Counseling - Barriers to Treatment 2025](https://www.regoparkcounseling.com/barriers-to-mental-health-treatment-accessing-care-in-2025/): Financial constraints most prevalent barrier
+- [Favor Mental Health - State of Mental Health 2026](https://www.favormentalhealthservices.com/post/the-state-of-mental-health-in-2026-what-has-changed-and-what-still-needs-fixing): Familiar struggles persist: limited access, administrative hurdles, stigma
+- [Bonterra - 5 Barriers to Mental Healthcare Access](https://www.bonterratech.com/blog/barriers-to-mental-healthcare-access): Systemic barriers and inequitable access remain deeply rooted
+- [AMA - Lack of Evidence-Based Care Poses Grave Threat](https://www.ama-assn.org/about/leadership/lack-access-evidence-based-mental-health-care-poses-grave-threat): Insurance network exclusions and rate differentials
+
+### Connections
+- Related to: NEED-014 (youth mental health crisis — treatment gap for affected youth), NEED-004 (healthcare digital divide — telemedicine barriers), NEED-008 (caregiver crisis — mental health impacts), NEED-002 (developer burnout — need treatment access)
+- Potentially addresses: Mental health outcomes, suicide prevention, workforce productivity, family stability
+- Blocked by: Provider shortage, insurance industry practices, Medicaid cuts, systemic funding inadequacy
+
+### Research Notes
+The January 2026 SAMHSA funding crisis — terminated and restored within 24 hours — reveals system fragility. $2 billion in mental health services nearly vanished due to administrative action, saved only by immediate bipartisan outcry. This suggests political vulnerability of mental health funding despite growing need.
+
+The Medicaid cut impact is profound: $1 trillion over 10 years, 15 million losing coverage, disproportionate impact on behavioral health since Medicaid pays for 1/4 of behavioral health spending and beneficiaries have higher disorder rates. This is a deliberate policy choice to reduce access precisely when crisis intensifies.
+
+The provider shortage is staggering: 149 million Americans (nearly half) live in Mental Health Professional Shortage Areas. For comparison, only 93 million live in primary care shortage areas. Mental health provider shortage exceeds general medical provider shortage.
+
+Insurance practices create systematic barriers: lower reimbursement rates than other medical providers disincentivize mental health practice; network exclusions force patients out-of-network at higher cost; prior authorization requirements delay care.
+
+Racial disparities are significant: White adults 23% treatment rate versus Black 13.6% and Hispanic 12.9%. This reflects both access barriers and cultural/trust factors.
+
+The financial barrier ($100-$200 per session) combined with insurance exclusions creates effective denial of care for many. Medicaid cuts will worsen this.
+
+This connects to NEED-014 (youth mental health) as the infrastructure that fails to deliver treatment for the 60% of adolescents with depression who receive no care. The need exists (NEED-014), the treatment access fails (NEED-041).
+
+The timing is catastrophic: As mental health crisis reaches unprecedented levels (NEED-014 showing 1B+ globally affected, $1T annual economic cost), the U.S. is actively cutting funding and coverage.
+
+Potential software interventions:
+1. Telehealth platforms reducing geographic shortage impact
+2. Sliding scale and pro-bono provider matching systems
+3. Peer support and mutual aid networks supplementing professional care
+4. Insurance navigation and advocacy tools
+5. Provider network transparency revealing true access
+6. Alternative care models (group therapy, peer counseling, digital therapeutics)
+
+But fundamentally: this is a financing and workforce problem. Software can reduce friction but cannot replace providers who don't exist or insurance that won't pay.
+
+This need is CRITICAL because it represents the infrastructure failure underlying multiple other needs. When the mental health system collapses, cascading crises follow across education, workforce, families, and communities.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -2133,6 +2384,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-09 | Scout-01 | Added NEED-036 | Haiti Gang Violence and State Collapse - CRITICAL signal; 90% of Port-au-Prince under gang control, 6.4M (half population) need humanitarian aid, 210% homicide increase outside capital, sexual violence tripled, less than 4% of appeal funded |
 | 2026-02-09 | Scout-01 | Added NEED-037 | Digital Literacy and AI Skills Workforce Gap - strong signal; 92% of jobs require digital literacy yet 1/3 of workers lack it, 66% of leaders won't hire without AI skills, demand accelerating far faster than supply |
 | 2026-02-09 | Scout-01 | Updated NEED-014 | Added social media complexity nuance: Manchester study of 25K+ teens suggests causation oversimplified, no evidence for one-size-fits-all bans, relationship more nuanced than simple causation; 3+ hours/day doubles risk but time alone doesn't cause problems |
+| 2026-02-09 | Scout-01 | Added NEED-038 | Gig Economy Worker Exploitation and Rights Erosion - strong signal; misclassification severs protections, algorithmic control disguised, ILO negotiations in 2026 |
+| 2026-02-09 | Scout-01 | Added NEED-039 | Climate Anxiety and Eco-Despair in Youth - strong signal; Gen Z 48.4% high eco-anxiety (4x Boomers), but loneliness is strongest mental health predictor, nuanced relationship |
+| 2026-02-09 | Scout-01 | Added NEED-040 | Misinformation Industrialization and Trust Collapse - CRITICAL signal; crisis of knowing itself, AI industrialized deception, fraud losses $12.3B to $40B by 2027, deepfakes in military crises, everything fakeable |
+| 2026-02-09 | Scout-01 | Added NEED-041 | Mental Health Treatment Access and Insurance Barrier Crisis - CRITICAL signal; Jan 2026 $2B SAMHSA funding chaos, $1T Medicaid cuts, 149M in shortage areas, insurance exclusions, racial disparities, system collapsing as need peaks |
+| 2026-02-09 | Scout-01 | Updated Overview | Increased observing count from 36 to 41 needs |
+| 2026-02-09 | Scout-01 | Updated NEED-019 | Escalated to CRITICAL; added ransomware evolution (double/triple extortion, RaaS), identity-based attacks now primary vector, AI autonomous threat agents, 11 breaches/day, Jaguar £1.9B loss, supply chain/API/cloud vulnerabilities |
 
 ---
 
