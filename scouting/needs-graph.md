@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 41 | Initial signals detected, gathering evidence |
+| Observing | 43 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -595,8 +595,8 @@ The key question: Can software help facilitate genuine citizen participation at 
 **ID**: NEED-013
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-06
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-10
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -627,6 +627,8 @@ Key barriers:
 Quote: "Enterprise AI has entered a stage of cautious maturity... organizations realizing that scaling AI is far more complicated than launching pilots."
 
 **2026-02-06 Update**: A stark warning emerges: 40% of agentic AI projects will fail by 2027 due to organizations automating broken processes instead of reimagining operations for human-AI collaboration. AI will handle 70-80% of routine coding tasks by 2026, requiring organizations to shift from experimental pilots to AI-native development strategies that redesign entire workflows. Yet most enterprises lack the foundation: clean data infrastructure, skilled talent, and cultural readiness. CIOs report that 2026 will end unchecked AI spending, with cost discipline now mandatory. Cloud and AI costs are no longer predictable or linear. Organizations face simultaneous pressure to adopt AI rapidly while lacking the infrastructure, skills, and frameworks to do so successfully.
+
+**2026-02-10 Update**: The agentic AI failure crisis has crystallized. Gartner confirms over 40% of agentic AI projects will be canceled by end of 2027 due to escalating costs, unclear business value, and inadequate risk controls. The failure rate for enterprises not following best practices reaches 95%. Primary causes: (1) Architecture and data challenges — integration failures create data silos, inconsistent performance, and user frustration; if data is incomplete/outdated/inconsistent, outputs are unreliable; (2) Strategic failures — starting without clear goals, isolated tasks, over-access permissions, messy data, failure to monitor post-release; (3) Market hype — most agentic AI projects are early-stage experiments driven by hype and misapplied, with vendors engaging in "agent washing" (rebranding existing AI assistants, RPA, and chatbots without substantial agentic capabilities); (4) Security threats — Tool Misuse and Privilege Escalation most common (520 incidents), Memory Poisoning and Supply Chain attacks carry disproportionate severity. Specific failure mode: "Loop of Death" (recursive reasoning failure) where agents enter infinite loops, endlessly planning without execution or refining queries without convergence. Only 11% of organizations have AI agents in production despite 38% piloting them. **The real challenge is not adopting new tools but transforming how businesses think, operate, and deliver value.** Infrastructure built for cloud-first can't handle AI economics, processes designed for humans don't work for agents, security models built for perimeter defense don't protect against machine-speed threats, and IT operating models built for service delivery don't drive business transformation. First publicly reported AI-orchestrated hacking campaign appeared in 2025; agentic AI systems expected to reshape offense-defense balance in cyberspace in 2026. 61% of employees expect their job role to change significantly in 2026 due to AI, and half worry technology will make their job obsolete. 2026 represents critical correction period for agentic AI — organizations learning which implementations deliver genuine value versus hype.
 
 This connects to NEED-002 (developer burnout with AI tools) — companies push AI adoption without the foundation to support it, burning out both employees and executives.
 
@@ -1939,7 +1941,7 @@ The scale is staggering: 33.7 million needing assistance (10% increase year-over
 **ID**: NEED-036
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-09
+**Last Updated**: 2026-02-10
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -1966,6 +1968,8 @@ The sexual violence pattern is particularly horrific: tripled in four years, bei
 The funding crisis is catastrophic: less than 4% of the humanitarian appeal funded as of early February 2026. Compare to the scale of need: 6.4 million (half the country) requiring humanitarian support.
 
 The political transition deadline of February 7, 2026 passed with no resolution. The October 2025 UN authorization of a "gang suppression force" followed a previous 2024 stabilization effort that "achieved little as it was underfunded and underequipped."
+
+**2026-02-10 Update**: The Transitional Presidential Council's mandate expired in February 2026 as anticipated, creating a power vacuum. As warned by multiple observers in early February, armed gangs are positioned to exploit this vacuum, worsening the situation for civilians. The New START Treaty between the United States and Russia also expires in February 2026, adding geopolitical instability to the global context. Haiti's crisis continues to unfold amid shrinking international support and political paralysis, with 20 countries (including Haiti) facing worsening humanitarian crises.
 
 This pattern is familiar: international attention, symbolic responses, inadequate funding, continued collapse.
 
@@ -2292,6 +2296,163 @@ This need is CRITICAL because it represents the infrastructure failure underlyin
 
 ---
 
+## Need: Data Quality and AI Governance Crisis
+
+**ID**: NEED-042
+**Status**: observing
+**First Observed**: 2026-02-10
+**Last Updated**: 2026-02-10
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Poor data quality is the top challenge for 64% of organizations and the primary killer of AI initiatives. Gartner predicts that through 2026, organizations will abandon 60% of AI projects due to insufficient data quality. Seventy-three percent of AI projects fail due to data quality and governance issues, not algorithms. The financial impact is severe: McKinsey found data processing and cleanup consume over 30% of analytics teams' time, with annual costs of poor data quality reaching $12.9 million per organization. Common issues include 62% reporting incomplete data, 58% citing capture inconsistencies, and 57% complaining about data integration problems. Despite widespread recognition of governance's importance, only 15% of organizations report having mature data governance, and 62% cite data governance as the greatest AI advancement impediment. The regulatory environment intensifies the challenge: 137 active data privacy laws globally as of February 2026 (up from 89 in 2023). In 2026, data quality and governance are business differentiators, not back-office tasks — yet organizations struggle to move beyond awareness to action. Unclear data ownership, inconsistent policies, and privacy concerns paralyze AI initiatives while messy data undermines every algorithm deployed.
+
+### Evidence
+- [Dataversity - Data Management Trends 2026](https://www.dataversity.net/articles/data-management-trends/): Moving beyond awareness to action; data quality and governance as business differentiators
+- [Data Management Training - Top Challenges 2026](https://datamanagementtraining.com/top-data-management-challenges/): Poor data quality tops challenge list at 64%; $12.9M annual cost per organization
+- [Atlan - Data Quality vs Data Governance](https://atlan.com/data-quality-vs-data-governance/): 73% of AI projects fail due to data quality and governance issues
+- [Integrate.io - Data Transformation Statistics](https://www.integrate.io/blog/data-transformation-challenge-statistics/): McKinsey data showing 30%+ of analytics time spent on cleanup
+- [MyData-Trust - Data Governance 2025-2026](https://www.mydata-trust.com/2026/01/07/data-governance-2025-2026/): Key lessons and challenges ahead; only 15% have mature governance
+- [Kanerika - Data Governance Challenges 2026](https://kanerika.com/blogs/data-governance-challenges/): 62% cite governance as greatest AI impediment; 137 privacy laws globally (up from 89 in 2023)
+- [AIM Multiple - AI Data Quality 2026](https://research.aimultiple.com/data-quality-ai/): Gartner predicts 60% of AI projects abandoned due to insufficient data quality through 2026
+
+### Connections
+- Related to: NEED-013 (enterprise AI implementation gap — data quality cited as top barrier), NEED-002 (developer burnout — cleaning messy data), NEED-010 (shadow IT — ungoverned data), NEED-021 (AI safety — garbage in, dangerous outputs out)
+- Potentially addresses: AI project success rates, analytics ROI, regulatory compliance, decision-making quality
+- Blocked by: Organizational silos, legacy systems, unclear data ownership, insufficient tooling
+
+### Research Notes
+The crisis has three dimensions: quality, governance, and the gap between them.
+
+**Data Quality Crisis:**
+- 64% of organizations report poor data quality as top challenge
+- Common issues: 62% incomplete data, 58% capture inconsistencies, 57% integration problems
+- McKinsey: 30%+ of analytics teams' time spent on data cleanup
+- $12.9M average annual cost per organization
+
+**Governance Crisis:**
+- Only 15% have mature data governance despite widespread implementation efforts
+- 62% cite governance as greatest AI advancement impediment
+- Unclear data ownership, inconsistent policies, privacy concerns paralyze initiatives
+- 137 active global privacy laws (up 54% from 89 in 2023) creating compliance complexity
+
+**AI Impact Crisis:**
+- Gartner: 60% of AI projects abandoned through 2026 due to insufficient data quality
+- 73% of AI projects fail due to data quality and governance issues, not algorithms
+- NEED-013 shows 52% cite data quality/availability as biggest AI adoption barrier
+- Poor data quality creates unreliable AI outputs, undermining trust and adoption
+
+The insight: Organizations are investing billions in AI and analytics while their data infrastructure remains fundamentally broken. As one source put it: "data quality and governance are business differentiators, not back-office tasks" — yet organizations struggle to move beyond awareness to action.
+
+The timing is catastrophic: As AI adoption accelerates (NEED-013, NEED-034) and regulatory requirements intensify (137 laws globally), the foundational data layer that everything depends on remains inadequate. Companies are building AI skyscrapers on quicksand foundations.
+
+This is not primarily a technology problem — data quality tools exist. It's an organizational problem: who owns data, who cleans it, who governs it, who funds it? When data quality work is distributed across teams with no clear ownership and no dedicated resources, data degrades faster than it improves.
+
+The connection to NEED-021 (AI safety) is direct: Poor data quality means AI systems trained on garbage data produce garbage (or dangerous) outputs. The connection to NEED-013 (AI implementation gap) is root cause: data quality is the #1 cited barrier. The connection to NEED-002 (developer burnout) is daily grind: developers spend 30%+ of time cleaning data instead of building features.
+
+Potential software interventions:
+1. Automated data quality monitoring and alerting systems
+2. Data governance workflow tools (ownership, lineage, approval)
+3. Data catalog and discovery platforms making data findable and trustable
+4. Data quality scoring and transparency tools
+5. Regulatory compliance tracking dashboards
+6. Cross-system data integration and normalization tools
+
+But fundamentally: This requires organizational commitment, clear ownership, dedicated resources, and executive sponsorship. Software can enable, but cannot substitute for, organizational discipline.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: API Integration Complexity and Developer Friction Crisis
+
+**ID**: NEED-043
+**Status**: observing
+**First Observed**: 2026-02-10
+**Last Updated**: 2026-02-10
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+API integration remains a persistent source of technical challenges that delay projects, inflate maintenance budgets, and impact system reliability. Poor documentation is "the most universally cited frustration in the developer community," with nearly 40% of developers citing inconsistent documentation as their biggest challenge. APIs often return vague error messages (e.g., "Error 500: Internal Server Error") that provide little insight, causing developers to spend excessive time diagnosing problems and leading to frustration and delayed implementation. The diversity of API providers creates complexity: each has different systems, technologies, error-handling mechanisms, rate-limiting protocols, and unique data formats. Integrating even one API can take months; maintaining dozens becomes a full-time job. The platform fragmentation problem intensifies in 2026 with AI services: the fragmentation of AI services, the complexity of managing multiple integrations, and the prohibitive cost of accessing premium services all compound the traditional API challenges. These challenges delay projects, inflate maintenance budgets, and compromise system reliability. Despite technological advancement, API integration complexity and developer frustration remain significant heading into 2026, with documentation quality and system diversity being the most persistent issues.
+
+### Evidence
+- [API7.ai - How to Overcome API Integration Challenges](https://api7.ai/learning-center/api-101/how-to-overcome-api-integration-challenges): Persistent technical challenges delaying projects and impacting reliability
+- [BoldSign - Exploring the API Trenches](https://boldsign.com/blogs/exploring-the-api-trenches-overcoming-challenges-in-api-integration-and-development/): Nearly 40% cite inconsistent documentation as biggest challenge
+- [Index.dev - 7 Major API Integration Challenges](https://www.index.dev/blog/api-integration-challenges-solutions): Poor documentation most universally cited frustration
+- [Theneo.io - API Integration Challenges](https://www.theneo.io/blog/api-integration-challenges): Vague error messages cause excessive diagnostic time
+- [PLANEKS - 6 API Integration Challenges](https://www.planeks.net/api-integration-challenges/): Diversity of API providers makes integration complex
+- [Sabre - The Invisible Cost of API Complexity](https://www.sabre.com/insights/invisible-cost-of-api-complexity/): APIs aren't as lightweight as they seem
+- [Cyclr - Challenges of Working with APIs](https://cyclr.com/blog/the-challenges-of-working-with-apis): Integrating one API can take months; maintaining dozens becomes full-time job
+- [Finch - Common Challenges of Building Multiple API Integrations](https://www.tryfinch.com/blog/common-challenges-of-building-multiple-api-integrations): Multiple integrations create exponential complexity
+
+### Connections
+- Related to: NEED-002 (developer burnout — API frustration compounds tool overload), NEED-005 (small business overwhelm — integration complexity), NEED-013 (enterprise AI gap — integrating AI APIs)
+- Potentially addresses: Developer productivity, system reliability, time-to-market, maintenance burden
+- Blocked by: Lack of API standardization, vendor diversity, inadequate documentation practices
+
+### Research Notes
+The API integration problem has four dimensions:
+
+**1. Documentation Crisis:**
+Poor documentation is the #1 complaint (40% of developers). Issues include:
+- Out-of-date information
+- Missing examples or edge cases
+- Poor organization and searchability
+- Lack of localization
+- Inconsistency between versions
+
+**2. Error Handling Nightmare:**
+Vague error messages like "Error 500: Internal Server Error" provide no actionable information. Developers waste hours diagnosing problems that could be communicated clearly. Different APIs use different error formats, codes, and conventions, requiring developers to learn each system's unique approach.
+
+**3. System Diversity and Incompatibility:**
+Each API provider uses different:
+- Data formats (JSON vs XML vs proprietary)
+- Authentication mechanisms (OAuth, API keys, JWT, etc.)
+- Rate limiting protocols
+- Error handling conventions
+- Versioning strategies
+
+This means integrating 10 different APIs requires learning 10 different systems, not one system 10 times.
+
+**4. Maintenance Burden:**
+APIs change over time: versioning, deprecation, breaking changes. Integrating one API can take months. Maintaining dozens becomes a full-time job. When an API changes, all dependent systems risk breaking.
+
+The 2026 AI context amplifies this: Companies are integrating multiple AI service APIs (OpenAI, Anthropic, Google, AWS, Azure, etc.), each with different interfaces, pricing models, rate limits, and capabilities. The "platform fragmentation problem" is acute.
+
+Quote: "The fragmentation of AI services, the complexity of managing multiple integrations, and the prohibitive cost of accessing premium services" — all compound traditional API challenges.
+
+This connects to NEED-002 (developer burnout): API frustration is part of the tool overload and complexity that burns developers out. It connects to NEED-005 (small business tech overwhelm): businesses trying to integrate marketing, CRM, accounting, and payment systems face API integration hell. It connects to NEED-013 (enterprise AI gap): 60% struggle with integrating AI into legacy systems, often via APIs.
+
+The invisible cost: APIs appear "lightweight" but integration, testing, error handling, monitoring, versioning, and maintenance create substantial hidden complexity and ongoing burden.
+
+Potential software interventions:
+1. API aggregation platforms providing unified interfaces to multiple services
+2. Improved API documentation standards and tooling
+3. Error message translation and debugging assistance tools
+4. Integration testing and monitoring frameworks
+5. API versioning and deprecation management systems
+6. "API adapter" layers handling format translation and error normalization
+
+This is a standards and tooling problem. While each vendor has incentive to differentiate, developers bear the cost of that fragmentation. Industry-wide API standards would help, but adoption faces coordination challenges.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -2387,6 +2548,10 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-09 | Scout-01 | Added NEED-038 | Gig Economy Worker Exploitation and Rights Erosion - strong signal; misclassification severs protections, algorithmic control disguised, ILO negotiations in 2026 |
 | 2026-02-09 | Scout-01 | Added NEED-039 | Climate Anxiety and Eco-Despair in Youth - strong signal; Gen Z 48.4% high eco-anxiety (4x Boomers), but loneliness is strongest mental health predictor, nuanced relationship |
 | 2026-02-09 | Scout-01 | Added NEED-040 | Misinformation Industrialization and Trust Collapse - CRITICAL signal; crisis of knowing itself, AI industrialized deception, fraud losses $12.3B to $40B by 2027, deepfakes in military crises, everything fakeable |
+| 2026-02-10 | Scout-01 | Updated NEED-013 | Escalated to CRITICAL; added Feb 10 data: 40% agentic AI project failure confirmed by Gartner, 95% failure without best practices, "Loop of Death" failure mode, 520 security incidents, agent washing, transformation not adoption challenge |
+| 2026-02-10 | Scout-01 | Added NEED-042 | Data Quality and AI Governance Crisis - CRITICAL signal; 64% cite poor data quality as top challenge, 60% of AI projects abandoned due to data issues, 73% fail on governance not algorithms, $12.9M annual cost, only 15% have mature governance, 137 global privacy laws |
+| 2026-02-10 | Scout-01 | Added NEED-043 | API Integration Complexity and Developer Friction Crisis - strong signal; 40% cite documentation as biggest challenge, vague error messages, system diversity incompatibility, months to integrate one API, AI platform fragmentation compounds problem |
+| 2026-02-10 | Scout-01 | Updated NEED-036 | Added Feb 10 update: Haiti Transitional Presidential Council mandate expired creating power vacuum, armed gangs positioned to exploit, New START Treaty also expired Feb 2026 adding geopolitical instability |
 | 2026-02-09 | Scout-01 | Added NEED-041 | Mental Health Treatment Access and Insurance Barrier Crisis - CRITICAL signal; Jan 2026 $2B SAMHSA funding chaos, $1T Medicaid cuts, 149M in shortage areas, insurance exclusions, racial disparities, system collapsing as need peaks |
 | 2026-02-09 | Scout-01 | Updated Overview | Increased observing count from 36 to 41 needs |
 | 2026-02-09 | Scout-01 | Updated NEED-019 | Escalated to CRITICAL; added ransomware evolution (double/triple extortion, RaaS), identity-based attacks now primary vector, AI autonomous threat agents, 11 breaches/day, Jaguar £1.9B loss, supply chain/API/cloud vulnerabilities |
