@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 43 | Initial signals detected, gathering evidence |
+| Observing | 47 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -208,8 +208,8 @@ This is a complex systemic problem — software alone cannot solve infrastructur
 **ID**: NEED-005
 **Status**: observing
 **First Observed**: 2026-01-31
-**Last Updated**: 2026-02-08
-**Signal Strength**: strong
+**Last Updated**: 2026-02-10
+**Signal Strength**: urgent
 **Scout**: Scout-01
 
 ### The Need
@@ -233,6 +233,8 @@ Quote from operations expert Cameo Roberson: "There are so many tech options, an
 **2026-02-05 Update**: Small business challenges in 2026 include workforce shortages (labor is often biggest expense), tariff pressures (8-10x higher than start of 2025), elevated interest rates limiting borrowing, and economic uncertainty. Labor remains the top challenge — "without adequate staffing, stable economic conditions aren't possible." Small businesses are building cash reserves (47%), renegotiating supplier terms (36%), and ramping up marketing/technology investments to weather pressures. Despite challenges, Q3 2025 Small Business Index hit record 72.0 confidence level.
 
 **2026-02-08 Digital Transformation Crisis**: Organizations across industries investing heavily in technology yet many struggle with execution. **The real challenge is not adopting new tools but transforming the way businesses think, operate, and deliver value.** Major struggle areas for small businesses: (1) **Limited resources** — small businesses lack time, capacity, and money to fully achieve digital transformation, creating barrier to keeping pace with larger competitors; (2) **Skills and expertise gap** — common challenges include lack of technical expertise, limited budgets, resistance to change among employees, and poor planning. While organizations invest in advanced tools, employees often lack skills to use them effectively, causing initiatives to fail to deliver value; (3) **Legacy infrastructure** — older systems lack flexibility, slow innovation, increase operational risk, preventing businesses from scaling, integrating AI, or delivering real-time insights; (4) **Execution over technology** — despite years of effort and resources, many businesses fail to see real outcomes, with most struggles coming from unclear direction, roles, and poor execution. **In 2026, 96% of small business owners plan to adopt emerging technologies soon**, indicating strong intent despite challenges. Digital transformation in 2026 requires leaders who can balance innovation with stability, guiding transformation with clarity, empathy, and long-term vision — treating it as continuous evolution, not one-time project.
+
+**2026-02-10 Tariff Economic Crisis Intensifies**: The tariff burden on small businesses has reached critical levels. Small businesses paid an average of roughly $42,600 in total tariffs per month in September 2025. **If this monthly amount persists throughout 2026, the typical small business will pay more than $500,000 in tariffs — a catastrophic cost for operations with slim margins.** Current tariff levels remain eight to ten times higher than at the start of 2025, contributing to ongoing inflation and supply chain pressure. More than 97% of U.S. companies that import goods are small businesses, and many are now struggling as tariffs increase the cost of imported goods. **Higher costs have hit smaller companies harder because they have fewer levers to pull than larger competitors** — their margins are slimmer, their supply chains less diverse, and their negotiating power dampened by smaller order sizes. Many small businesses have been forced to freeze hiring, pull back growth plans, take on new financing, or cut salaries to keep operations afloat. The Supreme Court is reviewing whether the administration acted lawfully in imposing global tariffs using IEEPA, and if ruled unlawful, affected businesses may be entitled to refunds. Small businesses represent the "canary in the coal mine" — their struggles signal broader economic warning signs for 2026.
 
 Recommended approach for SMBs:
 1. Audit current technology, identify redundant tools
@@ -1449,8 +1451,8 @@ This is fundamentally a political and legal problem requiring democratic governa
 **ID**: NEED-028
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-06
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-10
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -1492,6 +1494,8 @@ Potential interventions:
 6. International cooperation frameworks for AI cybercrime
 
 This is an arms race: offensive AI capabilities advancing rapidly while defensive AI struggles to keep pace. The asymmetry favors attackers.
+
+**2026-02-10 Deepfake Fraud Explosion**: The financial impact of AI-powered fraud has reached catastrophic levels. **Consumers lost more than $12.5 billion to fraud in 2024, with losses ballooning 25% even as fraud report numbers held steady** — indicating both rising sophistication and higher per-incident losses. **In 2025, deepfake-related losses from fraud and scams in the US reached $1.1 billion, tripling from $360 million in 2024.** Deepfake-enabled vishing attacks surged by over 1,600% in Q1 2025 compared to Q4 2024 in the US. Experian warns of a fraud "tipping point" in 2026 as AI-enabled scams achieve industrial scale. **Seventy-two percent of business leaders believe AI-enabled fraud and deepfakes will be among their top operational challenges in 2026.** Key threat vectors include: (1) **Employment fraud** — generative AI tools create hyper-tailored resumes and deepfake candidates passing real-time interviews in remote workforce settings; (2) **Emotionally intelligent scams** — AI bots with high emotional IQ executing automated romance and family-emergency scams with intense sophistication; (3) **Website cloning** — AI tools making it trivial to replicate legitimate websites for phishing attacks, overwhelming fraud detection teams. **Online scams are expected to nearly double in 2026 as AI makes phishing messages, scam calls, and fake websites harder to spot.** The crisis represents industrialization of deception: what once required human criminal effort now scales infinitely through AI automation. The economic damage compounds: businesses face simultaneous threats from external fraud, internal hiring risks, and customer protection burdens.
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -2453,6 +2457,358 @@ This is a standards and tooling problem. While each vendor has incentive to diff
 
 ---
 
+## Need: Supply Chain Cyberattack Crisis
+
+**ID**: NEED-044
+**Status**: observing
+**First Observed**: 2026-02-10
+**Last Updated**: 2026-02-10
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Cyberattacks targeting global supply chain and logistics infrastructure have surged to crisis levels, threatening the backbone of international commerce. Between 2021 and 2025, cyber-attacks targeting logistics increased by a shocking 965% — nearly ten-fold. In 2025 alone, there was a 61% surge in cyber-attacks on logistics operations. Experts are particularly concerned about cyber-attacks on logistics infrastructure in 2026, including ports, carriers, third-party logistics providers (3PLs), and transportation networks. The convergence of aging infrastructure, extreme weather, and cyberattacks creates compound disruption risk. Infrastructure failures are predicted to cause at least one multibillion-dollar disruption in 2026 as ports, bridges, power grids, and transportation networks face strain from both climate impacts and cyber threats. Chinese New Year disruptions in February 2026 (February 17-23, extending 6-8 weeks in practice) compound seasonal vulnerability. Overall, 2026 supply chains face persistent disruption from tariffs, geopolitical instability, cyberattacks, and infrastructure failure.
+
+### Evidence
+- [Everstream Analytics - Supply Chain Disruptions 2026](https://www.everstream.ai/articles/are-you-prepared-for-the-supply-chain-disruptions-of-2026/): 61% surge in logistics cyber-attacks in 2025, 965% increase 2021-2025
+- [Z2Data - 22 Critical Supply Chain Risks 2026](https://www.z2data.com/insights/22-critical-supply-chain-risks-to-watch-for-in-2026): Cyberattacks on logistics among top risks
+- [Supply Chain Dive - 5 Supply Chain Management Trends 2026](https://www.supplychaindive.com/news/supply-chain-trends-risks-2026-retail-manufacturing/808797/): Cyber-attacks targeting ports, carriers, 3PLs highlighted
+- [Taylor Logistics - February 2026 Outlook](https://taylorlogistics.com/2026/02/02/february-2026-supply-chain-outlook-trends-disruptions-and-what-to-expect/): Chinese New Year disruptions February 17-23 (6-8 week impact)
+- [SupplyChainBrain - Survey on Supply Chain Disruptions](https://www.supplychainbrain.com/articles/43389-survey-supply-chain-leaders-bet-on-ai-in-2026-as-disruptions-accelerate): Disruptions accelerating in 2026
+- [Marsh - Supply Chain Trends 2026](https://www.marsh.com/en/services/business-interruption-supply-chain/insights/supply-chain-trends.html): Infrastructure failures predicted to cause multibillion-dollar disruptions
+
+### Connections
+- Related to: NEED-019 (cybersecurity crisis — supply chain attack vector), NEED-028 (AI-driven cybercrime — attack sophistication), NEED-026 (infrastructure decay — compounding vulnerability)
+- Potentially addresses: Economic stability, national security, business continuity, consumer goods availability
+- Blocked by: Aging infrastructure, lack of supply chain cybersecurity standards, international coordination gaps, complexity of global logistics networks
+
+### Research Notes
+The 965% increase in logistics cyberattacks over four years represents fundamental shift in threat landscape. Supply chain infrastructure has become prime target because:
+
+1. **Cascading impact**: Attacking one logistics node disrupts multiple downstream businesses
+2. **Critical infrastructure status**: Ports, carriers, and 3PLs are essential to economic function
+3. **Legacy systems**: Many logistics systems run outdated software with known vulnerabilities
+4. **Interconnected networks**: Supply chains link thousands of entities, creating vast attack surface
+5. **High ransomware value**: Logistics downtime costs escalate rapidly, making companies more likely to pay
+
+The convergence of threats is particularly concerning:
+- Cyberattacks exploit infrastructure vulnerabilities
+- Extreme weather (Europe's €43B losses in 2025 from heat, drought, flooding) strains infrastructure
+- Aging infrastructure (40% of EU distribution systems over 40 years old) increases failure risk
+- Geopolitical tensions (tariffs, export restrictions) create supply chain fragility
+
+**Multibillion-dollar disruption prediction**: Experts forecast at least one infrastructure-caused disruption exceeding $1 billion in 2026. With ports, bridges, power grids, and transportation networks under strain, a successful cyberattack on critical logistics infrastructure could trigger cascading failures.
+
+The Chinese New Year observation is tactical but relevant: February 17-23 official holiday creates 6-8 week production slowdown (factories wind down early, don't return to full capacity until mid-March). This seasonal vulnerability window coincides with heightened cyber threat awareness in 2026.
+
+**Supply shortage compounding factors**: Copper shortage for AI/data center/military infrastructure, memory chip tightness for auto industry, tariff volatility forcing manufacturers to navigate sudden cost swings — all create brittle supply chains more vulnerable to cyberattack disruption.
+
+The connection to NEED-019 (cybersecurity crisis) is direct: supply chain attacks are a major vector in the broader cyber threat landscape. The connection to NEED-028 (AI-driven cybercrime) is concerning: AI-powered attacks operating at 80-90% autonomy could target logistics infrastructure with unprecedented speed and sophistication. The connection to NEED-026 (infrastructure decay) is multiplicative: aging infrastructure creates cyber vulnerabilities while cyber threats accelerate infrastructure failure risk.
+
+Potential software interventions:
+1. Supply chain cyber threat intelligence and early warning systems
+2. Logistics infrastructure security monitoring platforms
+3. Automated incident response for supply chain disruptions
+4. Supplier/vendor cybersecurity assessment and risk scoring tools
+5. Supply chain redundancy and resilience mapping systems
+6. Secure communication and data-sharing protocols for logistics networks
+
+This is both defensive (protecting existing infrastructure) and resilience-building (enabling rapid response and recovery when attacks succeed). The scale of the threat — nearly 1,000% increase in four years — suggests defensive measures alone are insufficient; supply chains need architectural resilience.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Quantum Computing Commercialization Gap
+
+**ID**: NEED-045
+**Status**: observing
+**First Observed**: 2026-02-10
+**Last Updated**: 2026-02-10
+**Signal Strength**: moderate
+**Scout**: Scout-01
+
+### The Need
+Quantum computing stands at a critical inflection point in 2026: breakthrough hardware advances and error correction progress are enabling practical quantum advantage, yet massive gaps remain between laboratory capabilities and real-world commercial applications. IBM unveiled the Quantum Nighthawk processor designed to deliver quantum advantage, with expectations to deliver up to 7,500 gates by end of 2026. D-Wave announced industry-first "scalable, on-chip cryogenic control for gate-model qubits" in January 2026, overcoming a long-standing obstacle to building commercially viable quantum computers. Stanford researchers created miniature optical cavities allowing many qubits to be read simultaneously, with working arrays of dozens to hundreds of cavities already demonstrated. Quantum error correction accelerated dramatically: 120 peer-reviewed papers published in first ten months of 2025 (up from 36 in 2024), and IBM proven real-time error decoding is possible using classical hardware (under 480 nanoseconds with qLDPC codes). Despite these advances, the application gap persists: **the tech industry is set to hit a turning point as quantum computing shifts from experimental to commercially relevant applications, but bridging from laboratory proof-of-concept to scaled industry deployment remains the central challenge.** IBM anticipates first verified quantum advantage cases confirmed by wider community by end of 2026, but practical applications in finance (portfolio optimization, risk analysis), drug discovery (molecular simulation, protein interaction prediction), and manufacturing/energy remain in early stages requiring significant development infrastructure and expertise that most organizations lack.
+
+### Evidence
+- [The Quantum Insider - Expert Predictions 2026](https://thequantuminsider.com/2025/12/30/tqis-expert-predictions-on-quantum-technology-in-2026/): 2026 as turning point year for quantum
+- [StartUs Insights - Future of Quantum Computing](https://www.startus-insights.com/innovators-guide/future-of-quantum-computing/): Shift from experimental to commercially relevant applications
+- [IBM Newsroom - Quantum Processors Nov 2025](https://newsroom.ibm.com/2025-11-12-ibm-delivers-new-quantum-processors,-software,-and-algorithm-breakthroughs-on-path-to-advantage-and-fault-tolerance): Quantum Nighthawk processor, 7,500 gates by end 2026, real-time error correction proven
+- [ScienceDaily - Tiny Light Trap Feb 2026](https://www.sciencedaily.com/releases/2026/02/260201223737.htm): Stanford optical cavities enabling simultaneous qubit reading
+- [Programming Helper - Quantum Commercial Breakthrough 2026](https://www.programming-helper.com/tech/quantum-computing-commercial-breakthrough-2026-ibm-google-achievements): Commercial transition underway
+- [SpinQ - Quantum Industry Trends 2025](https://www.spinquanta.com/news-detail/quantum-computing-industry-trends-2025-breakthrough-milestones-commercial-transition): Milestones and commercial transition analysis
+- [Fast Company - D-Wave Breakthrough Jan 2026](https://www.fastcompany.com/91469364/d-wave-quantum-computing-first-major-breakthrough-of-2026-scalable-technology): Scalable on-chip cryogenic control announced
+- [SC Quantum - 8 Real-World Use Cases 2026](https://www.scquantum.org/about/why-quantum/quantum-computing-applications-8-real-world-use-cases-2026): Financial optimization, drug discovery, manufacturing applications
+
+### Connections
+- Related to: NEED-013 (enterprise AI implementation gap — similar pattern of breakthrough tech struggling with practical deployment), NEED-002 (developer overwhelm — quantum requires new skill sets), NEED-037 (digital literacy gap — quantum expertise scarce)
+- Potentially addresses: Drug discovery acceleration, financial system optimization, climate modeling, materials science, cryptography
+- Blocked by: Expertise scarcity, high infrastructure costs, lack of development tools, application-specific algorithm development needs, integration with classical systems
+
+### Research Notes
+The pattern mirrors other technology transitions: hardware capability breakthroughs precede widespread practical application by years. Quantum computing in 2026 exhibits classic "crossing the chasm" dynamics — moving from early adopters (research institutions, tech giants) to mainstream commercial deployment.
+
+**Hardware readiness accelerating:**
+- IBM Quantum Nighthawk targeting 7,500 gates (quantum advantage threshold)
+- D-Wave scalable cryogenic control (removes major commercialization obstacle)
+- Stanford optical cavities (enables faster, more efficient qubit readout)
+- Error correction maturity (120 papers in 10 months vs. 36 in prior year)
+- Real-time error correction proven (IBM <480 nanosecond decoding)
+
+**Application gap persists:**
+Despite hardware advances, practical deployment faces barriers:
+
+1. **Expertise scarcity**: Quantum algorithm development requires specialized knowledge. Most organizations lack in-house quantum expertise.
+
+2. **Development infrastructure**: Building quantum applications requires new toolchains, debugging methods, testing frameworks that are immature or absent.
+
+3. **Integration complexity**: Quantum systems must integrate with classical computing infrastructure — hybrid architectures are complex.
+
+4. **Application-specific algorithms**: Unlike classical computing where general-purpose programming applies broadly, quantum advantage often requires custom algorithm development for specific use cases.
+
+5. **Cost barriers**: Quantum computing infrastructure (cloud access or on-premise hardware) remains expensive, limiting experimentation.
+
+**Promising application domains:**
+
+- **Finance**: Portfolio optimization and risk analysis where quantum algorithms can evaluate millions of scenarios simultaneously, finding optimal strategies classical computers cannot identify
+- **Drug discovery**: Molecular interaction simulation and protein behavior prediction, potentially accelerating drug pipeline phases
+- **Manufacturing/Energy**: Optimization problems where quantum advantage could transform efficiency
+
+The consensus that "2026 represents a pivotal year where quantum computing transitions from purely experimental to demonstrating practical quantum advantage in real-world commercial applications" suggests **the window is opening now**, but infrastructure to support widespread adoption lags.
+
+**Software opportunity hypothesis**: If hardware is ready but application development infrastructure is missing, there may be leverage in tools that:
+1. Lower barrier to quantum algorithm development (abstraction layers, high-level languages)
+2. Enable hybrid classical-quantum workflows
+3. Provide quantum algorithm templates for common use cases
+4. Simulate quantum behavior for testing/debugging without expensive hardware access
+5. Translate domain-specific problems into quantum-compatible formulations
+
+This differs from most needs in the graph — it's not a crisis requiring immediate intervention but an **opportunity gap** where breakthrough technology needs bridging infrastructure to reach practical impact. The urgency is moderate: those who build the bridges now may enable significant applications in 2027-2028.
+
+The connection to NEED-013 (enterprise AI gap) is instructive: 95% of organizations getting zero return on AI investments because they automate broken processes or lack implementation foundations. Quantum faces similar risk — hardware capability without application infrastructure yields laboratory demonstrations but not commercial value.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Medicaid Funding Collapse and Healthcare Access Crisis
+
+**ID**: NEED-046
+**Status**: observing
+**First Observed**: 2026-02-10
+**Last Updated**: 2026-02-10
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Federal support for Medicaid insurance serving low-income Americans faces catastrophic cuts that threaten healthcare access for millions and economic stability for states and healthcare systems. Federal Medicaid support is expected to decrease by nearly $1 trillion over the next ten years. The Commonwealth Fund estimates that **2026 Medicaid cuts alone could cost states nearly 900,000 jobs and more than $100 billion in GDP and tax revenue** — economic impacts extending far beyond healthcare sector. This compounds an already fragile mental health crisis: in January 2026, the Trump administration abruptly terminated $2 billion in SAMHSA funding (later restored within 24 hours amid outcry), but additional threats to LGBTQ+ mental health services, school-based mental health grants, VA mental healthcare, and broader Medicaid cuts persist. Medicaid serves as the largest payer for mental health services in the United States; cuts directly reduce treatment access for vulnerable populations. The crisis creates vicious cycle: as federal support contracts, states face impossible choices between cutting services, raising taxes, or eliminating other programs. Healthcare providers lose reimbursement, reducing capacity. Patients lose coverage, delaying treatment until conditions worsen and costs escalate. The economic spillover — 900,000 job losses, $100B+ GDP impact — suggests Medicaid cuts function as economic shock, not merely healthcare policy change.
+
+### Evidence
+- [Democracy Now - February 2, 2026 Headlines](https://www.democracynow.org/2026/2/2/headlines): Federal Medicaid support expected to decrease nearly $1 trillion over next 10 years; Commonwealth Fund estimates 2026 cuts could cost states 900,000 jobs and $100B+ in GDP/tax revenue
+- [NEED-014 evidence - January 2026 SAMHSA crisis](Internal reference): $2B SAMHSA funding terminated then restored in 24 hours; ongoing threats to LGBTQ+ services, school mental health grants, VA care, Medicaid
+- Mental health treatment access research (NEED-041): Medicaid is largest payer for mental health services in US; 149M Americans in mental health professional shortage areas; insurance exclusions create access barriers
+
+### Connections
+- Related to: NEED-041 (mental health treatment access crisis — Medicaid is primary payer), NEED-014 (youth mental health crisis — school-based services threatened), NEED-004 (healthcare digital divide — low-income populations losing coverage), NEED-008 (caregiver crisis — Medicaid supports elder care)
+- Potentially addresses: Healthcare access equity, state fiscal stability, mental health treatment capacity, preventive care
+- Blocked by: Federal budget politics, state fiscal constraints, healthcare system capacity limits
+
+### Research Notes
+The $1 trillion ten-year reduction represents structural transformation of American healthcare financing. Medicaid currently covers:
+- Low-income adults and children
+- Pregnant women
+- Elderly individuals (nursing home care often Medicaid-funded)
+- People with disabilities
+- Mental health and substance use treatment (largest payer)
+
+**Economic impact analysis:**
+The Commonwealth Fund's estimate — 900,000 jobs lost and $100B+ GDP/tax revenue impact from 2026 cuts alone — reveals Medicaid functions as economic infrastructure, not just healthcare spending. Job losses occur across:
+- Direct healthcare employment (nurses, physicians, support staff losing positions as reimbursement declines)
+- Indirect economic activity (healthcare workers spend less; healthcare facilities purchase fewer supplies/services)
+- Induced effects (reduced state tax revenue forces cuts elsewhere; multiplier effects compound)
+
+**Mental health crisis intersection:**
+The January 2026 SAMHSA funding chaos — $2 billion terminated then restored within 24 hours — demonstrates political volatility around mental health funding. The fact it was restored suggests public/congressional resistance to cuts, but ongoing threats persist:
+- LGBTQ+ mental health services targeted
+- School-based mental health grants at risk
+- VA mental healthcare threatened
+- Broader Medicaid cuts reducing treatment capacity
+
+Medicaid is the **largest payer for mental health services in the US**. As NEED-041 documents, 149 million Americans live in mental health professional shortage areas, insurance exclusions create access barriers, and racial disparities compound inequity. Medicaid cuts worsen all these dynamics.
+
+**Caregiver crisis connection:**
+NEED-008 documents 53 million unpaid family caregivers providing $870B in free care annually, with nursing home capacity declining 5% (2019-2024). Medicaid is primary payer for nursing home care. Cuts force more care onto unpaid family caregivers already at breaking point.
+
+**Healthcare digital divide connection:**
+NEED-004 documents rural/low-income populations facing greatest telemedicine barriers. Medicaid recipients are disproportionately in these populations. Coverage cuts eliminate access to both in-person and virtual care.
+
+**The vicious cycle:**
+1. Federal funding cut → States lose revenue
+2. States cut Medicaid eligibility or benefits → People lose coverage
+3. Healthcare providers lose reimbursement → Reduce capacity or close
+4. Remaining providers overwhelmed → Wait times increase, quality declines
+5. People delay care → Conditions worsen → Emergency care costs escalate
+6. Higher costs + reduced coverage → Crisis deepens
+
+**State fiscal crisis:**
+States cannot easily replace $1 trillion in federal support. Options are:
+- Raise taxes (politically difficult, economically dampening)
+- Cut Medicaid services (reduces access, triggers provider closures)
+- Cut other state programs (education, infrastructure, public safety suffer)
+- Some combination (distributed pain across state functions)
+
+The 900,000 job loss estimate is for **2026 cuts alone** — ten years of cuts compound this impact dramatically.
+
+**Software intervention limitations:**
+This is fundamentally a **policy and funding crisis**, not a technology problem. Software cannot replace lost healthcare funding. However, potential leverage points:
+
+1. **Efficiency tools** that stretch existing resources (care coordination platforms, telemedicine expanding provider reach, population health analytics identifying high-risk patients for preventive intervention)
+2. **Advocacy tools** enabling constituents to communicate with policymakers about Medicaid impacts
+3. **Navigation assistance** helping eligible individuals access remaining benefits
+4. **Transparency systems** making Medicaid funding impacts visible to public
+
+The challenge: efficiency gains are marginal compared to $1 trillion funding loss. Technology can help at the edges but cannot solve structural defunding.
+
+**Urgency assessment:**
+Signal strength: urgent (not critical) because:
+- Cuts are multi-year (not overnight cliff)
+- Some political resistance exists (SAMHSA restoration example)
+- State flexibility may buffer worst impacts in short term
+
+However, trajectory is concerning: 2026 cuts are first wave of ten-year reduction. Early intervention could matter if it builds political will to reverse course.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Cell-Free Biomanufacturing Scale-Up Gap
+
+**ID**: NEED-047
+**Status**: observing
+**First Observed**: 2026-02-10
+**Last Updated**: 2026-02-10
+**Signal Strength**: moderate
+**Scout**: Scout-01
+
+### The Need
+Cell-free biomanufacturing systems represent a breakthrough biotechnology that could enable portable, real-time, programmable production of therapeutics, diagnostics, and sustainable materials — yet these systems remain trapped at laboratory scale despite urgent humanitarian and medical applications. Cell-free systems could improve emergency response in resource-limited settings by creating therapeutics at the point of care, eliminating cold chain logistics and enabling rapid response to disease outbreaks or natural disasters. In 2026, these systems are expected to scale from lab kits to pilot platforms, with applications expanding across healthcare, industrial biocatalysis, and field-ready manufacturing. However, the gap between laboratory capability and real-world deployment remains substantial. The technology exists; the infrastructure to manufacture, validate, distribute, and deploy it at scale does not. This mirrors other scientific breakthrough patterns: researchers demonstrate proof-of-concept, publish papers, but translation to practical impact stalls due to manufacturing scale-up challenges, regulatory pathways, funding gaps, and lack of commercial infrastructure. The opportunity is time-sensitive: 2026 is identified as the year cell-free systems "could scale" — suggesting readiness for transition if obstacles are addressed.
+
+### Evidence
+- [CAS - Scientific Breakthroughs 2026 Emerging Trends](https://www.cas.org/resources/cas-insights/scientific-breakthroughs-2026-emerging-trends-watch): Cell-free biomanufacturing systems could enable portable production; 2026 expected to scale from lab kits to pilot platforms
+- [Atlantis Bioscience - 2026 Biotech Outlook](https://www.atlantisbioscience.com/blog/2026-biotech-outlook-10-breakthrough-trends-scientists-need-to-watch/): Portable therapeutics production at point of care
+- [Mass General Brigham - 2026 Predictions](https://www.massgeneralbrigham.org/en/about/newsroom/articles/2026-predictions-on-scientific-advancements): Scientific advancement predictions including biomanufacturing
+- [Nature - Seven Technologies to Watch 2026](https://www.nature.com/articles/d41586-026-00188-6): Includes cell-free systems among breakthrough technologies
+
+### Connections
+- Related to: NEED-011 (humanitarian aid efficiency — portable therapeutic production could transform disaster response), NEED-018 (food insecurity — sustainable bio-production), NEED-006 (smallholder farmers — bio-based agricultural inputs)
+- Potentially addresses: Emergency medical response, pandemic preparedness, access to medicines in remote areas, sustainable manufacturing, reducing pharmaceutical cold chain dependency
+- Blocked by: Manufacturing scale-up challenges, regulatory pathway uncertainty, funding for pilot-to-production transition, lack of field deployment expertise
+
+### Research Notes
+Cell-free biomanufacturing is fundamentally different from traditional bioproduction:
+
+**Traditional biomanufacturing:**
+- Requires living cells (bacteria, yeast, mammalian cells)
+- Needs sterile facilities, bioreactors, controlled environments
+- Slow (cells must grow before producing target molecules)
+- Expensive infrastructure (pharmaceutical plants cost hundreds of millions)
+- Cold chain required (products degrade without refrigeration)
+- Centralized production → global distribution logistics
+
+**Cell-free biomanufacturing:**
+- Uses cellular machinery (ribosomes, enzymes) without living cells
+- Can operate in simple containers, even field settings
+- Fast (production begins immediately without cell growth phase)
+- Potentially portable (freeze-dried reactions activated on-site)
+- Could be thermostable (some systems don't require refrigeration)
+- Distributed production → make medicines where needed
+
+**Applications with humanitarian impact:**
+
+1. **Emergency response**: Natural disasters, conflict zones, disease outbreaks often lack pharmaceutical supply chains. Portable cell-free systems could produce essential medicines on-site within hours.
+
+2. **Resource-limited settings**: Rural clinics, remote communities, developing regions could produce needed therapeutics locally rather than depending on global supply chains vulnerable to disruption.
+
+3. **Pandemic preparedness**: Rapid production of diagnostics, therapeutics, or vaccines at point of need without waiting for centralized manufacturing and distribution.
+
+4. **Sustainable materials**: Bio-based production of chemicals, materials, or agricultural inputs with reduced environmental impact compared to traditional chemical synthesis.
+
+**The scale-up gap:**
+
+Research has demonstrated proof-of-concept: cell-free systems work in laboratories. The 2026 prediction that systems "could scale from lab kits to pilot platforms" suggests technical readiness, but transition requires:
+
+1. **Manufacturing infrastructure**: Moving from researcher-prepared lab kits to reproducible, quality-controlled manufactured systems
+2. **Regulatory pathways**: Cell-free therapeutics don't fit neatly into existing drug approval frameworks; regulatory guidance needed
+3. **Validation and testing**: Demonstrating safety, efficacy, stability in field conditions
+4. **Distribution networks**: Getting systems to where they're needed (humanitarian organizations, remote clinics, etc.)
+5. **Training and support**: End users need education on system operation, troubleshooting, safety protocols
+6. **Funding**: The "valley of death" between research grants and commercial viability; pilot-scale deployment requires capital
+
+**Connection to humanitarian crises:**
+
+NEED-011 documents $239M+ people in humanitarian need (2026), with aid efficiency crisis and funding shortfalls. Portable therapeutic production could:
+- Reduce logistics burden (ship compact freeze-dried kits instead of refrigerated medicines)
+- Enable response in insecure areas where supply chains are cut
+- Reduce costs (local production vs. global shipping and cold chain)
+- Improve responsiveness (produce on-demand rather than pre-positioning stockpiles)
+
+**Connection to global health access:**
+
+Beyond emergency response, cell-free systems could address chronic access gaps:
+- Remote communities (Amazon, Pacific islands, Arctic) lacking pharmacy access
+- Low-income countries with limited pharmaceutical infrastructure
+- Pandemic preparedness (rapid local production of countermeasures)
+
+**Why 2026 matters:**
+
+The sources identify 2026 as inflection year — technology mature enough for pilot-scale deployment. This creates **time-sensitive opportunity**: investments and infrastructure development in 2026 could enable 2027-2028 real-world impact. Delay risks others capturing the opportunity or momentum stalling.
+
+**Feasibility questions for Council:**
+
+1. **Scope**: Is this too specialized/scientific for our collective's capabilities? Requires deep biotech expertise.
+2. **Leverage**: Can software/systems help scale-up, or is this fundamentally a wetlab/manufacturing challenge?
+3. **Partnerships**: Would need collaboration with biotech researchers, manufacturers, humanitarian organizations, regulators.
+
+Potential software/systems leverage:
+- Supply chain and logistics platforms for kit distribution
+- Training and support systems for field deployment
+- Quality control and monitoring tools
+- Regulatory compliance documentation systems
+- Coordination platforms linking researchers, manufacturers, deployers
+
+This is **not a crisis** (moderate signal strength) but an **opportunity gap** — breakthrough technology poised for scale-up that could address urgent humanitarian needs if transition infrastructure is built.
+
+The Council may decide this is outside our scope (too biotech-specific) or that leverage points are insufficient. Presenting for consideration given alignment with humanitarian mission and time-sensitive 2026 window.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -2555,6 +2911,13 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-09 | Scout-01 | Added NEED-041 | Mental Health Treatment Access and Insurance Barrier Crisis - CRITICAL signal; Jan 2026 $2B SAMHSA funding chaos, $1T Medicaid cuts, 149M in shortage areas, insurance exclusions, racial disparities, system collapsing as need peaks |
 | 2026-02-09 | Scout-01 | Updated Overview | Increased observing count from 36 to 41 needs |
 | 2026-02-09 | Scout-01 | Updated NEED-019 | Escalated to CRITICAL; added ransomware evolution (double/triple extortion, RaaS), identity-based attacks now primary vector, AI autonomous threat agents, 11 breaches/day, Jaguar £1.9B loss, supply chain/API/cloud vulnerabilities |
+| 2026-02-10 | Scout-01 | Updated Overview | Increased observing count from 43 to 47 needs |
+| 2026-02-10 | Scout-01 | Updated NEED-005 | Escalated to URGENT; added Feb 10 tariff crisis data: $500K annual tariff costs per small business (up from $42.6K monthly), tariffs 8-10x higher than start of 2025, 97% of importers are small businesses, forced hiring freezes/salary cuts, Supreme Court reviewing legality |
+| 2026-02-10 | Scout-01 | Updated NEED-028 | Escalated to CRITICAL; added Feb 10 deepfake fraud explosion: $12.5B consumer fraud losses in 2024 (+25%), deepfake-related losses $1.1B in 2025 (tripled from $360M in 2024), 1,600% surge in vishing attacks Q1 2025, 72% of business leaders cite AI fraud as top 2026 challenge, employment fraud, emotionally intelligent scams, website cloning, expected to nearly double in 2026 |
+| 2026-02-10 | Scout-01 | Added NEED-044 | Supply Chain Cyberattack Crisis - CRITICAL signal; 965% increase in logistics cyberattacks 2021-2025, 61% surge in 2025 alone, targeting ports/carriers/3PLs, infrastructure failure predicted to cause $1B+ disruption in 2026, Chinese New Year disruptions compounding |
+| 2026-02-10 | Scout-01 | Added NEED-045 | Quantum Computing Commercialization Gap - moderate signal; IBM Nighthawk 7,500 gates by end 2026, D-Wave scalable cryogenic control breakthrough Jan 2026, Stanford optical cavities, error correction acceleration (120 papers in 10 months vs 36 in 2024), verified quantum advantage expected by end 2026, but application infrastructure gaps persist in finance/drug discovery/manufacturing |
+| 2026-02-10 | Scout-01 | Added NEED-046 | Medicaid Funding Collapse and Healthcare Access Crisis - URGENT signal; $1T federal cuts over 10 years, 2026 cuts alone could cost 900K jobs and $100B+ GDP/tax revenue (Commonwealth Fund), Jan 2026 $2B SAMHSA funding chaos, Medicaid is largest mental health payer, compounds caregiver/youth mental health/healthcare access crises |
+| 2026-02-10 | Scout-01 | Added NEED-047 | Cell-Free Biomanufacturing Scale-Up Gap - moderate signal; portable therapeutics production at point of care, 2026 expected scale from lab kits to pilot platforms, emergency response in resource-limited settings, but manufacturing/regulatory/deployment infrastructure gaps block real-world impact |
 
 ---
 
