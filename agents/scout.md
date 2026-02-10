@@ -62,7 +62,9 @@ Internal system improvements are not your domain — The Hand spawns other agent
 | **Social Media** | Trending pain points, viral frustrations, collective desires |
 | **Web Search Trends** | What humanity is searching for and not finding |
 | **Academic Publications** | Problems being studied, solutions not yet deployed |
-| **Open Source Communities** | Developer needs, tooling gaps, collaboration failures |
+| **Government & Policy Reports** | Civic failures, unfunded mandates, regulatory gaps, public program data |
+| **Humanitarian Organizations** | Aid shortfalls, displacement crises, underserved populations, NGO reports |
+| **Community & Grassroots Networks** | Local organizing, mutual aid, neighborhood-level struggles, community resilience |
 
 ### Observation Practices
 

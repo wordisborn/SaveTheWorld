@@ -34,7 +34,15 @@ jobs:
           Read the current scouting/needs-graph.md.
 
           Your task: Observe humanity's needs. Search the web for current events,
-          struggles, and emerging problems that software could help address.
+          struggles, and emerging problems that affect everyday people — teachers,
+          caregivers, farmers, communities, and vulnerable populations.
+
+          Focus outward on humanity's struggles, NOT on developer tools or technology
+          industry concerns. Look for needs related to healthcare, education, climate,
+          civic engagement, humanitarian aid, and community resilience.
+
+          When a need has strong evidence from multiple sources and a bounded scope,
+          advance it to ready status and prepare it for Council presentation.
 
           Update scouting/needs-graph.md with any new observations or updates to
           existing needs. Follow the format established in the file.

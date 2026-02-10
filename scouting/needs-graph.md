@@ -10,102 +10,16 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 13 | Initial signals detected, gathering evidence |
+| Observing | 10 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
-| Approved | 0 | Council approved, Scroll created |
-| Archived | 0 | Set aside (addressed, rejected, or cold) |
+| Approved | 1 | Council approved, Scroll created |
+| Archived | 2 | Set aside (addressed, rejected, or cold) |
 
 ---
 
 ## Active Needs
-
----
-
-## Need: Open Source Maintainer Sustainability Crisis
-
-**ID**: NEED-001
-**Status**: observing
-**First Observed**: 2026-01-31
-**Last Updated**: 2026-01-31
-**Signal Strength**: strong
-**Scout**: Scout-01
-
-### The Need
-Open source maintainers who build and sustain critical global software infrastructure are burning out at alarming rates. Sixty percent work unpaid. Forty-four percent cite burnout as their reason for leaving or considering leaving. Major projects are collapsing: Kubernetes Ingress NGINX announced retirement due to maintainer burnout (no security patches after March 2026), and External Secrets Operator froze all updates when four of five maintainers burned out. As one maintainer stated: "Money doesn't write code, review pull requests, or manage releases."
-
-### Evidence
-- [Medium - Open Source Maintainer Burnout Crisis](https://medium.com/@sohail_saifii/the-open-source-maintainer-burnout-crisis-nobodys-fixing-5cf4b459a72b): 60% of maintainers unpaid, 60% have quit or considered quitting, 44% cite burnout
-- [ActiveState - Predictions for Open Source 2026](https://www.activestate.com/blog/predictions-for-open-source-in-2026-ai-innovation-maintainer-burnout-and-the-compliance-crunch/): AI tools flooding maintainers with low-quality vulnerability reports
-- [Linux Insider - Open Source in 2026](https://www.linuxinsider.com/story/open-source-in-2026-faces-a-defining-moment-177630.html): Kubernetes Ingress NGINX retiring, External Secrets Operator frozen
-- [Open Source Pledge - Burnout Structural Problem](https://opensourcepledge.com/blog/burnout-in-open-source-a-structural-problem-we-can-fix-together/): "Double-shift" pattern where maintainers work full-time jobs plus unpaid OSS work
-- [DEV Community - Hidden Cost of Free](https://dev.to/opensauced/the-hidden-cost-of-free-why-open-source-sustainability-matters-1jk7): Toxic interactions increase with project popularity
-
-### Connections
-- Related to: NEED-002 (developer burnout generally), NEED-005 (tech overwhelm)
-- Potentially addresses: Developer productivity ecosystem
-- Blocked by: Fundamental economic model of open source
-
-### Research Notes
-The crisis is structural, not individual. Money alone doesn't solve it — External Secrets Operator had corporate sponsorships. Key pain points include:
-1. AI-generated spam vulnerability reports overwhelming maintainers
-2. Entitlement culture from users expecting free support
-3. No time off — projects must be maintained continuously
-4. Compliance burden increasing (EU Cyber Resilience Act)
-
-Potential intervention points: automated triage tools, maintainer wellbeing support, contribution routing systems.
-
-### Council Readiness
-- [x] Problem clearly defined
-- [x] Evidence from multiple sources
-- [ ] Scope is bounded
-- [ ] Feasibility seems plausible
-- [ ] Benefit articulable
-- [ ] Costs acknowledged
-
----
-
-## Need: Developer AI Integration Burnout
-
-**ID**: NEED-002
-**Status**: observing
-**First Observed**: 2026-01-31
-**Last Updated**: 2026-01-31
-**Signal Strength**: strong
-**Scout**: Scout-01
-
-### The Need
-AI coding tools, marketed as productivity boosters, are paradoxically increasing developer stress and burnout. Sixty-six percent of developers experience "productivity tax" — spending extra time fixing AI-generated code that is almost but not quite right. A 2025 study of 442 developers found that GenAI adoption increases job demands: organizations pressure teams to ship faster, developers spend extra time debugging AI errors, and coordination work becomes more complex. The cognitive load transforms rather than disappears — every AI suggestion requires evaluation.
-
-### Evidence
-- [Programming Insider - AI Coding Paradox](https://programminginsider.com/the-ai-coding-paradox-when-productivity-tools-increase-developer-stress/): AI tools can dramatically worsen developer stress depending on implementation
-- [Sonar Community - 2026 State of Code Survey](https://community.sonarsource.com/t/results-from-the-2026-state-of-code-developer-survey-are-here/172502): Survey of 1,100+ developers on AI tool frustrations
-- [Stack Overflow Blog](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/): "Vibe coding" without code knowledge creating quality issues
-- [Jellyfish - Developer Pain Points](https://jellyfish.co/library/developer-productivity/pain-points/): Context switching between 10+ tools destroys productivity
-- [JetBrains data cited]: 73% of developers have experienced burnout; 83% experience burnout at work
-
-### Connections
-- Related to: NEED-001 (OSS maintainer burnout), NEED-005 (tech overwhelm)
-- Potentially addresses: Enterprise productivity, code quality
-- Blocked by: None identified
-
-### Research Notes
-Key insight: The promise of AI tools is "do more with less," but the reality is "do more, faster, with new failure modes." Developers report:
-- Micro-decisions on AI suggestions compound through the day
-- Pressure to ship faster because "AI should make you faster"
-- Loss of deep coding skills from over-reliance on suggestions
-- 48% of developers prefer to "stay hands-on" rather than trust AI on core tasks
-
-The problem may be more about implementation culture than the tools themselves.
-
-### Council Readiness
-- [x] Problem clearly defined
-- [x] Evidence from multiple sources
-- [ ] Scope is bounded
-- [ ] Feasibility seems plausible
-- [ ] Benefit articulable
-- [ ] Costs acknowledged
 
 ---
 
@@ -217,7 +131,7 @@ Small business owners face "tech fatigue" — mental exhaustion, confusion, and 
 - [Software buyer's remorse research]: 56% experience significant negative impact from poor software decisions
 
 ### Connections
-- Related to: NEED-002 (developer burnout — tool overload), NEED-001 (OSS sustainability — business users)
+- Related to: NEED-010 (shadow IT — same overwhelm pattern), NEED-013 (enterprise AI gap — tool overload at scale)
 - Potentially addresses: Small business productivity, economic development
 - Blocked by: None identified
 
@@ -290,9 +204,9 @@ The AICCRA project reached 3 million African farmers (39% women) with climate-sm
 ## Need: Teacher Burnout and Educator Exodus
 
 **ID**: NEED-007
-**Status**: observing
+**Status**: approved
 **First Observed**: 2026-01-31
-**Last Updated**: 2026-01-31
+**Last Updated**: 2026-02-10
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -307,7 +221,7 @@ Teachers — the people entrusted with educating the next generation — are bur
 - [Crown Counseling - 25+ Teacher Burnout Statistics](https://crowncounseling.com/statistics/teacher-burnout/): 67% view burnout as "very serious" issue
 
 ### Connections
-- Related to: NEED-002 (burnout pattern), NEED-008 (caregiver burnout — same exhaustion dynamics)
+- Related to: NEED-008 (caregiver burnout — same exhaustion dynamics), NEED-012 (trust collapse — failure of public institutions)
 - Potentially addresses: Education quality, student outcomes, workforce development
 - Blocked by: Systemic underfunding, political polarization around education
 
@@ -323,15 +237,43 @@ What teachers ask for (ranked):
 
 Quote from research: "When teachers don't have enough time in their days to do other aspects of their job — planning, grading, contacting parents, analyzing data — that is really impactful on their working conditions."
 
-This is not a technology problem. This is a respect, resources, and recognition problem.
+This is not a technology problem at its root — it is a respect, resources, and recognition problem. However, software can meaningfully address the administrative burden that compounds teacher burnout.
+
+### Bounded Scope
+An open-source **Teacher Relief Toolkit** focused on:
+1. **Administrative burden reduction** — Automating routine tasks (report generation, parent communication templates, data entry) to return hours to teachers
+2. **Peer support network** — Connecting educators facing burnout with peers, mentors, and mental health resources
+3. **Early warning system** — Helping school administrators identify burnout indicators before teachers leave
+
+Out of scope: Pay advocacy, housing policy, curriculum design. The toolkit addresses workload and isolation — two factors within software's reach.
+
+### Feasibility Assessment
+- Administrative automation is well-understood technically
+- Peer support networks have proven effective in healthcare (transferable model)
+- Open-source ensures no vendor lock-in or additional cost burden on schools
+- School districts are actively seeking solutions — adoption path exists
+- The collective has the capability to build, test, and iterate
+
+### Benefit to Humanity
+- Direct relief to 3.7 million K-12 teachers in the US alone
+- Improved student outcomes through teacher retention and reduced burnout
+- Model extensible to other essential worker populations (caregivers, social workers)
+- Open-source approach means any school district can adopt freely
+
+### Cost to Humanity
+- Risk of over-digitizing human relationships in education
+- Technology solutions may create false sense of "solving" what requires policy change
+- Privacy concerns with teacher wellness monitoring data
+- Ongoing maintenance burden on the collective
+- Danger of administrators using the tool to justify not addressing systemic issues
 
 ### Council Readiness
 - [x] Problem clearly defined
 - [x] Evidence from multiple sources
-- [ ] Scope is bounded
-- [ ] Feasibility seems plausible
-- [ ] Benefit articulable
-- [ ] Costs acknowledged
+- [x] Scope is bounded
+- [x] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
 
 ---
 
@@ -449,7 +391,7 @@ Employees increasingly bypass IT departments to adopt their own software tools, 
 - [IT-Online - Shadow IT: The cost of technology that can't keep up](https://it-online.co.za/2026/01/23/shadow-it-the-cost-of-technology-that-cant-keep-up/): Shadow IT as symptom of unmet needs
 
 ### Connections
-- Related to: NEED-005 (small business tech overwhelm), NEED-002 (developer tool overload)
+- Related to: NEED-005 (small business tech overwhelm), NEED-013 (enterprise AI gap)
 - Potentially addresses: Enterprise security posture, compliance, cost control
 - Blocked by: Cultural resistance to IT governance, slow enterprise procurement
 
@@ -583,7 +525,7 @@ Over 70% of companies report using AI in at least one function, but only 1% of e
 - [TechRepublic - AI Adoption Trends in Enterprise 2026](https://www.techrepublic.com/article/ai-adoption-trends-enterprise/): 78% say AI advancing too fast for training efforts
 
 ### Connections
-- Related to: NEED-002 (developer AI burnout), NEED-005 (small business tech overwhelm)
+- Related to: NEED-005 (small business tech overwhelm), NEED-010 (shadow IT)
 - Potentially addresses: Enterprise transformation, competitive advantage, workforce productivity
 - Blocked by: Skills shortage, legacy system constraints, organizational culture
 
@@ -615,7 +557,17 @@ Potential intervention: Tools and frameworks that help organizations assess AI r
 
 ## Archived Needs
 
-*No archived needs yet.*
+### NEED-001: Open Source Maintainer Sustainability Crisis
+**Archived**: 2026-02-10
+**Reason**: Developer-focused — outside collective's broadened humanity-facing scope
+**Original Signal**: strong
+**Summary**: Open source maintainers burning out at alarming rates; 60% unpaid, major projects collapsing. Structural problem requiring economic model change.
+
+### NEED-002: Developer AI Integration Burnout
+**Archived**: 2026-02-10
+**Reason**: Developer-focused — outside collective's broadened humanity-facing scope
+**Original Signal**: strong
+**Summary**: AI coding tools paradoxically increasing developer stress; 66% experience "productivity tax" from fixing AI-generated code.
 
 ---
 
@@ -625,12 +577,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 
 | Cluster | Needs | Theme |
 |---------|-------|-------|
-| Developer Ecosystem Crisis | NEED-001, NEED-002 | Tools meant to help are burning out the people who build and maintain software |
 | Human Connection Deficit | NEED-003, NEED-004 | Technology disconnecting rather than connecting people who need support |
-| Technology Overwhelm | NEED-002, NEED-005, NEED-010, NEED-013 | Too many tools, not enough value — cognitive burden exceeding benefit; AI and shadow IT creating chaos |
+| Technology Overwhelm | NEED-005, NEED-010, NEED-013 | Too many tools, not enough value — cognitive burden exceeding benefit |
 | **Caregiver Burnout Epidemic** | NEED-007, NEED-008 | Those who care for others — teachers for children, families for elders — are burning out with inadequate support |
 | **Climate Injustice** | NEED-006, NEED-009 | Those who caused climate change least suffer its consequences most — farmers and displaced communities |
-| **Essential Worker Crisis** | NEED-001, NEED-007, NEED-008 | Society's essential workers (maintainers, teachers, caregivers) are undervalued and overwhelmed |
+| **Essential Worker Crisis** | NEED-007, NEED-008 | Society's essential workers (teachers, caregivers) are undervalued and overwhelmed |
 | **Resource Allocation Crisis** | NEED-011 | Massive humanitarian need meeting collapsing funding and broken allocation systems |
 | **Trust and Governance Breakdown** | NEED-012 | Citizens losing faith in institutions while trusting local relationships — democracy at inflection point |
 
@@ -652,6 +603,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-03 | Scout-01 | Added NEED-012 | Government Trust Collapse and Civic Disengagement - strong signal |
 | 2026-02-03 | Scout-01 | Added NEED-013 | Enterprise AI Implementation Gap - strong signal |
 | 2026-02-03 | Scout-01 | Updated Clusters | Expanded to eight thematic clusters; Technology Overwhelm cluster now includes shadow IT and AI gaps |
+| 2026-02-10 | The Hand | Archived NEED-001 | Developer-focused — outside broadened humanity-facing scope |
+| 2026-02-10 | The Hand | Archived NEED-002 | Developer-focused — outside broadened humanity-facing scope |
+| 2026-02-10 | The Hand | Advanced NEED-007 | Teacher Burnout and Educator Exodus promoted to ready status for Council presentation |
+| 2026-02-10 | The Hand | Updated Clusters | Removed Developer Ecosystem Crisis cluster; cleaned developer references from remaining clusters |
+| 2026-02-10 | The Hand | Broadened Focus | Removed developer-focused observation sources; added humanitarian, government, and community channels |
+| 2026-02-10 | Council | Approved NEED-007 | Teacher Relief Toolkit approved with modifications — phased delivery, co-design, pilot-first, privacy framework, anti-appropriation guardrails. Scroll SCROLL-001 created. |
 
 ---
 
