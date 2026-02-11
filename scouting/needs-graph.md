@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 50 | Initial signals detected, gathering evidence |
+| Observing | 54 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -3066,6 +3066,256 @@ This connects directly to the broader AI safety themes in the needs graph — an
 
 ---
 
+## Need: Global Nuclear Arms Control Collapse and Transparency Crisis
+
+**ID**: NEED-051
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+The New START treaty expired on February 5, 2026, marking the first time in more than half a century that there are no binding limits on the strategic nuclear arsenals of the United States and Russia. This leaves both nations facing a future without any legally binding restrictions on their nuclear forces for the first time since the early 1970s. The treaty's expiration eliminates not only the cap of 1,550 deployed nuclear warheads per side, but also critical transparency measures — both sides no longer notify one another when nuclear weapons are moved, eliminating visibility that existed for five decades. More than 12,200 nuclear weapons spread across nine nuclear-armed nations now exist without any constraints. Without transparency, each side must rely on intelligence estimates and worst-case planning, which in a crisis can create pressure to "launch on warning," forcing decisions within minutes before an attack is fully confirmed. The Doomsday Clock now stands at 85 seconds to midnight — the closest ever.
+
+### Evidence
+- [Tufts Now - New START Treaty Ending](https://now.tufts.edu/2026/01/29/new-start-treaty-ending-what-does-mean-nuclear-risk): First time in half a century without binding limits
+- [Al Jazeera - Last Russia-US Treaty on Nuclear Arms Control Set to Expire](https://www.aljazeera.com/news/2026/2/4/russia-criticises-us-as-final-nuclear-warhead-treaty-set-to-expire): Russia criticizes US as final treaty expires
+- [Foreign Policy - What the End of New START Means](https://foreignpolicy.com/2026/02/09/new-start-nuclear-arms-control-us-russia-treaty-negotiations/): Worst-case planning and launch-on-warning pressures
+- [UN News - UN Chief Warns of 'Grave Moment'](https://news.un.org/en/story/2026/02/1166892): UN Secretary-General warns nuclear risk highest in decades
+- [NPR - Why It Matters That New START Expired](https://www.npr.org/2026/02/04/nx-s1-5697382/new-start-nuclear-treaty-expired-us-russia): Loss of transparency and notification requirements
+- [RUSI - Beyond New START](https://www.rusi.org/explore-our-research/publications/commentary/beyond-new-start-what-happens-next-nuclear-arms-control): Complete dismantlement of arms control architecture
+- [France 24 - Global Nuclear Arms Control Under Pressure](https://www.france24.com/en/live-news/20251222-global-nuclear-arms-control-under-pressure-in-2026): International governance system at weakest point in half century
+
+### Connections
+- Related to: NEED-012 (government trust collapse), NEED-036 (Haiti power vacuum — governance failures cascading)
+- Potentially addresses: Nuclear risk reduction, conflict de-escalation, international security
+- Blocked by: US-Russia relations breakdown, China refusal to negotiate, lack of political will
+
+### Research Notes
+The collapse of New START creates multiple cascading risks:
+
+1. **Loss of Transparency**: The treaty required notification when nuclear weapons were moved. Without this, both sides are "flying blind," increasing miscalculation risks.
+
+2. **Arms Race Dynamics**: China has tripled its nuclear arsenal over the past decade. The Trump administration wants China included in any new treaty, but Beijing shows no interest in nuclear disarmament talks.
+
+3. **Proliferation Pressure**: A weakened NPT makes it harder to address proliferation challenges. Countries like Japan, Poland, South Korea, and Ukraine face growing debates about acquiring nuclear weapons.
+
+4. **Trust Erosion**: The biggest risks lie not in immediate arsenal expansion, but in the gradual erosion of trust between nuclear powers, compounded by changing technical realities that incentivize posture changes.
+
+5. **Negotiation Timeline**: Past agreements, including New START, took years to negotiate. Secretary of State Marco Rubio acknowledged "this process can take time."
+
+**Key Quote**: UN Secretary-General Guterres stated the dissolution of arms control "could not come at a worse time – the risk of a nuclear weapon being used is the highest in decades."
+
+The Bulletin of the Atomic Scientists moved the Doomsday Clock to 85 seconds to midnight in January 2026, citing intensifying nuclear competition and New START's expiration.
+
+This is a governance and information problem at its core. Software cannot negotiate treaties, but it may help with:
+- Verification and monitoring systems that rebuild transparency
+- Early warning and de-escalation communication channels
+- Public education on nuclear risk
+- Civil society organizing for arms control advocacy
+
+However, the primary need is political will and diplomatic engagement — technology is secondary.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
+
+---
+
+## Need: Textile Waste and Microplastic Pollution Crisis
+
+**ID**: NEED-052
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+The world produces 92 million tons of textile waste every year. Of the 100 billion garments produced annually, 92 million tonnes end up in landfills. By 2030, an estimated 148 million tons of textile waste will be dumped — a 60% increase from 2015. The average American generates 82 pounds of textile waste each year, with many items worn only seven to ten times before being discarded. Fashion production comprises 10% of total global carbon emissions — as much as the European Union — and the industry dries up water resources while polluting rivers and streams. The crisis extends to oceans: over 14 million tonnes of microplastics have accumulated on the ocean floor, with 1.5 million tonnes entering annually. Textiles are the fourth-largest source globally, making up 8% of primary microplastics in oceans. On average, 34.8% of microfibers in oceans derive from laundering synthetic textiles. The shift from natural to synthetic fibers is stark: in 1960, 95% of textile fibers were natural and biodegradable; today, 68% are synthetic (polyester, nylon, acrylic). These synthetic fibers shed tiny plastic particles during production, use, and washing. Microplastics are now detected in human bloodstreams, lungs, feces, testes, and placentas, with emerging evidence of hormone disruption, immune response issues, and cellular function impacts.
+
+### Evidence
+- [Earth.Org - Fast Fashion Environmental Impact 2026](https://earth.org/fast-fashions-detrimental-effect-on-the-environment/): 10% of global carbon emissions, 85% of textiles to dumps
+- [The Round Up - Textile Waste Statistics 2026](https://theroundup.org/textile-waste-statistics/): 92M tons annual waste, 148M projected by 2030
+- [Road Runner - Environmental Crisis Caused by Textile Waste](https://www.roadrunnerwm.com/blog/textile-waste-environmental-crisis): 82 lbs per American annually
+- [Earth.Org - Fast Fashion Waste Statistics](https://earth.org/statistics-about-fast-fashion-waste/): Items worn 7-10 times before discard
+- [EEA - Microplastics from Textiles](https://www.eea.europa.eu/en/analysis/publications/microplastics-from-textiles-towards-a-circular-economy-for-textiles-in-europe): 8% of ocean microplastics from textiles, fourth-largest source
+- [UNU - Tackling Microplastic Pollution from Synthetic Textiles](https://unu.edu/inweh/article/tackling-microplastic-pollution-synthetic-textiles-through-rebuilding-natural-fibre): Shift from 95% natural (1960) to 68% synthetic today
+- [Nature - Contribution of Washing Processes](https://www.nature.com/articles/s41598-019-43023-x): 34.8% of ocean microfibers from textile laundering
+- [PMC - Fibrous Microplastics Release](https://pmc.ncbi.nlm.nih.gov/articles/PMC12156283/): Microplastics detected in human bodies
+
+### Connections
+- Related to: NEED-024 (data center environmental crisis — resource consumption), NEED-006 (smallholder farmers — environmental impacts), NEED-009 (climate displacement)
+- Potentially addresses: Ocean health, human health, circular economy transition
+- Blocked by: Fast fashion business model, consumer behavior, lack of textile recycling infrastructure
+
+### Research Notes
+**Scientific Breakthrough Observed**: Researchers at Avantium and University of Amsterdam developed a breakthrough recycling process (February 2026) using concentrated hydrochloric acid at room temperature to separate cotton and polyester in mixed-waste textiles, achieving 75% cotton recovery and 78% polyester monomer recovery. This addresses a major technical barrier.
+
+The crisis operates at multiple scales:
+1. **Production Scale**: 100 billion garments/year, accelerating cycles (Shein ready-to-sell in 10 days)
+2. **Environmental Scale**: 14M tonnes microplastics on ocean floor, 500K tons microfibers released annually (equivalent of 50 billion plastic bottles)
+3. **Health Scale**: Microplastics entering human bodies via food chain, drinking water, sea salt
+4. **Economic Scale**: Fashion industry facing make-or-break moment — circular economy no longer optional but required
+
+**Key Quote**: "By 2030, an estimated 148 million tons of textile waste will be dumped in landfills, marking a 60% increase from 2015."
+
+The problem compounds: synthetic textiles account for 35% of microplastics in oceans, and as they degrade (taking hundreds of years), they release harmful chemicals into the environment.
+
+Intervention opportunities:
+1. **Textile sorting and recycling infrastructure** — current systems cannot handle mixed-fiber textiles at scale
+2. **Microfiber capture technology** — washing machine filters, wastewater treatment
+3. **Supply chain transparency** — tracking garment lifecycle, waste streams
+4. **Consumer education and behavior change** — repair, reuse, conscious purchasing
+5. **Natural fiber rebuilding** — economic incentives to shift back from synthetic to natural materials
+6. **Circular business models** — rental, resale, take-back programs
+
+The 2026 breakthrough in mixed-textile recycling suggests technical solutions are emerging, but deployment at scale requires infrastructure investment and business model transformation.
+
+This is both a technical and cultural problem. Software can help with tracking, transparency, and circular economy logistics, but fundamentally requires systemic change in how we produce, consume, and dispose of clothing.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
+
+---
+
+## Need: Intergenerational Wealth Transfer and Housing Access Crisis
+
+**ID**: NEED-053
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+A generation that "did everything right" — education, career, financial responsibility — is locked out of homeownership. Ninety-seven percent of millennials say they face at least one barrier to homeownership, with top barriers being financial: homes too expensive (46%), interest rates too high (40%), and saving for a down payment impossible (34%). Around 80% of Gen Z and millennial home buyers used family savings to cover or contribute to down payments, making family wealth the primary determinant of homeownership access. Parents are spending more than $1,400/month on average helping adult children make ends meet. Fifty percent of parents are still financially supporting adult millennial or Gen Z children, though nearly 40% say they will stop within two years. House price growth has outpaced income growth by over 30% since 2015. The result: almost half of those aged 18-29 currently live with parents — the highest level since the Great Depression (1929-41). Nearly one-third (31%) of Gen Z adults live at home because they can't afford to buy or rent their own space. Sixty-one percent of millennials say buying a home makes them feel "in over their heads financially," yet 40% are desperate to make a purchase in 2026. This creates a two-tier system: those with family wealth can access homeownership; those without cannot, regardless of personal achievement or responsibility.
+
+### Evidence
+- [Newsweek - Millennial Man: I Did Everything Right](https://www.newsweek.com/millennial-man-everything-right-still-feels-impossible-2057802): 29-year-old millennial post received 15K+ upvotes, economic frustration widespread
+- [Clever Offers - Millennial Home Buyer Report 2026](https://cleveroffers.com/research/millennial-home-buyers-2026/): 97% face barriers, 80% use family savings for down payments
+- [CNBC - High Housing Costs Keep 31% of Gen Z at Home](https://www.cnbc.com/2024/01/11/high-housing-costs-have-kept-31percent-of-gen-z-adults-living-at-home.html): Can't afford to buy or rent
+- [Knowledge at Wharton - Will Gen Z Be Able to Afford Houses](https://knowledge.wharton.upenn.edu/article/will-gen-z-be-able-to-afford-houses/): 18-29 age group living with parents at Great Depression levels
+- [Fortune - Gen Z and Millennials Can't Afford to Buy](https://fortune.com/2025/07/09/gen-z-millennial-homebuyer-housing-market/): First-time homebuyers half the historical norm
+- [Medium - 12 Startup Ideas Reddit Is Begging Someone to Build](https://medium.com/startup-insider-edge/12-startup-ideas-reddit-is-begging-someone-to-build-in-2026-a0340844e02a): Reddit r/Millennials threads as "support groups" for economic frustration
+
+### Connections
+- Related to: NEED-015 (affordable housing crisis), NEED-017 (student loan default cliff), NEED-005 (small business overwhelm — generational economic pressures)
+- Potentially addresses: Economic inequality, family financial stability, generational wealth gaps
+- Blocked by: Housing supply shortage, zoning restrictions, income-to-housing-cost ratio structural mismatch
+
+### Research Notes
+This is an **equity and opportunity crisis** disguised as a "housing affordability" problem. The deeper pattern:
+
+**The Meritocracy Breakdown**: A 29-year-old millennial's Reddit post articulates the frustration: "I did everything right" — but the social contract that promised "education + work = stability" has broken down. House price growth outpaced income growth by 30%+ since 2015.
+
+**Family Wealth as Gateway**: 80% of young homebuyers rely on family savings for down payments. This creates a **hereditary housing system** where parental wealth, not personal achievement, determines homeownership access.
+
+**Parental Financial Strain**: Parents spend $1,400+/month supporting adult children, jeopardizing their own retirement security. This is unsustainable: 40% plan to stop helping within two years, which will leave already-struggling children even more vulnerable.
+
+**Living Arrangement Reversal**: 18-29 year olds living with parents at rates not seen since the Great Depression. This isn't a cultural shift — it's economic necessity. 31% of Gen Z explicitly cite inability to afford independent living.
+
+**The Housing Paradox**: 61% feel "in over their heads" financially when considering homeownership, yet 40% are "desperate" to purchase in 2026. This desperation-despite-impossibility dynamic creates vulnerability to predatory lending, overextension, and future financial crisis.
+
+**Reddit as Signal**: Multiple Medium articles document Reddit as "the world's largest focus group of frustrated customers" — r/Millennials threads function as economic support groups, with 15K+ upvotes on housing frustration posts.
+
+**Systemic Nature**: About one-quarter of the 9 percentage point increase in young adults living with parents (2000-2021) is explained by declining housing affordability, with unemployment, delayed marriage, and delayed childrearing also contributing.
+
+Potential intervention points:
+1. **Transparency tools**: Help young adults understand true cost of homeownership, avoid predatory lending
+2. **Cooperative/co-housing models**: Alternative ownership structures reducing individual capital requirements
+3. **Micro-mortgages and innovative financing**: Down payment assistance, shared appreciation models
+4. **Policy advocacy platforms**: Connect affected individuals to organize for zoning reform, housing policy
+5. **Financial education**: Help families navigate the parent-child financial support dynamic sustainably
+
+However, this is fundamentally a **policy and structural economics problem**. Software alone cannot fix supply shortage, zoning restrictions, or income-to-housing-cost ratios. Technology can improve information, coordination, and advocacy, but the core need is housing policy reform.
+
+The broader pattern: This connects to the **Essential Worker Crisis** and **Economic Instability** clusters. Young people face student debt (NEED-017), housing crisis (NEED-015), and now intergenerational wealth dependency simultaneously — a perfect storm of economic exclusion.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
+
+---
+
+## Need: Chronic Pain and Opioid Crisis (Non-Addictive Treatment Breakthrough)
+
+**ID**: NEED-054
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Chronic pain is a leading cause of disability, mental health disorders, and opioid dependence, with an annual economic impact of approximately $560 billion in the U.S. Up to 20% of patients with severe acute pain develop chronic pain, and opioid use after surgery can lead to dependence. The opioid crisis has created a paradox: patients with legitimate pain needs face barriers to treatment due to prescribing restrictions, while addiction and overdose deaths continue. On January 30, 2025, the FDA approved Journavx (suzetrigine), the first new non-opioid pain medication approved in more than 20 years. This breakthrough drug targets the Nav1.8 sodium channel located only in peripheral nerve cells, blocking pain signals before they reach the brain — making it non-addictive. Clinical trials showed it eased pain as effectively as Vicodin without causing nausea or drowsiness. The NOPAIN Act expands patient and provider access to FDA-approved non-opioids in all outpatient surgical settings beginning in 2025 by providing separate Medicare reimbursement. This represents a potential inflection point: a proven, non-addictive alternative to opioids exists and is entering the market. However, access, awareness, and adoption gaps remain, particularly in underserved communities where opioid crisis impacts are most severe.
+
+### Evidence
+- [Yale Medicine - FDA Approves Suzetrigine](https://www.yalemedicine.org/news/new-non-opioid-pain-pill): First FDA approval in 20+ years, targets Nav1.8 channel
+- [medtigo Journal - Suzetrigine and Future of Pain Management](https://journal.medtigo.com/suzetrigine-and-the-future-of-non-addictive-pain-management-in-the-midst-of-the-u-s-opioid-epidemic/): Non-addictive mechanism, works in peripheral nervous system
+- [MATTERS Network - Journavx Newly-Approved](https://mattersnetwork.org/journavx/): As effective as Vicodin without nausea/drowsiness
+- [UCHealth - Long-Awaited Non-Opioid Treatment](https://www.uchealth.org/today/journavx-long-awaited-non-opioid-treatment-for-acute-pain-hits-market/): Long-awaited treatment hits market
+- [NonOpioidChoices.org - NOPAIN Act Implementation](https://nonopioidchoices.org/advocacy/nopain-act-implementation/): Medicare reimbursement expansion beginning 2025
+- [NCBI - Alternatives to Opioids for Managing Pain](https://www.ncbi.nlm.nih.gov/books/NBK574543/): Comprehensive review of non-opioid options
+
+### Connections
+- Related to: NEED-008 (family caregiver crisis — pain management for aging parents), NEED-041 (mental health treatment access — pain and mental health interconnected), NEED-049 (rural healthcare access — pain treatment availability)
+- Potentially addresses: Opioid addiction prevention, chronic pain management, quality of life for pain patients
+- Blocked by: Access barriers (cost, insurance coverage, prescriber awareness), adoption lag in medical community
+
+### Research Notes
+**Scientific Breakthrough Context**: This is the first FDA-approved novel non-opioid pain medication in more than 20 years. The mechanism is fundamentally different from opioids — it blocks pain signals at the source (peripheral nervous system) rather than in the brain, which is why it's non-addictive.
+
+**Clinical Validation**: Both trials showed suzetrigine provided pain relief equivalent to Vicodin (a common opioid), with the added benefit of no nausea or drowsiness — side effects that often limit opioid effectiveness.
+
+**Policy Support**: The NOPAIN Act creates separate Medicare reimbursement for non-opioid therapies in outpatient surgical settings, removing a major financial barrier to adoption.
+
+**The Opportunity**: For the first time in decades, there is a proven, FDA-approved alternative to opioids for moderate-to-severe pain. This could prevent new opioid addictions, particularly post-surgical dependence.
+
+**The Gap**: Awareness and adoption. Key challenges:
+1. **Prescriber education**: Physicians need training on when/how to prescribe suzetrigine vs. opioids
+2. **Insurance coverage**: While Medicare is covered (NOPAIN Act), private insurance and Medicaid policies vary
+3. **Cost and access**: Pricing unknown, but new drugs often face affordability barriers
+4. **Geographic disparities**: Rural and underserved communities (where opioid crisis is worst) may have delayed access
+5. **Patient awareness**: Those suffering from chronic pain may not know this option exists
+
+**Broader Pain Management Ecosystem**: The approval of suzetrigine is part of a larger shift toward multimodal pain management: NSAIDs, acetaminophen, physical therapy, acupuncture, cognitive behavioral therapy, and other non-opioid approaches. The list of alternatives is extensive, but patient and provider education remains limited.
+
+**Economic Impact**: Chronic pain costs $560 billion annually in the U.S. Effective non-addictive pain management could reduce this burden while preventing new opioid dependencies.
+
+Potential intervention points:
+1. **Provider education platforms**: Train prescribers on suzetrigine and other non-opioid options
+2. **Patient education and decision support**: Help patients understand alternatives to opioids
+3. **Access mapping**: Identify where suzetrigine is available, connect patients to providers
+4. **Insurance navigation**: Help patients understand coverage, appeal denials
+5. **Clinical outcome tracking**: Monitor real-world effectiveness, identify best practices
+
+This is a **positive signal** in the needs graph — a breakthrough that addresses a major humanitarian crisis. The software opportunity is in **accelerating adoption and ensuring equitable access**, particularly in communities most impacted by the opioid epidemic.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded
+- [x] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -3181,6 +3431,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-11 | Scout-01 | Added NEED-048 | Quantum Computing "Q-Day" Security Threat - URGENT signal; "Harvest Now, Decrypt Later" threat immediate, 62% fear but only 5% prioritize, FBI and NIST declare 2026 "Year of Quantum Security," post-quantum cryptography migration urgent |
 | 2026-02-11 | Scout-01 | Added NEED-049 | Medical Deserts and Rural Healthcare Access Crisis - URGENT signal; 30M Americans 60+ min from trauma care, 77% of rural counties are medical deserts, 100+ hospital closures 2013-2020, telehealth promise blocked by digital divide |
 | 2026-02-11 | Scout-01 | Added NEED-050 | AI-Powered Mass Vulnerability Discovery and Open Source Security Crisis - strong signal; Claude Opus 4.6 found 500+ high-severity flaws in major libraries February 2026, asymmetric threat as attackers gain same AI capabilities, 98% of vulnerabilities in less-visible projects, 74% of codebases have high-risk components, compounds OSS maintainer burnout |
+| 2026-02-11 | Scout-01 | Updated Overview | Increased observing count from 50 to 54 needs |
+| 2026-02-11 | Scout-01 | Added NEED-051 | Global Nuclear Arms Control Collapse and Transparency Crisis - CRITICAL signal; New START Treaty expired Feb 5, 2026 (first time in 50+ years without binding limits), 12,200+ nuclear weapons unconstrained, transparency/notification requirements eliminated, Doomsday Clock at 85 seconds to midnight, launch-on-warning pressures, China refusal to negotiate, NPT weakened, proliferation pressures in Japan/Poland/South Korea/Ukraine |
+| 2026-02-11 | Scout-01 | Added NEED-052 | Textile Waste and Microplastic Pollution Crisis - URGENT signal; 92M tons annual waste, 100B garments produced (92M to landfills), 148M tons projected by 2030 (+60% from 2015), fashion = 10% global carbon emissions, 14M tonnes microplastics on ocean floor (+1.5M annually), textiles 4th largest source (8% of ocean microplastics), 34.8% ocean microfibers from textile laundering, shift from 95% natural (1960) to 68% synthetic, microplastics in human bloodstreams/lungs/organs, breakthrough recycling tech Feb 2026 (75% cotton/78% polyester recovery) |
+| 2026-02-11 | Scout-01 | Added NEED-053 | Intergenerational Wealth Transfer and Housing Access Crisis - URGENT signal; 97% of millennials face homeownership barriers, 80% rely on family savings for down payments, parents spend $1,400+/month supporting adult children, house prices outpaced income +30% since 2015, 18-29 living with parents at Great Depression levels, 31% Gen Z at home due to unaffordability, 61% feel "in over heads" yet 40% desperate to buy 2026, hereditary housing system emerging where family wealth determines access regardless of merit |
+| 2026-02-11 | Scout-01 | Added NEED-054 | Chronic Pain and Opioid Crisis (Non-Addictive Treatment Breakthrough) - strong signal; chronic pain $560B annual U.S. cost, FDA approved Journavx (suzetrigine) Jan 30 2025 (first non-opioid in 20+ years), targets Nav1.8 peripheral channel (non-addictive), as effective as Vicodin without nausea/drowsiness, NOPAIN Act expands Medicare coverage 2025, but access/awareness/adoption gaps remain, particularly in underserved communities where opioid crisis worst |
 
 ---
 
