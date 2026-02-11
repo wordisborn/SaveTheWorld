@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 47 | Initial signals detected, gathering evidence |
+| Observing | 50 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -73,7 +73,7 @@ Potential intervention points: automated triage tools, maintainer wellbeing supp
 **ID**: NEED-002
 **Status**: observing
 **First Observed**: 2026-01-31
-**Last Updated**: 2026-02-06
+**Last Updated**: 2026-02-11
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -104,6 +104,15 @@ Key insight: The promise of AI tools is "do more with less," but the reality is 
 **2026-02-06 Update**: The quality crisis intensifies. More than two-thirds of developers feel pressured to deliver projects faster. 48% prefer to "stay hands-on" when using AI in core tasks like testing or code reviews, reflecting distrust in AI outputs. CIOs report cultural and organizational change as a top challenge — technology is outpacing teams' ability to keep up. The tension between AI-driven speed expectations and quality control practices is creating a skills erosion crisis. Burnout is now cited as a "critical issue plaguing software engineering teams" for 2026. Organizations are pushing AI adoption without the foundation to support it, burning out both employees and executives.
 
 **2026-02-06 Workplace Burnout Data**: The crisis has reached unprecedented levels. 82% of employees in the tech industry report feeling close to burnout in 2025. "Quiet burnout" is emerging as a new pattern — employees who appear engaged but are running on empty, masking emotional fatigue while privately nearing collapse. This makes detection harder than traditional burnout. Sustained chronic workplace stress now affects nearly half of the world's employees globally. Tech industries show 38% burnout rates, with 23% citing poor leadership and 19.4% citing work overload as primary causes. Companies lose an estimated $300 billion annually due to stress-related absenteeism. The generational divide is stark: Gen Z reaches highest stress levels at average age 25, with 68% of Gen Z and 73% of millennials reporting burnout. The problem may be more about implementation culture than the tools themselves.
+
+**2026-02-11 Update**: Harvard Business Review published research showing companies are becoming "burnout machines" as AI intensifies rather than reduces work. UC Berkeley researchers spent 8 months inside a 200-person tech company studying genuine AI adoption. Key findings: "workload creep" phenomenon where product managers began writing code, researchers took on engineering work, and role boundaries blurred. DHR Global survey of 1,500 corporate professionals found 83% experiencing burnout, with 62% of associates and 61% of entry-level workers affected (vs. 38% among C-suite). Over two-thirds of developers report mounting pressure to deliver faster. Productivity paradox confirmed: experienced developers using AI tools took 19% longer on tasks while believing they were 20% faster. Code review burnout climbing as top contributor. Recommendation: companies need an "AI practice" with intentional norms, structured pauses, reduced context-switching, and protection of human connection time.
+
+### Evidence (2026-02-11 additions)
+- [Harvard Business Review - AI Doesn't Reduce Work—It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it): UC Berkeley 8-month study inside tech company
+- [TechCrunch - The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/): Burnout paradox affects early adopters
+- [Decrypt - AI Promised to Save Time—Instead It's Created a New Kind of Burnout](https://decrypt.co/357527/ai-save-time-instead-created-new-kind-burnout): DHR Global survey of 1,500 professionals showing 83% burnout
+- [Index.dev - Top 100 Developer Productivity Statistics with AI Tools 2026](https://www.index.dev/blog/developer-productivity-statistics-with-ai-tools): Comprehensive 2026 developer data
+- [Technology.org - The Biggest AI Fans Are Running on Empty First](https://www.technology.org/2026/02/10/biggest-ai-fans-run-on-empty-first-nobody-warned-them/): Early adopters hit burnout first
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -208,8 +217,8 @@ This is a complex systemic problem — software alone cannot solve infrastructur
 **ID**: NEED-005
 **Status**: observing
 **First Observed**: 2026-01-31
-**Last Updated**: 2026-02-10
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-11
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -235,6 +244,17 @@ Quote from operations expert Cameo Roberson: "There are so many tech options, an
 **2026-02-08 Digital Transformation Crisis**: Organizations across industries investing heavily in technology yet many struggle with execution. **The real challenge is not adopting new tools but transforming the way businesses think, operate, and deliver value.** Major struggle areas for small businesses: (1) **Limited resources** — small businesses lack time, capacity, and money to fully achieve digital transformation, creating barrier to keeping pace with larger competitors; (2) **Skills and expertise gap** — common challenges include lack of technical expertise, limited budgets, resistance to change among employees, and poor planning. While organizations invest in advanced tools, employees often lack skills to use them effectively, causing initiatives to fail to deliver value; (3) **Legacy infrastructure** — older systems lack flexibility, slow innovation, increase operational risk, preventing businesses from scaling, integrating AI, or delivering real-time insights; (4) **Execution over technology** — despite years of effort and resources, many businesses fail to see real outcomes, with most struggles coming from unclear direction, roles, and poor execution. **In 2026, 96% of small business owners plan to adopt emerging technologies soon**, indicating strong intent despite challenges. Digital transformation in 2026 requires leaders who can balance innovation with stability, guiding transformation with clarity, empathy, and long-term vision — treating it as continuous evolution, not one-time project.
 
 **2026-02-10 Tariff Economic Crisis Intensifies**: The tariff burden on small businesses has reached critical levels. Small businesses paid an average of roughly $42,600 in total tariffs per month in September 2025. **If this monthly amount persists throughout 2026, the typical small business will pay more than $500,000 in tariffs — a catastrophic cost for operations with slim margins.** Current tariff levels remain eight to ten times higher than at the start of 2025, contributing to ongoing inflation and supply chain pressure. More than 97% of U.S. companies that import goods are small businesses, and many are now struggling as tariffs increase the cost of imported goods. **Higher costs have hit smaller companies harder because they have fewer levers to pull than larger competitors** — their margins are slimmer, their supply chains less diverse, and their negotiating power dampened by smaller order sizes. Many small businesses have been forced to freeze hiring, pull back growth plans, take on new financing, or cut salaries to keep operations afloat. The Supreme Court is reviewing whether the administration acted lawfully in imposing global tariffs using IEEPA, and if ruled unlawful, affected businesses may be entitled to refunds. Small businesses represent the "canary in the coal mine" — their struggles signal broader economic warning signs for 2026.
+
+**2026-02-11 Tariff Crisis Reaches Catastrophic Levels**: New reporting reveals businesses facing tariff bills stacking to **$800,000 annually** — more than five times normal budgets — with total debt topping **$1.2 million when covering costs with merchant cash advances**. A shadowy industry of merchant cash advance providers is exploiting small businesses desperate to pay tariffs, charging high costs that compound their financial strain. One company paid an additional $60,000 in tariffs this year, a figure projected to rise to at least $180,000 in 2026. **Small establishments lost 120,000 jobs in November 2025 alone**, marking a three-month trend of shedding an average of 34,000 jobs per month. Businesses are starting to pass costs to customers: JPMorgan predicts the 80% of tariff costs absorbed by businesses in 2025 could shrink to 20% in 2026 as price increases cascade through the economy. Many businesses implemented immediate price increases at the start of 2026, while others plan increases in Q1 or Q2. Unpredictable and rapidly changing tariff policies make it nearly impossible to forecast costs, place orders, or manage supply chains effectively. The OECD forecasts a 2026 global slowdown with U.S. GDP dropping to 1.7% (down from 2.0% in 2025) due to rising trade barriers. Import volume at major container ports expected to see significant year-over-year decline during first half of 2026 as tariff impact continues.
+
+### Evidence (2026-02-11 additions)
+- [Avalara - Tariffs in 2026: How new trade rules impact your business](https://www.avalara.com/blog/en/north-america/2026/01/tariffs-2026-how-new-trade-rules-impact-business.html): 2026 tariff policy overview
+- [CNBC - Delayed tariff impact starting to hit](https://www.cnbc.com/2025/12/02/tariff-impact-starting-to-hit-could-cause-reduced-headcount-in-2026.html): Employment impacts emerging
+- [CNN Business - Tariffs could really sting in 2026](https://www.cnn.com/2026/01/03/business/tariffs-prices-2026): Price increase predictions
+- [NRF - Tariffs hurt small businesses](https://nrf.com/blog/tariffs-hurt-small-businesses): National Retail Federation data on small business impacts
+- [WFAE - A shadowy industry is helping small businesses pay tariffs — at a high cost](https://www.wfae.org/united-states-world/2026-02-09/small-businesses-are-getting-help-paying-tariffs-at-a-high-cost): Merchant cash advance exploitation
+- [Marketplace - Tariffs have squeezed labor market](https://www.marketplace.org/story/2026/01/12/tariffs-have-squeezed-the-labor-market-small-businesses-say): Fed investigation findings
+- [AInvest - The 2026 Small Business Crisis](https://www.ainvest.com/news/2026-small-business-crisis-implications-equity-markets-policy-driven-sector-rotation-2512/): Broader economic implications
 
 Recommended approach for SMBs:
 1. Audit current technology, identify redundant tools
@@ -2809,6 +2829,243 @@ The Council may decide this is outside our scope (too biotech-specific) or that 
 
 ---
 
+## Need: Quantum Computing "Q-Day" Security Threat
+
+**ID**: NEED-048
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Quantum computing threatens to break widely used encryption methods (RSA, ECC, AES) through algorithms like Shor's and Grover's, rendering most public-key encryption systems reversible. The most urgent threat is "Harvest Now, Decrypt Later" (HNDL) — adversaries are collecting encrypted data today to decrypt once quantum capability arrives. While cryptographically relevant quantum computers may arrive in the 2030s, the practical threat is immediate because sensitive data encrypted today could remain valuable for decades. Despite 62% of technology and cybersecurity professionals fearing quantum computers could break internet encryption, only 5% consider it a high priority, and only 5% have a defined strategy to address it. The FBI and NIST have declared 2026 "the Year of Quantum Security" — a coordinated global effort to align policy, security practices, and quantum ecosystem coordination.
+
+### Evidence
+- [ScienceDaily - Quantum computers have serious security flaws](https://www.sciencedaily.com/releases/2026/01/260120000330.htm): Researchers warn of vulnerabilities in quantum systems themselves
+- [ClearanceJobs - 2026 Is the Year Quantum Computing Gets Serious About Security](https://news.clearancejobs.com/2026/01/14/preparing-for-quantum-security-in-2026/): FBI and NIST coordination efforts
+- [Integrity360 - Quantum Computing and Encryption: How Q-Day could redefine Cyber Security](https://insights.integrity360.com/quantum-computing-and-encryption-how-q-day-could-redefine-cyber-security): Q-Day threat overview
+- [Palo Alto Networks - Quantum Computing Cybersecurity Risks](https://www.paloaltonetworks.com/cyberpedia/what-is-quantum-computings-threat-to-cybersecurity): Comprehensive threat analysis
+- [TechGenyZ - Quantum Computing Threat: The Ultimate 2026 PQC Survival Guide](https://techgenyz.com/quantum-computing-post-quantum-cryptography-threat/): Post-quantum cryptography guidance
+- [IAPP - A quantum of context: Cybersecurity law after Q-Day](https://iapp.org/news/a/a-quantum-of-context-cybersecurity-law-after-q-day): Legal and compliance implications
+- [Industrial Cyber - ISACA warns quantum computing poses major risk](https://industrialcyber.co/critical-infrastructure/isaca-warns-that-quantum-computing-poses-major-cybersecurity-risk-as-few-firms-are-ready/): Organizational readiness gap
+- [World Economic Forum - Quantum-safe migration opportunity](https://www.weforum.org/stories/2026/01/quantum-safe-migration-cryptography-cybersecurity/): 2026 transition strategies
+
+### Connections
+- Related to: NEED-019 (cybersecurity crisis), NEED-028 (AI-driven cybercrime)
+- Potentially addresses: National security, financial systems security, healthcare data protection
+- Blocked by: Organizational awareness gap, lack of budget prioritization, skills shortage
+
+### Research Notes
+**The HNDL threat timeline:**
+- Data encrypted today is being collected by adversaries
+- Quantum computers capable of breaking current encryption may arrive by mid-to-late 2030s
+- Sensitive data (medical records, state secrets, financial information) remains valuable for 10-30+ years
+- Therefore, the threat is *now* — not when quantum computers arrive
+
+**NIST Post-Quantum Cryptography (PQC) standards:**
+- Released first PQC standards in 2024
+- Expected to become compliance requirement in many regions
+- Many researchers place quantum milestone in 2030s, but migration takes years
+- Organizations must begin transition now to be ready
+
+**Organizational readiness crisis:**
+- 62% fear the threat
+- Only 5% prioritize it
+- Only 5% have defined strategy
+- Gap between awareness and action is dangerous
+
+**2026 as critical year:**
+FBI and NIST designated 2026 as coordinated global effort year for quantum security — policy alignment, security practices, ecosystem coordination. This is the year organizations should begin migration planning.
+
+**Software/systems leverage opportunities:**
+- Crypto-agility frameworks (ability to swap encryption algorithms quickly)
+- Inventory and assessment tools to identify vulnerable systems
+- Migration planning and project management platforms
+- Compliance tracking systems for PQC standards
+- Education and training platforms for security teams
+
+This is a **preventable crisis** — but the window for action is 2026-2028 before HNDL-collected data becomes vulnerable.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
+
+---
+
+## Need: Medical Deserts and Rural Healthcare Access Crisis
+
+**ID**: NEED-049
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Thirty million Americans, many in rural regions, live at least a 60-minute drive from a hospital with trauma care services. Approximately 77% of rural counties in the United States are medical deserts due to shortage of primary care professionals — 5.1 primary care doctors per 10,000 people in rural areas versus 8.0 in urban centers. Over 100 rural hospitals closed from 2013 to 2020, forcing residents to travel 20 miles farther for common services and 40 miles farther for specialized care. Telehealth offers potential solutions, but the digital divide in broadband and digital device access between urban and rural communities means telehealth benefits are not equally enjoyed. Medical deserts exist where population healthcare needs are unmet due to lack of adequate access or improper quality of healthcare services caused by insufficient human resources or facilities.
+
+### Evidence
+- [PMC - Overview of barriers to healthcare access: Medical deserts](https://pmc.ncbi.nlm.nih.gov/articles/PMC12349865/): Comprehensive analysis of medical desert barriers
+- [Hamilton Health Box - Rural Healthcare Deserts](https://www.hamiltonhealthbox.com/blog/rural-healthcare-deserts-whats-driving-the-lack-of-access-to-healthcare): Driving factors analysis
+- [Wikipedia - Medical deserts in the United States](https://en.wikipedia.org/wiki/Medical_deserts_in_the_United_States): Scope and statistics
+- [TytoCare - Addressing the problem of rural healthcare deserts](https://www.tytocare.com/resources/blog/addressing-the-problem-of-rural-healthcare-deserts/): Technology solution implementations
+- [Richmond Fed - Digital Access Deficiencies in Rural Health Care Deserts](https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_10_31_24_rural_health_care_deserts): Telehealth and digital divide analysis
+- [Remote Area Medical - Healthcare Deserts: Why RAM's Services are Needed](https://www.ramusa.org/06/healthcare-deserts-why-rams-services-are-needed-countrywide/): Ground-level healthcare delivery challenges
+- [Atlanta Fed - The Telehealth Divide](https://www.atlantafed.org/community-development/publications/partners-update/2024/10/24/the-telehealth-divide-digital-inequity-in-rural-health-care-deserts): Digital inequity in rural healthcare
+- [Harvard Medicine Magazine - If You Build It](https://magazine.hms.harvard.edu/articles/if-you-build-it): Rural healthcare infrastructure solutions
+- [PMC - Defining medical deserts—international consensus](https://pmc.ncbi.nlm.nih.gov/articles/PMC10567127/): International definition and framework
+- [HealthTech Magazine - What Are Medical Deserts](https://healthtechmagazine.net/article/2022/06/what-are-medical-deserts-perfcon): Technology solutions overview
+
+### Connections
+- Related to: NEED-004 (healthcare digital divide), NEED-026 (critical infrastructure decay), NEED-030 (elder digital divide), NEED-041 (mental health access)
+- Potentially addresses: Rural health equity, emergency response times, chronic disease management
+- Blocked by: Broadband infrastructure gaps, healthcare workforce shortages, hospital financial sustainability
+
+### Research Notes
+**The rural healthcare crisis dimensions:**
+
+1. **Access barriers:**
+   - 60-minute drive to trauma care for 30M Americans
+   - 77% of rural counties are medical deserts
+   - 100+ rural hospital closures (2013-2020) → 20-40 mile further travel for care
+   - Primary care doctor shortage: 5.1 per 10K (rural) vs. 8.0 per 10K (urban)
+
+2. **Telehealth promise vs. reality:**
+   - **Promise:** Bridge geographic access gaps, enable remote consultations, reduce travel burden
+   - **Reality:** Digital divide in broadband access and digital devices means telehealth benefits not equally distributed
+   - Rural communities lack high-speed internet needed for video consultations
+   - Device access and digital literacy create additional barriers
+
+3. **Successful technology implementations:**
+   - **Sanford Health + TytoCare partnership (since 2019):** Fully remote exams, antibiotic prescriptions to medical deserts
+   - **Henry Ford Health System (Southeast Michigan):** School-based virtual healthcare in 14 schools, reaching 10,000 new students in under 6 months
+   - These examples show technology *can* work when implemented thoughtfully
+
+4. **AI assistance potential:**
+   - Enhance effectiveness of healthcare service provision in medical deserts
+   - Contingent upon financial feasibility
+   - Could extend capacity of limited rural healthcare workforce
+
+**Software/systems leverage opportunities:**
+- Telehealth platforms optimized for low-bandwidth connections
+- Scheduling and triage systems to maximize limited provider time
+- Remote monitoring systems for chronic disease management
+- Transportation coordination platforms for necessary in-person visits
+- Provider support tools (AI-assisted diagnosis, decision support)
+- Training platforms for rural healthcare workers on new technologies
+
+**Critical infrastructure dependency:**
+Solving this requires addressing NEED-026 (broadband infrastructure as part of critical infrastructure). Healthcare access increasingly requires digital infrastructure.
+
+**Connection to elder care crisis (NEED-008, aging-in-place trends):**
+Rural populations skew older. Medical deserts disproportionately affect elderly Americans who need more frequent care but have least mobility to travel long distances.
+
+This is an **equity crisis** — rural Americans have same healthcare needs but drastically reduced access compared to urban populations.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
+
+---
+
+## Need: AI-Powered Mass Vulnerability Discovery and Open Source Security Crisis
+
+**ID**: NEED-050
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+In February 2026, Anthropic's Claude Opus 4.6 AI model discovered over 500 previously unknown high-severity security flaws in major open-source libraries including Ghostscript, OpenSC, and CGIF. This represents a new paradigm: AI systems can now discover vulnerabilities at a scale and speed that vastly exceeds human security researchers. While this capability could improve security, it creates an asymmetric threat — malicious actors with AI models can discover and exploit vulnerabilities faster than defenders can patch them. Analysis shows 98% of vulnerabilities found in container images occurred outside the top 20 most popular projects, meaning the biggest security burden accumulates in less-visible parts of the stack where patching is hardest. Synopsys' 2024 OSSRA found 74% of audited codebases contained open source components with high-risk vulnerabilities. Organizations mandate patching within 24 hours for high/critical vulnerabilities (70%), but only 41% are confident in their ability to execute this policy.
+
+### Evidence
+- [The Hacker News - Claude Opus 4.6 Finds 500+ High-Severity Flaws](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html): February 2026 discovery announcement
+- [CISA - Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog): Actively exploited vulnerabilities including CVE-2026-21509 (Microsoft Office zero-day), CVE-2026-24858 (Fortinet), CVE-2025-8088 (WinRAR)
+- [Ubuntu Blog - CISO's preview of open source and cybersecurity trends 2026](https://ubuntu.com/blog/a-cisos-preview-of-open-source-and-cybersecurity-trends-in-2026-and-beyond): 2026 open source security landscape
+- [The Hacker News - The State of Trusted Open Source](https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html): Organizations must ensure they're not relying on compromised libraries
+- [Dark Reading - Cybersecurity Predictions for 2026](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats): Major supply chain attacks predicted
+- [ActiveState - Open Source Security Best Practices for 2026](https://www.activestate.com/blog/activestates-open-source-security-best-practices-for-2026-a-practical-guide-for-devsecops-teams/): DevSecOps guidance for 2026
+- [OSV - Open Source Vulnerabilities database](https://osv.dev/): Comprehensive vulnerability tracking
+- [GitHub Advisory Database](https://github.com/advisories): Centralized security advisories
+- [SecOps Solution - Top 10 Open Source Software Risks of 2026](https://secopsolution.com/blog/top-10-open-source-software-risks-of-2023): Risk assessment
+
+### Connections
+- Related to: NEED-001 (OSS maintainer burnout — overwhelmed by AI-generated vulnerability reports), NEED-019 (cybersecurity crisis), NEED-021 (AI safety crisis), NEED-044 (supply chain cyberattacks)
+- Potentially addresses: Proactive security, vulnerability detection, code quality
+- Blocked by: Patching velocity gap, maintainer capacity, organizational security maturity
+
+### Research Notes
+**The AI vulnerability discovery paradigm shift:**
+
+February 2026 marked an inflection point: Claude Opus 4.6 discovered 500+ previously unknown high-severity flaws in major open-source libraries. This is not a one-time event but the beginning of a new era.
+
+**Asymmetric threat:**
+- **Defenders:** Use AI to find vulnerabilities → must coordinate disclosure → wait for maintainers to patch → wait for organizations to update → finally secure
+- **Attackers:** Use AI to find vulnerabilities → immediately exploit for maximum impact before patches exist
+- The time-to-exploit window is compressing
+
+**The scale problem:**
+- 74% of audited codebases contain open source components with high-risk vulnerabilities (Synopsys 2024)
+- 98% of container image vulnerabilities occur outside top 20 projects
+- Organizations mandate 24-hour patching (70%) but only 41% are confident they can execute
+- The gap between discovery speed and patching speed is widening
+
+**Connection to NEED-001 (OSS maintainer burnout):**
+As noted in the maintainer burnout need, AI tools are *already* flooding maintainers with low-quality vulnerability reports. Now AI is discovering *real* vulnerabilities at unprecedented scale. Maintainers face:
+1. Increased volume of legitimate vulnerabilities to patch
+2. Increased volume of AI-generated false positive reports to triage
+3. Increased pressure as attack windows compress
+4. Same burned-out volunteer workforce with no additional capacity
+
+This creates a vicious cycle: AI accelerates both discovery and exploitation, while the humans responsible for fixes remain capacity-constrained.
+
+**Active exploitation examples (early 2026):**
+- Microsoft Office Zero-Day (CVE-2026-21509): Security feature bypass
+- Fortinet (CVE-2026-24858): FortiOS SSO vulnerabilities
+- WinRAR (CVE-2025-8088): Active exploitation warned by Google
+
+**Supply chain attack predictions:**
+Security experts predict major supply chain attacks in 2026, with compromised open source libraries as a key vector.
+
+**Software/systems leverage opportunities:**
+- AI-powered vulnerability triage systems to separate signal from noise for maintainers
+- Automated patching and testing pipelines
+- Dependency risk scoring and monitoring platforms
+- Coordinated disclosure automation
+- Maintainer workload reduction tools (automated test generation, patch suggestion)
+- Supply chain security verification systems
+
+**The dual nature:**
+AI vulnerability discovery is simultaneously:
+- **A defensive opportunity:** Find and fix flaws before attackers do
+- **An offensive threat:** Attackers gain same capabilities
+- **A maintainer burden:** Volume overwhelms volunteer capacity
+
+Success requires addressing both the technical (automation, tooling) and human (maintainer sustainability, capacity) dimensions.
+
+This connects directly to the broader AI safety themes in the needs graph — another example of AI systems creating new categories of risk that existing human systems cannot handle.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [x] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -2918,6 +3175,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-10 | Scout-01 | Added NEED-045 | Quantum Computing Commercialization Gap - moderate signal; IBM Nighthawk 7,500 gates by end 2026, D-Wave scalable cryogenic control breakthrough Jan 2026, Stanford optical cavities, error correction acceleration (120 papers in 10 months vs 36 in 2024), verified quantum advantage expected by end 2026, but application infrastructure gaps persist in finance/drug discovery/manufacturing |
 | 2026-02-10 | Scout-01 | Added NEED-046 | Medicaid Funding Collapse and Healthcare Access Crisis - URGENT signal; $1T federal cuts over 10 years, 2026 cuts alone could cost 900K jobs and $100B+ GDP/tax revenue (Commonwealth Fund), Jan 2026 $2B SAMHSA funding chaos, Medicaid is largest mental health payer, compounds caregiver/youth mental health/healthcare access crises |
 | 2026-02-10 | Scout-01 | Added NEED-047 | Cell-Free Biomanufacturing Scale-Up Gap - moderate signal; portable therapeutics production at point of care, 2026 expected scale from lab kits to pilot platforms, emergency response in resource-limited settings, but manufacturing/regulatory/deployment infrastructure gaps block real-world impact |
+| 2026-02-11 | Scout-01 | Updated Overview | Increased observing count from 47 to 50 needs |
+| 2026-02-11 | Scout-01 | Updated NEED-002 | Added Feb 11 Harvard Business Review study: "burnout machines," workload creep phenomenon, productivity paradox confirmed (19% slower while feeling 20% faster), code review burnout climbing, DHR Global survey 83% burnout, UC Berkeley 8-month study inside tech company |
+| 2026-02-11 | Scout-01 | Updated NEED-005 | Escalated to CRITICAL; added Feb 11 catastrophic tariff data: $800K annual bills (5x normal), $1.2M total debt with merchant cash advances, shadowy financing industry exploiting businesses, 120K jobs lost November 2025 alone, OECD forecasts U.S. GDP down to 1.7% |
+| 2026-02-11 | Scout-01 | Added NEED-048 | Quantum Computing "Q-Day" Security Threat - URGENT signal; "Harvest Now, Decrypt Later" threat immediate, 62% fear but only 5% prioritize, FBI and NIST declare 2026 "Year of Quantum Security," post-quantum cryptography migration urgent |
+| 2026-02-11 | Scout-01 | Added NEED-049 | Medical Deserts and Rural Healthcare Access Crisis - URGENT signal; 30M Americans 60+ min from trauma care, 77% of rural counties are medical deserts, 100+ hospital closures 2013-2020, telehealth promise blocked by digital divide |
+| 2026-02-11 | Scout-01 | Added NEED-050 | AI-Powered Mass Vulnerability Discovery and Open Source Security Crisis - strong signal; Claude Opus 4.6 found 500+ high-severity flaws in major libraries February 2026, asymmetric threat as attackers gain same AI capabilities, 98% of vulnerabilities in less-visible projects, 74% of codebases have high-risk components, compounds OSS maintainer burnout |
 
 ---
 
