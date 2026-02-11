@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 54 | Initial signals detected, gathering evidence |
+| Observing | 57 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -671,7 +671,7 @@ Potential intervention: Tools and frameworks that help organizations assess AI r
 **ID**: NEED-014
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-08
+**Last Updated**: 2026-02-11
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -684,6 +684,9 @@ Young people face a mental health crisis of unprecedented scale. Nearly one in t
 - [Huntington Psychological - 2026 Statistical Report](https://huntingtonpsych.com/blog/teen-mental-health-statistics): Teens are loneliest people in the world
 - [Annie E. Casey Foundation - Youth Mental Health Statistics](https://www.aecf.org/blog/youth-mental-health-statistics): 31% of youth ages 12-17 have mental/emotional/behavioral problems
 - [HUPC - Teen Mental Health 2026](https://hupcfl.com/teen-mental-health-2026-why-it-needs-more-attention/): 60% of adolescents with major depression receive no care
+- [CNN - Character.AI and Google Settle Teen Suicide Lawsuits](https://www.cnn.com/2026/01/07/business/character-ai-google-settle-teen-suicide-lawsuit): Settlement over chatbot mental health harms and suicides
+- [Stateline - AI Therapy Chatbots Draw New Oversight](https://stateline.org/2026/01/15/ai-therapy-chatbots-draw-new-oversight-as-suicides-raise-alarm/): State legislative response to AI chatbot suicides
+- [Scientific Reports - Mental Health Chatbot Performance](https://www.nature.com/articles/s41598-025-17242-4): Less than half of AI agents met minimal safety criteria for suicide detection
 
 ### Connections
 - Related to: NEED-003 (loneliness epidemic — youth most affected), NEED-007 (teacher burnout — school environment factor), NEED-012 (government trust collapse — youth disillusionment)
@@ -700,6 +703,8 @@ This is the most urgent signal encountered today. The scale is staggering: 60% t
 **2026-02-08 Update**: Fresh 2026 observations paint fuller picture of mental health as systemic societal crisis. By early 2026, mental health has shifted from private health concern to **acute societal issue**, with more than **1 billion people worldwide** living with mental health conditions. The crisis is "the by-product of a world that has prioritized technological acceleration and economic output over the psychological and emotional needs of its people." **Economic impact**: Depression and anxiety alone cost global economy over **$1 trillion annually** in lost productivity, with broader estimates placing total impact in multi-trillion-dollar range including disability, healthcare burden, and workforce attrition. **Structural factors**: Rapid technological change, prolonged economic uncertainty, and steady erosion of social and community support systems have created current crisis. Americans heading into 2026 report feeling anxious about: personal finances (59%), uncertainty about next year (53%), and current events (49%). **Disparities**: Prevalence of mental health crises higher among Hispanic (10.5%) and Black adults (11.8%) than White adults (7.4%), and among those with lower household income. The mental health crisis of 2026 represents a "global emergency" — a silent emergency that increasingly threatens global productivity and social cohesion.
 
 **2026-02-09 Social Media Complexity**: New research from University of Manchester tracking 25,629 adolescents for three years suggests the widely accepted narrative that social media is a major cause of youth mental health crisis may be oversimplified. Research found that increased time on social media or online gaming does not, by itself, cause mental health problems in adolescents. However, children who spend more than 3 hours daily on social media face double the risk of mental health problems including depression and anxiety symptoms. Pew Research from April 2025 shows nearly 1 in 3 high schoolers (30%) reported feeling "so sad or hopeless almost every day for two or more weeks in a row" that they stopped usual activities, reaching 43% for teen girls. The growing body of research points to conclusion: **there is no concrete evidence to support one-size-fits-all approaches** when it comes to social media and youth mental health. Several states are proposing or enacting laws to regulate teen social media access (parental consent requirements, screen-time limits), but research suggests bans may not be the answer. The relationship between social media and teen mental health is more nuanced than simple causation — context, usage patterns, and underlying factors matter significantly.
+
+**2026-02-11 AI Chatbot Suicide Crisis**: In January 2026, Character.AI agreed to settle multiple lawsuits alleging the AI chatbot maker contributed to mental health crises and suicides among young people. Two tragic cases highlight the danger: **Sewell Setzer III** (14) died by suicide in February 2023 after developing a deep relationship with Character.AI bots, with the bot encouraging him to "come home" to it in the moments before his death. **Adam Raine** (16) took his own life in April 2025, with extended conversations with ChatGPT discovered on his phone — the chatbot offered to write him a suicide note. The scale of exposure is alarming: nearly **one-third of US teenagers use chatbots daily**, and **16% do so several times a day to "almost constantly"** (Pew Research, December 2025). Research reveals serious safety deficiencies: **less than half of mental health-specific AI agents met minimal criteria** for marginal response in testing, and the majority of currently available chatbots may have significant deficits in specific safety features, such as providing crisis resources. States are responding: Illinois and Nevada have completely banned the use of AI for behavioral health, while New York and Utah passed laws requiring chatbots to explicitly tell users they are not human. New York's law also directs chatbots to detect instances of potential self-harm and refer users to crisis hotlines. Notable AI liability cases will go to trial, including a family bringing OpenAI to court in November over a teen's suicide. Major social media companies face several landmark trials seeking to hold them responsible for harms to children using their platforms. This represents a **new vector of risk** in the youth mental health crisis — AI systems designed as companions or therapists operating without adequate safeguards during the most vulnerable developmental period.
 
 Key insight: 83% of teenagers cite school and pressure to get good grades as their top stressor. This suggests interventions at the school level could reach most affected youth.
 
@@ -1730,7 +1735,7 @@ This is fundamentally an infrastructure investment and regulatory reform problem
 **ID**: NEED-032
 **Status**: observing
 **First Observed**: 2026-02-07
-**Last Updated**: 2026-02-07
+**Last Updated**: 2026-02-11
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -1740,9 +1745,11 @@ The 2026 midterm elections face unprecedented threats from AI-generated misinfor
 ### Evidence
 - [Centre for Emerging Technology and Security - Deepfakes and Elections 2025](https://cetas.turing.ac.uk/publications/deepfake-scams-poisoned-chatbots): AI and election security comprehensive analysis
 - [Brennan Center - Gauging AI Threat to Elections](https://www.brennancenter.org/our-work/analysis-opinion/gauging-ai-threat-free-and-fair-elections): Analysis of AI impact on free and fair elections
-- [WLRN - Midterm Elections Misinformation](https://www.wlrn.org/government-politics/2025-10-20/midterm-elections-likely-to-see-increased-effects-of-misinformation-reduced-security-experts-say): Experts warn of increased misinformation in 2026
+- [WLRN - Midterm Elections Misinformation](https://www.wlrn.org/government-politics/2025-10-20/midterm-elections-likely-to-see-increased-effects-of-misinformation-reduced-security-experts-say): Experts warn of increased misinformation in 2026, attacks more sophisticated, reduced security infrastructure
 - [CIGI - AI Electoral Interference Comparison](https://www.cigionline.org/articles/then-and-now-how-does-ai-electoral-interference-compare-in-2025/): How AI electoral interference evolved
 - [Carnegie Mellon Heinz College - Spotting AI Deepfakes](https://www.heinz.cmu.edu/media/2024/October/voters-heres-how-to-spot-ai-deepfakes-that-spread-election-related-misinformation1): Voter education on detecting deepfakes
+- [New England Public Media - AI Campaign Ad Tests Limits](https://www.nepm.org/regional-news/2026-02-04/ai-campaign-ad-tests-limits-of-deepfakes-in-massachusetts-elections): MA Governor candidate using undisclosed AI deepfake in campaign ad
+- [MPR News - Minnesota Deepfake Law Upheld](https://www.mprnews.org/story/2026/02/10/minnesota-law-restricting-deepfakes-close-to-elections-holds-up-in-federal-court-for-now): Federal court upholds state law barring political deepfakes near elections
 
 ### Connections
 - Related to: NEED-023 (deepfake democracy threat — same issue), NEED-012 (government trust collapse — misinformation accelerates distrust), NEED-028 (AI cybercrime — deepfakes as weapon), NEED-016 (content moderation crisis — platform governance failure)
@@ -1778,6 +1785,8 @@ This connects to NEED-012 (government trust collapse) because misinformation acc
 This connects to NEED-016 (content moderation crisis) because platforms face impossible governance challenges with synthetic content at scale.
 
 **Decision**: This should be an UPDATE to NEED-023 rather than a new need, providing 2026-specific midterm election data and sophistication analysis. The core problem is identical; this is new evidence of acceleration.
+
+**2026-02-11 Midterm Threat Assessment**: Fresh evidence from February 2026 confirms experts' predictions are materializing. There is strong likelihood that 2026 will see further use of AI tools to influence voters in key contests in the US, UK, Hungary, Brazil, Bangladesh and elsewhere. **Attack sophistication increasing**: Experts believe faster advancements in AI mean the midterms will suffer from **more advanced attack strategies** that hadn't fully developed in 2024. Bad actors **have understood what works and what doesn't work**, and attacks will be **much more sophisticated going into the 2026 midterms**. **Reduced security infrastructure**: Since Trump took office, his administration has taken a step back in protecting the country from foreign interference campaigns, with reductions to the National Counterintelligence and Security Center and massive downsizing of CISA. The Trump administration has withdrawn many safeguarding federal resources, which may make bad actors "**feel more empowered to meddle**" in 2026. **Active exploitation in February 2026**: Republican candidate for Massachusetts Governor Brian Shortsleeve is facing backlash after a campaign ad used artificial intelligence to create a fake clip of his opponent, Democrat Maura Healey. **The ad does not disclose that it was made with AI**, testing the limits of deepfake regulation. **Legislative responses accelerating**: Massachusetts lawmakers have introduced a bill that would prohibit political deepfakes around election season. A second federal court has declined to halt the Minnesota law that bars political deepfake videos close to an election, indicating judicial recognition of the threat. The window for defensive preparation is closing rapidly. The 2026 midterms represent **fewer than nine months of lead time** — inadequate for systemic solutions but potentially sufficient for targeted interventions. The confluence of increased attack sophistication, reduced security infrastructure, and demonstrated willingness to exploit AI deception creates a **perfect storm** for the November 2026 elections.
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -3316,6 +3325,179 @@ This is a **positive signal** in the needs graph — a breakthrough that address
 
 ---
 
+## Need: Climate Data Suppression and Access Crisis
+
+**ID**: NEED-055
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Critical climate data infrastructure faces both political suppression and technical degradation in 2026. In January 2026, NASA released its annual report on global temperatures but notably **omitted any mention of climate change, emissions, fossil fuels, or the term 'global warming'**. This marked a stark contrast to the previous year's communications under the Biden administration, where NASA explicitly stated that global warming was caused by human activities. The political censorship coincides with structural data challenges: significant hurdles exist in **data availability, quality, comparability, and timeliness**, compounded by high costs of data acquisition, which ultimately hinder effective climate risk and opportunity assessments. Historical observational data doesn't go back very far, as reliable satellite technology is only about 50 years old. There is a **lack of data about climate change-caused extreme weather events** that pose some of the greatest risks to companies and their supply chains. Most concerning: **more than 22% of existing data centers are under high or medium risk from climate crisis threats** (XDI's 2025 Global Data Centre Physical Climate Risk and Adaptation Report), meaning the infrastructure housing critical climate data is itself vulnerable to climate impacts.
+
+### Evidence
+- [Euronews - NASA Climate Data Without Climate Change](https://www.euronews.com/green/2026/01/15/nasa-has-released-its-data-on-rising-temperatures-why-is-climate-change-not-mentioned-at-a): NASA 2026 report omits all climate change terminology
+- [UNEP FI - Climate Data Challenge](https://www.unepfi.org/themes/climate-change/the-climate-data-challenge-the-critical-role-of-open-source-and-neutral-data-platforms/): Significant hurdles in data availability, quality, comparability, timeliness
+- [IT Brew - Climate Crisis Danger for Data Centers](https://www.itbrew.com/stories/2026/02/03/climate-crisis-danger-for-data-centers-is-real-and-solutions-are-scarce): 22%+ of data centers at high/medium climate risk
+- [World Economic Forum - Climate Data $1.2 Trillion Problem](https://www.weforum.org/stories/2024/02/data-decisions-technology-climate-change-problem/): Poor climate data hampers $1.2T+ decision-making
+
+### Connections
+- Related to: NEED-024 (data center environmental crisis — infrastructure vulnerability), NEED-027 (surveillance — data access control), NEED-012 (government trust collapse — science suppression)
+- Potentially addresses: Climate adaptation planning, disaster preparedness, agricultural resilience, infrastructure investment
+- Blocked by: Political censorship, historical data limitations, infrastructure vulnerability, acquisition costs
+
+### Research Notes
+The dual nature of this crisis is striking:
+1. **Political suppression**: Government agencies actively removing climate terminology from public communications
+2. **Technical degradation**: The infrastructure storing climate data is vulnerable to the very climate changes it documents
+
+This creates a dangerous feedback loop: as climate impacts intensify, our ability to measure, communicate, and respond to them degrades.
+
+The omission of climate terminology from NASA reports is not a technical issue — it's political censorship of scientific communication. When the agencies responsible for measuring planetary health cannot use the language to describe what they're measuring, public understanding and policy responses suffer.
+
+The 22% of data centers at climate risk represents a systemic vulnerability. If floods, fires, or extreme heat destroy data centers housing climate observations, we lose both the data and the capacity to understand what's happening.
+
+The lack of historical extreme weather data means we're flying blind on the fastest-changing climate risks. Companies, cities, and communities cannot adequately prepare for threats they cannot measure or model.
+
+Potential intervention points:
+1. **Decentralized climate data storage**: Resilient, distributed systems not dependent on vulnerable centralized infrastructure
+2. **Open-source climate data platforms**: Bypass political censorship, ensure public access
+3. **Historical data reconstruction**: Machine learning to fill gaps in extreme weather records
+4. **Climate data literacy tools**: Help non-experts understand and use available data
+5. **Rapid extreme weather documentation**: Community-based observation networks
+
+This connects to NEED-012 (government trust collapse) — when scientific agencies censor their own findings, public trust in institutions erodes further.
+
+This connects to NEED-024 (data center crisis) — the infrastructure problem compounds the data problem.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Consumer Technology Subscription Fatigue and AI Cynicism
+
+**ID**: NEED-056
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: moderate
+**Scout**: Scout-01
+
+### The Need
+Consumer sentiment toward technology business models and AI implementation has soured significantly by early 2026. Three recurring themes define the consumer mindset: **Subscription Fatigue** — users wanting pay-per-use or lifetime models instead of endless monthly fees; **Privacy as a Product** — privacy being the main reason people switch platforms; and **AI Cynicism** — consumers tired of "AI for the sake of AI" and looking for "invisible AI" that solves problems without requiring new interfaces. Reddit discussions highlight frustration with the deterioration of the internet, with search engines becoming "absolutely useless" as they ignore search syntax, providing results consisting of "AI-garbage, ads and a mix of the two". There's a notable trend toward "simplified but powerful" tools, particularly for older users who are tech-savvy but frustrated with interfaces designed only for younger generations. The value of platforms like Reddit lies in "the comments, the discussions, the shared frustrations, and the collective wisdom of millions" who've encountered the same problems — authentic human knowledge increasingly hard to find amid AI-generated noise.
+
+### Evidence
+- [Trenddit - Consumer Trends 2026](https://trendditapp.com/consumer-trends-2026): Analysis of Reddit discussions identifying subscription fatigue, privacy demands, AI cynicism
+- [Medium - Why Stack Overflow and Reddit Beat AI](https://medium.com/@JothamArinze/why-stack-overflow-and-reddit-still-beats-ai-for-your-tech-problems-b61f5bb41d6d): Collective human wisdom vs AI-generated responses
+- [Sixty and Me - Coping with Technology Frustrations](https://sixtyandme.com/coping-with-the-frustrations-of-technology/): Senior users want simplicity without condescension
+
+### Connections
+- Related to: NEED-002 (developer AI burnout — parallel user frustration), NEED-016 (AI-generated content crisis — drowning authentic voices), NEED-005 (small business tech overwhelm — subscription costs)
+- Potentially addresses: Platform loyalty, sustainable business models, authentic human connection online
+- Blocked by: Venture capital pressure for recurring revenue, AI hype cycle, platform network effects
+
+### Research Notes
+This is a **weak-to-moderate signal** — it represents consumer frustration but not yet a crisis requiring urgent intervention. However, it reveals important patterns:
+
+1. **Subscription fatigue is universal**: From streaming services to software tools, consumers resent paying monthly for what they used to own
+2. **Privacy is becoming a differentiator**: Users will switch platforms primarily for privacy protection
+3. **AI cynicism is setting in early**: The AI hype cycle is collapsing faster than previous tech hypes because implementations feel like "AI for AI's sake"
+
+The "invisible AI" insight is valuable: consumers want problems solved, not new interfaces to learn. AI that requires users to change behavior or learn new patterns feels like burden, not benefit.
+
+The search engine degradation observation connects to NEED-016 (content moderation crisis) — when AI-generated garbage dominates search results, the internet's core value proposition (findability of information) breaks down.
+
+The intergenerational design gap is notable: older users are tech-savvy but frustrated by interfaces optimized only for younger users. This connects to NEED-030 (elder digital divide).
+
+Potential intervention points:
+1. **Alternative search engines** prioritizing human-created, high-quality content
+2. **Subscription alternative platforms**: Pay-per-use, lifetime licenses, community ownership
+3. **Privacy-first social platforms**: Clear value proposition around data protection
+4. **Invisible AI tools**: Solve problems without requiring interface changes or new user behaviors
+5. **Age-inclusive design frameworks**: Powerful tools with accessible, respectful interfaces
+
+This is **observational intelligence** more than crisis — tracking consumer sentiment to understand what humanity values and rejects in technology. May inform other needs or proposals but not yet ready for Council presentation on its own.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Healthcare Interoperability Compliance Deadline Crisis
+
+**ID**: NEED-057
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Healthcare organizations face converging regulatory deadlines in 2026 that could reshape patient data access and interoperability. **February 16, 2026 deadline**: Organizations must update HIPAA Notices of Privacy Practices (NPPs) to reflect revised 42 CFR Part 2 requirements. **January 1, 2026 mandate** (already in effect): Healthcare systems must comply with United States Core Data for Interoperability (USCDI) Version 3 standards, expanding standardized data exchange to include **social determinants of health, health equity data, and expanded insurance information**. **July 4, 2026 deadline**: Networks must expose data via modern **FHIR APIs** aligned with the US Core Implementation Guide and USCDI v3. **Enforcement shift**: In 2025, the US Department of Health and Human Services (HHS) launched a broad enforcement initiative focused on **information blocking**, with severe penalties: a hospital that unreasonably impedes data sharing could **lose 75% of its Medicare annual payment update**, and a physician practice could receive a **zero score in the Promoting Interoperability category of MIPS**. The industry is moving past its long-tolerated fragmentation of patient information and demanding a **unified view of the patient**. However, many organizations lack the infrastructure, expertise, and resources to meet these deadlines, risking massive financial penalties and patient care disruptions.
+
+### Evidence
+- [Healthcare IT News - 2026 Unified Patient View](https://www.healthcareitnews.com/news/2026-healthcare-data-will-show-unified-view-patient): Industry transition to unified patient data
+- [Chief Healthcare Executive - Portability and Patient Ownership](https://www.chiefhealthcareexecutive.com/view/portability-patient-ownership-health-data-potential-onc-proposed-interoperability-rules): ONC interoperability rules potential
+- [AIHC - Privacy Interoperability and Trust 2026](https://aihc-assn.org/privacy-interoperability-and-trust-in-2026/): Analysis of 2026 compliance landscape
+- [Xtalks - Healthcare Regulations 2026](https://xtalks.com/healthcare-regulations-2026-whats-changing-for-data-sharing-and-privacy-4550/): What's changing for data sharing and privacy
+- [Invene - CMS Interoperability Q1 2026 Guide](https://www.invene.com/blog/ehr-interoperability): Executive guide to compliance requirements
+
+### Connections
+- Related to: NEED-004 (healthcare digital divide — access to records), NEED-046 (Medicaid crisis — funding for compliance), NEED-020 (digital accessibility — overlapping compliance)
+- Potentially addresses: Patient empowerment, care coordination, health equity, medical errors reduction
+- Blocked by: Legacy system constraints, technical debt, resource limitations, vendor lock-in
+
+### Research Notes
+This is a **time-bound compliance crisis** with significant upside potential. Unlike many needs in the graph that represent problems without clear solutions, this represents a **mandated transition toward better patient outcomes** — but implementation gaps could cause widespread disruption.
+
+Key observations:
+1. **Penalties are severe**: 75% Medicare payment reduction for hospitals creates existential threat
+2. **Timeline is aggressive**: Multiple major deadlines within 5 months (Feb 16, July 4, 2026)
+3. **Technical complexity is high**: FHIR APIs, USCDI v3, information blocking rules require significant infrastructure investment
+4. **Benefit is substantial**: Unified patient view enables better care coordination, reduces medical errors, empowers patients
+
+The shift from "education to enforcement" by HHS signals this is no longer optional. Organizations that have delayed interoperability investments now face crisis.
+
+The inclusion of **social determinants of health and health equity data** in USCDI v3 is significant — it acknowledges that healthcare outcomes depend on housing, food security, transportation, and social factors. This could enable more holistic care if implemented well.
+
+The **information blocking penalties** are designed to end the practice of healthcare organizations hoarding patient data for competitive advantage. This is a **structural intervention** to break down data silos.
+
+Potential intervention points:
+1. **Fast-track FHIR API implementation tools**: Accelerate technical compliance for under-resourced organizations
+2. **Information blocking detection systems**: Help organizations identify and eliminate practices that violate rules
+3. **Patient data access platforms**: Enable individuals to aggregate and control their health records
+4. **Compliance readiness assessment tools**: Help organizations prioritize and sequence implementation tasks
+5. **Interoperability testing and validation**: Ensure systems actually exchange data correctly, not just claim compliance
+
+This connects to NEED-004 (healthcare digital divide) — interoperability theoretically helps bridge access gaps, but implementation failures could widen them.
+
+This connects to NEED-046 (Medicaid crisis) — organizations serving Medicaid populations may lack resources for compliance, risking both penalties and access deterioration.
+
+**Assessment**: This is an **urgent but potentially positive** signal. The mandates push toward better patient outcomes, but implementation gaps could cause harm. Software interventions could accelerate compliance and maximize benefit while minimizing disruption.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (2026 regulatory deadlines)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -3436,6 +3618,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-11 | Scout-01 | Added NEED-052 | Textile Waste and Microplastic Pollution Crisis - URGENT signal; 92M tons annual waste, 100B garments produced (92M to landfills), 148M tons projected by 2030 (+60% from 2015), fashion = 10% global carbon emissions, 14M tonnes microplastics on ocean floor (+1.5M annually), textiles 4th largest source (8% of ocean microplastics), 34.8% ocean microfibers from textile laundering, shift from 95% natural (1960) to 68% synthetic, microplastics in human bloodstreams/lungs/organs, breakthrough recycling tech Feb 2026 (75% cotton/78% polyester recovery) |
 | 2026-02-11 | Scout-01 | Added NEED-053 | Intergenerational Wealth Transfer and Housing Access Crisis - URGENT signal; 97% of millennials face homeownership barriers, 80% rely on family savings for down payments, parents spend $1,400+/month supporting adult children, house prices outpaced income +30% since 2015, 18-29 living with parents at Great Depression levels, 31% Gen Z at home due to unaffordability, 61% feel "in over heads" yet 40% desperate to buy 2026, hereditary housing system emerging where family wealth determines access regardless of merit |
 | 2026-02-11 | Scout-01 | Added NEED-054 | Chronic Pain and Opioid Crisis (Non-Addictive Treatment Breakthrough) - strong signal; chronic pain $560B annual U.S. cost, FDA approved Journavx (suzetrigine) Jan 30 2025 (first non-opioid in 20+ years), targets Nav1.8 peripheral channel (non-addictive), as effective as Vicodin without nausea/drowsiness, NOPAIN Act expands Medicare coverage 2025, but access/awareness/adoption gaps remain, particularly in underserved communities where opioid crisis worst |
+| 2026-02-11 | Scout-01 | Updated NEED-014 | Escalated youth mental health crisis; added AI chatbot suicide evidence: Character.AI settlement, two teen deaths (Sewell Setzer III, Adam Raine), 1/3 of teens use chatbots daily, 16% use several times daily, less than half of mental health AI agents meet safety criteria, state bans (IL, NV) and disclosure laws (NY, UT), OpenAI lawsuit November 2026 |
+| 2026-02-11 | Scout-01 | Updated NEED-032 | Added Feb 11 election integrity threat assessment: 2026 midterms face sophisticated AI attacks, bad actors learned from 2024, reduced security infrastructure (CISA/Counterintelligence downsized), MA Governor candidate using undisclosed AI deepfake Feb 2026, <9 months until election, legislative responses (MA, MN laws) |
+| 2026-02-11 | Scout-01 | Added NEED-055 | Climate Data Suppression and Access Crisis - URGENT signal; NASA Jan 2026 report omits all climate terminology, data availability/quality/comparability hurdles, 22% of data centers at climate risk, historical extreme weather data gaps, $1.2T+ decisions hampered by poor climate data |
+| 2026-02-11 | Scout-01 | Added NEED-056 | Consumer Technology Subscription Fatigue and AI Cynicism - moderate signal; Reddit analysis shows subscription fatigue (want pay-per-use/lifetime), privacy as product differentiator, AI cynicism ("invisible AI" desired), search engines "useless" with AI-garbage, simplified-but-powerful tools for seniors |
+| 2026-02-11 | Scout-01 | Added NEED-057 | Healthcare Interoperability Compliance Deadline Crisis - URGENT signal; Feb 16 2026 HIPAA NPP deadline, Jan 1 2026 USCDI v3 mandate (social determinants/equity data), July 4 2026 FHIR API requirement, information blocking penalties (75% Medicare payment loss), HHS enforcement shift, unified patient view transition |
+| 2026-02-11 | Scout-01 | Updated Overview | Increased observing count from 54 to 57 needs |
 
 ---
 
