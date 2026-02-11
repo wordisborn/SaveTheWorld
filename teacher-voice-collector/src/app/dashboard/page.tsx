@@ -1,10 +1,12 @@
+import Link from "next/link";
+
 export default function DashboardPage() {
   return (
     <div className="min-h-screen bg-paper flex flex-col">
       <nav className="flex items-center justify-between px-6 h-14">
-        <a href="/" className="text-ink font-semibold tracking-tight">
+        <Link href="/" className="text-ink font-semibold tracking-tight">
           Teacher Voice
-        </a>
+        </Link>
         <span className="text-sm text-pencil">Your conversations</span>
       </nav>
 

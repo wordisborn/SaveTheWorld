@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export default function ConsentPage() {
   const [agreed, setAgreed] = useState(false);
@@ -16,9 +17,9 @@ export default function ConsentPage() {
   return (
     <div className="min-h-screen bg-paper flex flex-col">
       <nav className="flex items-center px-6 h-14">
-        <a href="/" className="text-ink font-semibold tracking-tight">
+        <Link href="/" className="text-ink font-semibold tracking-tight">
           Teacher Voice
-        </a>
+        </Link>
       </nav>
 
       <main className="flex-1 px-6 py-10">

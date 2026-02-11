@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { createClient } from "@/lib/supabase-browser";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export default function LoginPage() {
   const [email, setEmail] = useState("");
@@ -39,9 +40,9 @@ export default function LoginPage() {
   return (
     <div className="min-h-screen bg-paper flex flex-col">
       <nav className="flex items-center px-6 h-14">
-        <a href="/" className="text-ink font-semibold tracking-tight">
+        <Link href="/" className="text-ink font-semibold tracking-tight">
           Teacher Voice
-        </a>
+        </Link>
       </nav>
 
       <main className="flex-1 flex flex-col justify-center px-6 pb-20">

@@ -1,5 +1,5 @@
 import { anthropic } from "@ai-sdk/anthropic";
-import { streamText } from "ai";
+import { streamText, convertToModelMessages } from "ai";
 
 export const maxDuration = 60;
 
@@ -38,10 +38,13 @@ Remember: This teacher is giving you 15 minutes of their vanishingly small perso
 export async function POST(req: Request) {
   const { messages } = await req.json();
 
+  // Convert UIMessages (with parts array) to ModelMessages (with content) for streamText
+  const modelMessages = await convertToModelMessages(messages);
+
   const result = streamText({
     model: anthropic("claude-sonnet-4-5-20250929"),
     system: SYSTEM_PROMPT,
-    messages,
+    messages: modelMessages,
   });
 
   return result.toUIMessageStreamResponse();

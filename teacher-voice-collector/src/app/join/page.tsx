@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { createClient } from "@/lib/supabase-browser";
+import Link from "next/link";
 
 export default function JoinPage() {
   const [email, setEmail] = useState("");
@@ -49,9 +50,9 @@ export default function JoinPage() {
     return (
       <div className="min-h-screen bg-paper flex flex-col">
         <nav className="flex items-center px-6 h-14">
-          <a href="/" className="text-ink font-semibold tracking-tight">
+          <Link href="/" className="text-ink font-semibold tracking-tight">
             Teacher Voice
-          </a>
+          </Link>
         </nav>
         <main className="flex-1 flex flex-col justify-center px-6 pb-20">
           <div className="max-w-sm space-y-4">
@@ -71,9 +72,9 @@ export default function JoinPage() {
   return (
     <div className="min-h-screen bg-paper flex flex-col">
       <nav className="flex items-center px-6 h-14">
-        <a href="/" className="text-ink font-semibold tracking-tight">
+        <Link href="/" className="text-ink font-semibold tracking-tight">
           Teacher Voice
-        </a>
+        </Link>
       </nav>
 
       <main className="flex-1 flex flex-col justify-center px-6 pb-20">
@@ -143,9 +144,9 @@ export default function JoinPage() {
 
           <p className="text-sm text-pencil">
             Already have an account?{" "}
-            <a href="/login" className="text-warmth underline">
+            <Link href="/login" className="text-warmth underline">
               Log in
-            </a>
+            </Link>
           </p>
         </div>
       </main>
