@@ -1,5 +1,5 @@
-import { describe, it, expect, vi } from "vitest";
-import { render, screen } from "@testing-library/react";
+import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
+import { render, screen, act } from "@testing-library/react";
 import ChatPage from "@/app/chat/page";
 
 // Mock next/navigation
@@ -28,8 +28,26 @@ vi.mock("@ai-sdk/react", () => ({
 }));
 
 describe("Chat page", () => {
+  beforeEach(() => {
+    vi.useFakeTimers();
+  });
+
+  afterEach(() => {
+    vi.useRealTimers();
+  });
+
+  /** Advance fake timers far enough for the typing animation to finish. */
+  function completeTypingAnimation() {
+    // The opening message in the mock is ~80 chars.
+    // At 2 chars per 12ms tick, ~500ms is more than enough.
+    act(() => {
+      vi.advanceTimersByTime(2000);
+    });
+  }
+
   it("renders the opening message", () => {
     render(<ChatPage />);
+    completeTypingAnimation();
     expect(
       screen.getByText(/Thanks for being here/)
     ).toBeInTheDocument();
@@ -64,5 +82,17 @@ describe("Chat page", () => {
   it("shows the time estimate note", () => {
     render(<ChatPage />);
     expect(screen.getByText(/15 minutes/)).toBeInTheDocument();
+  });
+
+  it("progressively reveals the opening message (typing animation)", () => {
+    render(<ChatPage />);
+    // Initially the message has started typing but not yet complete
+    expect(screen.queryByText(/teachers don't have enough of\./)).not.toBeInTheDocument();
+
+    // After enough time, the full message is visible
+    completeTypingAnimation();
+    expect(
+      screen.getByText(/Thanks for being here/)
+    ).toBeInTheDocument();
   });
 });

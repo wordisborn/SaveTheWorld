@@ -12,6 +12,11 @@ There are no right answers. I'm not evaluating you. I'm trying to understand wha
 
 To start — could you tell me what today was like?`;
 
+/** Characters revealed per tick during the opening typing animation. */
+const TYPING_CHARS_PER_TICK = 2;
+/** Milliseconds between each tick of the typing animation. */
+const TYPING_INTERVAL_MS = 12;
+
 function getMessageText(
   message: { parts?: Array<{ type: string; text?: string }> }
 ) {
@@ -23,6 +28,29 @@ function getMessageText(
     )
     .map((p) => p.text)
     .join("");
+}
+
+/**
+ * Hook that progressively reveals a string, simulating a typing / streaming
+ * effect.  Returns the visible portion of `fullText`.  Once the animation
+ * finishes the full string is returned on every subsequent render.
+ */
+function useTypingAnimation(fullText: string) {
+  const [charIndex, setCharIndex] = useState(0);
+  const done = charIndex >= fullText.length;
+
+  useEffect(() => {
+    if (done) return;
+    const id = setInterval(() => {
+      setCharIndex((prev) => {
+        const next = prev + TYPING_CHARS_PER_TICK;
+        return next >= fullText.length ? fullText.length : next;
+      });
+    }, TYPING_INTERVAL_MS);
+    return () => clearInterval(id);
+  }, [fullText, done]);
+
+  return done ? fullText : fullText.slice(0, charIndex);
 }
 
 export default function ChatPage() {
@@ -43,6 +71,12 @@ export default function ChatPage() {
   });
 
   const isLoading = status === "submitted" || status === "streaming";
+
+  // Typing animation for the opening assistant message
+  const openingFullText = getMessageText(
+    messages.find((m) => m.id === "opening") || {}
+  );
+  const openingDisplayText = useTypingAnimation(openingFullText);
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -101,7 +135,10 @@ export default function ChatPage() {
       <div className="flex-1 overflow-y-auto px-4 pb-4">
         <div className="max-w-lg mx-auto space-y-4 pt-2">
           {messages.map((message) => {
-            const text = getMessageText(message);
+            const isOpening = message.id === "opening";
+            const text = isOpening
+              ? openingDisplayText
+              : getMessageText(message);
             if (!text) return null;
 
             return (
