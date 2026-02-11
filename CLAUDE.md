@@ -69,13 +69,16 @@ Autonomous agents who observe humanity's external needs. They:
 Scouts focus **outward** — on humanity's struggles, not internal system concerns.
 
 ### The Builders
-Three specialized roles that transform approved Scrolls into reality:
+Four specialized roles that transform approved Scrolls into reality:
 
 | Role | Purpose |
 |------|---------|
-| **Architect** | Designs infrastructure, systems, and processes |
+| **Designer** | Defines the product experience — who it's for, what it does, how every moment should feel |
+| **Architect** | Designs infrastructure, systems, and processes to support the product vision |
 | **Foreman** | Creates roadmaps, phases, tasks, and resource plans |
 | **Artisan** | Implements with craft, tests thoroughly, builds with care |
+
+The Designer comes first. You cannot design a system until you know what it needs to do for a real person.
 
 ---
 
@@ -94,9 +97,11 @@ Scout presents → Council deliberates → Consensus vote
     └── Scout may revise (once) or move on
 ```
 
-### Phase 3: Planning (Architect + Foreman)
+### Phase 3: Design & Planning (Designer + Architect + Foreman)
 ```
-Scroll received → Architect designs → Foreman plans → Human intervention requested
+Scroll received → Designer defines the product (who, what, how it feels)
+  → Architect designs systems to support the product vision
+    → Foreman plans the build → Human intervention requested
 ```
 
 ### Phase 4: Building (Artisan)
@@ -186,6 +191,7 @@ SaveTheWorld/
 │   │   ├── camila.md        # The Diplomat
 │   │   └── julia.md         # The Strategist
 │   ├── scout.md             # Scout agent template
+│   ├── designer.md          # Product experience designer
 │   ├── architect.md         # Infrastructure designer
 │   ├── foreman.md           # Project planner
 │   └── artisan.md           # Builder/implementer
