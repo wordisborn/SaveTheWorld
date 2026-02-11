@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 57 | Initial signals detected, gathering evidence |
+| Observing | 58 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -732,7 +732,7 @@ This connects to NEED-003 (loneliness) and NEED-007 (teacher burnout) — the sc
 **ID**: NEED-015
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-03
+**Last Updated**: 2026-02-11
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -757,6 +757,15 @@ The numbers are stark and worsening. An 18% year-over-year increase in homelessn
 Housing is the foundation for everything else — health, education, employment, family stability. When housing fails, cascading crises follow. This connects to multiple other needs: caregivers cannot care for elders without stable housing, teachers leave professions they cannot afford, students delay life milestones due to housing costs.
 
 The 35-to-100 ratio (35 affordable homes for every 100 extremely low-income households) means the shortage is structural, not cyclical. The market alone cannot solve this.
+
+**2026-02-11 Update**: New research challenges conventional supply-only narratives. Housing affordability "may primarily be about differences in income growth at the top of the distribution relative to the middle" — suggesting income inequality, not just supply constraints, drives prices. Since 2019, the income needed to buy a single-family home has **doubled**. Incomes would need to rise nearly $50,000 for median-priced homes to be as affordable as they were in 2019. Over half (55.5%) of respondents cite people "do not earn enough money to afford a home" as the core problem, while 50.1% cite mortgage rates "too high." The U.S. faces a nationwide housing shortfall of 2 million to 20 million homes (estimates vary widely — experts cannot agree on shortage scale). NAR projects home prices will rise about 4% in 2026 as renewed demand meets supply shortages. In election year 2026, affordability has become the most politically charged housing topic. The crisis forces buyers to choose between affordability or safety, with families compromising on neighborhood security to afford housing. Affordability won't happen through dramatic price correction but through extended flat prices, rising incomes, and moderating mortgage rates.
+
+### Evidence (2026-02-11 additions)
+- [Fortune - Housing Affordability Income Inequality](https://fortune.com/2026/02/07/housing-affordability-crisis-home-prices-income-inequality-supply-growth-population/): Income inequality driving prices, not just supply
+- [CNBC - Income Gap Housing](https://www.cnbc.com/2026/02/07/housing-affordability-income-changes.html): Incomes need to rise $50K to match 2019 affordability
+- [Real Estate News - Consumer Perspectives](https://www.realestatenews.com/2026/02/10/what-consumers-think-is-causing-the-housing-affordability-crisis): 55.5% cite insufficient earnings as core problem
+- [Washington Post - Housing Shortage Scale Unknown](https://www.washingtonpost.com/business/2026/02/04/us-housing-shortage-millions/): Experts disagree on shortage size (2M-20M range)
+- [WBUR Here & Now - Affordability vs Safety](https://www.wbur.org/hereandnow/2026/02/06/housing-affordability-safety): Crisis forcing safety compromises
 
 Potential software interventions:
 1. Matching systems connecting housing-insecure individuals with available affordable units
@@ -3498,6 +3507,78 @@ This connects to NEED-046 (Medicaid crisis) — organizations serving Medicaid p
 
 ---
 
+## Need: Nonprofit Sector Sustainability and Capacity Crisis
+
+**ID**: NEED-058
+**Status**: observing
+**First Observed**: 2026-02-11
+**Last Updated**: 2026-02-11
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Nonprofit organizations — the essential infrastructure of social services, humanitarian aid, advocacy, and community support — face an existential sustainability crisis. Ninety-five percent of nonprofit leaders express concern about burnout, yet only 45% of employees plan to stay in their current roles. Twenty-two percent of nonprofit employees earn below the ALICE threshold (Asset Limited, Income Constrained, Employed), struggling to make ends meet while serving others. Organizations face financial volatility from ongoing federal funding pauses, reversals, and heightened compliance requirements while demand for services continues to rise. Two-thirds of nonprofits are dependent on at least one government grant, with the October 2025 federal shutdown serving as a stark reminder of funding vulnerabilities. Many nonprofits lack sufficient funds to deliver current programs, and most anticipate increased service demand in 2026. Organizations are entering 2026 with shrinking government dollars, growing scrutiny, and more frequent political interventions in nonprofit work, resulting in a strained sector operating under heavier compliance demands and greater financial unpredictability. The sector is dealing with internal culture gaps intensified by recent years — chronic disruption is increasing stress and fatigue, underscoring the need for brain-aware and trauma-informed leadership. Despite these challenges, digital transformation is no longer optional for nonprofits, yet effective digital systems needed to meet donor and regulatory requirements and better leverage limited resources remain out of reach for many organizations.
+
+### Evidence
+- [GMA CPA - 2026 Nonprofit Outlook](https://www.gma-cpa.com/blog/2026-nonprofit-outlook-key-challenges-trends-strategies-for-the-year-ahead): Key challenges, trends, strategies for year ahead
+- [Chronicle of Philanthropy - Survival Strategies](https://www.philanthropy.com/opinion/new-challenges-to-nonprofit-operations-in-2026/): New challenges to nonprofit operations in 2026
+- [Nonprofit Finance Fund - 2026 Trends](https://nff.org/insights/2026trends/): Challenges, innovations, and capital needed to sustain community impact
+- [BPM - 2026 Industry Outlook](https://www.bpm.com/insights/2026-nonprofit-sector-outlook/): 95% leaders concerned about burnout, 45% employees plan to stay
+- [Wipfli - Digital Transformation](https://www.wipfli.com/insights/articles/2026-nonprofit-trends-time-for-a-digital-transformation): Time for digital transformation
+- [PNC Insights - Nonprofit Trends 2026](https://www.pnc.com/insights/corporate-institutional/manage-nonprofit-enterprises/nonprofit-trends-for-2026-key-insights-and-strategies.html): Key insights and strategies
+- [NFCB - Trends to Watch](https://nfcb.org/nonprofit-trends-to-watch-in-2026-navigating-a-year-of-pressure-possibility-and-profound-change/): Navigating pressure, possibility, and profound change
+
+### Connections
+- Related to: NEED-011 (humanitarian aid efficiency — nonprofit delivery mechanism), NEED-008 (caregiver crisis — nonprofits provide support services), NEED-014 (youth mental health — nonprofits fill treatment gaps), NEED-041 (mental health access — nonprofits as providers), NEED-046 (Medicaid crisis — funding collapse affects nonprofits)
+- Potentially addresses: Social safety net resilience, community support infrastructure, service delivery continuity, vulnerable population support
+- Blocked by: Federal funding volatility, political interference, compliance burden, talent retention crisis, digital infrastructure gaps, resource constraints
+
+### Research Notes
+This crisis represents a **systemic threat to the social safety net**. Nonprofits are the delivery mechanism for many essential services — from food banks to mental health clinics to homeless shelters to disaster response. When nonprofits collapse, vulnerable populations lose access to critical support.
+
+The workforce crisis is particularly acute: 95% of leaders worried about burnout while only 45% of employees plan to stay creates an organizational sustainability crisis. The sector is hemorrhaging talent precisely when demand is increasing.
+
+The 22% earning below ALICE threshold is a cruel irony — those serving the vulnerable are themselves economically vulnerable. This is unsustainable and unjust.
+
+**Funding volatility** compounds all other challenges. Two-thirds dependent on government grants means federal shutdowns, policy reversals, and budget cuts create existential threats. The October 2025 shutdown was a preview of fragility.
+
+**Political interference** is a new dimension — growing scrutiny and interventions in nonprofit work create chilling effects and operational constraints beyond funding cuts.
+
+**Digital transformation** is framed as necessary but out of reach for resource-constrained organizations. They need modern systems to meet donor and regulatory requirements but lack capital and expertise to implement them.
+
+The tension: Organizations that take a **"disciplined, strategic approach—grounded in mission, informed by data and supported by the right systems"** can position themselves to thrive, but achieving that requires exactly the resources and capacity they lack.
+
+**Connection to other needs**:
+- NEED-011 (humanitarian aid): Nonprofits are the implementing partners for humanitarian response
+- NEED-008 (caregiver crisis): Nonprofits provide respite care, support groups, and navigation assistance
+- NEED-014/041 (mental health): Nonprofits fill treatment gaps when public systems fail
+- NEED-046 (Medicaid collapse): Funding cuts directly impact nonprofit community health centers and service providers
+
+This is a **capacity crisis** — the sector's ability to deliver on its mission is eroding faster than demand is shrinking (demand is actually rising). The gap between need and capacity is widening.
+
+Potential intervention points:
+1. **Operational efficiency tools**: Help organizations do more with less through better systems
+2. **Funding diversification platforms**: Reduce dependence on single government funding streams
+3. **Talent retention and wellbeing support**: Address burnout before it becomes attrition
+4. **Digital infrastructure for under-resourced orgs**: Accessible, affordable systems meeting compliance and efficiency needs
+5. **Advocacy coordination tools**: Help sector collectively push back against harmful policy changes
+6. **Shared services platforms**: Allow smaller nonprofits to pool resources for functions like payroll, IT, compliance
+7. **Impact measurement and reporting automation**: Reduce administrative burden while improving accountability
+
+**Assessment**: This is an **urgent but solvable** crisis. Unlike some needs that require massive policy or infrastructure changes, nonprofit capacity could be strengthened through targeted support for systems, training, and operational excellence. Software interventions could have high leverage — a good CRM, financial system, or volunteer management platform can dramatically increase a small nonprofit's effectiveness.
+
+The sector serves as society's **immune system** for social problems. When it weakens, every other crisis worsens. Strengthening nonprofit capacity is a **force multiplier** for addressing nearly every other need in this graph.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -3624,6 +3705,9 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-11 | Scout-01 | Added NEED-056 | Consumer Technology Subscription Fatigue and AI Cynicism - moderate signal; Reddit analysis shows subscription fatigue (want pay-per-use/lifetime), privacy as product differentiator, AI cynicism ("invisible AI" desired), search engines "useless" with AI-garbage, simplified-but-powerful tools for seniors |
 | 2026-02-11 | Scout-01 | Added NEED-057 | Healthcare Interoperability Compliance Deadline Crisis - URGENT signal; Feb 16 2026 HIPAA NPP deadline, Jan 1 2026 USCDI v3 mandate (social determinants/equity data), July 4 2026 FHIR API requirement, information blocking penalties (75% Medicare payment loss), HHS enforcement shift, unified patient view transition |
 | 2026-02-11 | Scout-01 | Updated Overview | Increased observing count from 54 to 57 needs |
+| 2026-02-11 | Scout-01 | Updated NEED-015 | Added 2026 housing affordability data: income needed doubled since 2019, would need $50K raise to match 2019 affordability, income inequality driving prices (not just supply), 2M-20M shortage estimates (experts disagree on scale), NAR projects 4% price rise 2026, affordability vs safety tradeoffs |
+| 2026-02-11 | Scout-01 | Added NEED-058 | Nonprofit Sector Sustainability and Capacity Crisis - URGENT signal; 95% leaders worried about burnout yet 45% employees staying, 22% earn below ALICE threshold, 2/3 dependent on government grants, October 2025 shutdown exposed fragility, funding volatility/political interference/compliance burden/digital transformation gaps creating existential threat to social safety net |
+| 2026-02-11 | Scout-01 | Updated Overview | Increased observing count from 57 to 58 needs |
 
 ---
 
