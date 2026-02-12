@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 58 | Initial signals detected, gathering evidence |
+| Observing | 59 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -1398,6 +1398,14 @@ The safety dimension is real: structurally deficient bridges, lead pipes, contam
 
 **2026-02-08 Update**: New water crisis data from February 2026 confirms crisis acceleration. **Houston, Jackson (MS), and Baltimore** are among major U.S. cities facing active water crises. **Richmond, VA** experienced a major disruption in January 2025 when power failure knocked out its water treatment plant, triggering boil-water advisory for several days affecting 230,000 residents. **Jackson, MS** continues working through long-standing water infrastructure challenges; after years of system failure, Jackson's water and sewer infrastructure was taken over by third-party operator JXN Water under federal oversight in 2022. The Trump administration's proposed 2026 fiscal year budget would slash federal water infrastructure funding from current $2.76 billion to just $305 million — an 89% cut. Meanwhile, **global water bankruptcy** intensifies: emerging economies including Egypt, Morocco, India, Pakistan, and South Africa face most critical risk, where "water bankruptcy" occurs when a nation's renewable water debt exceeds its natural "income," leading to total collapse of industrial, agricultural, and urban supply chains. Michigan faces new concern about aging water infrastructure's readiness for data center boom — yet another infrastructure strain from AI expansion. The crisis represents convergence of aging infrastructure, declining federal support, climate change impacts, and growing demand from new industries like data centers. AWWA's 2025 State of Water Industry Report shows over 60% of utilities report systems operating well beyond intended lifespan.
 
+**2026-02-12 Update**: The World Economic Forum's Global Risks Report 2026 reveals a troubling gap in risk perception: "Disruptions to critical infrastructure" ranks strikingly low at only 23rd over the next decade, despite being one of the most immediate threats. When infrastructure fails, the systems that depend on it can fail too. Ageing critical infrastructure is becoming more prone to failures or accidents, and the scale of financing needed to modernize the sector may be prohibitive amid a fiscal crunch. More frequent and intense extreme weather events may overwhelm segments of existing critical infrastructure, contributing to wider social and economic challenges. Vulnerable populations are often disproportionately affected by service failures, whether through lack of redundancy, limited mobility, or reduced access to recovery resources. Power outages can cripple water supply systems, healthcare facilities, telecommunications, and industrial production. Damage to water and sanitation infrastructure heightens the risk of disease outbreaks, particularly in flood-affected areas. Extreme weather events, systemic climate pressures, cyber vulnerabilities, and ageing assets are no longer theoretical risks but lived realities for transport networks, utilities, and cities worldwide. Fundamental concerns are emerging such as corrosion of piping, cracks in concrete structures, shifting of foundations, as well as inadequate slack in systems. Infrastructure resilience must shift from disaster recovery to resilience in a high-risk world.
+
+### Evidence (2026-02-12 additions)
+- [World Economic Forum - Global Risks Report 2026 Chapter 2](https://www.weforum.org/publications/global-risks-report-2026/in-full/global-risks-report-2026-chapter-2/): Critical infrastructure underestimated, ranks 23rd despite immediacy
+- [World Economic Forum - Critical Infrastructure Global Risks 2026](https://www.weforum.org/stories/2026/01/critical-infrastructure-global-risks-2026-zurich-insurance/): Underestimating risks to critical infrastructure
+- [Asia Pathways - Infrastructure Resilience 2026](https://www.asiapathways-adbi.org/2026/02/why-infrastructure-must-shift-from-disaster-recovery-to-resilience-in-a-high-risk-world/): Must shift from recovery to resilience
+- [Highways Today - Infrastructure Resilience in Age of Compounding Risk](https://highways.today/2026/02/03/infrastructure-resilience/): Compounding risks requiring new approaches
+
 Potential interventions:
 1. Asset management and predictive maintenance systems
 2. Infrastructure financing innovation (bonds, public-private partnerships)
@@ -2042,8 +2050,8 @@ The critical observation is that this is simultaneous failure across multiple di
 **ID**: NEED-037
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-09
-**Signal Strength**: strong
+**Last Updated**: 2026-02-12
+**Signal Strength**: urgent
 **Scout**: Scout-01
 
 ### The Need
@@ -2083,6 +2091,15 @@ Potential software interventions:
 6. Career pathways and progression tracking
 
 The critical question: is this a training content problem (need better courses) or a delivery/access problem (need better platforms/incentives/time)?
+
+**2026-02-12 Update**: New data confirms the crisis is accelerating to critical levels. Over 90% of global enterprises are projected to face critical skills shortages by 2026, with sustained gaps risking $5.5 trillion in losses from global market performance (IDC report). The cybersecurity talent cliff alone represents 4.8 million unfilled roles globally. The U.S. manufacturing sector could need 3.8 million new workers between 2024-2033, yet about 1.9 million roles (more than half) could go unfilled due to skills and applicant gaps. The Society for Human Resources Management estimates nearly half of all workers will need retraining within this decade, while Baby Boomers retire at 10,000 per day until 2029. The tech workforce is expected to grow at twice the rate of the overall workforce over the next 10 years, making the skills gap a growing problem. A critical tension emerges: CEOs have high expectations of AI capabilities, but their workers lack the skills and experiences to meet those expectations. By 2026, closing the skills gap isn't just about offering training — it's about building systems, workers, and pathways that keep pace with change. Organizations are adopting skills-based hiring rather than relying solely on traditional degrees, but the labor market is changing faster than most workforce programs can keep up.
+
+### Evidence (2026-02-12 additions)
+- [Workera.ai - IDC AI Workforce Readiness Report](https://www.workera.ai/blog/the-5-5-trillion-skills-gap-what-idcs-new-report-reveals-about-ai-workforce-readiness): $5.5T loss risk, 90%+ enterprises face critical shortages
+- [Viva-IT - Cybersecurity Talent Cliff 2026](https://viva-it.com/insights/the-cybersecurity-talent-cliff-navigating-the-4-8-million-professional-gap-in-2026/): 4.8M unfilled cybersecurity roles globally
+- [Arcoro - Workforce Planning 2026](https://arcoro.com/resources/workforce-planning-for-2026-bridging-the-skills-gap-before-it-widens): Manufacturing needs 3.8M workers, 1.9M may go unfilled
+- [Inc.com - Skilled Worker Shortage 2026](https://www.inc.com/kit-eaton/the-skilled-worker-shortage-may-hit-hard-in-2026/91279187): SHRM estimates half of workers need retraining this decade
+- [Eastridge - Employers Adapting to Skills Gap 2026](https://www.eastridge.com/blog/how-employers-are-adapting-to-the-skills-gap-in-2026): Skills-based hiring emerging as response
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -2213,7 +2230,7 @@ The key insight: addressing eco-anxiety requires both climate action AND address
 **ID**: NEED-040
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-09
+**Last Updated**: 2026-02-12
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -2262,6 +2279,15 @@ Potential interventions:
 But fundamentally: we are in an epistemological crisis. Software can help at the margins, but societal adaptation to "trust nothing you see online" is the deeper requirement.
 
 This may be the most existentially threatening need identified — it undermines the foundation for addressing all other needs. If we cannot establish shared facts, collective action becomes impossible.
+
+**2026-02-12 Update**: The World Economic Forum's Global Risks Report 2026, published in January, ranks misinformation and disinformation second among the most severe global short-term risks, surpassed only by geoeconomic confrontation, placing false and misleading information ahead of numerous economic, environmental, and security-related threats. AI-powered software makes it easier to create and spread lies on social media, with misinformation after disasters growing significantly. Artificial intelligence has industrialized misinformation creation, with deepfakes that once required specialized expertise and significant resources now generated in seconds. The 2026 midterm election year presents acute risk: the use of realistic AI-generated images to target political opponents is expected to grow substantially, with a lack of federal protections and President Trump's efforts to derail state regulations. Lawmakers have failed to regulate how social media spreads AI disinformation; President Trump recently signed an executive order keeping states from regulating much of AI. The challenge extends beyond technology: tackling disinformation requires governments, communities, businesses, platforms, and people. Misinformation thrives through three mutually reinforcing pillars: the content of the message, the personal context of those sharing it, and the technological infrastructure that amplifies it. People believe misinformation even when told the facts, driven by cognitive biases and emotional resonance rather than rational evaluation.
+
+### Evidence (2026-02-12 additions)
+- [FactCheckHub - WEF Global Risks Report 2026](https://factcheckhub.com/world-economic-forum-names-misinformation-disinformation-among-top-global-risk/): Misinformation ranked 2nd most severe short-term global risk
+- [NPR - AI-Powered Misinformation After Disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters): AI software helping spread disaster misinformation
+- [WITF - AI-Generated Misinformation in 2026 Elections](https://www.witf.org/2025/12/20/voters-to-face-unprecedented-levels-of-ai-generated-misinformation-in-2026/): Voters face unprecedented levels of AI-generated misinformation
+- [United Nations DCO - Disinformation as Global Risk](https://un-dco.org/stories/disinformation-global-risk-so-why-are-we-still-treating-it-tech-problem): Beyond technology problem, requires collective resolve
+- [Phys.org - Why People Believe Misinformation](https://phys.org/news/2026-01-people-misinformation-theyre-told-facts.html): Cognitive biases prevent fact-checking from working
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -3579,6 +3605,99 @@ The sector serves as society's **immune system** for social problems. When it we
 
 ---
 
+## Need: Supply Chain Permanent Disruption and Adaptation Crisis
+
+**ID**: NEED-059
+**Status**: observing
+**First Observed**: 2026-02-12
+**Last Updated**: 2026-02-12
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Global supply chains are entering a permanent state of disruption, requiring fundamental architectural transformation from efficiency-optimized networks to adaptive, resilient systems. Three-quarters (76%) of global supply chain executives anticipate continued higher levels of change and disruption in 2026. Supply chain disruption in 2026 is "constant and structural" rather than temporary, with geopolitical fragmentation, shifting trade rules, and labor shortages redefining how value is created and moved. Organizations face a copper shortage driving higher prices as global competition intensifies for the metal used in AI technology, data centers, and military infrastructure. Memory chips, beef, and other critical supplies face constraints throughout the year. Extreme weather events are becoming more frequent and intense, with agricultural supply chains on the front lines leading to price volatility with ripple effects across industries. Tariffs impact 82% of respondents with 20-40% of their supply chain activity affected. The cybersecurity threat compounds the crisis: data shows a 61% surge in cyber-attacks on logistics in 2025, with attacks increasing 965% between 2021-2025. Experts predict at least one multibillion-dollar disruption caused by failing infrastructure in 2026. The strategic priority is no longer forecasting disruption but redesigning operating models to function under permanent uncertainty by moving away from efficiency-driven supply chains toward adaptive networks. A third of supply chain leaders cite building resilience as their top priority, while nearly 70% invest in AI and digital tools, and 85% of executives plan to increase AI spending in 2026.
+
+### Evidence
+- [Everstream Analytics - Supply Chain Disruptions 2026](https://www.everstream.ai/articles/are-you-prepared-for-the-supply-chain-disruptions-of-2026/): 76% of executives anticipate continued high disruption
+- [Consultancy.uk - Permanent State of Disruption](https://www.consultancy.uk/news/43003/why-supply-chains-are-entering-a-permanent-state-of-disruption): Structural disruption requiring fundamental transformation
+- [SupplyChainBrain - Uncertainty Here to Stay](https://www.supplychainbrain.com/articles/43011-supply-chain-uncertainty-likely-here-to-stay-in-2026): Move from efficiency to adaptive networks
+- [Supply Chain Dive - Scarcity Redefines 2026](https://www.supplychaindive.com/news/scarcity-redefines-the-2026-supply-chain-playbook/810052/): Copper shortage, memory chips, beef constraints
+- [Supply Chain Dive - 5 Management Trends 2026](https://www.supplychaindive.com/news/supply-chain-trends-risks-2026-retail-manufacturing/808797/): Tariffs affect 82% of respondents
+- [Food Logistics - Accenture Survey](https://www.foodlogistics.com/safety-security/risk-compliance/news/22959696/accenture-supply-chain-executives-anticipate-higher-levels-of-disruption-in-2026-accenture): 76% executives anticipate higher disruption levels
+- [SupplyChainBrain - AI in 2026](https://www.supplychainbrain.com/articles/43389-survey-supply-chain-leaders-bet-on-ai-in-2026-as-disruptions-accelerate): 85% plan to increase AI spending
+
+### Connections
+- Related to: NEED-044 (supply chain cyberattack crisis — cybersecurity is one disruption vector), NEED-026 (infrastructure decay — failing infrastructure predicted to cause billion-dollar disruptions), NEED-006 (smallholder farmers — agricultural supply chains on climate front lines)
+- Potentially addresses: Economic stability, supply security, price volatility, business continuity, consumer goods availability
+- Blocked by: Geopolitical fragmentation, infrastructure aging, climate change acceleration, complexity of global networks, efficiency-optimized legacy architectures
+
+### Research Notes
+This represents a **paradigm shift** from temporary disruption recovery to permanent adaptation. The mindset change required is profound: from "return to normal" to "operate under constant abnormality."
+
+**The scale of disruption:**
+- 76% of executives expect continued high disruption (not temporary spike)
+- 82% affected by tariffs (20-40% of supply chain activity)
+- 965% increase in cyberattacks on logistics (2021-2025)
+- Multibillion-dollar infrastructure failure predicted in 2026
+- Copper, memory chips, beef, and critical mineral shortages
+
+**The structural nature:**
+Supply chain expert consensus: "constant and structural" disruption driven by:
+1. **Geopolitical fragmentation**: Trade rules shifting, tariff volatility, export restrictions
+2. **Climate impacts**: Extreme weather hitting agricultural supply chains, creating cascading price volatility
+3. **Infrastructure failure**: Aging ports, bridges, power grids under strain (connection to NEED-026)
+4. **Cybersecurity threats**: 965% increase in logistics attacks creating new failure modes (connection to NEED-044)
+5. **Resource scarcity**: Competition for critical materials (copper for AI/data centers/military)
+
+**The response gap:**
+Organizations still operate efficiency-optimized supply chains designed for stable conditions. The required shift is from:
+- Just-in-time → Just-in-case with strategic buffer stocks
+- Single sourcing → Multi-sourcing with geographic diversity
+- Cost minimization → Resilience maximization
+- Reactive response → Proactive adaptation
+- Forecasting disruption → Designing for permanent uncertainty
+
+**Investment response:**
+- 1/3 of leaders cite resilience as top priority
+- 70% investing in AI and digital tools
+- 85% plan to increase AI spending in 2026
+
+This suggests recognition of the problem and willingness to invest in solutions, creating opportunity window for software interventions.
+
+**Distinction from NEED-044:**
+- NEED-044 focuses specifically on cyberattacks as supply chain threat vector
+- NEED-059 addresses the broader paradigm shift from temporary to permanent disruption requiring architectural transformation
+- They connect but address different levels of the crisis
+
+**Distinction from NEED-026:**
+- NEED-026 focuses on physical infrastructure decay (water, energy, transport)
+- NEED-059 focuses on supply chain system architecture and resilience
+- Infrastructure failure is one input to supply chain disruption
+
+Potential software interventions:
+1. **Supply chain resilience mapping**: Visualize vulnerabilities, dependencies, alternative routes
+2. **Predictive disruption intelligence**: Aggregate signals (weather, geopolitics, cyber threats) for early warning
+3. **Adaptive routing and optimization**: Real-time rerouting based on disruption events
+4. **Supplier diversity and risk scoring**: Identify concentration risks, suggest alternatives
+5. **Scenario planning and stress testing**: Model supply chain behavior under various disruption scenarios
+6. **Collaborative visibility platforms**: Share real-time information across supply chain partners
+7. **AI-powered demand sensing**: Better forecasting under volatile conditions
+8. **Buffer stock optimization**: Balance resilience and cost for strategic inventory
+
+The opportunity: Organizations recognize the need (76% expect disruption), are investing (85% increasing AI spend), and traditional approaches are failing. There's a window for solutions that enable the efficiency→resilience transformation.
+
+The risk: If supply chains remain brittle while disruptions intensify, cascading failures could trigger economic instability, inflation, and social unrest as critical goods become unavailable.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -3708,6 +3827,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-11 | Scout-01 | Updated NEED-015 | Added 2026 housing affordability data: income needed doubled since 2019, would need $50K raise to match 2019 affordability, income inequality driving prices (not just supply), 2M-20M shortage estimates (experts disagree on scale), NAR projects 4% price rise 2026, affordability vs safety tradeoffs |
 | 2026-02-11 | Scout-01 | Added NEED-058 | Nonprofit Sector Sustainability and Capacity Crisis - URGENT signal; 95% leaders worried about burnout yet 45% employees staying, 22% earn below ALICE threshold, 2/3 dependent on government grants, October 2025 shutdown exposed fragility, funding volatility/political interference/compliance burden/digital transformation gaps creating existential threat to social safety net |
 | 2026-02-11 | Scout-01 | Updated Overview | Increased observing count from 57 to 58 needs |
+| 2026-02-12 | Scout-01 | Updated NEED-037 | Escalated to URGENT; added Feb 12 data: 90%+ enterprises face critical skills shortages, $5.5T loss risk, 4.8M cybersecurity gap, manufacturing needs 3.8M workers (1.9M may go unfilled), SHRM: half of workers need retraining this decade, tech workforce growing 2x overall workforce rate |
+| 2026-02-12 | Scout-01 | Updated NEED-040 | Added Feb 12 data: WEF Global Risks Report ranks misinformation 2nd most severe short-term risk, AI-powered disaster misinformation spreading, 2026 midterms face unprecedented AI-generated content, Trump EO blocks state AI regulation, cognitive biases prevent fact-checking effectiveness |
+| 2026-02-12 | Scout-01 | Updated NEED-026 | Added Feb 12 WEF data: critical infrastructure underestimated (ranks 23rd despite immediacy), aging infrastructure prone to failures, extreme weather overwhelming systems, vulnerable populations disproportionately affected, power outages cascade to water/healthcare/telecom, must shift from recovery to resilience |
+| 2026-02-12 | Scout-01 | Added NEED-059 | Supply Chain Permanent Disruption and Adaptation Crisis - CRITICAL signal; 76% executives expect continued high disruption, "constant and structural" rather than temporary, geopolitical fragmentation/climate/cyberattacks (965% increase logistics attacks 2021-2025)/infrastructure failure/resource scarcity (copper/chips/beef), 82% affected by tariffs, requires paradigm shift from efficiency-optimized to adaptive resilient networks, 85% increasing AI spending |
+| 2026-02-12 | Scout-01 | Updated Overview | Increased observing count from 58 to 59 needs |
 
 ---
 
