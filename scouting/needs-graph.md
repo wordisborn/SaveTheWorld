@@ -10,7 +10,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 60 | Initial signals detected, gathering evidence |
+| Observing | 61 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
@@ -1341,8 +1341,8 @@ The window for defensive preparation is closing. The 2026 midterms represent nin
 **ID**: NEED-024
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-06
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-14
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -1354,6 +1354,10 @@ The explosive growth of AI and data centers is creating an environmental crisis 
 - [EESI - Data Center Energy Needs Upending Power Grids](https://www.eesi.org/articles/view/data-center-energy-needs-are-upending-power-grids-and-threatening-the-climate): 105M metric tons CO₂ from U.S. data centers in 2023
 - [Viking Cloud - Cybersecurity Statistics](https://www.vikingcloud.com/blog/cybersecurity-statistics): Morgan Stanley projects 2.5B tons CO₂ through 2030
 - [Congress.gov - Data Centers and Energy Consumption FAQ](https://www.congress.gov/crs-product/R48646): Lawrence Berkeley National Lab reports 17B gallons water consumption in 2023, could double or quadruple by 2028
+- [Data Center Knowledge - 2026 Power Revolution](https://www.datacenterknowledge.com/operations-and-management/2026-predictions-ai-sparks-data-center-power-revolution): 15GW leased in 2025, none online yet—massive surge coming 2026-2027
+- [Enkiai - Grid Bottleneck Crisis](https://enkiai.com/data-center/data-center-power-crisis-2026-the-grid-bottleneck): PJM projects 6GW short by 2027, certain markets face shortages as soon as 2026
+- [CNBC - Electricity Prices](https://www.cnbc.com/2026/02/12/electricity-price-data-center-ai-inflation-goldman.html): Residential prices forecast +4% in 2026 (after +5% in 2025), Goldman projects 15% CAGR through 2030
+- [CNBC - Political Flashpoint](https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html): AI industry role in electricity inflation becoming major political issue for midterms
 
 ### Connections
 - Related to: NEED-006 (climate impacts on farmers), NEED-009 (climate displacement), NEED-021 (AI safety — environmental cost of AI)
@@ -1384,6 +1388,14 @@ Potential interventions:
 6. Policy frameworks balancing AI innovation with climate goals
 
 This connects to multiple climate-related needs and represents a systemic tension between technological advancement and environmental sustainability.
+
+**2026-02-14 Update**: The grid crisis is accelerating into a political flashpoint. PJM Interconnection (serving 65M people across 13 states) projects a 6GW shortfall by 2027. The data center industry leased over 15 gigawatts in 2025, with almost none coming online in 2025—all scheduled for late 2026 and 2027, meaning a massive electricity consumption surge is about to hit aging grid infrastructure built in the 1950s-1970s (70% approaching end of life).
+
+Goldman Sachs projects data centers will consume 8% of all U.S. electricity by 2030 (up from 4.4% in 2023), driving 15% compound annual growth rate in power demand. Residential electricity prices are forecast to rise another 4% in 2026 after increasing 5% in 2025. The AI industry's role in electricity price inflation has become a major political flashpoint ahead of midterm elections, with both Bernie Sanders and Ron DeSantis speaking out against the data center boom.
+
+Industry response includes multi-billion dollar energy infrastructure commitments—Google, Intersect Power, and TPG are investing $20 billion in new clean energy projects specifically to power future data centers. However, a critical maturity gap exists between rapid data center innovation cycles and slow electrical grid deployment pace, creating "the single greatest structural impediment to growth in 2026."
+
+The crisis escalates from "urgent" to "critical" as the 2026-2027 surge approaches and political pressure mounts. This is no longer just an environmental issue—it's becoming an economic and political crisis that could constrain AI development or force difficult trade-offs between technological progress and affordability/sustainability.
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -1441,6 +1453,11 @@ Connection to NEED-007: Teachers cannot close learning gaps when they're burning
 - [Fordham Institute - Education System Mess](https://fordhaminstitute.org/national/commentary/americas-education-system-mess-and-its-students-who-are-paying-price): Students paying the price for system failures
 - [EdWeek - 11 Critical Issues Facing Educators 2026](https://www.edweek.org/leadership/opinion-11-critical-issues-facing-educators-in-2026/2026/01): Teacher shortages 400K+, federal funding cuts, cell phone debate
 - [The 74 Million - Students Paying Price](https://www.the74million.org/article/americas-education-system-is-a-mess-and-its-students-who-are-paying-the-price/): System failures compounding
+- [Worlddidac - OECD Digital Education Outlook 2026](https://worlddidac.org/news/oecd-digital-education-outlook-2026-when-technology-does-not-equal-transformation/): Technology expansion hasn't equaled educational transformation
+- [OECD - Digital Divide in Education](https://www.oecd.org/en/topics/sub-issues/digital-divide-in-education.html): Shift from access gaps to pedagogy quality gaps
+- [PMC - Digital Divide in Online Education](https://pmc.ncbi.nlm.nih.gov/articles/PMC9435462/): Inequality in digital readiness of students and schools
+
+**OECD Digital Education Outlook 2026 finding**: Despite rapid technology uptake and growing expectations, evidence points to a persistent gap between digital expansion and educational transformation. Digital inequality today is driven less by access to technology and more by differences in effective pedagogical use. Only around 15% of people in low-income communities have stable internet access. Even when students have technology access, quality varies widely—intermittent internet or outdated hardware prevents effective engagement. Students without reliable internet and devices struggle to complete homework, access resources, and participate in virtual learning, creating long-term disadvantages affecting college readiness and career prospects.
 
 Potential interventions:
 1. High-dosage tutoring and intensive intervention programs
@@ -2397,12 +2414,19 @@ This may be the most existentially threatening need identified — it undermines
 
 **2026-02-12 Update**: The World Economic Forum's Global Risks Report 2026, published in January, ranks misinformation and disinformation second among the most severe global short-term risks, surpassed only by geoeconomic confrontation, placing false and misleading information ahead of numerous economic, environmental, and security-related threats. AI-powered software makes it easier to create and spread lies on social media, with misinformation after disasters growing significantly. Artificial intelligence has industrialized misinformation creation, with deepfakes that once required specialized expertise and significant resources now generated in seconds. The 2026 midterm election year presents acute risk: the use of realistic AI-generated images to target political opponents is expected to grow substantially, with a lack of federal protections and President Trump's efforts to derail state regulations. Lawmakers have failed to regulate how social media spreads AI disinformation; President Trump recently signed an executive order keeping states from regulating much of AI. The challenge extends beyond technology: tackling disinformation requires governments, communities, businesses, platforms, and people. Misinformation thrives through three mutually reinforcing pillars: the content of the message, the personal context of those sharing it, and the technological infrastructure that amplifies it. People believe misinformation even when told the facts, driven by cognitive biases and emotional resonance rather than rational evaluation.
 
+**2026-02-14 Update - AI Verification Systems Failing**: Within the first week of 2026, the amalgam of misinformation has created a heightened erosion of trust online—especially when AI-generated content mixes with authentic evidence. NewsGuard tested whether leading chatbots can spot AI-generated video and found they largely cannot. X's AI assistant Grok claimed a real photo of Kentucky governor Andy Beshear amid plane debris was from a previous disaster—a verification failure of authentic content. Between March–September 2025, over 447,000 tweets tagged Grok for verification requests, but early evidence suggests this shift may be undermining X's crowdsourced verification system. President Trump's Venezuela operation almost immediately spurred the spread of AI-generated images, old videos and altered photos across social media, and after an ICE officer fatally shot a woman, many online circulated a fake, most likely AI-edited image of the scene. Stanford Social Media Lab's founding director notes: "As we start to worry about AI, it will likely, at least in the short term, undermine our trust default." The crisis represents a critical moment where technological advances in AI are outpacing verification capabilities, creating significant challenges for social media platforms, fact-checkers, and the public in distinguishing authentic content from manipulated media. This is the trust collapse in real-time: the tools meant to verify truth are themselves unreliable.
+
 ### Evidence (2026-02-12 additions)
 - [FactCheckHub - WEF Global Risks Report 2026](https://factcheckhub.com/world-economic-forum-names-misinformation-disinformation-among-top-global-risk/): Misinformation ranked 2nd most severe short-term global risk
 - [NPR - AI-Powered Misinformation After Disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters): AI software helping spread disaster misinformation
 - [WITF - AI-Generated Misinformation in 2026 Elections](https://www.witf.org/2025/12/20/voters-to-face-unprecedented-levels-of-ai-generated-misinformation-in-2026/): Voters face unprecedented levels of AI-generated misinformation
 - [United Nations DCO - Disinformation as Global Risk](https://un-dco.org/stories/disinformation-global-risk-so-why-are-we-still-treating-it-tech-problem): Beyond technology problem, requires collective resolve
 - [Phys.org - Why People Believe Misinformation](https://phys.org/news/2026-01-people-misinformation-theyre-told-facts.html): Cognitive biases prevent fact-checking from working
+
+### Evidence (2026-02-14 additions)
+- [NBC News - Trust Collapse Online](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472): AI intensifying "collapse" of trust online, experts say
+- [Harvard Kennedy School Misinformation Review - Instagram Prebunking Study](https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/): Prebunking techniques in social media feeds field study
+- [Reuters Institute - Journalism Trends 2026](https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026): Media and technology trends including misinformation challenges
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -3929,6 +3953,67 @@ Over 50% of workforce planning to quit represents existential threat to healthca
 
 ---
 
+## Need: Antimicrobial Resistance (AMR) Pandemic and Tracking Crisis
+
+**ID**: NEED-061
+**Status**: observing
+**First Observed**: 2026-02-14
+**Last Updated**: 2026-02-14
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Antimicrobial resistance (AMR) is projected to kill more people than cancer by 2050, yet it received no attention at Davos 2026 despite its catastrophic trajectory. More than 1 billion people worldwide are affected by mental health conditions, yet AMR threatens to make routine surgeries and infections deadly as antibiotics become ineffective. While AI and synthetic biology show promise for accelerating new antimicrobial discovery, significant gaps exist in surveillance infrastructure, diagnostic technologies, and equitable access to quality antibiotics in low- and middle-income countries (LMICs). The crisis requires coordinated tracking systems, rapid diagnostic tools, and digital platforms for stewardship—yet current efforts are fragmented and underfunded relative to the scale of threat.
+
+### Evidence
+- [Frontiers Science House - Davos 2026](https://www.frontiersin.org/news/2026/01/21/antimicrobial-resistance-pandemic-will-kill-more-people-than-cancer-by-2050): "Antimicrobial resistance pandemic will kill more people than cancer by 2050 and no one at Davos is talking about it"
+- [MIT News - Feb 11, 2026](https://news.mit.edu/2026/using-synthetic-biology-ai-address-global-antimicrobial-resistance-0211): James J. Collins launching $3M multidisciplinary project applying synthetic biology and generative AI to AMR
+- [Clinical Leader - 2026 Research Imperatives](https://www.clinicalleader.com/doc/the-rise-of-antimicrobial-resistance-and-strategic-research-imperatives-for-2026-0001): AI set to play transformative role in 2026, fast-tracking target identification, molecular design, resistance prediction
+- [Innovative Journal - AccessABX Implementation](https://ijas.meteorpub.com/1/article/view/113): AccessABX digital One Health platform for LMICs combining mobile technology, real-time analytics, community engagement
+- [CDC AMR Programs](https://www.cdc.gov/antimicrobial-resistance/programs/AR-investments.html): National Healthcare Safety Network (NHSN) tracks infection data, whole genome sequencing on tens of thousands of isolates, NARMS surveillance system
+- [MDPI Antibiotics - 2026 Computational Approaches](https://www.mdpi.com/2079-6382/15/2/203): In silico methodologies accelerating identification and optimization of antimicrobial peptides
+- [PMC - Rising Global Threat](https://pmc.ncbi.nlm.nih.gov/articles/PMC12558087/): Bioinformatics exceptional benefits for surveillance of AMR genes and tracking resistant microbial populations
+
+### Connections
+- Related to: NEED-011 (humanitarian aid — LMIC access), NEED-014 (mental health — 1B+ affected globally), NEED-019 (cybersecurity — hospital systems vulnerable), NEED-049 (rural healthcare — diagnostic access gaps)
+- Potentially addresses: Global health security, healthcare system stability, pandemic preparedness
+- Blocked by: Fragmented surveillance systems, diagnostic access gaps in LMICs, antibiotic quality and counterfeit detection challenges, limited investment relative to threat scale
+
+### Research Notes
+The "silent pandemic" paradox: AMR received zero attention at Davos 2026 despite being projected to kill more than cancer by 2050. This represents catastrophic prioritization failure.
+
+**Technology opportunity areas:**
+1. **AI-powered drug discovery** — MIT's $3M project (Collins) using synthetic biology + generative AI to develop programmable antibacterials against key pathogens; AI accelerating target identification, molecular design, resistance prediction
+2. **Surveillance and tracking** — CDC's NHSN and NARMS systems track resistance patterns, whole genome sequencing enables outbreak identification; bioinformatics tracks AMR genes and resistant populations
+3. **Digital stewardship platforms** — AccessABX combines mobile tech, real-time analytics, community engagement to improve antibiotic stock management, detect counterfeits, support evidence-based prescribing in LMICs
+4. **Computational discovery** — In silico methodologies accelerate antimicrobial peptide identification and optimization
+5. **Advanced diagnostics** — Rapid point-of-care diagnostics enable targeted prescribing, reduce inappropriate antibiotic use
+
+**Key gaps:**
+- Surveillance infrastructure is fragmented globally, particularly weak in LMICs where burden is highest
+- Diagnostic access is limited — rapid tests not widely available, especially in resource-constrained settings
+- Antibiotic quality varies widely in LMICs — counterfeits and substandard drugs accelerate resistance
+- Data sharing across borders remains challenging — no unified global tracking system
+- Investment insufficient relative to threat — cancer research funding massively exceeds AMR despite comparable mortality projections
+
+**The "One Health" dimension:**
+AMR spans human medicine, veterinary medicine, agriculture, and environmental contamination. Solutions must address the entire ecosystem, not just human clinical settings. AccessABX's "One Health platform" approach is instructive.
+
+**2026 as inflection point:**
+AI capabilities in 2026 (generative models, synthetic biology integration) create unprecedented opportunity for antimicrobial discovery and resistance prediction. The technology exists; the coordinated deployment does not.
+
+This connects to multiple healthcare crises (NEED-049 rural access, NEED-041 mental health treatment, NEED-011 humanitarian systems) and represents a threat multiplier — as resistance spreads, routine medical procedures become dangerous, exacerbating existing healthcare access crises.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -4080,6 +4165,12 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-14 | Scout-01 | Updated NEED-025 | Escalated to CRITICAL; added Feb 14 education crisis data: reading/math scores lowest in decades, only 30% 8th graders proficient in reading (no state gains since 2022), 1/3 below basic level, teacher shortage 400K+ (1 in 8 classrooms), chronic absenteeism rising, students who were K-3 during pandemic now in middle school still haven't caught up, federal education funding slashed, cell phone attention crisis in 32 states |
 | 2026-02-14 | Scout-01 | Updated NEED-041 | Added Feb 14 mental health access data: insurance reimbursements 22% lower for behavioral health vs medical/surgical, regulators scrutinizing restrictive practices, Medicare telehealth flexibilities end Jan 30 2026 (imminent deadline), 1B+ people worldwide with mental health conditions remain undertreated, ongoing access/equity/care continuity challenges |
 | 2026-02-14 | Scout-01 | Updated NEED-011 | Added Feb 14 humanitarian funding collapse data: $2.7T global defense spending vs $50B humanitarian appeal (unmet), humanitarian funding fell below 2016 levels in 2025, WHO reached only 1/3 of 81M targeted people, 83% USAID programs cancelled March 2025, 1.8M additional deaths projected 2025 (700K children under 5), up to 14M preventable deaths by 2030 if funding gaps persist, Haiti political vacuum Feb 2026, Sudan 19.2M in food crisis, infrastructure maintenance failures emerging (water systems at risk in OECD countries), tens of millions face deepening hunger/displacement/violence as funding collapses |
+| 2026-02-14 | Scout-01 | Added NEED-061 | Antimicrobial Resistance (AMR) Pandemic and Tracking Crisis - CRITICAL signal; will kill more than cancer by 2050, MIT $3M AI/synthetic biology project 2026, FDA AccessABX digital platform for LMICs, CDC NARMS tracking, 1B+ people globally affected, surveillance and application infrastructure gaps |
+| 2026-02-14 | Scout-01 | Updated NEED-024 | Added Feb 14 data center grid crisis: PJM 6GW short by 2027, 15GW leased in 2025 coming online 2026-2027 (surge), residential prices +4% in 2026 (+5% in 2025), political flashpoint for midterms, Google/Intersect/TPG $20B clean energy partnership |
+| 2026-02-14 | Scout-01 | Updated NEED-040 | Added Feb 14 AI verification failure: NewsGuard tested chatbots on deepfake detection (largely cannot), Grok claimed real photo was from previous disaster, 447K+ tweets requesting Grok verification undermining X's crowdsourced system, "trust collapse" as AI tools mix with authentic evidence |
+| 2026-02-14 | Scout-01 | Updated NEED-041 | Added Feb 14 digital mental health solutions: $450B+ market 2026 (6.5% CAGR to 2030), €7B mental health apps market (+15% annually), AI-driven detection/VR psychotherapy/online counseling, but ghost networks (40-80% unreachable), digital literacy gaps, broadband access barriers persist |
+| 2026-02-14 | Scout-01 | Updated NEED-025 | Added Feb 14 OECD Digital Education Outlook 2026: shift from access to pedagogy gap, only 15% low-income communities have stable internet, digital inequality now driven by effective pedagogical use not mere access, quality of access varies (intermittent vs reliable), long-term disadvantages affect college readiness |
+| 2026-02-14 | Scout-01 | Updated Overview | Increased observing count from 60 to 61 needs |
 
 ---
 
