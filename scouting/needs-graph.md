@@ -17,6 +17,8 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
+**Last Observation**: 2026-02-14
+
 ---
 
 ## Active Needs
@@ -546,7 +548,7 @@ Potential intervention: Tools that give IT visibility without blocking legitimat
 **ID**: NEED-011
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-08
+**Last Updated**: 2026-02-14
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -577,6 +579,20 @@ Current inefficiencies include:
 **2026-02-06 Update**: February 2026 observations confirm the crisis is accelerating. The 2026 Watchlist sounds alarm on "dangerous divergence: as humanitarian crises surge, global support is collapsing." Specific crisis hot spots identified for 2026 include Sudan (world's largest displacement and hunger crisis, 33.7M people needing assistance — 10% increase), Gaza (catastrophic conditions after 14 months of conflict, UN requesting $4.05B — highest for any crisis in 2026), Haiti (1.4M displaced, nearly half the population in acute food insecurity), Burkina Faso (armed groups blockading 1M+ people from food, water, healthcare), and 11 priority WHO emergency response areas. The 2026 Global Humanitarian Overview reveals how drastic funding cuts have forced scaling back life-saving assistance, with 239M people in need at end of 2025. Armed conflict is now "a defining feature of our time" — spreading, lasting longer, becoming more complex.
 
 **2026-02-08 Update**: WHO launched its 2026 appeal on February 3rd seeking nearly US$1 billion to respond to 36 emergencies worldwide, including 14 Grade 3 emergencies (the highest level of organizational response). The Eastern Mediterranean Region alone requires humanitarian aid for close to 115 million people in 2026 — nearly half of all people-in-need globally. New crisis data confirms: **Sudan** remains the world's largest crisis with 33.7M people needing assistance (10% increase from prior year, widespread famine); **Gaza** faces catastrophic humanitarian conditions after 14+ months of conflict with overcrowded displacement camps lacking stable water and electricity; **South Sudan** enters 2026 with 28,000 people facing catastrophic hunger and daily starvation risk, while food costs have quadrupled and incomes collapsed; **Haiti** faces highest humanitarian need in years (nearly triple 2019 levels) with over half the population in crisis-level hunger; **Lebanon** has 4+ million people urgently needing humanitarian assistance with 1.2M facing crisis or worse food insecurity.
+
+**2026-02-14 Update**: The catastrophic scale of the crisis is now fully visible. Global defense spending reached $2.7 trillion USD in 2024, while the entire humanitarian system appealed for just $50 billion USD — an amount that still went unmet. In 2025, humanitarian funding fell below 2016 levels, leaving WHO and partners able to reach only one-third of the 81 million people originally targeted to receive humanitarian health assistance. The U.S., historically the single largest global donor, slashed support for humanitarian aid under the new administration, with 83% of USAID programs cancelled by March 2025. An estimated 1.8 million additional deaths were projected in 2025 alone, including nearly 700,000 children under five, and if funding gaps persist, as many as 14 million preventable deaths could occur by 2030. Haiti's Transitional Presidential Council mandate expires in February 2026, creating a power vacuum as gangs could exploit, worsening violence, hunger and displacement for civilians. More than 19.2 million people in Sudan face crisis or worse levels of food insecurity. Systemic infrastructure failures are emerging, with fundamental concerns such as corrosion of piping, cracks in concrete structures, shifting foundations, and inadequate system slack. It is not far-fetched to envisage a scenario in which the quality or supply of drinking water in an OECD country becomes compromised due to accidental systemic failures from maintenance issues. In 2026, tens of millions of people face deepening hunger, displacement and violence as international funding and political attention continue to decline. With global aid budgets shrinking, unmet needs are likely to deepen in 2026, particularly in countries where basic services are near collapse with government ability to provide essential health and emergency services eroding, and pervasive insecurity has curbed the ability of humanitarians to reach communities in greatest need.
+
+### Evidence (2026-02-14 additions)
+- [WTW - Crisis Management Annual Review 2026](https://www.wtwco.com/en-ph/insights/2026/02/crisis-management-annual-review-2026): Crisis management trends analysis
+- [IRC - Top 10 Crises World Can't Ignore 2026](https://www.rescue.org/article/top-10-crises-world-cant-ignore-2026): 83% of USAID programs cancelled, 1.8M additional deaths projected 2025
+- [ICRC - Humanitarian Outlook 2026](https://www.icrc.org/en/article/humanitarian-outlook-2026): World succumbing to war
+- [WEF - Global Risks Report 2026 Chapter 2](https://www.weforum.org/publications/global-risks-report-2026/in-full/global-risks-report-2026-chapter-2/): Anticipating tomorrow's challenges
+- [Concern USA - 10 Worst Humanitarian Crises 2026](https://concernusa.org/news/worst-humanitarian-crises/): Ten worst crises to know
+- [Stimson Center - Top Ten Global Risks 2026](https://www.stimson.org/2026/top-ten-global-risks-for-2026/): Nuclear risks, humanitarian crises, infrastructure failures
+- [WHO - 2026 Appeal](https://www.who.int/news/item/03-02-2026-who-launches-2026-appeal-to-help-millions-of-people-in-health-emergencies-and-crisis-settings): Reached only 1/3 of targeted 81M people in 2025
+- [Everbridge - Global Risks to Watch 2026](https://www.everbridge.com/blog/global-risks-to-watch-in-2026/): Global risk analysis
+
+The ratio is obscene: $2.7 trillion for weapons, $50 billion (unmet) for saving lives. This is a choice, not a constraint.
 
 Software could help: Resource allocation optimization, crisis mapping and predictive analytics, coordination platforms reducing duplication, transparent tracking of aid flows to rebuild donor trust, and tools connecting local responders with flexible funding.
 
@@ -1384,8 +1400,8 @@ This connects to multiple climate-related needs and represents a systemic tensio
 **ID**: NEED-025
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-06
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-14
+**Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
@@ -1416,6 +1432,16 @@ Poverty is the elephant in the room. No amount of educational intervention can f
 
 Connection to NEED-007: Teachers cannot close learning gaps when they're burning out from overwhelming workload. Connection to NEED-014: Students cannot learn when they're drowning in anxiety. Connection to NEED-022: AI tools marketed as solutions may actually widen gaps by undermining foundational skill development.
 
+**2026-02-14 Update**: The scale and persistence of the crisis is now undeniable. Reading and math scores are at their lowest levels in decades — only 30% of eighth graders reading proficiently, with no state showing gains since 2022. One in three eighth graders performs below basic level, struggling with fundamental tasks like understanding main ideas. Chronic absenteeism is rising, and school districts with lower absenteeism rates show greater post-pandemic learning recovery from 2022-2024, making attendance a critical factor. Teacher shortages have reached crisis levels: over 400,000 classrooms (1 in 8) lack a certified educator or are filled by underqualified staff, directly impacting learning outcomes. The students who were K-3 during the pandemic are now in middle school and many still haven't caught up. Mid-2025 saw the U.S. Department of Education begin mass layoffs and funding freezes, slashing billions from school budgets and eliminating vital guidance for special education, ELL programs, and compliance oversight — precisely when recovery efforts need maximum support. The cell phone debate has shifted from discipline to attention, with at least 32 states moving to restrict or ban student cell phone use. Many American students arrive at college underprepared for the demands they will face.
+
+### Evidence (2026-02-14 additions)
+- [Kiddom - Biggest Student Learning Challenges 2025-26](https://www.kiddom.co/insights/the-biggest-student-learning-challenges-schools-will-face-in-2025-26): Pandemic aftereffects persist, achievement gaps widened
+- [Elevate K12 - American Education Issues 2025](https://www.elevatek12.com/blog/elevate-in-action/american-education-issues/): Reading/math at lowest levels in decades
+- [NWEA - Key Education Trends 2026](https://www.nwea.org/news-center/press-releases/nwea-experts-outline-key-education-trends-to-watch-in-2026/): Only 30% of 8th graders reading proficiently, chronic absenteeism rising
+- [Fordham Institute - Education System Mess](https://fordhaminstitute.org/national/commentary/americas-education-system-mess-and-its-students-who-are-paying-price): Students paying the price for system failures
+- [EdWeek - 11 Critical Issues Facing Educators 2026](https://www.edweek.org/leadership/opinion-11-critical-issues-facing-educators-in-2026/2026/01): Teacher shortages 400K+, federal funding cuts, cell phone debate
+- [The 74 Million - Students Paying Price](https://www.the74million.org/article/americas-education-system-is-a-mess-and-its-students-who-are-paying-the-price/): System failures compounding
+
 Potential interventions:
 1. High-dosage tutoring and intensive intervention programs
 2. Data systems tracking student progress and identifying at-risk students early
@@ -1423,6 +1449,8 @@ Potential interventions:
 4. Family economic support recognizing poverty as educational barrier
 5. Teacher support and professional development for differentiated instruction
 6. Middle school literacy interventions with evidence-based approaches
+7. Attendance support systems addressing chronic absenteeism root causes
+8. Digital attention management tools addressing phone-related disruption
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -2391,7 +2419,7 @@ This may be the most existentially threatening need identified — it undermines
 **ID**: NEED-041
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-09
+**Last Updated**: 2026-02-14
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -2436,6 +2464,15 @@ Potential software interventions:
 4. Insurance navigation and advocacy tools
 5. Provider network transparency revealing true access
 6. Alternative care models (group therapy, peer counseling, digital therapeutics)
+
+**2026-02-14 Update**: The mental health access crisis persists with ongoing challenges: stigma, limited access to specialty services, and unmet social needs continue to complicate care. While awareness has increased and stigma has decreased, access, equity, and long-term care continuity remain critical issues. Insurance reimbursements for behavioral health visits are on average 22% lower than for medical or surgical office visits, creating a disincentive for providers to join insurance networks. Regulators are scrutinizing non-quantitative treatment limitations such as overly restrictive networks, step therapy, and authorization rules that make behavioral healthcare harder to access than medical care. Telehealth policy uncertainty continues, with many allowances remaining in place but several statutory requirements scheduled to return. Most Medicare telehealth flexibilities remain in effect through January 30, 2026 — but that deadline is now just two weeks away, creating additional uncertainty for patients and providers. More than 1 billion people worldwide live with mental health conditions, which remain widespread, misunderstood, and significantly undertreated.
+
+### Evidence (2026-02-14 additions)
+- [Patient Care Online - Mental Health Care in 2026](https://www.patientcareonline.com/view/mental-health-care-in-2026-stigma-substance-use-and-practical-opportunities-in-primary-care): Stigma, substance use, and primary care opportunities
+- [Favor Mental Health - State of Mental Health 2026](https://www.favormentalhealthservices.com/post/the-state-of-mental-health-in-2026-what-has-changed-and-what-still-needs-fixing): Access, equity, and care continuity remain critical
+- [Psychiatry.org - Medicare Telehealth Updates 2026](https://www.psychiatry.org/Psychiatrists/Practice/Telepsychiatry/Blog/Medicare-Telehealth-Updates-What-Psychiatrists-Nee): Telehealth flexibilities ending Jan 30, 2026
+- [Project HOPE - 6 Health Issues 2026](https://www.projecthope.org/news-stories/story/6-health-issues-were-watching-in-2026/): Global health issues watching in 2026
+- [Neolytix - Mental Health Access Crisis US 2025](https://neolytix.com/articles/current-state-mental-health-access-us/): Parity, ghost networks, and solutions
 
 But fundamentally: this is a financing and workforce problem. Software can reduce friction but cannot replace providers who don't exist or insurance that won't pay.
 
@@ -4040,6 +4077,9 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-13 | Scout-01 | Updated NEED-005 | Added Feb 13 small business data: K-shaped economy intensifies (Wall Street gains bypass Main Street), 66% face financial challenges, 32.8% cite lack of capital as #1 closure reason, bankruptcies rising, loan delinquencies at multiyear highs, high interest rates, talent challenges (34% unfilled openings, half can't find qualified applicants), AI adoption pressure, 43% of cyberattacks target small businesses, bifurcated market positioning challenges |
 | 2026-02-13 | Scout-01 | Updated NEED-021 | Added Feb 13 AI safety data: International AI Safety Report 2026 (Bengio + 100+ experts, 30+ countries) — three risk categories (malicious use, malfunctions, systemic risks), criminal/state actors using GPAI in operations, biological misuse concerns prompted stronger safeguards after 2025 testing couldn't rule out novice bioweapon development capability, rapid capability improvement (gold-medal IMO, PhD-level science benchmarks), global risk frameworks immature with evidence gaps, defense-in-depth approach recommended |
 | 2026-02-13 | Scout-01 | Updated NEED-026 | Added Feb 13 climate disaster data: early Feb 2026 extreme weather intensifying — Peru mudslides, Philippines Tropical Storm Penha (4 dead, 6K evacuated), Australia Cyclone Mitchell (category 3), extraordinary warmth records pulverized (Canada/Montana/South Dakota nights exceeding 10°C in February), Brazil Itaperuna storm (76mm in <1 hour, 4x predicted), Colombia 70% of Córdoba flooded, Morocco 100K+ evacuated from 4 provinces, U.S. winter storm Fern (Texas to Maine, power outages, rising death toll), demonstrates infrastructure overwhelmed by climate conditions beyond historical design parameters |
+| 2026-02-14 | Scout-01 | Updated NEED-025 | Escalated to CRITICAL; added Feb 14 education crisis data: reading/math scores lowest in decades, only 30% 8th graders proficient in reading (no state gains since 2022), 1/3 below basic level, teacher shortage 400K+ (1 in 8 classrooms), chronic absenteeism rising, students who were K-3 during pandemic now in middle school still haven't caught up, federal education funding slashed, cell phone attention crisis in 32 states |
+| 2026-02-14 | Scout-01 | Updated NEED-041 | Added Feb 14 mental health access data: insurance reimbursements 22% lower for behavioral health vs medical/surgical, regulators scrutinizing restrictive practices, Medicare telehealth flexibilities end Jan 30 2026 (imminent deadline), 1B+ people worldwide with mental health conditions remain undertreated, ongoing access/equity/care continuity challenges |
+| 2026-02-14 | Scout-01 | Updated NEED-011 | Added Feb 14 humanitarian funding collapse data: $2.7T global defense spending vs $50B humanitarian appeal (unmet), humanitarian funding fell below 2016 levels in 2025, WHO reached only 1/3 of 81M targeted people, 83% USAID programs cancelled March 2025, 1.8M additional deaths projected 2025 (700K children under 5), up to 14M preventable deaths by 2030 if funding gaps persist, Haiti political vacuum Feb 2026, Sudan 19.2M in food crisis, infrastructure maintenance failures emerging (water systems at risk in OECD countries), tens of millions face deepening hunger/displacement/violence as funding collapses |
 
 ---
 
