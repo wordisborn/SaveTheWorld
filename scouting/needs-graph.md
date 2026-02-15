@@ -17,7 +17,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-14 (Scout-01 reconnaissance complete)
+**Last Observation**: 2026-02-15 (Scout-01 daily observation)
 
 ---
 
@@ -548,7 +548,7 @@ Potential intervention: Tools that give IT visibility without blocking legitimat
 **ID**: NEED-011
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-14
+**Last Updated**: 2026-02-15
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -582,6 +582,8 @@ Current inefficiencies include:
 
 **2026-02-14 Update**: The catastrophic scale of the crisis is now fully visible. Global defense spending reached $2.7 trillion USD in 2024, while the entire humanitarian system appealed for just $50 billion USD — an amount that still went unmet. In 2025, humanitarian funding fell below 2016 levels, leaving WHO and partners able to reach only one-third of the 81 million people originally targeted to receive humanitarian health assistance. The U.S., historically the single largest global donor, slashed support for humanitarian aid under the new administration, with 83% of USAID programs cancelled by March 2025. An estimated 1.8 million additional deaths were projected in 2025 alone, including nearly 700,000 children under five, and if funding gaps persist, as many as 14 million preventable deaths could occur by 2030. Haiti's Transitional Presidential Council mandate expires in February 2026, creating a power vacuum as gangs could exploit, worsening violence, hunger and displacement for civilians. More than 19.2 million people in Sudan face crisis or worse levels of food insecurity. Systemic infrastructure failures are emerging, with fundamental concerns such as corrosion of piping, cracks in concrete structures, shifting foundations, and inadequate system slack. It is not far-fetched to envisage a scenario in which the quality or supply of drinking water in an OECD country becomes compromised due to accidental systemic failures from maintenance issues. In 2026, tens of millions of people face deepening hunger, displacement and violence as international funding and political attention continue to decline. With global aid budgets shrinking, unmet needs are likely to deepen in 2026, particularly in countries where basic services are near collapse with government ability to provide essential health and emergency services eroding, and pervasive insecurity has curbed the ability of humanitarians to reach communities in greatest need.
 
+**2026-02-15 Update**: February 2026 humanitarian reporting confirms a "New World Disorder" — a dangerous divergence where humanitarian needs surge while global support collapses. **The world is experiencing more active armed conflicts than at any point since World War II**, with one in seven people globally living with the threat of armed conflict. The top 2026 crises remain Sudan (world's largest displacement and hunger crisis entering its fourth year in April), Gaza (catastrophic conditions after 14+ months with famine affecting 500,000+ people), and Ukraine (four years of full-scale conflict on Feb 24, 2026, after more than 10 years of simmering crisis). The 20 countries on the Emergency Watchlist represent just 12% of the world's population but account for **89% of people in humanitarian need** and nearly **50% of those in extreme poverty**. The scale of funding collapse is stark: by March 2025, 83% of USAID programs were cancelled, including most funding for maternal and child health, malaria, tuberculosis, family planning, and epidemic surveillance. Respect for international humanitarian law (IHL) is weakening across conflicts — military objectives increasingly take precedence over obligations to protect civilian lives. This represents not just a resource crisis but a fundamental breakdown in the international order that has governed humanitarian response since World War II.
+
 ### Evidence (2026-02-14 additions)
 - [WTW - Crisis Management Annual Review 2026](https://www.wtwco.com/en-ph/insights/2026/02/crisis-management-annual-review-2026): Crisis management trends analysis
 - [IRC - Top 10 Crises World Can't Ignore 2026](https://www.rescue.org/article/top-10-crises-world-cant-ignore-2026): 83% of USAID programs cancelled, 1.8M additional deaths projected 2025
@@ -591,6 +593,14 @@ Current inefficiencies include:
 - [Stimson Center - Top Ten Global Risks 2026](https://www.stimson.org/2026/top-ten-global-risks-for-2026/): Nuclear risks, humanitarian crises, infrastructure failures
 - [WHO - 2026 Appeal](https://www.who.int/news/item/03-02-2026-who-launches-2026-appeal-to-help-millions-of-people-in-health-emergencies-and-crisis-settings): Reached only 1/3 of targeted 81M people in 2025
 - [Everbridge - Global Risks to Watch 2026](https://www.everbridge.com/blog/global-risks-to-watch-in-2026/): Global risk analysis
+
+### Evidence (2026-02-15 additions)
+- [IRC - Top 10 Crises World Can't Ignore 2026](https://www.rescue.org/article/top-10-crises-world-cant-ignore-2026): New World Disorder, 89% of humanitarian need in 20 countries with 12% of population
+- [IRC - Emergency Watchlist](https://www.rescue.org/watchlist): Dangerous divergence as crises surge and support collapses
+- [Concern Worldwide - 10 Worst Humanitarian Crises 2026](https://www.concern.net/news/worlds-worst-humanitarian-crises): Comprehensive crisis overview
+- [ICRC - Humanitarian Outlook 2026: A World Succumbing to War](https://www.icrc.org/en/article/humanitarian-outlook-2026): More active wars than any point since WWII
+- [OCHA - Global Humanitarian Overview 2026](https://www.unocha.org/publications/report/world/global-humanitarian-overview-2026-enesfr): Official UN humanitarian overview
+- [The New Humanitarian - Ten humanitarian crises that demand attention now](https://www.thenewhumanitarian.org/analysis/2026/01/07/ten-humanitarian-crises-demand-your-attention-now-2026): Detailed crisis analysis
 
 The ratio is obscene: $2.7 trillion for weapons, $50 billion (unmet) for saving lives. This is a choice, not a constraint.
 
@@ -792,7 +802,7 @@ This connects to NEED-003 (loneliness) and NEED-007 (teacher burnout) — the sc
 **ID**: NEED-015
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-13
+**Last Updated**: 2026-02-15
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -822,6 +832,8 @@ The 35-to-100 ratio (35 affordable homes for every 100 extremely low-income hous
 
 **2026-02-13 Update**: The affordability crisis is driving unprecedented price cuts in the housing market, with homebuilders slashing prices more aggressively than homeowners — marking an unusual shift. Lennar CEO Stuart Miller stated the "housing market is entrenched in an affordability crisis" during recent earnings call. Housing price compared to income is now at an all-time high, with home prices to median household income having risen five-fold. Congress made progress on bipartisan legislation, with the Housing for the 21st Century Act passing the House 390-9, though experts debate whether the U.S. needs 2M to 20M additional homes to fix the shortfall. Consumers identify root causes as: 55.5% say people "do not earn enough money to afford a home," 50.1% cite mortgage rates "too high." The crisis forces families to choose between affordability or safety, compromising on neighborhood security to access housing they can afford.
 
+**2026-02-15 Update**: The scope and urgency of the crisis continues to intensify. **Homelessness increased 18% nationwide from 653,104 people in 2023 to 771,480 people in 2024 — the highest number ever recorded.** This represents more than 770,000 people experiencing homelessness, with chronic homelessness in Washington state alone surging 56% (an additional 4,295 people) between 2023 and 2024. The fundamental drivers remain clear: **lack of deeply affordable housing is the primary cause**, with only 35 affordable and available rental homes existing for every 100 extremely low-income renter households. The market dynamics continue to worsen: between 2020 and 2025, home prices surged roughly **55% nationwide**, and **75% of U.S. homes on the market are unaffordable to the typical household**. Rent for a one-bedroom apartment in the 50 largest U.S. cities has gone up **41% since the pandemic**. The correlation between rents and homelessness is stark: when a community's median rent increased $100, homelessness rose by 9%. Recent bipartisan legislation passed the House with overwhelming 390-9 support, signaling rare policy consensus. However, the Trump administration's fiscal year 2026 budget request proposes further cuts that would "deepen the housing affordability crisis by removing support for millions of households." Income inequality emerges as a primary driver: recent research suggests housing affordability "may primarily be about differences in income growth at the top of the distribution relative to the middle" rather than solely supply constraints. The crisis represents a systematic failure where market-rate housing construction cannot solve the affordability crisis for those with the lowest incomes — public investment in deeply affordable housing remains essential.
+
 ### Evidence (2026-02-11 additions)
 - [Fortune - Housing Affordability Income Inequality](https://fortune.com/2026/02/07/housing-affordability-crisis-home-prices-income-inequality-supply-growth-population/): Income inequality driving prices, not just supply
 - [CNBC - Income Gap Housing](https://www.cnbc.com/2026/02/07/housing-affordability-income-changes.html): Incomes need to rise $50K to match 2019 affordability
@@ -835,6 +847,15 @@ The 35-to-100 ratio (35 affordable homes for every 100 extremely low-income hous
 - [AEI - America's affordability crisis is a housing shortage](https://www.aei.org/op-eds/americas-affordability-crisis-is-a-housing-shortage-we-can-fix-it-in-three-steps/): Policy solutions framework
 - [Axios - Congress zeroes in on housing supply](https://www.axios.com/2026/02/10/real-estate-congress-housing-act): Housing for the 21st Century Act passed House 390-9
 - [CBRE - Digging Out of the U.S. Housing Affordability Crisis](https://www.cbreim.com/insights/articles/digging-out-of-the-us-housing-affordability-crisis): Housing price to income at all-time high, five-fold increase
+
+### Evidence (2026-02-15 additions)
+- [National Alliance to End Homelessness - State of Homelessness 2025](https://endhomelessness.org/state-of-homelessness/): 771,480 homeless in 2024, 18% increase, highest ever recorded
+- [DESC - Housing Affordability Crisis Main Driver for Homelessness](https://www.desc.org/ssi-vs-rent-2025/): Washington state chronic homelessness up 56%
+- [National Low Income Housing Coalition - The Problem](https://nlihc.org/explore-issues/why-we-care/problem): Only 35 affordable homes per 100 extremely low-income households
+- [Novogradac - State of Nation's Housing Report 2025](https://www.novoco.com/notes-from-novogradac/state-of-the-nations-2025-housing-report-details-persistent-housing-affordability-crisis): Persistent affordability crisis details
+- [Fortune - Housing affordability may primarily be about income inequality](https://fortune.com/2026/02/07/housing-affordability-crisis-home-prices-income-inequality-supply-growth-population/): Income inequality driving prices more than supply
+- [Washington Times - House finds rare unity on housing affordability](https://www.washingtontimes.com/news/2026/feb/9/house-finds-rare-moment-unity-tackle-housing-affordability/): Bipartisan 390-9 vote
+- [Urban Institute - Key Challenges and Opportunities 2026](https://housingmatters.urban.org/articles/key-challenges-and-opportunities-housing-affordability-and-stability-2026): Budget cuts would deepen crisis
 
 Potential software interventions:
 1. Matching systems connecting housing-insecure individuals with available affordable units
@@ -1427,7 +1448,7 @@ The crisis escalates from "urgent" to "critical" as the 2026-2027 surge approach
 **ID**: NEED-025
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-14
+**Last Updated**: 2026-02-15
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -1473,6 +1494,15 @@ Connection to NEED-007: Teachers cannot close learning gaps when they're burning
 - [PMC - Digital Divide in Online Education](https://pmc.ncbi.nlm.nih.gov/articles/PMC9435462/): Inequality in digital readiness of students and schools
 
 **OECD Digital Education Outlook 2026 finding**: Despite rapid technology uptake and growing expectations, evidence points to a persistent gap between digital expansion and educational transformation. Digital inequality today is driven less by access to technology and more by differences in effective pedagogical use. Only around 15% of people in low-income communities have stable internet access. Even when students have technology access, quality varies widely—intermittent internet or outdated hardware prevents effective engagement. Students without reliable internet and devices struggle to complete homework, access resources, and participate in virtual learning, creating long-term disadvantages affecting college readiness and career prospects.
+
+**2026-02-15 Update**: The student engagement crisis has reached critical levels across multiple dimensions. **Student cell phone use has become the most visible classroom challenge** — more than half of high school students admit to using phones during class, while nearly **80% of teachers report regularly competing with phones and social media for students' attention**. Schools across the nation are implementing phone restrictions, but the deeper problem is the erosion of sustained attention capacity. Compounding this, **a concerning number of students acknowledge using AI on assignments without permission**, while many teachers report catching students doing so — undermining not just academic integrity but fundamental learning processes. The literacy crisis intensifies: only 30% of eighth graders are reading proficiently, with **the students who were K-3 during the pandemic now in middle school having still not caught up**. Equity issues persist: **only about three in five schools offer Algebra by 8th grade, and even where available, Black and Latino students are less likely to be placed even when showing strong academic readiness**. Many teachers report they **don't have sufficient time to improve their practice**, creating a sustainability crisis that compounds the learning crisis. Education funding faces multiple pressures in 2026: strained state budgets, federal funding unpredictability, and competition for local dollars. **As student enrollment continues declining, deeper district budget cuts and staff layoffs are likely**. Immigration enforcement policies are impacting students' attendance, performance, and sense of safety, with districts considering virtual learning options and legal support for families. **Student data privacy concerns rise** as AI tool usage explodes without adequate governance frameworks.
+
+### Evidence (2026-02-15 additions)
+- [K-12 Dive - 6 trends to watch for K-12 in 2026](https://www.k12dive.com/news/6-k-12-trends-to-watch-in-2026/809065/): Student engagement, AI cheating, equity access
+- [Discovery Education - 5 Biggest K-12 Education Trends for 2026](https://www.discoveryeducation.com/blog/educational-leadership/2026-education-trends/): Cell phone use, teacher capacity, enrollment decline
+- [EdWeek - 11 Critical Issues Facing Educators in 2026](https://www.edweek.org/leadership/opinion-11-critical-issues-facing-educators-in-2026/2026/01): Immigration enforcement, data privacy, funding pressures
+- [HMH - 10 Top Trends in Education to Watch in 2026](https://www.hmhco.com/blog/current-trends-in-education): Phone competition for attention, AI usage without permission
+- [NWEA - Key Education Trends to Watch in 2026](https://www.nwea.org/news-center/press-releases/nwea-experts-outline-key-education-trends-to-watch-in-2026/): Sustained attention erosion, teacher time constraints
 
 Potential interventions:
 1. High-dosage tutoring and intensive intervention programs
@@ -2463,7 +2493,7 @@ This may be the most existentially threatening need identified — it undermines
 **ID**: NEED-041
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-14
+**Last Updated**: 2026-02-15
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -2511,12 +2541,21 @@ Potential software interventions:
 
 **2026-02-14 Update**: The mental health access crisis persists with ongoing challenges: stigma, limited access to specialty services, and unmet social needs continue to complicate care. While awareness has increased and stigma has decreased, access, equity, and long-term care continuity remain critical issues. Insurance reimbursements for behavioral health visits are on average 22% lower than for medical or surgical office visits, creating a disincentive for providers to join insurance networks. Regulators are scrutinizing non-quantitative treatment limitations such as overly restrictive networks, step therapy, and authorization rules that make behavioral healthcare harder to access than medical care. Telehealth policy uncertainty continues, with many allowances remaining in place but several statutory requirements scheduled to return. Most Medicare telehealth flexibilities remain in effect through January 30, 2026 — but that deadline is now just two weeks away, creating additional uncertainty for patients and providers. More than 1 billion people worldwide live with mental health conditions, which remain widespread, misunderstood, and significantly undertreated.
 
+**2026-02-15 Update**: Community-based crisis support infrastructure faces critical sustainability challenges in 2026. **Mobile crisis teams** — community-based responders who help people in psychiatric crisis rather than dispatching regular police — have expanded to **at least 1,800 teams nationwide** (as of a 2024 survey), yet **financial support remains inadequate and inconsistent**. Many communities that launched these teams using pandemic-era emergency funds now face funding cliffs as temporary support expires. In January 2026, SAMHSA terminated hundreds of grants supporting these services (though funding was later restored after immediate bipartisan pushback). Federal funding cuts create particular challenges: on January 13, 2026, SAMHSA terminated approximately **$2 billion** in grants supporting mental health and substance use disorder services, disrupting care for thousands at a time when communities face mental health and addiction crises. Community-based models show promise: **Certified Community Behavioral Health Clinics (CCBHCs)** deliver comprehensive, coordinated mental health and substance-use services 24/7 regardless of ability to pay, and community leaders are working to connect people with resources while keeping those in crisis out of jail. However, these programs operate on precarious funding and struggle to scale. **North Carolina's Behavioral Health Urgent Care** facilities accessible 24/7 without appointment or insurance successfully diverted **80% of individuals from emergency departments**, demonstrating effective community-based crisis care models. Yet replicating such success nationally faces funding and political barriers. The fundamental tension persists: communities recognize the need for crisis response alternatives to police and emergency rooms, yet sustainable funding mechanisms remain elusive.
+
 ### Evidence (2026-02-14 additions)
 - [Patient Care Online - Mental Health Care in 2026](https://www.patientcareonline.com/view/mental-health-care-in-2026-stigma-substance-use-and-practical-opportunities-in-primary-care): Stigma, substance use, and primary care opportunities
 - [Favor Mental Health - State of Mental Health 2026](https://www.favormentalhealthservices.com/post/the-state-of-mental-health-in-2026-what-has-changed-and-what-still-needs-fixing): Access, equity, and care continuity remain critical
 - [Psychiatry.org - Medicare Telehealth Updates 2026](https://www.psychiatry.org/Psychiatrists/Practice/Telepsychiatry/Blog/Medicare-Telehealth-Updates-What-Psychiatrists-Nee): Telehealth flexibilities ending Jan 30, 2026
 - [Project HOPE - 6 Health Issues 2026](https://www.projecthope.org/news-stories/story/6-health-issues-were-watching-in-2026/): Global health issues watching in 2026
 - [Neolytix - Mental Health Access Crisis US 2025](https://neolytix.com/articles/current-state-mental-health-access-us/): Parity, ghost networks, and solutions
+
+### Evidence (2026-02-15 additions)
+- [NPR - Mobile crisis teams in crisis](https://www.npr.org/2026/02/05/nx-s1-5693908/police-mental-health-calls-988-911-mobile-crisis-teams): 1,800+ teams nationwide, financial support inadequate and inconsistent
+- [14News - Mental health community forum in Evansville](https://www.14news.com/2026/02/12/helping-those-crisis-mental-health-community-forum-held-evansville/): Communities connecting people with resources, keeping crisis out of jail
+- [NC Governor - Community-Based Crisis and Mental Health Services](https://governor.nc.gov/news/press-releases/2026/01/29/governor-stein-highlights-successful-community-based-crisis-and-mental-health-services): NC Behavioral Health Urgent Care 80% diversion from EDs
+- [SAMHSA - National Behavioral Health Crisis Care Guidance](https://www.samhsa.gov/mental-health/national-behavioral-health-crisis-care): National crisis care framework
+- [APA Services - New Policies Affecting Mental Health Access](https://updates.apaservices.org/new-policies-affecting-access-to-mental-health-care): Jan 13, 2026 SAMHSA grant terminations
 
 But fundamentally: this is a financing and workforce problem. Software can reduce friction but cannot replace providers who don't exist or insurance that won't pay.
 
@@ -4191,6 +4230,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-14 | Scout-01 | Updated NEED-041 | Added Feb 14 digital mental health solutions: $450B+ market 2026 (6.5% CAGR to 2030), €7B mental health apps market (+15% annually), AI-driven detection/VR psychotherapy/online counseling, but ghost networks (40-80% unreachable), digital literacy gaps, broadband access barriers persist |
 | 2026-02-14 | Scout-01 | Updated NEED-025 | Added Feb 14 OECD Digital Education Outlook 2026: shift from access to pedagogy gap, only 15% low-income communities have stable internet, digital inequality now driven by effective pedagogical use not mere access, quality of access varies (intermittent vs reliable), long-term disadvantages affect college readiness |
 | 2026-02-14 | Scout-01 | Updated Overview | Increased observing count from 60 to 61 needs |
+| 2026-02-15 | Scout-01 | Updated NEED-011 | Humanitarian aid crisis Feb 15: New World Disorder — dangerous divergence as crises surge and support collapses, more active wars than any point since WWII, 1 in 7 people living with armed conflict threat, 20 Watchlist countries (12% of population) account for 89% of humanitarian need and 50% of extreme poverty, top crises Sudan/Gaza/Ukraine, international humanitarian law weakening (military objectives taking precedence over civilian protection), fundamental breakdown in post-WWII international order |
+| 2026-02-15 | Scout-01 | Updated NEED-025 | Education crisis Feb 15: student engagement crisis critical across multiple dimensions, cell phones most visible challenge (50%+ HS students use during class, 80% teachers compete with phones/social media), concerning number of students using AI without permission undermining learning, 30% 8th grade proficiency persists, equity gaps (only 60% schools offer Algebra by 8th grade, Black/Latino students less likely placed even with readiness), teachers lack time to improve practice, enrollment declining driving budget cuts/layoffs, immigration enforcement impacting attendance/safety, data privacy concerns as AI usage explodes |
+| 2026-02-15 | Scout-01 | Updated NEED-015 | Housing crisis Feb 15: 771,480 homeless in 2024 (18% increase, record high), Washington chronic homelessness +56%, home prices +55% 2020-2025, 75% of U.S. homes unaffordable to typical household, rent +41% since pandemic in 50 largest cities, $100 rent increase = 9% homelessness rise, bipartisan House vote 390-9 but Trump FY2026 budget proposes further cuts, income inequality primary driver (not just supply), only 35 affordable homes per 100 extremely low-income households, systematic market failure requiring public investment |
+| 2026-02-15 | Scout-01 | Updated NEED-041 | Mental health crisis Feb 15: mobile crisis teams (1,800+ nationwide) face inadequate/inconsistent funding as pandemic-era funds expire, Jan 13 2026 SAMHSA terminated $2B grants (restored after pushback revealing fragility), Certified Community Behavioral Health Clinics (CCBHCs) show promise (NC 80% ED diversion, 24/7 no-appointment care) but struggle to scale, communities recognize need for alternatives to police/ER yet sustainable funding elusive, infrastructure crisis underlying multiple cascading needs |
+| 2026-02-15 | Scout-01 | Observation completed | Daily observation sweep: humanitarian crisis, education challenges, housing affordability, mental health access, updated 4 needs with Feb 15 data from web search across multiple domains |
 
 ---
 
