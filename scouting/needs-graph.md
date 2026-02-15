@@ -19,6 +19,8 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 **Last Observation**: 2026-02-15 (Scout-01 daily observation - completed)
 
+**Today's Observation Summary (2026-02-15)**: Conducted comprehensive scan across technology, social problems, healthcare, climate, education, mental health, housing, disinformation, food security, cybersecurity, supply chains, financial literacy, elderly digital exclusion, and nonprofit sectors. Key findings: US underemployment crisis worsening (4.9M part-time for economic reasons), housing affordability crisis driving unprecedented price cuts, cybersecurity threats escalating with AI-powered attacks and synthetic identity fraud, 47.9M Americans food-insecure (USDA last report before data collection termination), financial literacy remains low (49% correct on basic questions), and nonprofit funding volatility intensifying with government cuts.
+
 ---
 
 ## Active Needs
@@ -756,6 +758,11 @@ Young people face a mental health crisis of unprecedented scale. Nearly one in t
 - [Huntington Psychological - The State of Teen Mental Health: A 2026 Statistical Report](https://huntingtonpsych.com/blog/teen-mental-health-statistics): Suicide statistics, treatment gaps
 - [The Minds Journal - Youth Mental Health Trends in 2026 Reveal Risks—and Reasons for Hope](https://themindsjournal.com/news/youth-mental-health-trends-in-show-rising/): Reasons for hope emerging
 
+### Evidence (2026-02-15 additions)
+- [GOV.UK - Funding boost for young people's mental health services](https://www.gov.uk/government/news/funding-boost-for-young-peoples-mental-health-services): £7M for Early Support Hubs announced Feb 13, 2026
+- [United Nations - World Youth Report highlights urgent need for inclusive, youth-informed mental health policies](https://www.un.org/en/desa/world-youth-report-mental-health): UN DESA February 2026 report launch
+- [Green Schools Project - Children's Mental Health Week 2026](https://www.greenschoolsproject.org.uk/2026/02/09/childrens-mental-health-week26/): Feb 9-15 "This is My Place" theme
+
 ### Connections
 - Related to: NEED-003 (loneliness epidemic — youth most affected), NEED-007 (teacher burnout — school environment factor), NEED-012 (government trust collapse — youth disillusionment)
 - Potentially addresses: Suicide prevention, school outcomes, workforce readiness, long-term societal health
@@ -789,6 +796,8 @@ This connects to NEED-003 (loneliness) and NEED-007 (teacher burnout) — the sc
 
 **2026-02-13 Update**: Teen mental health remains in crisis in 2026, with high anxiety and depression rates that have not returned to pre-2020 levels. What was once perceived as a "wave" has become an enduring crisis of adolescent mental health. Suicide is now the second leading cause of death for ages 10-14 and 25-34, and third for ages 15-24. More than 1 in 5 high school students seriously considered attempting suicide in the past year, and 1 in 10 actually attempted at least once. An alarming 60% of all American youth ages 12-17 who suffer from major depressive episode do not receive any mental health treatment at all. Mental health disorders among young people are becoming more acute — many hospitals report seeing 2-3x more youth mental health emergencies than just a decade ago. Young people navigate a "perfect storm" of stressors: AI-driven social comparison, academic demands, financial uncertainty, and shrinking support systems. Access to affordable, effective treatment remains extremely difficult, with lengthy waiting lists at many clinics (often several months) and many communities having no child psychiatrist available. In a time of greater need, funding cuts undermine support systems, including cuts to the LGBTQ+ suicide lifeline despite this group having greater suicide risk. Reasons for hope include: growing number of states and school districts treating youth mental health as shared responsibility (Arizona partnering with JED Foundation to train school professionals), expansion of telehealth services, increasing residency training for child psychiatrists, and mental health education in school curricula.
 
+**2026-02-15 Update**: Fresh February 2026 data confirms the crisis endures as one of America's most pressing problems. UK government announced £7 million funding boost (Feb 13) for Early Support Hubs providing drop-in mental health support for youth ages 11-25, expanding 24 hubs to deliver 10,000 additional interventions over 12 months. Children's Mental Health Week (Feb 9-15) focuses on theme "This Is My Place" addressing belonging. UN DESA launched World Youth Report on Youth Mental Health and Well-being in February 2026, examining social factors shaping youth mental health. Key factors shaping 2026: rapid technological change, shifting policy landscapes, economic uncertainty, deepening social isolation, and climate anxiety. The crisis reflects prioritization of "technological acceleration and economic output over the psychological and emotional needs" of people.
+
 ### Council Readiness
 - [x] Problem clearly defined
 - [x] Evidence from multiple sources
@@ -804,7 +813,7 @@ This connects to NEED-003 (loneliness) and NEED-007 (teacher burnout) — the sc
 **ID**: NEED-015
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-15
+**Last Updated**: 2026-02-15 (afternoon sweep)
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -1049,7 +1058,7 @@ Potential interventions:
 **ID**: NEED-019
 **Status**: observing
 **First Observed**: 2026-02-05
-**Last Updated**: 2026-02-12
+**Last Updated**: 2026-02-15
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -1076,6 +1085,13 @@ Organizations face an accelerating cybersecurity crisis as data breaches become 
 - [University of San Diego - Top Cybersecurity Threats 2026](https://onlinedegrees.sandiego.edu/top-cyber-security-threats/): Critical infrastructure likely to experience high-impact cyber incident tied to geopolitical conflict; mandatory federal standards likely to follow
 - [CIS - 7 Experts' 2026 Cybersecurity Predictions](https://www.cisecurity.org/insights/blog/7-cis-experts-2026-cybersecurity-predictions): SLTT entities face escalating threats with mounting resource constraints
 
+### Evidence (2026-02-15 additions)
+- [University of San Diego - 2026 Cybersecurity Threat Forecast](https://onlinedegrees.sandiego.edu/top-cyber-security-threats/): AI-powered attacks, synthetic identity fraud, deepfakes, election year risks
+- [Cybersecurity Insiders - Significant Cyber Threats of 2026](https://www.cybersecurity-insiders.com/significant-cyber-threats-of-2026-a-comprehensive-outlook/): Comprehensive 2026 outlook including industrial-scale scam centers
+- [ECCU - Top Cybersecurity Threats in 2026](https://www.eccu.edu/blog/top-cybersecurity-threats-2026/): 202M identity theft victims in first three quarters of 2025, 83% via cyberattacks
+- [F-Secure - U.S. Cyber Threats Bulletin February 2026](https://www.f-secure.com/us-en/partners/insights/f-alert-cyber-threats-bulletin-february-2026): Monthly threat landscape bulletin
+- [World Economic Forum - Global Cybersecurity Outlook 2026](https://www.weforum.org/publications/global-cybersecurity-outlook-2026/): 87% identified AI-related vulnerabilities as fastest-growing risk
+
 ### Connections
 - Related to: NEED-010 (shadow IT security crisis — unauthorized tools expanding attack surface), NEED-013 (enterprise AI gaps — AI creating new vulnerabilities), NEED-016 (content moderation — similar AI-powered threats)
 - Potentially addresses: Organizational resilience, data protection, trust in digital systems
@@ -1093,6 +1109,8 @@ Social engineering remains effective because it targets humans, not systems. Tec
 January 2026 breaches show the routine nature of large-scale exposures. 149 million credentials in a single exposed database suggests catastrophic security lapses are common, not exceptional.
 
 **2026-02-12 Update**: WEF Global Cybersecurity Outlook confirms offensive autonomous and Agentic AI is now a mainstream threat, not future risk. Semi-autonomous AI-assisted malware deployed through Crimeware-as-a-Service platforms using generative AI, self-directed propagation, and environment-aware obfuscation. Quantum-aware attackers already harvesting encrypted data for future decryption ("harvest now, decrypt later"). Critical infrastructure predicted to experience high-impact cyber incident tied to geopolitical conflict in 2026, likely triggering mandatory federal standards. The threat landscape is evolving faster than defense capabilities — automation, AI, and quantum computing creating asymmetric advantage for attackers while state/local/tribal/territorial entities face mounting resource constraints. Signal remains CRITICAL.
+
+**2026-02-15 Update**: February 2026 threat landscape analysis confirms escalating sophistication and impacts on individuals. **AI-powered attacks dominate the threat landscape** — cybercriminals use artificial intelligence to elevate attack sophistication and impact, making them increasingly elusive and harder to detect. **AI-generated social engineering** with phishing emails, voicemail scams (vishing), and SMS fraud tailored to individual victims with alarming realism poses significant risk. **Identity theft and synthetic identity fraud reach epidemic levels**: **nearly 202 million individuals were affected by identity theft in the first three quarters of 2025** — 83% due to cyberattacks. Criminals increasingly use AI to generate **synthetic identities by combining stolen real data with fabricated details**, creating personas that pass verification checks, open bank accounts, and secure loans. **Phishing remains dominant** — 91% of successful breaches started with phishing, with email phishing continuing to evolve. **Deepfake technology becomes more realistic and accessible in 2026**, with 2026 being an election year intensifying deepfake fraud and cognitive attacks. **Industrial-scale scam centers operating out of Southeast Asia** become one of the most visible and politically charged cybersecurity threats facing the U.S. in 2026. **Ransomware-related attacks drove over half of all global cyberattacks**. **87% of respondents identified AI-related vulnerabilities as the fastest-growing cyber risk over 2025**. The convergence of AI-driven attack sophistication, deepfake realism, and synthetic identity fraud creates unprecedented challenges for individuals with traditional defenses becoming less effective.
 
 Potential interventions:
 1. Breach detection and response automation
@@ -2444,7 +2462,7 @@ The key insight: addressing eco-anxiety requires both climate action AND address
 **ID**: NEED-040
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-12
+**Last Updated**: 2026-02-15
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -2498,6 +2516,8 @@ This may be the most existentially threatening need identified — it undermines
 
 **2026-02-14 Update - AI Verification Systems Failing**: Within the first week of 2026, the amalgam of misinformation has created a heightened erosion of trust online—especially when AI-generated content mixes with authentic evidence. NewsGuard tested whether leading chatbots can spot AI-generated video and found they largely cannot. X's AI assistant Grok claimed a real photo of Kentucky governor Andy Beshear amid plane debris was from a previous disaster—a verification failure of authentic content. Between March–September 2025, over 447,000 tweets tagged Grok for verification requests, but early evidence suggests this shift may be undermining X's crowdsourced verification system. President Trump's Venezuela operation almost immediately spurred the spread of AI-generated images, old videos and altered photos across social media, and after an ICE officer fatally shot a woman, many online circulated a fake, most likely AI-edited image of the scene. Stanford Social Media Lab's founding director notes: "As we start to worry about AI, it will likely, at least in the short term, undermine our trust default." The crisis represents a critical moment where technological advances in AI are outpacing verification capabilities, creating significant challenges for social media platforms, fact-checkers, and the public in distinguishing authentic content from manipulated media. This is the trust collapse in real-time: the tools meant to verify truth are themselves unreliable.
 
+**2026-02-15 Update**: The misinformation landscape in February 2026 continues to worsen. Social media remains filled with more false information than ever, with experts noting a significant rise in recent months. **AI-powered software has made it dramatically easier to create and spread lies**, enabling fake images and videos that look real to be created in seconds. After the November UPS plane crash in Louisville, Kentucky, **fake AI-generated articles and videos showing fake firefighters struggling with fake fires were shared more than 1,000 times** — illustrating how AI misinformation spreads during disasters. A USC study of over 2,400 Facebook users reveals that **platforms — more than individual users — bear larger responsibility** for stopping misinformation spread. The study found **just 15% of the most habitual news sharers were responsible for spreading 30-40% of fake news**, suggesting platform structure of rewarding habitual sharing is a major influencer. Public trust in social media as news source remains extremely low: **only 9% trust news on social media "a lot," while 57% don't trust it too much or at all**. One promising intervention: A recent study showed **375,597 Instagram users a 19-second prebunking video about emotionally manipulative content**, finding treatment group users were **21 percentage points better at identifying manipulation** in news headlines, with effects persisting for five months. The key challenge remains: AI has industrialized the creation of misinformation while verification tools struggle to keep pace, creating an asymmetry where deception scales faster than detection.
+
 ### Evidence (2026-02-12 additions)
 - [FactCheckHub - WEF Global Risks Report 2026](https://factcheckhub.com/world-economic-forum-names-misinformation-disinformation-among-top-global-risk/): Misinformation ranked 2nd most severe short-term global risk
 - [NPR - AI-Powered Misinformation After Disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters): AI software helping spread disaster misinformation
@@ -2509,6 +2529,13 @@ This may be the most existentially threatening need identified — it undermines
 - [NBC News - Trust Collapse Online](https://www.nbcnews.com/tech/tech-news/experts-warn-collapse-trust-online-ai-deepfakes-venezuela-rcna252472): AI intensifying "collapse" of trust online, experts say
 - [Harvard Kennedy School Misinformation Review - Instagram Prebunking Study](https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/): Prebunking techniques in social media feeds field study
 - [Reuters Institute - Journalism Trends 2026](https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026): Media and technology trends including misinformation challenges
+
+### Evidence (2026-02-15 additions)
+- [PIRG Ed Fund - How misinformation on social media has changed news](https://pirg.org/edfund/articles/misinformation-on-social-media/): Social media filled with more false information than ever
+- [NPR - AI-powered software helping misinformation spread after disasters](https://www.npr.org/2026/01/01/nx-s1-5645183/ai-powered-software-is-helping-misinformation-spread-online-after-disasters): UPS plane crash fake content spread 1,000+ times
+- [USC Today - Study reveals key reason why fake news spreads on social media](https://today.usc.edu/usc-study-reveals-the-key-reason-why-fake-news-spreads-on-social-media/): 15% of habitual sharers spread 30-40% of fake news
+- [Harvard Misinformation Review - Prebunking misinformation techniques](https://misinforeview.hks.harvard.edu/article/prebunking-misinformation-techniques-in-social-media-feeds-results-from-an-instagram-field-study/): 19-second video improved manipulation detection by 21 percentage points for 5 months
+- [Yale Climate Connections - How to spot climate misinformation on social media](https://yaleclimateconnections.org/2026/01/how-to-spot-climate-misinformation-on-social-media/): Climate misinformation identification guidance
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -3785,7 +3812,7 @@ This connects to NEED-046 (Medicaid crisis) — organizations serving Medicaid p
 **ID**: NEED-058
 **Status**: observing
 **First Observed**: 2026-02-11
-**Last Updated**: 2026-02-11
+**Last Updated**: 2026-02-15
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -3800,6 +3827,14 @@ Nonprofit organizations — the essential infrastructure of social services, hum
 - [Wipfli - Digital Transformation](https://www.wipfli.com/insights/articles/2026-nonprofit-trends-time-for-a-digital-transformation): Time for digital transformation
 - [PNC Insights - Nonprofit Trends 2026](https://www.pnc.com/insights/corporate-institutional/manage-nonprofit-enterprises/nonprofit-trends-for-2026-key-insights-and-strategies.html): Key insights and strategies
 - [NFCB - Trends to Watch](https://nfcb.org/nonprofit-trends-to-watch-in-2026-navigating-a-year-of-pressure-possibility-and-profound-change/): Navigating pressure, possibility, and profound change
+
+### Evidence (2026-02-15 additions)
+- [BPM - 2026 Nonprofit Industry Trends](https://www.bpm.com/insights/2026-nonprofit-sector-outlook/): Funding volatility, 44% increases vs 29% decreases
+- [Nonprofit Finance Fund - 2026 Nonprofit Trends Report](https://nff.org/insights/2026trends/): Challenges, innovations, capital needed for community impact
+- [GMA CPA - 2026 Nonprofit Outlook](https://www.gma-cpa.com/blog/2026-nonprofit-outlook-key-challenges-trends-strategies-for-the-year-ahead): Government shutdown impacts, funding instability, anticipated cuts
+- [PNC Insights - Nonprofit Trends for 2026](https://www.pnc.com/insights/corporate-institutional/manage-nonprofit-enterprises/nonprofit-trends-for-2026-key-insights-and-strategies.html): Service demand increasing with resource constraints
+- [Social Current - Social Sector Trends to Watch in 2026](https://www.social-current.org/2026/01/social-sector-trends-to-watch-in-2026/): Political interventions, shrinking government dollars
+- [Winkler Group - Nonprofit Trends 2026](https://winklergroup.com/resources-and-events/nonprofit-trends-word-of-the-year-2026/): Digital transformation trends, DAF giving growth
 
 ### Connections
 - Related to: NEED-011 (humanitarian aid efficiency — nonprofit delivery mechanism), NEED-008 (caregiver crisis — nonprofits provide support services), NEED-014 (youth mental health — nonprofits fill treatment gaps), NEED-041 (mental health access — nonprofits as providers), NEED-046 (Medicaid crisis — funding collapse affects nonprofits)
@@ -3841,6 +3876,8 @@ Potential intervention points:
 **Assessment**: This is an **urgent but solvable** crisis. Unlike some needs that require massive policy or infrastructure changes, nonprofit capacity could be strengthened through targeted support for systems, training, and operational excellence. Software interventions could have high leverage — a good CRM, financial system, or volunteer management platform can dramatically increase a small nonprofit's effectiveness.
 
 The sector serves as society's **immune system** for social problems. When it weakens, every other crisis worsens. Strengthening nonprofit capacity is a **force multiplier** for addressing nearly every other need in this graph.
+
+**2026-02-15 Update**: Fresh February 2026 data confirms the sustainability crisis is intensifying with unprecedented pressures. **Funding landscape remains unpredictable** — while 44% of organizations report funding increases, 29% experienced decreases, creating sector-wide volatility. **Government funding instability has become existential threat**: with two-thirds of nonprofits dependent on at least one government grant, the October 2025 federal shutdown starkly reminded the sector of its vulnerability. **Due to 2025 funding cuts to the nonprofit sector and compounding service gaps filled during the government shutdown, additional funding challenges for nonprofit organizations in 2026 are anticipated**, potentially including staffing and service cuts. **Service demand increasing while resources shrink** — with inflation persisting, affordability challenges mounting, and health insurance premiums climbing sharply, more people turn to nonprofits for help while federal funding faces deeper cuts. The sector enters 2026 with **shrinking government dollars, growing scrutiny, and more frequent political interventions in nonprofit work**. Despite challenges, **some positive trends emerge**: online giving, merchandise sales, and donor-supported digital transactions are rising as organizations seek more resilient income streams; **total giving to DAFs grew nearly 300% from 2023 to 2024**; organizations diversifying revenue through digital commerce, paid trainings, memberships, events, and products are better positioned. The consensus is that **2026 will test nonprofits significantly**, but organizations that diversify funding sources, embrace digital transformation, and maintain strong community connections will be best positioned to sustain their missions. The **funding volatility combined with rising demand creates a perfect storm** where the capacity to deliver services is eroding precisely when communities need those services most.
 
 ### Council Readiness
 - [x] Problem clearly defined
