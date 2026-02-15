@@ -17,7 +17,7 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-15 (Scout-01 daily observation)
+**Last Observation**: 2026-02-15 (Scout-01 daily observation - completed)
 
 ---
 
@@ -552,6 +552,8 @@ Potential intervention: Tools that give IT visibility without blocking legitimat
 **Signal Strength**: critical
 **Scout**: Scout-01
 
+**OBSERVATION 2026-02-15**: Today's reconnaissance confirms the "New World Disorder" — humanitarian needs surge as support collapses. The 2026 budget anticipates **136 million forcibly displaced people** by end of year. IOM will reach 22 million across 32 countries in 2026. Ukraine requires assistance for 10.8M (including 2.2M children, 3.8M IDPs), plus 546K refugees in neighboring countries. Syria saw 1.07M returns Dec 2024-Dec 2025, yet protracted displacement exceeds a decade for most. Funding crisis forces "remodeling" of international aid: Belgium, Canada, France, Germany, Netherlands, New Zealand, Sweden, UK, and US all flagged cuts, with **budget shortfalls of up to 60% common** across multilateral system. Technology's role in crisis response expands: Signpost (IRC's global information platform) delivers trusted guidance via WhatsApp to tens of millions displaced. Follow the Forecast uses climate/risk data to trigger early cash before disasters strike. However, **technology implementation advancing ahead of needed ethical, security, and privacy frameworks** — creating new risks while addressing urgent needs.
+
 ### The Need
 Nearly 240 million people will require humanitarian aid in 2026, yet global funding has fallen by more than half since its peak. The 2026 Global Humanitarian Overview is only 27.8% funded. The UN Emergency Relief Coordinator launched a "hyper-prioritized" strategy in June 2025, meaning only the most acute, life-threatening needs can be addressed — 114.4 million people (38.3% of those in need) will receive help while the rest are abandoned. Meanwhile, only one quarter of global aid reaches fragile and conflict-affected states, even though they host over 80% of humanitarian need. Organizations now face the challenge of doing 2026's escalating crisis work with 2016's budget. The gap is not just about money — 83% of funding is now earmarked for specific uses, cutting UNHCR's flexibility to allocate where needs are greatest in half compared to 2023.
 
@@ -985,9 +987,11 @@ The connection to NEED-015 (housing crisis) is direct: student debt is a primary
 **ID**: NEED-018
 **Status**: observing
 **First Observed**: 2026-02-05
-**Last Updated**: 2026-02-14
+**Last Updated**: 2026-02-15
 **Signal Strength**: urgent
 **Scout**: Scout-01
+
+**OBSERVATION 2026-02-15**: Fresh crisis data confirms **318 million people face crisis-level hunger in 2026** (more than double 2019 figure), with **20% increase in acute food insecurity since 2020**. **Conflict drives 69% of hunger**, while climate shocks compound crisis across 14 of 16 hunger hotspot countries facing armed conflict/violence. WFP's 2026 Global Outlook reveals funding at **just under half of required $13B budget**, enabling reach to only **110 million people — one third of those in need**. Critical hotspots: **Sudan** (19.2M+ in crisis/worse food insecurity), **Palestine/Gaza** (500,000+ facing famine), **South Sudan** (28,000 facing catastrophic hunger, food costs quadrupled), **Haiti** (over half population in crisis-level hunger, nearly triple 2019 levels), **Lebanon** (4M+ urgently need assistance, 1.2M crisis/worse food insecurity). Supply chain disruptions compounding crisis: Haiti's gang violence, political instability, and economic shocks have disrupted supply chains and markets, driving food price inflation. **Two confirmed famines in 2026 (Gaza, Sudan)** mark first famines this century. World produces enough food for all 8.2 billion people — this is distribution, access, conflict, and funding crisis, not production crisis.
 
 ### The Need
 A staggering 318 million people face crisis levels of hunger or worse in 2026 — more than double the figure recorded in 2019. This includes 41 million people at Emergency levels (IPC Phase 4+) and two confirmed famines in Gaza and Sudan — the first famines this century. Despite the world producing enough food to feed all 8.2 billion people, 673 million experienced hunger for part or all of 2024. Armed violence fueled 20 food crises affecting nearly 140 million people. The World Food Programme faces severe funding constraints, forcing prioritization of only one-third of those in need. WFP aims to reach 110 million of the most vulnerable at an estimated cost of $13 billion but current forecasts indicate they may receive only half that amount. This represents a 20% increase in acute food insecurity since 2020. Acute food insecurity is expected to worsen in 16 countries and territories in 2026, with Sudan, Palestine (Gaza), South Sudan, Haiti, Mali, and Yemen among the hotspots of the highest concern.
@@ -1022,6 +1026,13 @@ Potential interventions:
 3. Local food system strengthening and resilience
 4. Resource allocation tools for aid organizations
 5. Conflict-affected area agricultural support systems
+
+### Evidence (2026-02-15 additions)
+- [WFP - Global Outlook 2026](https://www.wfp.org/publications/wfp-global-outlook): 318M facing acute hunger, funding at ~50% of $13B need
+- [World Hunger News - Troubling Forecast 2026](https://www.worldhunger.org/a-troubling-forecast-early-warning-systems-signal-deepening-global-hunger-in-2026/): Early warning systems signal deepening crisis
+- [UN News - Rising Hunger Displacement](https://news.un.org/en/story/2026/01/1166791): Hunger and displacement pose growing economic risk
+- [Action Against Hunger - Hunger Hotspots 2026](https://www.actionagainsthunger.org/story/hunger-hotspots-in-2026-devastating-hunger-amid-a-life-threatening-funding-crisis/): Life-threatening funding crisis
+- [World Bank - Food Security Update](https://www.worldbank.org/en/topic/agriculture/brief/food-security-update): Food insecurity statistics and solutions
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -1304,9 +1315,11 @@ Potential interventions:
 **ID**: NEED-023
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-07
+**Last Updated**: 2026-02-15
 **Signal Strength**: critical
 **Scout**: Scout-01
+
+**OBSERVATION 2026-02-15**: The **International AI Safety Report 2026** (published Feb 3, 2026) — the largest global collaboration on AI safety led by Turing Award winner Yoshua Bengio with 100+ AI experts — documents escalating deepfake threats. **AI-generated deepfakes becoming more realistic and harder to identify, with personalized deepfake pornography disproportionately targeting women and girls.** Criminal misuse proliferating: high-quality text, audio, images, and video used for scams, fraud, blackmail, extortion, defamation, non-consensual intimate imagery, and CSAM production. **In experimental settings, AI-generated content produces measurable belief changes, with people exposed to content from models with more computing power more likely to change views.** UK government urged to develop AI-specific crisis response strategy as **AI tools increasingly weaponized after incidents like terror attacks to spread conspiracy theories, incite violence, and undermine democratic stability**. Misleading AI content has complicated law enforcement responses, fueled harmful conspiracy theories, and encouraged real-world violence. **Philippines at forefront of global information war: 67% of Filipinos express deep concern over online misinformation — highest level since country first included in study (2020).** Disinformation is no longer experimental — it's operational doctrine for 2026 elections.
 
 ### The Need
 Democracy faces an unprecedented threat from AI-generated deepfakes in the 2026 election cycle. Voters will face "unprecedented levels of AI-generated misinformation" in 2026 midterm elections. Deepfakes will "no longer be novel; they will be routine, scalable, and cheap," blurring the line between real and fake with profound implications for journalism, democracies, economies, courts, and personal reputation. Recent incidents include: robocalls with AI-generated President Biden impersonations urging voters not to vote, deepfake videos of candidates promoting non-existent investment schemes and cryptocurrency scams, and Super PACs experimenting with deepfake attack ads. The misuse of these tools is eroding public trust in elections by making it harder to distinguish fact from fiction, intensifying polarization, and undermining confidence in democratic institutions. Sophisticated AI deepfakes can supercharge conspiracy theories. With lack of federal protections and efforts to derail state regulations, it will be up to voters to parse through potentially misleading information — a burden citizens should not bear alone.
@@ -1361,6 +1374,12 @@ Recommended solutions from security experts:
 6. Accountability mechanisms with teeth
 
 The window for defensive preparation is closing. The 2026 midterms represent nine months of lead time — inadequate for systemic solutions but potentially sufficient for targeted interventions.
+
+### Evidence (2026-02-15 additions)
+- [Inside Privacy - International AI Safety Report 2026](https://www.insideprivacy.com/artificial-intelligence/international-ai-safety-report-2026-examines-ai-capabilities-risks-and-safeguards/): Yoshua Bengio-led report with 100+ AI experts
+- [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026): Official report publication
+- [THINK Digital Partners - UK AI Crisis Response Strategy](https://www.thinkdigitalpartners.com/news/2026/02/11/uk-urged-to-develop-ai-crisis-response-strategy-to-counter-disinformation/): AI tools weaponized after incidents
+- [NextGen Day - Philippines Disinformation Surges](https://nextgenday.com/1670/): 67% deep concern over misinformation, highest on record
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -2232,9 +2251,11 @@ The critical observation is that this is simultaneous failure across multiple di
 **ID**: NEED-037
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-12
-**Signal Strength**: urgent
+**Last Updated**: 2026-02-15
+**Signal Strength**: critical
 **Scout**: Scout-01
+
+**OBSERVATION 2026-02-15**: Today's research reveals the darker side of the skills gap — **active job displacement through automation**. New MIT and Boston University research confirms AI and robotics will **eliminate 2 million manufacturing jobs by 2026** (491 jobs disappearing daily). Nearly **40% of global jobs exposed to AI-driven change**, with 2026 marking productivity gains realization but policy responses lagging. Worker retraining programs show severe limitations: national TAA study found participants had **significantly lower employment** in first years after layoffs, and even **four years later remained underemployed** relative to non-TAA workers and earned slightly less. **Only 12% of displaced manufacturing workers successfully transition to automation-related roles**, with remaining 88% either accepting lower-paying service jobs or exiting workforce entirely. Evidence provides **reasons for policymakers to be skeptical of retraining as means of supporting labor adjustment to AI-enabled automation**. Workforce development in U.S. **chronically underfunded** compared to peer nations, ranking near bottom in active labor market policy spending at **0.1% of GDP** (second-to-last in OECD). The tension is stark: as skills gap widens, automation simultaneously eliminates jobs faster than retraining can enable transitions. This is not simply skills shortage — it's job destruction with inadequate safety net.
 
 ### The Need
 Today's workforce demands fluency with technology, data, and increasingly AI, yet a massive skills gap persists. A National Skills Coalition study of over 43 million job postings found 92% of jobs in the United States require digital literacy skills, yet nearly a third of the U.S. workforce has "little to no" digital literacy skills. The gap extends beyond basic digital skills to AI competencies. According to Microsoft and LinkedIn's survey of 31,000+ professionals, 66% of leaders say they wouldn't hire someone without AI skills, and 71% would rather hire a less experienced candidate with AI skills than a more experienced candidate without them. Research by Cognizant and the World Economic Forum reveals demand for digital skills (AI, big data, technology literacy) is accelerating far more quickly than global supply, leaving only a fraction of business leaders confident in their ability to find the quantity and quality of talent they need. EDUCAUSE identifies "Technology Literacy for the Future Workforce" as issue #7 in their 2026 Top 10. The literature emphasizes that solving this requires multi-stakeholder collaboration involving educational reform, corporate training programs, and public-private partnerships rather than isolated interventions.
@@ -2274,6 +2295,8 @@ Potential software interventions:
 
 The critical question: is this a training content problem (need better courses) or a delivery/access problem (need better platforms/incentives/time)?
 
+**2026-02-15 Research Insight**: The Feb 15 job displacement data fundamentally reframes the problem. This is not just about upskilling existing workers — it's about managing mass job elimination. The 12% successful transition rate means **88% of displaced workers fail to move into automation-related roles**. Retraining programs show TAA participants remain underemployed four years after displacement. The U.S. invests 0.1% GDP on active labor market policies (OECD second-to-last), suggesting systematic underinvestment. Software interventions face a hard truth: no amount of better training platforms solves inadequate funding, insufficient time for transitions, or jobs that simply disappear. The connection to NEED-038 (gig economy exploitation) is direct — displaced workers often fall into precarious gig work. This escalates to CRITICAL as 2M manufacturing jobs eliminated by 2026 (per MIT/BU research) represents immediate crisis, not future threat.
+
 **2026-02-12 Update**: New data confirms the crisis is accelerating to critical levels. Over 90% of global enterprises are projected to face critical skills shortages by 2026, with sustained gaps risking $5.5 trillion in losses from global market performance (IDC report). The cybersecurity talent cliff alone represents 4.8 million unfilled roles globally. The U.S. manufacturing sector could need 3.8 million new workers between 2024-2033, yet about 1.9 million roles (more than half) could go unfilled due to skills and applicant gaps. The Society for Human Resources Management estimates nearly half of all workers will need retraining within this decade, while Baby Boomers retire at 10,000 per day until 2029. The tech workforce is expected to grow at twice the rate of the overall workforce over the next 10 years, making the skills gap a growing problem. A critical tension emerges: CEOs have high expectations of AI capabilities, but their workers lack the skills and experiences to meet those expectations. By 2026, closing the skills gap isn't just about offering training — it's about building systems, workers, and pathways that keep pace with change. Organizations are adopting skills-based hiring rather than relying solely on traditional degrees, but the labor market is changing faster than most workforce programs can keep up.
 
 ### Evidence (2026-02-12 additions)
@@ -2282,6 +2305,15 @@ The critical question: is this a training content problem (need better courses) 
 - [Arcoro - Workforce Planning 2026](https://arcoro.com/resources/workforce-planning-for-2026-bridging-the-skills-gap-before-it-widens): Manufacturing needs 3.8M workers, 1.9M may go unfilled
 - [Inc.com - Skilled Worker Shortage 2026](https://www.inc.com/kit-eaton/the-skilled-worker-shortage-may-hit-hard-in-2026/91279187): SHRM estimates half of workers need retraining this decade
 - [Eastridge - Employers Adapting to Skills Gap 2026](https://www.eastridge.com/blog/how-employers-are-adapting-to-the-skills-gap-in-2026): Skills-based hiring emerging as response
+
+### Evidence (2026-02-15 additions)
+- [HumansAreObsolete - MIT Study 2M Manufacturing Jobs AI Automation](https://humansareobsolete.com/news/mit-study-2-million-manufacturing-jobs-ai-automation-crisis-november-2025): 2M jobs eliminated by 2026, 491/day
+- [IMF - New Skills and AI Reshaping Future of Work](https://www.imf.org/en/blogs/articles/2026/01/14/new-skills-and-ai-are-reshaping-the-future-of-work): 40% of global jobs AI-exposed, 2026 turning point
+- [Brookings - AI Labor Displacement and Limits of Worker Retraining](https://www.brookings.edu/articles/ai-labor-displacement-and-the-limits-of-worker-retraining/): Evidence skeptical of retraining effectiveness
+- [Harvard Gazette - AI Took Your Job Can Retraining Help](https://news.harvard.edu/gazette/story/2025/09/ai-took-your-job-can-retraining-help/): Only 12% displaced workers successfully transition
+- [GAO - Workforce Automation Insights](https://www.gao.gov/products/gao-22-105159): Worker retraining programs analysis
+- [McKinsey - Retraining and Reskilling Workers](https://www.mckinsey.com/featured-insights/future-of-work/retraining-and-reskilling-workers-in-the-age-of-automation): Age of automation workforce needs
+- [National Academies - Retraining Workers for Age of AI](https://www.nationalacademies.org/news/retraining-workers-for-the-age-of-ai): U.S. at 0.1% GDP for workforce development (OECD second-to-last)
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -4239,3 +4271,7 @@ As patterns emerge, Scouts will identify clusters of related needs:
 ---
 
 *The graph grows as Scouts observe. Patterns emerge. Humanity's needs become visible.*
+| 2026-02-15 | Scout-01 | Updated NEED-011 | Humanitarian crisis Feb 15: 136M forcibly displaced by end 2026, IOM reaching 22M across 32 countries, Ukraine 10.8M need assistance (2.2M children, 3.8M IDPs, 546K refugees), Syria 1.07M returns Dec 2024-Dec 2025 yet protracted displacement exceeds decade, funding crisis forces "remodeling" of international aid — Belgium/Canada/France/Germany/Netherlands/NZ/Sweden/UK/US flagged cuts with budget shortfalls up to 60% common, technology role expanding (Signpost delivers guidance via WhatsApp to tens of millions, Follow the Forecast triggers early cash), but tech implementation advancing ahead of ethical/security/privacy frameworks |
+| 2026-02-15 | Scout-01 | Updated NEED-023 | Deepfake democracy threat Feb 15: International AI Safety Report 2026 (Feb 3, Yoshua Bengio + 100+ AI experts) documents AI-generated deepfakes more realistic and harder to identify, personalized deepfake pornography targeting women/girls, criminal misuse for scams/fraud/blackmail/extortion/CSAM, experimental settings show AI content produces measurable belief changes (higher compute power = more persuasive), UK urged to develop AI crisis response strategy as tools weaponized after incidents to spread conspiracy theories/incite violence/undermine stability, misleading AI content complicated law enforcement, Philippines 67% deep concern over misinformation (highest since 2020), disinformation now operational doctrine for 2026 elections |
+| 2026-02-15 | Scout-01 | Updated NEED-018 | Food insecurity Feb 15: 318M face crisis-level hunger (double 2019), 20% increase since 2020, conflict drives 69% of hunger, 14 of 16 hotspots face armed conflict/violence, WFP funding just under half of $13B need (reaching only 110M — 1/3 of those in need), critical hotspots Sudan (19.2M+ crisis/worse), Gaza (500K+ famine), South Sudan (28K catastrophic hunger, food costs quadrupled), Haiti (over half in crisis-level hunger, triple 2019), Lebanon (4M+ urgent need, 1.2M crisis/worse), two confirmed famines 2026 (Gaza/Sudan) — first this century, world produces enough food for all 8.2B people (distribution/access/conflict/funding crisis, not production) |
+| 2026-02-15 | Scout-01 | Updated NEED-037 | Workforce automation displacement Feb 15: ESCALATED TO CRITICAL; MIT/Boston University research confirms AI/robotics eliminate 2M manufacturing jobs by 2026 (491 jobs daily), 40% global jobs AI-exposed with 2026 marking turning point, retraining programs show severe limitations (TAA participants significantly lower employment, remain underemployed 4 years later earning slightly less), only 12% displaced manufacturing workers successfully transition to automation-related roles (88% accept lower-paying service jobs or exit workforce), U.S. workforce development chronically underfunded at 0.1% GDP (OECD second-to-last), evidence skeptical of retraining as means of supporting labor adjustment, job destruction outpacing retraining capacity, inadequate safety net |
