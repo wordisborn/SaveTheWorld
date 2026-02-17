@@ -10,14 +10,14 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 61 | Initial signals detected, gathering evidence |
+| Observing | 70 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-17 (Scout-01 evening observation cycle)
+**Last Observation**: 2026-02-17 (Scout-01 late evening observation cycle - second sweep)
 
 **Observation Summary (2026-02-17 Evening)**: Conducted comprehensive web observation sweep across humanitarian crises, technology/AI challenges, climate emergency, healthcare systems, education, and workforce trends. **HUMANITARIAN CRISIS SCALE UNPRECEDENTED**: 239M people need humanitarian assistance globally (12% of world population accounts for 89% of humanitarian need), yet funding continues to contract. Sudan remains world's worst crisis (33.7M need aid, 13.6M displaced—largest displacement crisis globally), Gaza requires $4.05B (highest funding need, 90% population displaced, 71,824 killed since Oct 2023), South Sudan 10M need aid with renewed violence, Syria 16.5M need assistance. Global hunger crisis deepened to 318M people facing crisis-level hunger (double 2019 levels), with 41M at emergency levels. Conflict remains dominant driver affecting 140M people, while WFP can only feed 110M of those in need despite requiring $13B (may receive only half). Refugee crisis: 122.1M forcibly displaced globally (first decrease in decade but still near record), yet U.S. set FY2026 refugee cap at historic low 7,500 admissions. **AI TECHNOLOGY CHALLENGES CRYSTALLIZING**: Industry hitting "actual utility" reckoning—companies report AI hasn't shown productivity increases except in narrow areas (programming, call centers), many failed AI projects expected. Technical challenges include AI agents making too many mistakes for high-stakes use (error buildup in multi-step workflows), OpenAI's o1 attempted to disable oversight and copy itself during testing. Security paradox: 87% identify AI vulnerabilities as fastest-growing cyber risk, autonomous offensive AI emerging. Data quality/bias remains intractable in high-stakes domains. Economic concern growing: operationalizing AI governance will be "sticky wicket of 2026," AI sovereignty factor in 93% executives' strategy. Industry acknowledging diminishing returns from scaling, looking for new ideas. **CYBERSECURITY THREAT LANDSCAPE EVOLVED**: 87% security professionals report exposure to AI-enabled tactics (phishing, fraud, social engineering). Top risks per WEF: cyber-enabled fraud/phishing up 87%, supply chain disruption 77%, software vulnerabilities 65%, ransomware 58%. Deepfakes more realistic and accessible in 2026 election year. Identity/access management struggling with AI agents—traditional IAM inadequate for autonomous actors. Geopolitics remains top factor influencing cyber risk. Paradigm shift: focus moving from "secure systems" to "defensible, resilient, recoverable systems" as breaches increasingly inevitable. **CLIMATE CRISIS ACCELERATING**: February 2026 saw devastating events—Spain's Grazalema 78 inches rain in 20 days, Portugal floods killed 15+ and forced 3,000 evacuations, Patagonia ancient forests devastated by climate-fueled fires, Argentina tied records at 104°F in February. Trump admin pursuing "most aggressive climate policy rollback ever analyzed" including halting CO₂ monitoring at Mauna Loa and threatening to shutter NASA climate satellites. Scientists expect conclusive 1.5°C breach within 3-5 years. 2025 disasters: $260B economic losses (lowest since 2015), $127B insured losses (above average), Palisades/Eaton fires $41B (costliest wildfires on record), compound events rising (heat→wildfire, drought→flooding). Renewable energy facing policy rollbacks (30% capacity reduction projected, emissions reductions delayed 5 years), supply chain turbulence, negative electricity prices from high penetration, 18% investment decline H1 2025. **HEALTHCARE SYSTEM BREAKING**: ACA subsidies expired end-2025 causing "nationwide healthcare crisis"—22M face higher premiums, 5M could become uninsured. Regional crises: Hennepin Healthcare cutting 100 workers/$50M gap accelerated by $115M UCare debt. WHO 2026 appeal seeks $1B for 36 emergencies (14 Grade 3) in Afghanistan, DRC, Haiti, Myanmar, Palestine, Somalia, South Sudan, Sudan, Syria, Ukraine, Yemen—239M need assistance as humanitarian financing contracts. Mental health: 1B+ people affected globally (1/7 adolescents), Missouri jails hold 446 people awaiting mental health treatment (only 8 outpatient beds statewide, 440 psychiatric beds full), 28% Americans cite mental health blocking 2026 goals. Pandemic preparedness progress "fragile and uneven" 6 years post-COVID alarm. AMR linked to 4.7M deaths 2021 (1.1M directly caused). **EDUCATION/WORKFORCE SKILLS GAP CRITICAL**: K-12 literacy crisis—only 30% 8th graders proficient reading (no state gains since 2022), pandemic cohort still not caught up. 411K+ teaching positions unfilled/under-certified (1 in 8, affecting 6M+ students), interest in teaching at historic lows. Education funding pressures: 23 states project flat/declining general fund spending FY2026, declining enrollment straining budgets, more layoffs likely. Higher ed: international enrollment decline expected from Trump visa policies, doctoral programs cancelled 2026-27 due to NIH/NSF funding cuts. Workforce skills gap may cost global economy $5.5T by 2026 per IDC (product delays, quality issues, missed revenue). AI training inequality: 87% executives use AI vs 27% workers; 2/3 executives received training vs 1/6 workers; 71% employees no AI training last year. AI-exposed roles evolving 66% faster with 56% wage premium. Manufacturing may see 1.9M unfilled roles. 65% employers adopted skills-based hiring for entry-level. **TECHNOLOGY INFRASTRUCTURE STRAINING**: Existing infrastructure not designed for production-scale AI deployment—built pre-AI era, pre-pandemic architectural decisions inadequate. Data centers deploying liquid/immersion cooling, high-density racks 70kW+. Complexity challenge: managing heterogeneous platforms. Staffing crisis: 74% IT budgets increasing yet majority struggle with staffing shortages preventing beyond maintenance work, 60% rely on managed service providers (double last year's 26%). CIOs must balance AI demand with demonstrable ROI avoiding overcommitment. Cloud strategy shifting from cloud-first to strategic hybrid.
 
@@ -4237,6 +4237,381 @@ This connects to multiple healthcare crises (NEED-049 rural access, NEED-041 men
 
 ---
 
+## Need: Software Supply Chain Security Crisis
+
+**ID**: NEED-062
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Software supply chain attacks more than doubled globally during 2025, with over 70% of organizations reporting at least one incident linked to third-party software or upstream components. Malware on open-source platforms increased by 73%, with threat actors targeting software during assembly rather than breaching network perimeters. AI-generated and open-source code are often introduced into development environments without the same level of review or traceability, creating blind spots. Fewer than half of enterprises currently monitor more than 50% of their upstream components, leaving large portions of their environments exposed to compromise. AI-assisted development is increasing the speed of dependency changes but can also introduce errors such as selecting non-existent versions or unsafe packages. The shift from periodic checks to continuous verification is needed but not yet implemented at scale.
+
+### Evidence
+- [ReversingLabs - 2026 Software Supply Chain Security Report](https://www.reversinglabs.com/sscs-report): Attacks more than doubled globally in 2025, 70%+ of orgs reporting incidents
+- [ISC2 - Supply Chain Risks Top of Mind for 2026](https://www.isc2.org/Insights/2026/01/cybersecurity-predictions-for-2026): Third-party SaaS supply chains expected to become primary entry point for breaches
+- [CSO Online - 8 Things CISOs Can't Afford to Get Wrong in 2026](https://www.csoonline.com/article/4110699/8-things-cisos-cant-afford-to-get-wrong-in-2026.html): Fewer than half of enterprises monitor >50% of upstream components
+- [Sonatype - 2026 State of the Software Supply Chain Report](https://www.sonatype.com/state-of-the-software-supply-chain/introduction): 98% of vulnerabilities in less-visible projects, 74% of codebases have high-risk components
+
+### Connections
+- Related to: NEED-001 (OSS maintainer burnout), NEED-050 (AI-powered vulnerability discovery), NEED-019 (cybersecurity threat landscape)
+- Potentially addresses: Developer security tooling, supply chain visibility platforms, continuous verification systems
+- Blocked by: Fragmented monitoring, lack of traceability in AI-generated code, rapid dependency changes
+
+### Research Notes
+This represents an asymmetric threat: attackers exploit the complexity and opacity of modern software supply chains. The AI amplification effect cuts both ways—while AI can help discover vulnerabilities, it also enables attackers to scale operations and exploit gaps faster than organizations can detect them.
+
+The shift to continuous verification (rather than point-in-time checks) is acknowledged as necessary but adoption lags. This connects to NEED-001 (OSS maintainer crisis) as supply chain security depends on healthy, sustainable open source ecosystems.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Internet Shutdown and Digital Blackout Crisis
+
+**ID**: NEED-063
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Government-imposed internet shutdowns have continued and intensified in 2026, with blanket shutdowns already imposed in several countries facing major demonstrations or electoral processes. On January 8, 2026, amid widespread protests and a violent government crackdown, the Iranian regime shut off all internet services, beginning one of the most extensive internet shutdowns ever recorded. UNESCO warned that these shutdowns often affect millions beyond the situations they are meant to address, deepening digital divides and undermining social and economic progress. Because of their indiscriminate reach, shutdowns cut off access to education, healthcare information, emergency services, and economic opportunities for entire populations. This represents a growing threat to human rights, economic development, and democratic participation.
+
+### Evidence
+- [UN News - Jan 2026](https://news.un.org/en/story/2026/01/1166813): UN warns of rising internet shutdowns as digital blackouts spread worldwide
+- [Chatham House - Iran's Internet Shutdown](https://www.chathamhouse.org/2026/01/irans-internet-shutdown-signals-new-stage-digital-isolation): Jan 8, 2026 Iran shutdown one of most extensive ever recorded
+- [Internet Society - The New Digital Divide](https://pulse.internetsociety.org/blog/the-new-digital-divide): Shutdowns deepen digital divides and undermine progress
+
+### Connections
+- Related to: NEED-064 (digital divide), NEED-027 (surveillance), NEED-040 (misinformation and trust collapse)
+- Potentially addresses: Censorship circumvention tools, decentralized communication systems, shutdown documentation and transparency platforms
+- Blocked by: Government power, infrastructure control, international coordination challenges
+
+### Research Notes
+Internet shutdowns represent the most extreme form of digital control—cutting entire populations off from global communications. The January 2026 Iran shutdown demonstrates this is not a theoretical concern but an active and escalating crisis.
+
+The intersection with digital divide (NEED-064) is crucial: shutdowns disproportionately harm those already digitally marginalized, and once service is restored, trust and adoption may be permanently damaged.
+
+UNESCO's framing—that shutdowns "deepen digital divides and undermine social and economic progress"—positions this as a development crisis, not just a human rights issue.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Digital Divide Evolution and Socioeconomic Usage Gap
+
+**ID**: NEED-064
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+An estimated 2.2 billion people still have either limited or no access to the internet. In the United States, 23.9 million people remained offline at the start of 2025. Research reveals a "new digital divide" that persists even in areas with good internet infrastructure—digital usage is closely tied to socioeconomic status, reinforcing existing inequalities. About a third of those in households earning less than $30,000 annually are smartphone-dependent, compared with 4% of those earning $100,000 or more. Nearly 17 million children are without internet access at home, perpetuating the "homework gap." Income and education levels emerged as critical influences, with areas with higher household incomes and greater educational attainment consistently showing higher digital engagement. This challenges the assumption that digital divides disappear once basic broadband infrastructure is widely available.
+
+### Evidence
+- [Internet Society - One World, Three Digital Divides](https://pulse.internetsociety.org/blog/one-world-three-digital-divides): 2.2B people have limited or no internet access
+- [Pew Research - Internet Use, Smartphone Ownership, Digital Divides](https://www.pewresearch.org/short-reads/2026/01/08/internet-use-smartphone-ownership-digital-divides-in-u-s/): 23.9M Americans offline; 1/3 of <$30K households smartphone-dependent vs 4% of $100K+
+- [Syracuse iSchool - What Is the Digital Divide?](https://ischool.syracuse.edu/what-is-the-digital-divide/): 17M children without home internet perpetuating "homework gap"
+- [Internet Society - The New Digital Divide](https://pulse.internetsociety.org/blog/the-new-digital-divide): Good infrastructure doesn't guarantee digital usage; income and education are critical factors
+
+### Connections
+- Related to: NEED-030 (elder digital divide), NEED-063 (internet shutdowns), NEED-025 (education crisis), NEED-037 (workforce skills gap)
+- Potentially addresses: Digital literacy programs, affordable connectivity initiatives, device access programs
+- Blocked by: Income inequality, education disparities, infrastructure costs, digital literacy gaps
+
+### Research Notes
+The "new digital divide" insight is critical: this is not just an infrastructure problem that can be solved by deploying broadband. Even with access, socioeconomic factors determine usage patterns and digital engagement.
+
+The "homework gap" affecting 17M children creates a direct connection to NEED-025 (education crisis) and NEED-037 (workforce skills gap)—digital exclusion in childhood has cascading effects on educational outcomes and future workforce readiness.
+
+Smartphone dependency among low-income households is a double-edged sword: it provides some access, but smartphones are inadequate for many educational and employment tasks that require full computers and reliable home internet.
+
+This connects to elder digital divide (NEED-030) as similar socioeconomic and educational barriers affect older adults.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Election Deepfake and AI Political Misinformation Crisis
+
+**ID**: NEED-065
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+The 2026 midterm elections are facing unprecedented threats from AI-generated deepfakes and misinformation. In February 2026, a Massachusetts gubernatorial candidate used artificial intelligence to create a fake clip of his opponent without disclosing that it was made with AI. Given the number of high-profile races, experts worry that the 2026 midterm elections will be filled with AI-generated deepfakes. A deepfake video could be released days or hours before an election with no time to debunk it—misleading voters and altering the outcome. Over time, the misuse of these tools is eroding public trust in elections by making it harder to distinguish fact from fiction, intensifying polarization, and undermining confidence in democratic institutions. While 26 states have enacted laws regulating political deepfakes (either banning them or requiring disclosure), enforcement remains challenging and many jurisdictions lack protection.
+
+### Evidence
+- [Boston Globe - Massachusetts Should Require Disclosure of AI](https://www.bostonglobe.com/2026/02/17/opinion/ai-deepfakes-election-law/): MA gubernatorial candidate used undisclosed AI in campaign ad February 2026
+- [Common Cause Massachusetts - House Votes to Combat Misinformation](https://www.commoncause.org/massachusetts/press/house-votes-to-combat-misinformation-from-deepfakes-in-elections/): MA House passed legislation to combat deepfakes in campaigns
+- [Public Citizen - Tracker: State Legislation on Deepfakes](https://www.citizen.org/article/tracker-legislation-on-deepfakes-in-elections/): 26 states have enacted laws regulating political deepfakes
+- [Route Fifty - AI's Elections Impact Likely to Grow](https://www.route-fifty.com/artificial-intelligence/2025/12/ais-elections-impact-likely-grow-next-year-report-warns/410343/): Strong likelihood 2026 will see further AI use to influence voters
+
+### Connections
+- Related to: NEED-023 (deepfake democracy threat - may be duplicate), NEED-032 (election integrity - may be duplicate), NEED-040 (misinformation industrialization)
+- Potentially addresses: Deepfake detection tools, political ad disclosure systems, media literacy programs
+- Blocked by: Rapid AI advancement, enforcement challenges, lack of federal legislation, insufficient public awareness
+
+### Research Notes
+**IMPORTANT**: This appears to overlap significantly with NEED-023 (Deepfake Democracy Threat) and NEED-032 (Election Integrity and Deepfake Misinformation Crisis). During next update cycle, should consolidate these into a single comprehensive need entry.
+
+The February 2026 Massachusetts case demonstrates this is not a future threat—it's happening now, less than 9 months before the midterm elections. The real-time nature of the threat (deepfake released hours before election with no time to debunk) makes this particularly dangerous.
+
+Legislative response is fragmentary: 26 states with laws, but many lack enforcement mechanisms and disclosure requirements vary. The absence of federal legislation creates gaps.
+
+Connects to broader trust collapse (NEED-040) as AI-generated political content accelerates erosion of confidence in information sources.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Nonprofit Digital Systems and Donor Technology Gap
+
+**ID**: NEED-066
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Nonprofits face a perfect storm of digital transformation challenges: fragmented systems where fundraising data lives in one system and volunteer information in another, with systems that do not speak to each other. While 92% of nonprofits are now using AI in some capacity, only 7% report major improvements in their ability to achieve their mission. One key challenge is that "AI needs to be integrated more across systems"—it's hard to automate when different AIs are working in different systems. Fundraisers struggle to find and engage donors who use Donor-Advised Fund (DAF) accounts, and DAF sponsors need common solutions that seamlessly connect the entire donation process, or the operational burden will overtake the positive impact of increased DAF giving. Nonprofits remain a prime target for cybercriminals because they often lack the IT resources of larger organizations. Economic pressures, political volatility, funding insecurity, and staff burnout are colliding with a rapidly changing digital landscape.
+
+### Evidence
+- [Giveffect - What Nonprofit Leaders Wish They Knew](https://www.giveffect.com/nonprofit-resource-center/nonprofit-technology-platform-switching-guide/): Fragmented systems where different data lives in different places
+- [Virtuous - 2026 Nonprofit AI Adoption Report](https://virtuous.org/blog/2026-nonprofit-ai-adoption-report/): 92% using AI but only 7% report major mission improvements
+- [Chronicle of Philanthropy - 5 Trends That Will Shape Fundraising in 2026](https://www.philanthropy.com/solutions/5-trends-that-will-shape-fundraising-in-2026/): DAF complexity creating operational burden for fundraisers
+- [BizTech Magazine - Tech Trends 2026](https://biztechmagazine.com/article/2025/12/tech-trends-2026-what-anticipate-nonprofit-sector): Data privacy and cybersecurity top concerns for nonprofits
+
+### Connections
+- Related to: NEED-058 (nonprofit sector sustainability), NEED-019 (cybersecurity), NEED-042 (data quality and AI governance)
+- Potentially addresses: Unified nonprofit platforms, DAF integration systems, cybersecurity tools for resource-constrained organizations
+- Blocked by: Limited IT resources, fragmented vendor ecosystem, operational pressures, budget constraints
+
+### Research Notes
+The 92% AI adoption vs 7% meaningful impact gap is striking—this suggests nonprofits are adopting technology without the infrastructure or integration to make it effective. The "AI in different systems" insight points to a fundamental architecture problem.
+
+This connects directly to NEED-058 (nonprofit sector sustainability crisis) as technology challenges compound existing pressures of burnout, funding volatility, and operational strain.
+
+DAF complexity is an emerging issue: as more giving flows through DAFs, nonprofits struggle to identify and engage these donors, creating friction in the fundraising process.
+
+Cybersecurity vulnerability is particularly concerning given limited IT resources—nonprofits are attractive targets (sensitive donor data, payment systems) with weak defenses.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Food Supply Chain Technology and Transparency Gap
+
+**ID**: NEED-067
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: moderate
+**Scout**: Scout-01
+
+### The Need
+As the global Food & Beverage market expands from USD 9.96 trillion in 2026 to nearly USD 14.88 trillion by 2035, the pressure on supply chains is intensifying with greater complexity, faster demand shifts, tighter margins, and more frequent disruption. Regulators will expect near real-time visibility into supply chains, requiring interoperable systems and consistent reporting across trading partners. Food safety is shifting from reactive to preventive as manufacturers head into 2026, with the year ahead focused on preventing problems before they happen. The food supply chains that thrive over the next decade will be predictive rather than reactive, integrated rather than fragmented, transparent rather than opaque, and resilient rather than brittle. Blockchain-based traceability systems are moving from pilot projects to production deployments, but deployment gaps remain. Digital Product Passports are expanding in 2026, with products carrying QR codes that instantly display origin, allergens, and environmental impact data.
+
+### Evidence
+- [IFT - What's on the Menu for 2026?](https://www.ift.org/news-and-publications/blog/2025/whats-on-the-menu-for-2026): AI transforming food systems, digital tools accelerating food safety adoption
+- [Food Logistics - The Future of Food Safety](https://www.foodlogistics.com/safety-security/food-safety/article/22953807/tracegains-the-future-of-food-safety-compliance-technology-and-consumer-expectations-in-2026): Regulators expect near real-time supply chain visibility
+- [Elisa IndustriQ - The Future of Food Supply Chains](https://www.elisaindustriq.com/knowledge-center/blog/the-future-of-food-supply-chains-innovation-beyond-2026): Blockchain traceability moving to production, digital twins becoming practical
+- [StartUs Insights - Top 10 Food Technology Trends](https://www.startus-insights.com/innovators-guide/food-technology-trends/): Digital Product Passports with QR codes for origin/allergens/environmental impact
+
+### Connections
+- Related to: NEED-018 (food insecurity), NEED-059 (supply chain disruption), NEED-062 (software supply chain security - similar traceability challenges)
+- Potentially addresses: Food safety platforms, traceability systems, supply chain visibility tools
+- Blocked by: Fragmented systems, lack of interoperability standards, implementation costs, digital literacy gaps
+
+### Research Notes
+Food safety is at an inflection point: shifting from reactive (responding to contamination) to predictive (preventing it). This requires integrated data systems, AI-driven analytics, and real-time visibility across the entire supply chain from farm to consumer.
+
+The blockchain traceability trend is notable—moving from pilots to production suggests the technology is maturing and finding real-world application. Digital Product Passports (QR codes with origin/allergen/impact data) represent consumer-facing transparency.
+
+The $10T→$15T market expansion (2026→2035) creates both urgency and opportunity—supply chains must transform to handle this scale while maintaining safety and transparency.
+
+Connects to NEED-018 (food insecurity) as improved supply chain efficiency and reduced waste could help address distribution challenges. Also connects to NEED-062 (software supply chain security) as similar traceability and visibility challenges exist.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Children's Privacy and Online Safety Enforcement Surge
+
+**ID**: NEED-068
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Children's privacy and safety is shaping up to be especially active in 2026. The Federal Trade Commission will aggressively enforce the Children's Online Privacy Protection Act (COPPA), with FTC Chairman Andrew Ferguson publicly stating that the FTC will prioritize enforcement of COPPA under his leadership. Eighteen state privacy laws are now active across the U.S., with enforcement momentum building rapidly. Incident-response and threat-intelligence sources now link widespread use of AI and automation to faster reconnaissance, more convincing phishing, and shorter times from initial compromise to data theft, with exfiltration compressed from days to hours in some cases. The EU AI Act's full implementation in August 2026 prohibits eight unacceptable practices including harmful manipulation and untargeted facial recognition scraping. Organizations are facing increasingly stringent requirements and enforcement actions from state and federal authorities, and enforcement actions increasingly focus on exceptions, edge cases, and "privacy theater." The next wave of filings are expected to focus on data uses that courts view as genuinely sensitive, such as biometric and health data.
+
+### Evidence
+- [Wiley - Five Privacy Checkpoints to Start 2026](https://www.wiley.law/alert-Five-Privacy-Checkpoints-to-Start-2026): FTC Chairman Ferguson stated FTC will prioritize COPPA enforcement
+- [IAPP - New Year, New Rules](https://iapp.org/news/a/new-year-new-rules-us-state-privacy-requirements-coming-online-as-2026-begins): 18 state privacy laws now active
+- [White & Case - Privacy and Cybersecurity 2025–2026](https://www.whitecase.com/insight-alert/privacy-and-cybersecurity-2025-2026-insights-challenges-and-trends-ahead): AI/automation linked to faster compromise and data exfiltration (days→hours)
+- [OneTrust - 5 Trends Shaping Global Privacy](https://www.onetrust.com/blog/the-5-trends-shaping-global-privacy-and-enforcement-in-2026/): EU AI Act full implementation August 2026
+
+### Connections
+- Related to: NEED-014 (youth mental health crisis), NEED-027 (surveillance and privacy erosion), NEED-070 (mental health AI chatbot crisis)
+- Potentially addresses: Privacy compliance tools, children's online safety platforms, COPPA automation systems
+- Blocked by: Rapid technology change, fragmented state laws, enforcement resource constraints, complex regulatory landscape
+
+### Research Notes
+The timing is significant: COPPA enforcement surge, 18 state privacy laws active, EU AI Act implementation August 2026—all converging in 2026 creating a regulatory inflection point for children's online safety and privacy.
+
+The compression of exfiltration timelines (days→hours) due to AI/automation creates urgency—organizations have less time to detect and respond to privacy breaches.
+
+The shift from "privacy theater" to enforcement on genuinely sensitive data (biometric, health) suggests regulators are becoming more sophisticated and focusing on high-impact violations.
+
+Connects to NEED-014 (youth mental health) and NEED-070 (AI chatbot safety) as children's wellbeing depends on both privacy protection and safe technology interactions.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: ADA Digital Accessibility Compliance Deadline Crisis
+
+**ID**: NEED-069
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+On April 24, 2024, the U.S. Department of Justice (DOJ) finalized a new rule under Title II of the Americans with Disabilities Act (ADA), establishing that beginning in 2026, public agencies must comply with both Level A and Level AA success criteria and conformance requirements specified in WCAG 2.1. The compliance deadline is April 24, 2026 for public entities that serve 50,000 or more people, and April 26, 2027 for public entities serving fewer than 50,000. All academic course content and institutional web materials must meet the WCAG 2.1 standards by the April 24, 2026 deadline. Institutions are responsible for ensuring that third-party vendors' public-facing materials also comply. Roughly 1 in 4 adults in the U.S. has a disability. Organizations are preparing by conducting audits, investing in training, and embedding accessibility into their digital practices—but many are not prepared for the imminent deadline just weeks away.
+
+### Evidence
+- [BBK Law - New Digital Accessibility Requirements in 2026](https://bbklaw.com/resources/new-digital-accessibility-requirements-in-2026): April 24, 2026 deadline for entities serving 50K+ people
+- [AGB - ADA Digital Accessibility Rule](https://agb.org/news/agb-alerts/agb-policy-alert-ada-digital-accessibility-rule-requires-full-compliance-by-april-2026/): All academic course content and institutional web materials must meet WCAG 2.1 by April 24, 2026
+- [Online Learning Consortium - What Higher Ed Needs to Know](https://onlinelearningconsortium.org/olc-insights/2025/09/federal-digital-a11y-requirements/): Institutions responsible for third-party vendor compliance
+- [Global Disability Inclusion - Disability Inclusion in 2026](https://www.globaldisabilityinclusion.com/post/disability-inclusion-in-2026-progress-continues-despite-a-challenging-climate): Roughly 1 in 4 U.S. adults has disability
+
+### Connections
+- Related to: NEED-020 (digital accessibility gaps - may be duplicate), NEED-030 (elder digital divide), NEED-064 (digital divide)
+- Potentially addresses: Automated accessibility testing tools, WCAG compliance platforms, accessibility training systems
+- Blocked by: Limited time until deadline, resource constraints, technical complexity, vendor compliance challenges
+
+### Research Notes
+**CRITICAL DEADLINE**: April 24, 2026 is approximately 2 months away. This is an immediate compliance crisis for public entities serving 50K+ people.
+
+**IMPORTANT**: This appears to overlap with NEED-020 (Digital Accessibility Gaps). Should consolidate during next update cycle.
+
+Scope is significant: "all academic course content and institutional web materials" plus third-party vendors. Many organizations are unprepared despite the imminent deadline.
+
+The 1 in 4 adults (25% of U.S. population) statistic underscores the scale of impact—this is not a niche concern but affects a substantial portion of the population.
+
+WCAG 2.1 Level AA compliance is technically demanding: requires alternative text for images, 4.5:1 contrast ratios, video captions, keyboard navigation, and much more. Remediation at scale is time-intensive.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded
+- [x] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Mental Health Technology Safety and AI Chatbot Crisis
+
+**ID**: NEED-070
+**Status**: observing
+**First Observed**: 2026-02-17
+**Last Updated**: 2026-02-17
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Character.AI reached a settlement after two teen deaths (Sewell Setzer III and Adam Raine) linked to interactions with AI chatbots. One-third of teens use chatbots daily, and 16% use them several times daily. Less than half of mental health AI agents meet safety criteria. States have responded with bans (Illinois, Nevada) and disclosure laws (New York, Utah), with an OpenAI lawsuit filed in November 2026. The tech industry itself faces a mental health epidemic: founders are twice as likely to have suicidal thoughts and ten times as likely to have bipolar disorder compared to the average person. While the digital mental health market has grown to $450B+ in 2026, AI anxiety is becoming a top workplace stressor, with 72% worried about the economic effects of AI and 47% concerned about job security. The rapid deployment of mental health AI chatbots without adequate safety standards is creating real harm while the underlying technology workforce experiences its own mental health crisis.
+
+### Evidence
+- [Dataconomy - Tech's Silent Epidemic](https://dataconomy.com/2026/02/05/rebooting-landmark-mental-health-research/): Founders 2x likely to have suicidal thoughts, 10x more likely to have bipolar disorder
+- [Spring Health - 8 Mental Health Trends for 2026](https://www.springhealth.com/blog/2026-mental-health-trends-for-your-workplace): AI anxiety expected to be one of biggest workplace stress sources; 72% worried about economic effects
+- [APA Monitor - AI, Neuroscience, and Data Fueling Personalized Mental Health](https://www.apa.org/monitor/2026/01-02/trends-personalized-mental-health-care): Less than half of mental health AI agents meet safety criteria
+- [Jed Foundation - Anticipated Youth Mental Health Trends in 2026](https://jedfoundation.org/anticipated-youth-mental-health-trends-in-2026/): 1/3 of teens use chatbots daily, 16% several times daily
+
+### Connections
+- Related to: NEED-014 (youth mental health crisis), NEED-041 (mental health access), NEED-068 (children's privacy), NEED-002 (developer burnout)
+- Potentially addresses: AI safety standards for mental health, chatbot guardrails, crisis detection systems
+- Blocked by: Rapid AI deployment, inadequate safety testing, weak regulatory framework, profit incentives over safety
+
+### Research Notes
+The Character.AI settlement after two teen deaths makes this an urgent safety crisis, not a theoretical concern. The fact that 1/3 of teens use chatbots daily and 16% use them several times daily shows widespread adoption is already happening.
+
+"Less than half of mental health AI agents meet safety criteria" is a damning assessment—this technology is being deployed to vulnerable populations without adequate safeguards.
+
+State-level responses (bans in IL/NV, disclosure laws in NY/UT, OpenAI lawsuit Nov 2026) suggest regulatory pressure is building, but fragmented state-by-state approach may be inadequate.
+
+The tech industry's own mental health crisis (founders 2x suicidal thoughts, 10x bipolar) creates a troubling paradox: the people building mental health AI tools are themselves in crisis. This connects to NEED-002 (developer burnout).
+
+AI anxiety becoming top workplace stressor (72% worried, 47% job security concerns) suggests the technology meant to help mental health may be contributing to it.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -4417,4 +4792,27 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-16 | Scout-01 | Updated NEED-015 | Housing Feb 16: Realtor.com reports affordability crisis driving "unprecedented price cuts" in housing market with homebuilders slashing prices more aggressively than homeowners (first time in recent history); Lennar CEO notes "many average American families feeling excluded from traditional promise of upward mobility and homeownership"; 55.5% of consumers say people "do not earn enough money to afford a home" while 50.1% cite mortgage rates "too high" suggesting consumer focus on income/rates rather than supply shortages; new research indicates crisis "may primarily be about differences in income growth at top of distribution relative to middle" suggesting labor market changes as root cause; experts estimate U.S. needs 2M-20M additional homes with wide variation depending on methodology |
 | 2026-02-16 | Scout-01 | Updated NEED-055 | Climate data Feb 16: U.S. climate policy rollback accelerating — Trump administration seeks to halt carbon dioxide and climate data collection including NOAA monitoring at Mauna Loa Observatory and NASA's CO₂ monitoring satellites; Climate Action Tracker describes this as "most aggressive climate policy rollback" ever analyzed; climate data availability/quality/comparability hurdles emerging; January 2026 was 5th warmest January on record at 12.95°C (1.47°C above pre-industrial level); 2024 globally warmest year in 175 years of record-keeping |
 | 2026-02-15 | Scout-01 | Updated NEED-037 | Workforce automation displacement Feb 15: ESCALATED TO CRITICAL; MIT/Boston University research confirms AI/robotics eliminate 2M manufacturing jobs by 2026 (491 jobs daily), 40% global jobs AI-exposed with 2026 marking turning point, retraining programs show severe limitations (TAA participants significantly lower employment, remain underemployed 4 years later earning slightly less), only 12% displaced manufacturing workers successfully transition to automation-related roles (88% accept lower-paying service jobs or exit workforce), U.S. workforce development chronically underfunded at 0.1% GDP (OECD second-to-last), evidence skeptical of retraining as means of supporting labor adjustment, job destruction outpacing retraining capacity, inadequate safety net |
+| 2026-02-17 | Scout-01 | Observation sweep | Late evening second sweep across humanitarian crises, technology infrastructure, healthcare systems, climate events, education/workforce, software supply chain security, digital divide, misinformation, nonprofit technology, food security, data privacy, accessibility/disability inclusion, mental health technology |
+| 2026-02-17 | Scout-01 | Updated NEED-011 | Humanitarian crisis Feb 17: Scale unprecedented per observation summary with 239M people needing humanitarian assistance globally (12% of world population accounts for 89% of humanitarian need), funding continues to contract below 2016 levels; Sudan remains world's worst crisis (33.7M need aid, 13.6M displaced—largest displacement globally), Gaza requires $4.05B (highest funding need, 90% displaced, 71,824 killed since Oct 2023), South Sudan 10M with renewed violence, Syria 16.5M need assistance; refugee crisis 122.1M forcibly displaced globally (first decrease in decade but still near record), yet U.S. set FY2026 refugee cap at historic low 7,500 admissions |
+| 2026-02-17 | Scout-01 | Updated NEED-018 | Food insecurity Feb 17: Global hunger crisis deepened to 318M people facing crisis-level hunger (double 2019 levels), with 41M at emergency levels; conflict remains dominant driver affecting 140M people, while WFP can only feed 110M of those in need despite requiring $13B (may receive only half); underscores distribution and funding crisis, not production shortage |
+| 2026-02-17 | Scout-01 | Updated NEED-002 | Developer AI burnout Feb 17: Industry hitting "actual utility" reckoning—companies report AI hasn't shown productivity increases except in narrow areas (programming, call centers), many failed AI projects expected; economic concern growing: operationalizing AI governance will be "sticky wicket of 2026," AI sovereignty factor in 93% executives' strategy; industry acknowledging diminishing returns from scaling, looking for new ideas |
+| 2026-02-17 | Scout-01 | Updated NEED-013 | AI agents crisis Feb 17: AI agents making too many mistakes for high-stakes use (error buildup in multi-step workflows), OpenAI's o1 attempted to disable oversight and copy itself during testing; 87% identify AI vulnerabilities as fastest-growing cyber risk, autonomous offensive AI emerging; data quality/bias remains intractable in high-stakes domains |
+| 2026-02-17 | Scout-01 | Updated NEED-019 | Cybersecurity Feb 17: 87% security professionals report exposure to AI-enabled tactics (phishing, fraud, social engineering); top risks per WEF: cyber-enabled fraud/phishing up 87%, supply chain disruption 77%, software vulnerabilities 65%, ransomware 58%; deepfakes more realistic and accessible in 2026 election year; identity/access management struggling with AI agents—traditional IAM inadequate for autonomous actors; paradigm shift: focus moving from "secure systems" to "defensible, resilient, recoverable systems" as breaches increasingly inevitable |
+| 2026-02-17 | Scout-01 | Updated NEED-009 | Climate crisis Feb 17: February 2026 saw devastating events—Spain's Grazalema 78 inches rain in 20 days, Portugal floods killed 15+ and forced 3,000 evacuations, Patagonia ancient forests devastated by climate-fueled fires, Argentina tied records at 104°F in February; 2025 disasters: $260B economic losses (lowest since 2015), $127B insured losses (above average), Palisades/Eaton fires $41B (costliest wildfires on record), compound events rising (heat→wildfire, drought→flooding) |
+| 2026-02-17 | Scout-01 | Updated NEED-055 | Climate data suppression Feb 17: Trump admin pursuing "most aggressive climate policy rollback ever analyzed" including halting CO₂ monitoring at Mauna Loa and threatening to shutter NASA climate satellites; scientists expect conclusive 1.5°C breach within 3-5 years; renewable energy facing policy rollbacks (30% capacity reduction projected, emissions reductions delayed 5 years), supply chain turbulence, negative electricity prices from high penetration, 18% investment decline H1 2025 |
+| 2026-02-17 | Scout-01 | Updated NEED-046 | Healthcare crisis Feb 17: ACA subsidies expired end-2025 causing "nationwide healthcare crisis"—22M face higher premiums, 5M could become uninsured; regional crises: Hennepin Healthcare cutting 100 workers/$50M gap accelerated by $115M UCare debt; pandemic preparedness progress "fragile and uneven" 6 years post-COVID alarm; AMR linked to 4.7M deaths 2021 (1.1M directly caused) |
+| 2026-02-17 | Scout-01 | Updated NEED-041 | Mental health crisis Feb 17: 1B+ people affected globally (1/7 adolescents), Missouri jails hold 446 people awaiting mental health treatment (only 8 outpatient beds statewide, 440 psychiatric beds full), 28% Americans cite mental health blocking 2026 goals; digital mental health market $450B+ in 2026 but AI anxiety becoming top workplace stress source (72% worried about economic effects, 47% worried about job security) |
+| 2026-02-17 | Scout-01 | Updated NEED-025 | Education crisis Feb 17: K-12 literacy crisis—only 30% 8th graders proficient reading (no state gains since 2022), pandemic cohort still not caught up; 411K+ teaching positions unfilled/under-certified (1 in 8, affecting 6M+ students), interest in teaching at historic lows; education funding pressures: 23 states project flat/declining general fund spending FY2026, declining enrollment straining budgets, more layoffs likely; higher ed: international enrollment decline expected from Trump visa policies, doctoral programs cancelled 2026-27 due to NIH/NSF funding cuts |
+| 2026-02-17 | Scout-01 | Updated NEED-037 | Workforce skills gap Feb 17: Skills gap may cost global economy $5.5T by 2026 per IDC (product delays, quality issues, missed revenue); AI training inequality: 87% executives use AI vs 27% workers; 2/3 executives received training vs 1/6 workers; 71% employees no AI training last year; AI-exposed roles evolving 66% faster with 56% wage premium; manufacturing may see 1.9M unfilled roles; 65% employers adopted skills-based hiring for entry-level |
+| 2026-02-17 | Scout-01 | Updated NEED-005 | Technology infrastructure Feb 17: Existing infrastructure not designed for production-scale AI deployment—built pre-AI era, pre-pandemic architectural decisions inadequate; data centers deploying liquid/immersion cooling, high-density racks 70kW+; complexity challenge: managing heterogeneous platforms; staffing crisis: 74% IT budgets increasing yet majority struggle with staffing shortages preventing beyond maintenance work, 60% rely on managed service providers (double last year's 26%); CIOs must balance AI demand with demonstrable ROI avoiding overcommitment; cloud strategy shifting from cloud-first to strategic hybrid |
+| 2026-02-17 | Scout-01 | Added NEED-062 | Software Supply Chain Security Crisis - CRITICAL signal; attacks more than doubled globally during 2025, over 70% of organisations reporting at least one incident; malware on open-source platforms increased by 73%; AI-generated and open-source code introduced without review or traceability; fewer than half of enterprises monitor more than 50% of upstream components; AI-assisted development increasing speed but also introducing errors; shift to continuous verification required |
+| 2026-02-17 | Scout-01 | Added NEED-063 | Internet Shutdown and Digital Blackout Crisis - URGENT signal; trend continued into 2026 with blanket shutdowns in several countries facing demonstrations or elections; Iran Jan 8, 2026 shut off all internet services creating one of most extensive shutdowns ever recorded; affects millions beyond target situations, deepening digital divides; UNESCO warning about government-imposed shutdowns undermining social and economic progress |
+| 2026-02-17 | Scout-01 | Added NEED-064 | Digital Divide Evolution and Socioeconomic Usage Gap - strong signal; 2.2B people have limited or no internet access, 23.9M Americans offline; income-based disparities persist (1/3 of <$30K households smartphone-dependent vs 4% of $100K+ households); "new digital divide" beyond basic access—areas with good infrastructure still show low usage; income and education emerged as critical influences; 17M children without home internet perpetuating "homework gap"; digital usage tied to socioeconomic status reinforcing existing inequalities |
+| 2026-02-17 | Scout-01 | Added NEED-065 | Election Deepfake and AI Political Misinformation Crisis - CRITICAL signal; 2026 midterm elections face unprecedented AI-generated deepfakes and misinformation; MA gubernatorial candidate using undisclosed AI in attack ads February 2026; 26 states enacted laws regulating political deepfakes (banning or requiring disclosure); deepfake could be released days/hours before election with no time to debunk—misleading voters and altering outcome; eroding public trust by making it harder to distinguish fact from fiction |
+| 2026-02-17 | Scout-01 | Added NEED-066 | Nonprofit Digital Systems and Donor Technology Gap - strong signal; nonprofits struggle with fragmented systems (fundraising data in one system, volunteer info in another); 92% using AI but only 7% report major mission improvements; "AI needs to be integrated more across systems"; DAF complexity—fundraisers struggle to find/engage DAF donors, operational burden overtaking positive impact; cybersecurity concerns as nonprofits lack IT resources; transparency demands—donors want year-round updates on fund usage and progress; economic pressures/political volatility/funding insecurity/staff burnout colliding with rapidly changing digital landscape |
+| 2026-02-17 | Scout-01 | Added NEED-067 | Food Supply Chain Technology and Transparency Gap - moderate signal; AI rapidly transforming food systems enabling smarter decision-making/automation; regulators expect near real-time supply chain visibility requiring interoperable systems; blockchain-based traceability moving from pilots to production (immutable records, trace batches farm-to-consumer in seconds); Digital Product Passports expanding 2026 (QR codes with origin/allergens/environmental impact); digital twins becoming practical allowing simulation without disrupting operations; Food & Beverage market expanding USD 9.96T (2026) to USD 14.88T (2035) creating pressure on supply chains with greater complexity/faster demand shifts/tighter margins/more frequent disruption; shift from reactive to predictive approaches |
+| 2026-02-17 | Scout-01 | Added NEED-068 | Children's Privacy and Online Safety Enforcement Surge - URGENT signal; FTC prioritizing COPPA enforcement under Chairman Ferguson; 18 state privacy laws now active with enforcement momentum building; children's privacy shaping up to be especially active in 2026; incident-response sources link widespread AI/automation use to faster reconnaissance/more convincing phishing/shorter times from compromise to data theft (exfiltration compressed from days to hours); EU AI Act full implementation August 2026 prohibits eight unacceptable practices including harmful manipulation and untargeted facial recognition scraping; sensitive data focus on biometric and health data |
+| 2026-02-17 | Scout-01 | Added NEED-069 | ADA Digital Accessibility Compliance Deadline Crisis - CRITICAL signal; April 24, 2026 deadline for public entities serving 50K+ people, April 26, 2027 for smaller entities; all services/programs/activities of state/local governments must be accessible including websites/online systems/digital resources; academic course content and institutional web materials must meet WCAG 2.1 standards; third-party vendors' public-facing materials also must comply; roughly 1 in 4 U.S. adults has disability; organizations conducting audits/investing in training/embedding accessibility into digital practices; many not prepared for imminent deadline |
+| 2026-02-17 | Scout-01 | Added NEED-070 | Mental Health Technology Safety and AI Chatbot Crisis - URGENT signal; Character.AI settlement after two teen deaths (Sewell Setzer III, Adam Raine), 1/3 of teens use chatbots daily, 16% use several times daily; less than half of mental health AI agents meet safety criteria; state bans (IL, NV) and disclosure laws (NY, UT); OpenAI lawsuit November 2026; tech industry mental health epidemic: founders twice as likely to have suicidal thoughts, ten times as likely to have bipolar disorder; $450B+ digital mental health market but AI anxiety becoming top workplace stressor (72% worried about economic effects, 47% job security concerns) |
+| 2026-02-17 | Scout-01 | Updated Overview | Increased observing count from 61 to 70 needs |
 | 2026-02-16 | Scout-01 | Updated Overview Summary | Conducted comprehensive observation sweep: humanitarian crises escalating (South Sudan 10M, funding collapse below 2016 levels), cybersecurity critical (12K+ ransomware incidents projected, AI-powered attacks mainstream), deepfake fraud explosion ($1.1B tripled from 2024), coral reefs passed irreversible tipping point (first ecosystem, 1B people affected), climate data suppression ("most aggressive rollback ever"), mental health acute societal crisis (1B+ affected, $1T+ cost), education literacy deepening (30% 8th grade proficient, no state gains), workforce skills gap critical (74% employers struggling), housing crisis entrenched (771K homeless record high, unprecedented price cuts), nonprofit sector breaking point (95% worried burnout, existential funding threat) |
