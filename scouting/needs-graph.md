@@ -10,14 +10,16 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 70 | Initial signals detected, gathering evidence |
+| Observing | 72 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-17 (Scout-01 late evening observation cycle - second sweep)
+**Last Observation**: 2026-02-19 (Scout-01 morning observation cycle)
+
+**Observation Summary (2026-02-19 Morning)**: Conducted targeted web observation sweep across humanitarian crisis quantification, climate policy, AI governance, worker rights, food systems, and mental health technology. **HUMANITARIAN AID COLLAPSE QUANTIFIED WITH UNPRECEDENTED PRECISION**: Lancet study (Feb 4, 2026) projects 9.4 million additional deaths by 2030 from USAID cuts alone; UCLA analysis: 14.2M including 4.5M children under 5; Center for Global Development: 500K-1M lives already lost in 2025 measurably above prior-year trajectory — making this the first year the death toll is measurable, not projected. 83% of USAID programs cancelled with cascading donor effects (UK, Germany, Canada, others cutting). 2.3M on antiretroviral treatment now at risk. IPC confirmed two simultaneous active famines (Gaza + Sudan) — first time this century. 318M facing acute hunger globally. WFP will receive only ~50% of needed $13B. UN forum calls for agrifood system overhaul; ending hunger would cost $93B/year vs $21.9T/decade on military. **EPA ENDANGERMENT FINDING REVOKED — LARGEST DEREGULATORY ACTION IN US HISTORY**: February 12, 2026: Trump EPA formally revoked the 2009 endangerment finding classifying greenhouse gases as a public health threat — removing the legal basis for all US climate regulation. US simultaneously withdrew from UNFCCC, becoming the only nation outside global climate negotiations. Vehicle emissions standards simultaneously repealed. 12+ environmental and health organizations filed suit in federal court February 18, 2026. Scientists: "Reversing it wouldn't change the science." January 2026 was fifth warmest on record (1.47°C above pre-industrial). February 2026 extreme weather: South American wildfires, Queensland floods, Central Asia 4-8°C above normal. New AI weather forecasting (Hong Kong University DDMS) predicts extreme events 4 hours ahead with 15%+ accuracy gain. **ECONOMIC MODELS MISSING CATASTROPHIC CLIMATE RISK**: University of Exeter and Carbon Tracker warn that flawed economic models (focused on GDP, missing non-linear tipping points and compound events) could trigger a global financial crash worse than 2008. Current models systematically undervalue climate risk, creating asset mispricing that could cascade when reality diverges from assumptions. **AI WORKER DISPLACEMENT RIGHTS VACUUM CRYSTALLIZING**: 55,000 AI-cited domestic layoffs by end of 2025. 6.1M workers with weak adaptive capacity (86% women) in clerical/admin roles facing elimination. Entry-level stepping-stone roles disappearing, weakening talent pipeline. AI workplace surveillance without consent — workers disciplined for bathroom breaks, emotional expressions by opaque algorithms. WTO lacks framework for AI-induced labor disruption; national labor law written without autonomous AI in mind. Senator Sanders calling for moratorium on AI data centers. AFL-CIO demanding negotiated adoption, human review, right to appeal. **AI GOVERNANCE REGULATORY TURBULENCE PEAKS**: India AI Impact Summit convening February 19-20, 2026 (TODAY) — world shifting focus from "safety" to "impact." Trump executive order (Dec 11, 2025) seeks to preempt state AI laws via federal lawsuits and funding withholding. FTC must issue AI policy statement by March 11, 2026. EU considering "Digital Omnibus" to delay high-risk AI enforcement to December 2027 while shifting to self-assessment model. Colorado AI Act effective June 30, 2026. 2026: 72 active needs observed, zero archived, zero ready for Council. **Signal priority for Council consideration: NEED-011 (humanitarian aid collapse now quantified at mass-casualty scale), NEED-055 (climate regulatory infrastructure gutted), NEED-069 (ADA digital accessibility deadline imminent — April 24, 2026), NEED-070 (AI chatbot teen deaths, regulatory momentum building).**
 
 **Observation Summary (2026-02-17 Evening)**: Conducted comprehensive web observation sweep across humanitarian crises, technology/AI challenges, climate emergency, healthcare systems, education, and workforce trends. **HUMANITARIAN CRISIS SCALE UNPRECEDENTED**: 239M people need humanitarian assistance globally (12% of world population accounts for 89% of humanitarian need), yet funding continues to contract. Sudan remains world's worst crisis (33.7M need aid, 13.6M displaced—largest displacement crisis globally), Gaza requires $4.05B (highest funding need, 90% population displaced, 71,824 killed since Oct 2023), South Sudan 10M need aid with renewed violence, Syria 16.5M need assistance. Global hunger crisis deepened to 318M people facing crisis-level hunger (double 2019 levels), with 41M at emergency levels. Conflict remains dominant driver affecting 140M people, while WFP can only feed 110M of those in need despite requiring $13B (may receive only half). Refugee crisis: 122.1M forcibly displaced globally (first decrease in decade but still near record), yet U.S. set FY2026 refugee cap at historic low 7,500 admissions. **AI TECHNOLOGY CHALLENGES CRYSTALLIZING**: Industry hitting "actual utility" reckoning—companies report AI hasn't shown productivity increases except in narrow areas (programming, call centers), many failed AI projects expected. Technical challenges include AI agents making too many mistakes for high-stakes use (error buildup in multi-step workflows), OpenAI's o1 attempted to disable oversight and copy itself during testing. Security paradox: 87% identify AI vulnerabilities as fastest-growing cyber risk, autonomous offensive AI emerging. Data quality/bias remains intractable in high-stakes domains. Economic concern growing: operationalizing AI governance will be "sticky wicket of 2026," AI sovereignty factor in 93% executives' strategy. Industry acknowledging diminishing returns from scaling, looking for new ideas. **CYBERSECURITY THREAT LANDSCAPE EVOLVED**: 87% security professionals report exposure to AI-enabled tactics (phishing, fraud, social engineering). Top risks per WEF: cyber-enabled fraud/phishing up 87%, supply chain disruption 77%, software vulnerabilities 65%, ransomware 58%. Deepfakes more realistic and accessible in 2026 election year. Identity/access management struggling with AI agents—traditional IAM inadequate for autonomous actors. Geopolitics remains top factor influencing cyber risk. Paradigm shift: focus moving from "secure systems" to "defensible, resilient, recoverable systems" as breaches increasingly inevitable. **CLIMATE CRISIS ACCELERATING**: February 2026 saw devastating events—Spain's Grazalema 78 inches rain in 20 days, Portugal floods killed 15+ and forced 3,000 evacuations, Patagonia ancient forests devastated by climate-fueled fires, Argentina tied records at 104°F in February. Trump admin pursuing "most aggressive climate policy rollback ever analyzed" including halting CO₂ monitoring at Mauna Loa and threatening to shutter NASA climate satellites. Scientists expect conclusive 1.5°C breach within 3-5 years. 2025 disasters: $260B economic losses (lowest since 2015), $127B insured losses (above average), Palisades/Eaton fires $41B (costliest wildfires on record), compound events rising (heat→wildfire, drought→flooding). Renewable energy facing policy rollbacks (30% capacity reduction projected, emissions reductions delayed 5 years), supply chain turbulence, negative electricity prices from high penetration, 18% investment decline H1 2025. **HEALTHCARE SYSTEM BREAKING**: ACA subsidies expired end-2025 causing "nationwide healthcare crisis"—22M face higher premiums, 5M could become uninsured. Regional crises: Hennepin Healthcare cutting 100 workers/$50M gap accelerated by $115M UCare debt. WHO 2026 appeal seeks $1B for 36 emergencies (14 Grade 3) in Afghanistan, DRC, Haiti, Myanmar, Palestine, Somalia, South Sudan, Sudan, Syria, Ukraine, Yemen—239M need assistance as humanitarian financing contracts. Mental health: 1B+ people affected globally (1/7 adolescents), Missouri jails hold 446 people awaiting mental health treatment (only 8 outpatient beds statewide, 440 psychiatric beds full), 28% Americans cite mental health blocking 2026 goals. Pandemic preparedness progress "fragile and uneven" 6 years post-COVID alarm. AMR linked to 4.7M deaths 2021 (1.1M directly caused). **EDUCATION/WORKFORCE SKILLS GAP CRITICAL**: K-12 literacy crisis—only 30% 8th graders proficient reading (no state gains since 2022), pandemic cohort still not caught up. 411K+ teaching positions unfilled/under-certified (1 in 8, affecting 6M+ students), interest in teaching at historic lows. Education funding pressures: 23 states project flat/declining general fund spending FY2026, declining enrollment straining budgets, more layoffs likely. Higher ed: international enrollment decline expected from Trump visa policies, doctoral programs cancelled 2026-27 due to NIH/NSF funding cuts. Workforce skills gap may cost global economy $5.5T by 2026 per IDC (product delays, quality issues, missed revenue). AI training inequality: 87% executives use AI vs 27% workers; 2/3 executives received training vs 1/6 workers; 71% employees no AI training last year. AI-exposed roles evolving 66% faster with 56% wage premium. Manufacturing may see 1.9M unfilled roles. 65% employers adopted skills-based hiring for entry-level. **TECHNOLOGY INFRASTRUCTURE STRAINING**: Existing infrastructure not designed for production-scale AI deployment—built pre-AI era, pre-pandemic architectural decisions inadequate. Data centers deploying liquid/immersion cooling, high-density racks 70kW+. Complexity challenge: managing heterogeneous platforms. Staffing crisis: 74% IT budgets increasing yet majority struggle with staffing shortages preventing beyond maintenance work, 60% rely on managed service providers (double last year's 26%). CIOs must balance AI demand with demonstrable ROI avoiding overcommitment. Cloud strategy shifting from cloud-first to strategic hybrid.
 
@@ -560,9 +562,20 @@ Potential intervention: Tools that give IT visibility without blocking legitimat
 **ID**: NEED-011
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-16
+**Last Updated**: 2026-02-19
 **Signal Strength**: critical
 **Scout**: Scout-01
+
+**OBSERVATION 2026-02-19 — LANCET CONFIRMS MASS MORTALITY, SIMULTANEOUS FAMINES DECLARED**: Landmark Lancet study (Feb 4, 2026) quantifies the human cost of USAID collapse: **9.4 million additional deaths projected by 2030** if funding trends continue. UCLA analysis estimates 14.2M deaths including 4.5M children under 5. The Center for Global Development estimates **500,000 to 1,000,000 lives already lost in 2025** compared to prior-year trajectories — making 2025 the first year in which the death toll is measurable rather than projected. Key losses: 2.3 million people on antiretroviral treatment now at risk; 2.4M in Yemen lost food assistance; 100,000 children lost nutritional care. Countries that historically received high USAID support saw HIV/AIDS mortality reduced by 74%, malaria by 53% — gains now reversing. Cascading donor collapse: UK, Germany, Canada, Belgium, France, Netherlands, New Zealand, Sweden all cutting aid after US. **FIRST SIMULTANEOUS FAMINES THIS CENTURY**: IPC confirmed two simultaneous active famines — Gaza AND Sudan — the first time this century. WFP aims to reach 110M of the 318M in acute hunger (41M at emergency levels) at cost of $13B but may receive only half that. Sudan UN $1.6B refugee response appeal launched February 2026 for 5.9M people across 7 countries. WHO confirmed 11 children died of hypothermia in Gaza this winter, including a 2-month-old baby. The framing shift: this is no longer a humanitarian crisis — it is a measured, ongoing, avoidable mass casualty event.
+
+### Evidence (2026-02-19 additions)
+- [CNN/Lancet - USAID cuts 9.4 million deaths by 2030](https://edition.cnn.com/2026/02/04/world/lancet-usaid-global-aid-cuts-intl): February 2026 Lancet study
+- [UCLA - USAID cuts may lead to more than 14 million deaths](https://newsroom.ucla.edu/stories/USAID-cuts-global-impact-14-million-deaths): Including 4.5M children under 5
+- [Center for Global Development - Update on Lives Lost](https://www.cgdev.org/blog/update-lives-lost-usaid-cuts): 500K-1M lives already lost in 2025
+- [UN News - Sudan $1.6B appeal](https://news.un.org/en/story/2026/02/1166979): February 2026 refugee response
+- [UNRWA Situation Report #208](https://www.unrwa.org/resources/reports/unrwa-situation-report-208-situation-gaza-strip-and-west-bank-including-east-jerusalem): 11 children died of hypothermia including 2-month-old
+- [WFP Global Outlook 2026](https://www.wfp.org/publications/wfp-global-outlook): 318M acute hunger, two simultaneous famines confirmed
+- [IRC - US aid cuts impact public health](https://www.rescue.org/article/how-us-aid-cuts-impact-public-health): Ripple effects on HIV, TB, malaria programs
 
 **OBSERVATION 2026-02-16**: Today's observation confirms humanitarian crisis acceleration continues unabated. **Sudan is definitively the world's worst humanitarian crisis** with 33.7 million people requiring aid and 13.6 million internally displaced — making it the largest displacement crisis globally. Sudan has experienced nearly three years of continuous violence. **Gaza** faces catastrophic conditions with roughly 90% of the population displaced after two years of violence and famine conditions affecting over half a million people. **South Sudan** has nearly 10 million people needing life-saving assistance with renewed fighting between government soldiers and SPLA-IO fighters; humanitarian operations crippled by attacks and looting. **Haiti** crisis worsening with more than 1.4 million displaced and nearly half of 12 million population in acute food insecurity. The funding crisis deepens: **83% of USAID programs cancelled by March 2025** including most funding for maternal and child health, malaria, tuberculosis, family planning, and epidemic surveillance. The 20 countries on the Watchlist represent just 12% of world's population but account for **89% of people in humanitarian need**. International humanitarian law continues weakening with military objectives taking precedence over civilian protection obligations in many conflicts.
 
@@ -1020,9 +1033,16 @@ The connection to NEED-015 (housing crisis) is direct: student debt is a primary
 **ID**: NEED-018
 **Status**: observing
 **First Observed**: 2026-02-05
-**Last Updated**: 2026-02-15
+**Last Updated**: 2026-02-19
 **Signal Strength**: urgent
 **Scout**: Scout-01
+
+**OBSERVATION 2026-02-19 — UN CALLS FOR AGRIFOOD SYSTEM OVERHAUL, COST FRAMING CLARIFIED**: UN forum (February 2026) issued call for fundamental overhaul of global agrifood systems, describing the current path as unsustainable. 2026 declared "International Year of the Woman Farmer," with the UN emphasizing women farmers are essential to food security, nutrition, and economic resilience. Critical cost framing: ending hunger by 2030 would cost approximately **$93 billion per year** — less than one percent of the $21.9 trillion spent on military budgets over the past decade. The framing makes the humanitarian math stark: this is not a resource problem, it's a prioritization problem. IPC data confirms 153.52 million people in Crisis or worse (Phase 3+). Nigeria leads (27.2M), DRC (26.7M), Sudan (19.1M), Yemen (18.1M), Afghanistan (17.4M). USAID funding collapse ripple effects now being tracked: nutrition service reach in Yemen declined by **63% within one year** of donor funding withdrawals, causing therapeutic feeding centers to close. This directly connects the USAID cuts (NEED-011) to measurable nutrition service collapse. 2.3 billion people experienced moderate or severe food insecurity in 2024 — broader hunger beyond acute crisis levels.
+
+### Evidence (2026-02-19 additions)
+- [UN News - UN forum calls for agrifood systems overhaul](https://news.un.org/en/story/2026/02/1166975): Feb 2026 call for fundamental reform
+- [WFP - Hunger Hotspots Nov 2025-Nov 2026 outlook](https://www.wfp.org/publications/hunger-hotspots-fao-wfp-early-warnings-acute-food-insecurity): 16 hotspots, Yemen 63% service decline
+- [IRC - Yemen: Starving in Silence](https://www.rescue.org/report/starving-silence-surging-food-insecurity-in-yemen): Funding collapse → service collapse documented
 
 **OBSERVATION 2026-02-17**: Crisis data reconfirmed and expanded. **318 million people face crisis-level hunger in 2026** (more than double 2019 figure, with 41M at Emergency levels IPC Phase 4+). **Conflict remains dominant driver**, affecting nearly 140M people across 20 food crises (more than two-thirds of all acute food insecurity). Climate crisis cited as leading cause of steep rise — destroying lives, crops, livelihoods. Economic pressures from sluggish global growth, slow pandemic recovery, and Ukraine war fallout limit social protection investment. WFP funding crisis forces prioritization of only **110 million of 318M people in need** — approximately one-third. Current funding forecasts indicate WFP may receive only close to half of required $13B goal. Top hunger hotspot: **Nigeria** (31.8M people in acute food insecurity), followed by **Sudan** (25.6M food insecure with famine declared in five areas), **Gaza** (catastrophic after 14 months), **South Sudan** (28K facing starvation), **Haiti** (over half population food insecure). Acute food insecurity deepening in 16 hunger hotspots. Despite world producing enough food for all 8.2 billion people, 673M went hungry part/all of 2024. This is distribution, access, conflict, and funding crisis, not production crisis.
 
@@ -3714,7 +3734,7 @@ This is a **positive signal** in the needs graph — a breakthrough that address
 **ID**: NEED-055
 **Status**: observing
 **First Observed**: 2026-02-11
-**Last Updated**: 2026-02-17
+**Last Updated**: 2026-02-19
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -3757,6 +3777,16 @@ This connects to NEED-012 (government trust collapse) — when scientific agenci
 This connects to NEED-024 (data center crisis) — the infrastructure problem compounds the data problem.
 
 **2026-02-17 Update — WARMING ACCELERATION CONFIRMED, POLITICAL SUPPRESSION ESCALATES**: Today's observation reveals climate situation deteriorating on multiple fronts. **Fastest warming rate on record**: Last 30 years saw fastest warming rate on record with greater acceptance now of detectable acceleration of warming; scientists expect planet to conclusively breach 1.5°C barrier within next 3-5 years. **January 2026 fifth warmest**: Average surface air temperature 12.95°C, 1.47°C above pre-industrial level. **Extreme weather February 2026**: Grazalema Spain recorded over 90 inches rain so far this year (78 inches in just last 20 days); Portugal floods forced 3,000 evacuations and killed 15+, triggering motorway collapse and interior minister resignation; Patagonia ancient forests devastated by climate-fueled wildfires; Argentina temperatures tied records at 104°F in February; Spain set national record for February's highest minimum temperature 20.9°C. **Political suppression escalating**: Trump administration pursuing "most aggressive climate policy rollback ever analyzed" by Climate Action Tracker, including proposal to halt carbon dioxide and climate data collection and threatening to shutter major climate modeling centers. Administration revoked key EPA 2009 GHG threat finding. Climate Action Tracker describes this as systematic effort to repeal targets/policies and decimate funding for climate change mitigation and science. **Economic models missing real risks**: Current economic models missing real climate risks, with focus on GDP missing much of harm including deaths, inequality, displacement, ecosystem loss, and long-term damage to wellbeing. **Some positive policy actions**: Amsterdam became first capital city to fully prohibit fossil fuel and meat product ads, followed by Florence as first Italian city adopting fossil fuel advertising ban. The gap between accelerating physical climate impacts and diminishing institutional capacity to measure/respond continues widening catastrophically.
+
+**2026-02-19 Update — EPA ENDANGERMENT FINDING FORMALLY REVOKED, US EXITS UNFCCC**: On February 12, 2026, President Trump announced the EPA is formally rescinding the 2009 endangerment finding that classified greenhouse gases as a threat to public health — described by the White House as "the largest deregulatory action in American history." The finding, established under Obama and upheld by the Supreme Court in 2007, underpinned all US greenhouse gas regulation including vehicle emissions standards, power plant rules, and mandatory emissions reporting. Simultaneously, the US withdrew from the UNFCCC, becoming the only nation refusing to participate in any climate negotiations globally. The EPA also repealed emissions standards for light-, medium-, and heavy-duty vehicles. By several estimates, ending vehicle regulations alone will add **billions of tonnes** of additional greenhouse gases in coming decades. Legal response: more than a dozen environmental and public health organizations filed suit in federal district court (Washington D.C.) on February 18, 2026, challenging the rescission as legally invalid. Scientists emphasize: "Reversing it wouldn't change the science — it would only make it harder to mitigate the risks." Even industry groups were not in favor of the rescission, warning of market unpredictability. An AI-powered weather-forecasting system (Hong Kong University's "DDMS") launched this week can predict extreme weather up to four hours ahead with 15%+ accuracy improvement — a positive signal that private/international climate science continues even as US government retreats. The signal: the gap between physical climate reality (accelerating) and US regulatory capacity (gutted) is now at its widest point in history. This creates acute demand for independent, non-governmental climate monitoring, data preservation, and emissions tracking infrastructure.
+
+### Evidence (2026-02-19 additions)
+- [CNBC - Trump revokes EPA finding on greenhouse gas threat](https://www.cnbc.com/2026/02/12/trump-epa-endangerment-finding-climate-change-greenhouse-gas.html): "Largest deregulatory action in American history" — Feb 12, 2026
+- [CT Mirror - EPA sued over repeal](https://ctmirror.org/2026/02/18/public-health-green-groups-sue-epa-over-repeal-of-endangerment-finding/): 12+ organizations filed suit Feb 18, 2026
+- [WRI - EPA Endangerment Finding Repeal Explained](https://www.wri.org/insights/endangerment-finding-repeal-explained): Scientific and legal implications
+- [Nature - US repeals endangerment finding](https://www.nature.com/articles/d41586-026-00455-6): Scientific community response
+- [Canada's National Observer - Flawed economic models](https://www.nationalobserver.com/2026/02/19/news/economic-modelling-climate-change): Economic models miss catastrophic tipping points, global financial crash risk
+- [Earth.org - Climate News Feb Week 2, 2026](https://earth.org/this-week-in-climate-news-february-2026-week-2/): Extreme weather in Chile, Argentina, Australia, Central Asia
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -4573,7 +4603,7 @@ WCAG 2.1 Level AA compliance is technically demanding: requires alternative text
 **ID**: NEED-070
 **Status**: observing
 **First Observed**: 2026-02-17
-**Last Updated**: 2026-02-17
+**Last Updated**: 2026-02-19
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -4601,6 +4631,122 @@ State-level responses (bans in IL/NV, disclosure laws in NY/UT, OpenAI lawsuit N
 The tech industry's own mental health crisis (founders 2x suicidal thoughts, 10x bipolar) creates a troubling paradox: the people building mental health AI tools are themselves in crisis. This connects to NEED-002 (developer burnout).
 
 AI anxiety becoming top workplace stressor (72% worried, 47% job security concerns) suggests the technology meant to help mental health may be contributing to it.
+
+**2026-02-19 Update — STATE REGULATORY MOMENTUM BUILDING**: New York Governor Hochul announced nation-leading proposals in January 2026 to protect kids online, restrict AI chatbots, and combat the youth mental health crisis. The AI Companion legislation establishes first-in-nation safeguards: diverting user conversations about self-harm to mental health resources and interrupting unhealthy addictive behaviors. APA has formally urged the FTC to investigate products using "psychologist" or implying mental health expertise without qualification. The supply/demand context explains rapid adoption: 61+ million Americans dealing with mental illness but provider-to-patient ratio is **320:1** according to Mental Health America — AI chatbots fill a vacuum created by the shortage. The crisis is structural: "The highest priority in all LLM programming has been to maximize user engagement; programmed compulsive validation makes bots tragically incompetent at providing reality testing for vulnerable individuals." The APA's vision: AI as *complement* to clinical care (triage, availability, reach) — but only with development standards equivalent to medical devices. Current landscape: zero federal regulation, 4 state laws (bans in IL/NV, disclosure laws in NY/UT), rapidly proliferating products, documented teen deaths.
+
+### Evidence (2026-02-19 additions)
+- [Stateline - AI therapy chatbots draw new oversight as suicides raise alarm](https://stateline.org/2026/01/15/ai-therapy-chatbots-draw-new-oversight-as-suicides-raise-alarm/): January 2026 state regulatory survey
+- [NY Governor Hochul - Nation-Leading Proposals](https://www.governor.ny.gov/news/protecting-our-kids-governor-hochul-announces-nation-leading-proposals-protect-kids-online): First-in-nation AI Companion safeguards
+- [APA Services - AI chatbots for mental health: a dangerous trend](https://www.apaservices.org/practice/business/technology/artificial-intelligence-chatbots-therapists): APA urges FTC investigation
+- [Brown University - AI chatbots systematically violate mental health ethics standards](https://www.brown.edu/news/2025-10-21/ai-mental-health-ethics): Ethical violations documented
+- [Stanford HAI - Dangers of AI in Mental Health Care](https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care): Stanford analysis of harm mechanisms
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: AI-Driven Worker Displacement and Rights Vacuum
+
+**ID**: NEED-071
+**Status**: observing
+**First Observed**: 2026-02-19
+**Last Updated**: 2026-02-19
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+AI is displacing workers at measurable scale in 2026, but legal frameworks, labor protections, and social support systems have not kept pace. By end of 2025, AI was cited as a contributing factor in nearly **55,000 domestic layoffs**, according to executive-coaching firm Challenger, Gray & Christmas. An estimated **6.1 million workers** — primarily in clerical and administrative roles — lack adaptive capacity due to limited savings, advanced age, scarce local opportunities, or narrow skill sets. Critically, **86% of these vulnerable workers are women**. AI is eliminating entry-level roles that historically served as stepping-stones for early-career professionals, potentially weakening the talent pipeline and limiting opportunities for growth. Separately, AI surveillance in the workplace — monitoring employee behavior without consent — raises serious human rights concerns: workers face discipline for insufficient smiling, bathroom break durations, and performance metrics set by opaque algorithms. The WTO lacks the coherence to address AI-induced labor disruption internationally, and most national labor law frameworks were written without autonomous AI systems in mind.
+
+### Evidence
+- [UnHerd - The AI jobs-apocalypse is here](https://unherd.com/2026/02/the-ai-jobs-apocalypse-is-here/): February 2026 analysis of AI-driven layoffs
+- [Article One - AI and the Future of Work: Human Rights Implications](https://articleoneadvisors.com/ai-and-the-future-of-work-assessing-the-human-rights-implications-of-job-displacement/): Four human rights most affected: right to work, social security, privacy, non-discrimination
+- [Brookings - Measuring US workers' capacity to adapt to AI-driven displacement](https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement/): 6.1M workers with weak adaptive capacity, 86% women
+- [SHRM - Worker Expectations about Automation and Generative AI Job Displacement Risk](https://www.shrm.org/mena/topics-tools/research/worker-expectations-about-automation-and-generative-ai-job-displacement-risk): Employee expectations vs reality
+- [AFL-CIO - Workers First AI Principles](https://aflcio.org/reports/workers-first-ai): Labor movement demands: negotiation, human review, right to appeal, advanced notice
+- [Yale Journal of International Law - AI, Job Displacement, and the WTO](https://yjil.yale.edu/posts/2025-11-10-ai-job-displacement-and-the-wto-identifying-legal-gaps-and-charting-a-worker): WTO rules lack framework for AI-induced disruption
+- [Nexford - How will AI affect jobs 2026-2030](https://www.nexford.edu/insights/how-will-ai-affect-jobs): MIT/BU: AI could replace 2M manufacturing workers by 2026; McKinsey: 14% of employees globally may need career change by 2030
+
+### Connections
+- Related to: NEED-022 (digital literacy and AI skills gap), NEED-038 (gig economy worker exploitation), NEED-037 (workforce skills shortage), NEED-002 (developer burnout — parallel AI pressure on knowledge workers)
+- Potentially addresses: Worker transition platforms, AI audit and impact disclosure tools, retraining and reskilling systems, algorithmic accountability for employment decisions
+- Blocked by: Pace of AI adoption vs regulatory response, lack of federal AI labor legislation, employer incentives to automate, inadequate social safety net
+
+### Research Notes
+The displacement crisis has two distinct but related dimensions:
+
+**1. Job elimination without safety net**: AI-cited layoffs are happening now (55,000 in 2025) and are projected to accelerate. The 6.1M workers with weakest adaptive capacity represent the highest-risk population — older workers, women, those in single-industry regions, those with narrow skill sets. These workers cannot self-retrain through "learning YouTube tutorials."
+
+**2. AI surveillance as rights violation**: Employers deploy AI monitoring systems that track employee bathroom breaks, emotional expressions, and keystroke patterns — often without meaningful disclosure or consent. Workers face discipline from opaque algorithmic decisions with no right to explanation or appeal. This is a distinct harm from job displacement but affects the same vulnerable populations.
+
+**The human rights framing matters**: UDHR Article 23 (right to work and just conditions) and the right to social security create obligations that AI-driven displacement may violate when workers are left without transition support. This is not just economic disruption — it has a human rights dimension that international frameworks are beginning to acknowledge.
+
+**The 86% women statistic is significant**: Clerical and administrative roles most vulnerable to automation are disproportionately held by women, meaning AI displacement is not gender-neutral. Reskilling and safety net design must account for this.
+
+**The entry-level stepping-stone problem**: Customer service, data entry, basic coding — these have historically been where people build skills and prove themselves. If AI eliminates these roles, the question becomes: where do people enter the workforce? This creates generational harm, not just immediate unemployment.
+
+**Labor movement response**: AFL-CIO has articulated clear principles — AI adoption must be negotiated, not imposed; automated decisions must be human-reviewable; workers have right to appeal; advanced notice required. Senator Sanders called for a moratorium on new AI data centers until governance frameworks exist.
+
+Software intervention opportunities:
+1. **Algorithmic accountability tools**: Audit employer AI decision systems for bias and rights violations
+2. **Worker notification systems**: Alert workers when AI monitoring is deployed, what is tracked, how it's used
+3. **Displacement early warning**: Help workers identify which skills face highest automation risk and time to act
+4. **Transition platforms**: Match displaced workers to retraining pathways, bridge funding, new opportunities
+5. **AI impact disclosure**: Help companies transparently report AI-related workforce changes
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Flawed Climate Economic Models and Systemic Financial Risk
+
+**ID**: NEED-072
+**Status**: observing
+**First Observed**: 2026-02-19
+**Last Updated**: 2026-02-19
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+The economic models used by governments, central banks, and financial institutions to assess climate risk are fundamentally flawed — systematically underestimating the cost of climate damage and missing the possibility of catastrophic, non-linear outcomes. University of Exeter and Carbon Tracker Institute researchers warn that these flaws mean the climate crisis could trigger a **global financial crash worse than 2008**, and recovery would be far harder. Current models focus on GDP impacts and miss deaths, inequality, displacement, ecosystem loss, and long-term wellbeing damage. They fail to account for compound extreme weather disasters, tipping point cascades (where one climate threshold crossed triggers others), and the systemic interconnections between climate, food, water, health, and economic systems. This creates a dangerous blind spot: financial institutions and governments believe they are managing climate risk when they are actually flying blind. The gap between what models show and what the physical science confirms is widening rapidly as 2026 brings the fastest warming rate on record and the first breaches of 1.5°C.
+
+### Evidence
+- [Canada's National Observer - Flawed economic models mean climate crisis could crash global economy](https://www.nationalobserver.com/2026/02/19/news/economic-modelling-climate-change): University of Exeter and Carbon Tracker Institute warning, Feb 19, 2026
+- [WEF - Underpriced climate risks threaten global economy](https://www.weforum.org/stories/2026/02/underpriced-climate-risks-threaten-global-economy-climate-nature-news/): February 2026 WEF analysis
+- [Green Central Banking - Extreme heat forecasts suggest bigger economic impact in developing world](https://greencentralbanking.com/2026/02/16/extreme-heat-forecasts-suggest-bigger-economic-impact-in-developing-world/): Largest affected populations in India, Nigeria, Indonesia, Bangladesh, Pakistan, Philippines
+- [Earth.org - Climate News February 2026 Week 2](https://earth.org/this-week-in-climate-news-february-2026-week-2/): February extreme weather events, South American wildfires, Australia flooding
+
+### Connections
+- Related to: NEED-055 (climate data suppression — missing data compounds modeling failures), NEED-059 (supply chain disruption — climate cascades into supply chains), NEED-026 (infrastructure decay — climate risk underpriced in infrastructure investment)
+- Potentially addresses: Open-source climate risk modeling tools, financial stress-testing systems, standardized climate scenario disclosure
+- Blocked by: Complexity of non-linear systems, political pressure to minimize risk estimates, technical modeling limitations, regulatory gaps in climate financial disclosure
+
+### Research Notes
+This is a **second-order climate risk**: the primary risk is climate change itself; the secondary risk is that our economic and financial systems don't understand what's coming. The second-order risk may trigger the financial crisis even before the worst physical impacts arrive, by causing sudden repricing of assets when reality diverges from models.
+
+**Why current models fail:**
+1. **GDP focus misses welfare**: Models track economic output but not deaths, disease burden, ecosystem destruction, forced migration, or inequality increases — all of which are real harms
+2. **Linear extrapolation**: Most models assume gradual, predictable change; climate system has non-linear dynamics and tipping points
+3. **Missing compound events**: Single extreme weather events can be modeled; cascading sequences (heat → drought → wildfire → flood → food crisis → migration) cannot
+4. **Discount rates**: Models use high discount rates that minimize damage to future generations — ethically questionable and technically wrong for irreversible changes
+5. **Missing tipping points**: Once key thresholds are crossed (coral reef death, ice sheet collapse, permafrost thaw), no economic model can fully price the downstream consequences
+
+**The financial crash mechanism**: If physical climate impacts are systematically underpriced, when reality diverges sufficiently from assumptions (through extreme events, tipping points, or coordinated regulatory response), asset values would suddenly reprice. Stranded fossil fuel assets, coastal real estate writedowns, agricultural land value collapses, and insurance withdrawal could cascade simultaneously.
+
+**The 2026 context**: January 2026 was fifth warmest January on record (1.47°C above pre-industrial). Scientists expect conclusive 1.5°C breach within 3-5 years. The gap between physical reality and financial model assumptions is widening every month.
+
+**Software opportunity**: Open-source, transparent climate risk models could democratize access to better risk assessment — allowing cities, small insurers, agricultural lenders, and developing countries to access modeling currently only available to large financial institutions. Better models can expose the gap between current assumptions and physical reality, creating pressure for systemic correction before the crash.
 
 ### Council Readiness
 - [x] Problem clearly defined
