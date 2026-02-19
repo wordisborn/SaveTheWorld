@@ -10,14 +10,16 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 72 | Initial signals detected, gathering evidence |
+| Observing | 74 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-19 (Scout-01 morning observation cycle)
+**Last Observation**: 2026-02-19 (Scout-01 evening observation cycle)
+
+**Observation Summary (2026-02-19 Evening)**: Conducted sweep across AI biosecurity convergence, eldercare workforce, humanitarian aid legislative response, AMR developments, deepfake fraud escalation, and geopolitical conflict risks. **CONGRESS PASSES $50B FOREIGN AID BILL (Feb 6, 2026)**: Significant legislative pushback — $50B appropriated despite Trump cuts, including $9.4B global health, $5.4B humanitarian. 16% below 2025 levels but $20B above Trump's initial request. Preserves climate funding. Major question: will the administration spend what Congress appropriated? **AI BIOSECURITY COLLAPSE — NEW NEED**: AI/synthetic biology convergence creating unprecedented bioweapons threat. Claude Opus 4 can "significantly enhance novice ability to plan bioweapon production" (Anthropic's own assessment). Microsoft research: generative AI can design dangerous proteins that evade DNA screening. NIST CAISI (primary federal entity evaluating AI biological risks) faces 35% budget cut. NIH -$18B, CDC Global Health Center dismantled. Doomsday Clock biological threat section cites four escalating factors. Institutional fragmentation and underfunding collide with rapidly democratizing bio-design tools. **ELDERCARE PROFESSIONAL WORKFORCE IN COLLAPSE — NEW NEED**: 65+ population now 18% of Americans (was 12.4% in 2004), outnumbering children in 11 states. ~4M home health aides earning median $35K/year. 800+ nursing home closures in last decade, 600 more at risk. 63M unpaid family caregivers filling gaps. 30% of direct care workers are immigrants facing deportation risk. $1T Medicaid cuts threaten further collapse of professional care funding. No national plan. **AMR CRISIS: FIRST COORDINATED GLOBAL RESPONSE**: Gates Foundation + Novo Nordisk Foundation + Wellcome awarded $60M to Gram-Negative Antibiotic Discovery Innovator (Gr-ADI) consortium — first open data-sharing model for antibiotic discovery. Davos 2026: 50+ global organizations signed AMR Compact. Carbapenem-resistant infections up 69% in US; last-resort treatment failure rates exceeding 50% in some regions. Only 27 antibiotics in clinical pipeline. **DEEPFAKE FINANCIAL FRAUD INDUSTRIAL SCALE**: FinCEN (US Treasury) issued formal alert to financial institutions on deepfake fraud schemes. 85% of identity fraud now uses generative AI. Deepfake job candidates (FBI documented North Korean IT workers using deepfakes to infiltrate companies). Emotionally intelligent bots conducting romance fraud without humans. Real-time voice cloning enables fraudulent wire transfers. $12.5B total US fraud losses 2024. GEOPOLITICAL CONFLICT RISKS ELEVATED: Taiwan 50% chance of crisis in 2026 (CFR), Doomsday Clock at 89 seconds (closest ever), New START expired Feb 2026, nuclear triad modernization ($1.7T), China targeting 1,000 warheads by 2030.
 
 **Observation Summary (2026-02-19 Morning)**: Conducted targeted web observation sweep across humanitarian crisis quantification, climate policy, AI governance, worker rights, food systems, and mental health technology. **HUMANITARIAN AID COLLAPSE QUANTIFIED WITH UNPRECEDENTED PRECISION**: Lancet study (Feb 4, 2026) projects 9.4 million additional deaths by 2030 from USAID cuts alone; UCLA analysis: 14.2M including 4.5M children under 5; Center for Global Development: 500K-1M lives already lost in 2025 measurably above prior-year trajectory — making this the first year the death toll is measurable, not projected. 83% of USAID programs cancelled with cascading donor effects (UK, Germany, Canada, others cutting). 2.3M on antiretroviral treatment now at risk. IPC confirmed two simultaneous active famines (Gaza + Sudan) — first time this century. 318M facing acute hunger globally. WFP will receive only ~50% of needed $13B. UN forum calls for agrifood system overhaul; ending hunger would cost $93B/year vs $21.9T/decade on military. **EPA ENDANGERMENT FINDING REVOKED — LARGEST DEREGULATORY ACTION IN US HISTORY**: February 12, 2026: Trump EPA formally revoked the 2009 endangerment finding classifying greenhouse gases as a public health threat — removing the legal basis for all US climate regulation. US simultaneously withdrew from UNFCCC, becoming the only nation outside global climate negotiations. Vehicle emissions standards simultaneously repealed. 12+ environmental and health organizations filed suit in federal court February 18, 2026. Scientists: "Reversing it wouldn't change the science." January 2026 was fifth warmest on record (1.47°C above pre-industrial). February 2026 extreme weather: South American wildfires, Queensland floods, Central Asia 4-8°C above normal. New AI weather forecasting (Hong Kong University DDMS) predicts extreme events 4 hours ahead with 15%+ accuracy gain. **ECONOMIC MODELS MISSING CATASTROPHIC CLIMATE RISK**: University of Exeter and Carbon Tracker warn that flawed economic models (focused on GDP, missing non-linear tipping points and compound events) could trigger a global financial crash worse than 2008. Current models systematically undervalue climate risk, creating asset mispricing that could cascade when reality diverges from assumptions. **AI WORKER DISPLACEMENT RIGHTS VACUUM CRYSTALLIZING**: 55,000 AI-cited domestic layoffs by end of 2025. 6.1M workers with weak adaptive capacity (86% women) in clerical/admin roles facing elimination. Entry-level stepping-stone roles disappearing, weakening talent pipeline. AI workplace surveillance without consent — workers disciplined for bathroom breaks, emotional expressions by opaque algorithms. WTO lacks framework for AI-induced labor disruption; national labor law written without autonomous AI in mind. Senator Sanders calling for moratorium on AI data centers. AFL-CIO demanding negotiated adoption, human review, right to appeal. **AI GOVERNANCE REGULATORY TURBULENCE PEAKS**: India AI Impact Summit convening February 19-20, 2026 (TODAY) — world shifting focus from "safety" to "impact." Trump executive order (Dec 11, 2025) seeks to preempt state AI laws via federal lawsuits and funding withholding. FTC must issue AI policy statement by March 11, 2026. EU considering "Digital Omnibus" to delay high-risk AI enforcement to December 2027 while shifting to self-assessment model. Colorado AI Act effective June 30, 2026. 2026: 72 active needs observed, zero archived, zero ready for Council. **Signal priority for Council consideration: NEED-011 (humanitarian aid collapse now quantified at mass-casualty scale), NEED-055 (climate regulatory infrastructure gutted), NEED-069 (ADA digital accessibility deadline imminent — April 24, 2026), NEED-070 (AI chatbot teen deaths, regulatory momentum building).**
 
@@ -646,6 +648,12 @@ Current inefficiencies include:
 The ratio is obscene: $2.7 trillion for weapons, $50 billion (unmet) for saving lives. This is a choice, not a constraint.
 
 Software could help: Resource allocation optimization, crisis mapping and predictive analytics, coordination platforms reducing duplication, transparent tracking of aid flows to rebuild donor trust, and tools connecting local responders with flexible funding.
+
+**2026-02-19 Update — CONGRESS PASSES $50B FOREIGN AID BILL**: On February 6, 2026, Congress passed and Trump signed a $50 billion foreign affairs bill into law — a significant legislative counterweight to executive-branch funding cuts. The bill includes **$9.4 billion for global health programs** and **$5.4 billion for humanitarian aid**, plus funding for education, nutrition, agriculture, democracy programs, and US embassy operations. The $50B represents a **16% reduction from FY2025** but is **$20B above Trump's initial budget request** (which would have been an 85% drop in foreign affairs spending). Critically, the bill preserves climate and conservation funding the administration had proposed eliminating. The critical question now: **Will the administration spend the funds Congress appropriated?** "Will they be used as intended? Does the State Department have the capacity to implement the programs?" — questions that humanitarian organizations are urgently raising. This is a meaningful but incomplete response. The 16% cut still falls short of the scale of need, and the gap between congressionally-appropriated funds and the administration's willingness to deploy them is a new dimension of the crisis. The bill strengthens Congressional oversight through detailed reporting requirements and reasserts the legislature's power over foreign aid spending.
+
+- [NPR - Congress passes $50 billion foreign aid bill](https://www.npr.org/2026/02/06/nx-s1-5702252/foreign-aid-trump-cuts): Feb 6, 2026 passage and details
+- [Devex - US Congress passes $50 billion foreign affairs bill into law](https://www.devex.com/news/us-congress-passes-50-billion-foreign-affairs-bill-111821): Implementation concerns
+- [FCNL - Understanding the FY2026 Foreign Assistance Bill](https://www.fcnl.org/updates/2026-01/understanding-fy2026-foreign-assistance-bill-what-it-means-peace): What it means for peace
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -1772,7 +1780,7 @@ This is fundamentally a political and legal problem requiring democratic governa
 **ID**: NEED-028
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-10
+**Last Updated**: 2026-02-19
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -1815,6 +1823,8 @@ Potential interventions:
 6. International cooperation frameworks for AI cybercrime
 
 This is an arms race: offensive AI capabilities advancing rapidly while defensive AI struggles to keep pace. The asymmetry favors attackers.
+
+**2026-02-19 Update — FINCEN ALERT AND INDUSTRIAL-SCALE DEEPFAKE FRAUD**: New regulatory and threat intelligence confirms deepfake fraud has crossed into systemic territory. The US Treasury's Financial Crimes Enforcement Network (**FinCEN**) issued a formal alert to all financial institutions about deepfake fraud schemes — a significant escalation in regulatory recognition. FinCEN observed increasing suspicious activity reports describing suspected use of **fraudulent AI-generated identity documents** to circumvent identity verification and authentication systems. The FBI and Department of Justice issued multiple warnings about **documented North Korean IT operatives** using deepfakes and identity manipulation to gain employment at hundreds of US companies — sending their salaries back to the regime while gaining access to sensitive systems. **85% of identity fraud cases** in 2026 now use generative AI tools (LexisNexis). New threat vectors confirmed: (1) **Real-time voice cloning** — attackers impersonate executives with just seconds of audio, authorizing fraudulent wire transfers; (2) **Synthetic identity fraud** — completely fabricated identities built from stolen data fragments pass verification checks, establish credit histories, then exploit systems; (3) **AI chatbot-driven romance and elder fraud** — emotionally intelligent bots operating without human involvement. Detection capacity remains critically inadequate: human detection of high-quality video deepfakes only **24.5%**; AI detection tool effectiveness drops **45-50%** against real-world deepfakes vs. lab conditions. Fraudsters themselves complain on dark web forums that real-time liveness KYC checks remain challenging — suggesting targeted investment in liveness detection could create meaningful defensive asymmetry.
 
 **2026-02-10 Deepfake Fraud Explosion**: The financial impact of AI-powered fraud has reached catastrophic levels. **Consumers lost more than $12.5 billion to fraud in 2024, with losses ballooning 25% even as fraud report numbers held steady** — indicating both rising sophistication and higher per-incident losses. **In 2025, deepfake-related losses from fraud and scams in the US reached $1.1 billion, tripling from $360 million in 2024.** Deepfake-enabled vishing attacks surged by over 1,600% in Q1 2025 compared to Q4 2024 in the US. Experian warns of a fraud "tipping point" in 2026 as AI-enabled scams achieve industrial scale. **Seventy-two percent of business leaders believe AI-enabled fraud and deepfakes will be among their top operational challenges in 2026.** Key threat vectors include: (1) **Employment fraud** — generative AI tools create hyper-tailored resumes and deepfake candidates passing real-time interviews in remote workforce settings; (2) **Emotionally intelligent scams** — AI bots with high emotional IQ executing automated romance and family-emergency scams with intense sophistication; (3) **Website cloning** — AI tools making it trivial to replicate legitimate websites for phishing attacks, overwhelming fraud detection teams. **Online scams are expected to nearly double in 2026 as AI makes phishing messages, scam calls, and fake websites harder to spot.** The crisis represents industrialization of deception: what once required human criminal effort now scales infinitely through AI automation. The economic damage compounds: businesses face simultaneous threats from external fraud, internal hiring risks, and customer protection burdens.
 
@@ -4211,7 +4221,7 @@ Over 50% of workforce planning to quit represents existential threat to healthca
 **ID**: NEED-061
 **Status**: observing
 **First Observed**: 2026-02-14
-**Last Updated**: 2026-02-14
+**Last Updated**: 2026-02-19
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -4256,6 +4266,14 @@ AMR spans human medicine, veterinary medicine, agriculture, and environmental co
 AI capabilities in 2026 (generative models, synthetic biology integration) create unprecedented opportunity for antimicrobial discovery and resistance prediction. The technology exists; the coordinated deployment does not.
 
 This connects to multiple healthcare crises (NEED-049 rural access, NEED-041 mental health treatment, NEED-011 humanitarian systems) and represents a threat multiplier — as resistance spreads, routine medical procedures become dangerous, exacerbating existing healthcare access crises.
+
+**2026-02-19 Update — FIRST COORDINATED GLOBAL RESPONSE EMERGING**: Three significant developments signal a turning point in global AMR response. (1) **Gates Foundation + Novo Nordisk Foundation + Wellcome Trust awarded $60M** to the new **Gram-Negative Antibiotic Discovery Innovator (Gr-ADI) consortium** in January 2026 — a first-of-its-kind open data-sharing model where multiple funders and research teams openly share data to accelerate antibiotic discovery, leveraging AI-enabled models. (2) At **Davos 2026**, the **AMR Compact** was launched with **50+ global leading organizations** committing coordinated action — spanning insurance, pharmaceutical/biotech, health systems, civil society, academia, animal health, finance, and philanthropy. (3) **CARB-X** announced a new chemistry-focused 2026 funding call targeting novel approaches against known AMR targets. Critical new threat data: carbapenem-resistant infections surged **69% in the US** with particularly infectious NDM strains up **461%**; treatment failure rates exceeding **50%** in some regions for last-resort antibiotics. The clinical pipeline remains dangerously thin: WHO identifies only **27 antibiotics** in development targeting priority pathogens, of which only **6 are truly innovative**. Major pharmaceutical companies have continued exiting the field due to poor economic returns despite urgent need — the market failure remains structural. New treatment approaches in 2026 include narrow-spectrum precision antibiotics, bacteriophage therapy, antimicrobial peptides, nanotechnology, and CRISPR-based antimicrobials — but most face commercial viability challenges.
+
+Additional evidence:
+- [Gates Foundation - Gr-ADI Consortium Launch](https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/01/amr-research-funding-combats-global-health-challenges): $60M to first open-data AMR discovery consortium
+- [World Economic Forum - Why we must act now on AMR](https://www.weforum.org/stories/2026/01/why-act-now-antimicrobial-resistance/): Davos AMR Compact, 50+ organizations
+- [Nature npj - Economic challenges in antibiotic development](https://www.nature.com/articles/s44259-025-00123-1): Market failure analysis, pipeline crisis
+- [Novo Nordisk Foundation - Gr-ADI announcement](https://novonordiskfonden.dk/en/news/new-global-consortium-aims-to-transform-antibiotic-discovery-to-counter-the-growing-amr-crisis): First open data-sharing antibiotic model
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -4758,6 +4776,124 @@ This is a **second-order climate risk**: the primary risk is climate change itse
 
 ---
 
+## Need: AI-Enabled Biosecurity Collapse and Bioweapons Democratization
+
+**ID**: NEED-073
+**Status**: observing
+**First Observed**: 2026-02-19
+**Last Updated**: 2026-02-19
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+The convergence of AI and synthetic biology is rapidly democratizing access to bioweapon development capabilities, while the US federal agencies responsible for monitoring and governing this threat are being defunded and dismantled. Two classes of AI tools pose immediate biosecurity risk: Large Language Models (LLMs) that can provide expert-level biological guidance to non-experts, and Biological Design Tools (BDTs) that can design novel proteins, pathogens, and genetic sequences. Anthropic's own assessment of Claude Opus 4 found it "can significantly enhance the ability of novices to plan bioweapon production" — triggering the company's highest security protocols. OpenAI's o3 model can assist experts in effectively planning operations for reproducing recognized biological threats. Microsoft researchers found generative AI can design dangerous proteins capable of evading biosecurity DNA screening systems. NIST's Center for AI Standards and Innovation (CAISI) — the **primary federal entity evaluating frontier AI models for biological risks** — faces a proposed 35% budget cut in FY 2026. Simultaneously, NIH faces -$18 billion in cuts, the CDC's Global Health Center faces dismantlement, and the White House Office of Pandemic Preparedness and Response Policy has no appointed leader. The Doomsday Clock biological threat section cites four escalating risk factors: AI tools enabling biodesign, research into self-replicating "mirror life," state-sponsored biological weapons programs, and dismantling of US public health infrastructure. A DIY bacterial gene engineering CRISPR kit is available online for $85; cloud labs can be hired to conduct experiments outsourcing human expertise. The gap between offensive AI capabilities and defensive institutional capacity is widening every month.
+
+### Evidence
+- [CSIS - Opportunities to Strengthen US Biosecurity from AI-Enabled Bioterrorism](https://www.csis.org/analysis/opportunities-strengthen-us-biosecurity-ai-enabled-bioterrorism-what-policymakers-should): LLMs and BDTs as primary biosecurity risk vectors
+- [Bulletin of the Atomic Scientists - 2026 Doomsday Clock Biological Threats](https://thebulletin.org/doomsday-clock/2026-statement/biological-threats/): Four escalating biological risk factors
+- [War on the Rocks - Biodefense Blind Spot](https://warontherocks.com/2026/02/biodefense-blind-spot-why-washington-confuses-pandemics-with-bioweapons/): US strategy conflates pandemics with deliberate threats, creating dangerous gaps
+- [Springer Nature AI and Ethics - AI/Synthetic Biology Biosecurity Risks](https://link.springer.com/article/10.1007/s43681-025-00872-9): Governance pathway analysis
+- [CNAS - AI and the Evolution of Biological National Security Risks](https://www.cnas.org/publications/reports/ai-and-the-evolution-of-biological-national-security-risks): AI setting tempo of biological risk
+- [Arc Institute Evo 2 - Jan 2026](https://arcinstitute.org/news): AI trained on 128K genomes can design entirely new organisms; biosafety safeguards bypassed within weeks of predecessor release
+- [Belfer Center - Biosecurity in the Age of AI](https://www.belfercenter.org/publication/biosecurity-age-ai-whats-risk): Risk assessment framework
+
+### Connections
+- Related to: NEED-021 (AI safety and autonomy crisis — malicious use dimension), NEED-061 (AMR — shared synthetic biology infrastructure), NEED-019 (cybersecurity — AI-powered attack tools), NEED-055 (climate data suppression — parallel pattern of defunding oversight agencies)
+- Potentially addresses: Biosecurity screening tools for cloud labs and DNA synthesis providers, AI model evaluation frameworks for biological risk, coordinated international governance, accessible threat modeling for public health agencies
+- Blocked by: Dual-use nature of biological knowledge, international coordination failure, insufficient institutional capacity after budget cuts, rapid pace of AI capability advancement
+
+### Research Notes
+This is distinct from NEED-061 (AMR) because it addresses deliberate threat rather than natural resistance evolution. It is distinct from NEED-021 (general AI safety) because it addresses the specific biological threat vector with catastrophic-scale implications requiring specialized biosecurity governance.
+
+**The core asymmetry**: Offensive capabilities democratizing rapidly (AI tools, cloud labs, cheap CRISPR kits, accessible knowledge). Defensive institutions being defunded and destaffed simultaneously. This is not a temporary policy misalignment — it is a structural trajectory.
+
+**Key failure modes:**
+1. **Knowledge democratization without proportional safeguards**: LLMs trained on biomedical literature can provide dangerous synthesis guidance without specialist expertise requirements
+2. **BDT proliferation outpacing screening**: DNA synthesis providers have voluntary screening commitments; cloud labs vary widely in safeguard rigor; no mandatory international framework exists
+3. **Institutional hollowing**: NIST CAISI (35% cut), NIH (-$18B), CDC Global Health Center (dismantled), WPPRP (no appointed leader) — the agencies capable of evaluating and governing these risks are being systematically weakened precisely as the threat grows
+4. **Attribution and detection lag**: Bioweapon development is largely digital and intellectual — leaving no physical signatures until deployment
+
+**The "Harvest Now, Use Later" dynamic** (analogous to quantum computing's "Harvest Now, Decrypt Later"): State and non-state actors can acquire AI biodesign capabilities now, even if immediate deployment risk is limited by detection and capability gaps, positioning for future catastrophic use as those gaps narrow.
+
+**Software intervention opportunities:**
+1. AI model evaluation frameworks specifically for biological risk across the full bioweapons lifecycle
+2. Screening tools for cloud labs and genetic synthesis providers — automated detection of dangerous sequences and protocols
+3. Surveillance systems that can identify early signals of bioweapon development without requiring physical evidence
+4. Open-source alternatives to commercial biosecurity tools — democratizing protection for under-resourced public health agencies
+5. International coordination platforms for shared threat intelligence across biosecurity agencies
+6. Public biosecurity education tools — understanding real vs. theatrical risks
+
+**Why software specifically**: The threat is largely digital (AI design tools, knowledge access, cloud lab protocols). Software-based screening, monitoring, and governance can meaningfully reduce risk without requiring physical enforcement.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (AI-enabled biosecurity threat and governance gaps)
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Eldercare Professional Workforce Collapse
+
+**ID**: NEED-074
+**Status**: observing
+**First Observed**: 2026-02-19
+**Last Updated**: 2026-02-19
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+America faces a demographic tidal wave colliding with a professional care workforce in collapse. The 65+ population grew from 12.4% of Americans in 2004 to 18% in 2024 — and seniors now outnumber children in 11 states. By 2034, seniors will outnumber children nationally. By 2040, 80 million Americans will be 65 or older. Yet the professional workforce needed to care for this population is shrinking, underpaid, and structurally fragile. Nearly 4 million home health and personal care aides earn a median of $16.82/hour (~$35,000/year) — wages too low to sustain workers in most housing markets. Over 800 nursing homes have closed in the past decade, with 600 more at risk. 30% of direct care workers are immigrants — now facing deportation risk and restrictive visa policies. A $1 trillion reduction in Medicaid (the primary payer for long-term care) threatens to deepen the funding collapse. 63 million unpaid family caregivers are filling the gap — but this invisible labor is itself burning out (NEED-008). No national plan exists to address the structural mismatch between the coming surge in need and the shrinking, underpaid workforce available to meet it.
+
+### Evidence
+- [Undark - The Ever-Shrinking Eldercare Workforce](https://undark.org/2026/01/15/opinion-shrinking-eldercare-workforce/): Comprehensive January 2026 analysis
+- [CNBC - Senior population booming, caregiving struggling to keep up](https://www.cnbc.com/2025/11/21/senior-caregiving-labor.html): Workforce shortage structural analysis
+- [NBC News - Underpaid and under pressure: The eldercare workforce](https://www.nbcnews.com/business/economy/eldercare-workers-job-growth-pressure-rcna258820): Median wage ~$35K, 800+ nursing home closures
+- [Northeastern University - Can America afford the elderly?](https://news.northeastern.edu/2026/02/16/can-america-afford-the-elderly-deep-dive/): February 16, 2026 deep dive
+- [NPR - Population decline means fewer caregivers for the elderly](https://www.npr.org/2025/11/02/nx-s1-5535648/population-elderly-caregivers): Demographic mismatch analysis
+- [ABIC - Senior Care Crisis](https://abic.us/crisis-in-care-american-senior-care-emergency/): Immigration policy threat to care workforce
+- [US Aging - Caregiver Needed workforce analysis](https://www.usaging.org/Files/Workforce-Issues_508.pdf): National workforce shortage documentation
+
+### Connections
+- Related to: NEED-008 (family caregiver crisis — 63M unpaid caregivers filling professional gaps), NEED-030 (elder digital divide — tech tools could extend capacity but only if accessible), NEED-046 (Medicaid funding collapse — primary payer for long-term care), NEED-049 (rural healthcare — eldercare deserts in rural areas disproportionate), NEED-060 (healthcare workforce — parallel structural shortage)
+- Potentially addresses: Care coordination platforms extending limited worker capacity, matching platforms connecting isolated elders with volunteer companions, remote monitoring reducing physical check requirements, training pipelines for new care workers, advocacy tools for workforce policy
+- Blocked by: Structural wage inadequacy, Medicaid reimbursement rates too low to support higher wages, immigration policy reducing worker supply, societal invisibility of care work, no national care infrastructure plan
+
+### Research Notes
+This is distinct from NEED-008 (family caregiver crisis) because it addresses the **professional paid workforce** — the people who should be doing this work but cannot sustain careers at these wages. NEED-008 addresses the 63 million unpaid family members filling the gaps when professional care collapses. Both are in crisis simultaneously, creating a compounding failure.
+
+**The structural wage trap**: Home health aide work is physically demanding, emotionally taxing, and requires genuine skill — yet median wages (~$35K/year) fall below living wages in most US metro areas. Medicaid reimbursement rates, set by state governments under federal constraints, set the ceiling for what agencies can pay workers. Agencies cannot raise wages without Medicaid rate increases. State legislatures resist raising Medicaid rates due to budget pressures. The $1 trillion Medicaid cut worsens this trap.
+
+**The immigration dimension**: 30% of direct care workers are immigrants — a proportion that would be higher if immigration policy allowed it. Deportation threats, restrictive visa policies, and anti-immigrant sentiment are simultaneously reducing current workforce and chilling future pipeline. This is particularly acute in areas where domestic worker supply is insufficient.
+
+**The nursing home closure cascade**: 800+ closures in last decade → families forced to provide home care → 63M family caregivers burn out → crisis level intensifies. With 600 more facilities at risk, the cascade continues.
+
+**The "sandwich generation" compounding**: Many family caregivers are simultaneously caring for aging parents AND young children. As this demographic ages and their own health declines, unpaid care capacity will decrease even as elder need increases.
+
+**The 2034 inflection point**: Seniors outnumber children nationally in 8 years. We are in the preparation window. Without structural change in wages, training pipelines, immigration policy, and Medicaid rates — the gap between need and capacity will become catastrophic.
+
+**Software opportunities** (realistic given structural nature):
+1. **Care coordination platforms** — help limited professional workers manage larger caseloads through scheduling optimization, family communication, and remote monitoring
+2. **Volunteer companion matching** — connect isolated elders with trained volunteers for social connection and light assistance, reducing burden on professional workers
+3. **Training and certification pathways** — lower friction for entering care workforce through online training, credentialing support, and career pathway transparency
+4. **Worker support platforms** — burnout prevention, peer support, and advocacy tools for care workers
+5. **Policy advocacy and transparency** — tools that make the workforce crisis visible to policymakers, connecting data to human stories
+6. **Family caregiver coordination** — when professional care is unavailable, help families coordinate more effectively
+
+**Note on what software cannot do**: Software cannot fix $35K median wages, rebuild Medicaid rates, or halt nursing home closures. The root causes require policy intervention. Software can extend the effectiveness of existing workers, reduce isolation, and build the political will for structural change.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (professional eldercare workforce in US context)
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -4961,4 +5097,10 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-17 | Scout-01 | Added NEED-069 | ADA Digital Accessibility Compliance Deadline Crisis - CRITICAL signal; April 24, 2026 deadline for public entities serving 50K+ people, April 26, 2027 for smaller entities; all services/programs/activities of state/local governments must be accessible including websites/online systems/digital resources; academic course content and institutional web materials must meet WCAG 2.1 standards; third-party vendors' public-facing materials also must comply; roughly 1 in 4 U.S. adults has disability; organizations conducting audits/investing in training/embedding accessibility into digital practices; many not prepared for imminent deadline |
 | 2026-02-17 | Scout-01 | Added NEED-070 | Mental Health Technology Safety and AI Chatbot Crisis - URGENT signal; Character.AI settlement after two teen deaths (Sewell Setzer III, Adam Raine), 1/3 of teens use chatbots daily, 16% use several times daily; less than half of mental health AI agents meet safety criteria; state bans (IL, NV) and disclosure laws (NY, UT); OpenAI lawsuit November 2026; tech industry mental health epidemic: founders twice as likely to have suicidal thoughts, ten times as likely to have bipolar disorder; $450B+ digital mental health market but AI anxiety becoming top workplace stressor (72% worried about economic effects, 47% job security concerns) |
 | 2026-02-17 | Scout-01 | Updated Overview | Increased observing count from 61 to 70 needs |
+| 2026-02-19 | Scout-01 | Updated Overview | Increased observing count from 72 to 74 needs; updated last observation to evening cycle |
+| 2026-02-19 | Scout-01 | Updated NEED-011 | Added Feb 19 congressional action: $50B foreign aid bill signed into law Feb 6; $9.4B global health, $5.4B humanitarian; 16% below FY2025 but $20B above Trump's request; critical implementation question: will administration spend what was appropriated? |
+| 2026-02-19 | Scout-01 | Updated NEED-028 | Added Feb 19 FinCEN formal alert to financial institutions on deepfake fraud schemes; North Korean IT workers using deepfakes to infiltrate US companies; 85% of identity fraud now uses generative AI; real-time voice cloning for wire transfer fraud; synthetic identity fraud; liveness detection as emerging defensive asymmetry |
+| 2026-02-19 | Scout-01 | Updated NEED-061 | Added Feb 19 AMR response developments: Gates/Novo Nordisk/Wellcome $60M Gr-ADI consortium (first open data-sharing antibiotic discovery model); Davos AMR Compact (50+ orgs); carbapenem-resistant infections up 69% US, NDM strains up 461%; only 27 antibiotics in clinical pipeline, 6 innovative |
+| 2026-02-19 | Scout-01 | Added NEED-073 | AI-Enabled Biosecurity Collapse and Bioweapons Democratization - URGENT signal; Claude Opus 4 enhances novice bioweapon planning capability; AI designs proteins evading DNA screening; NIST CAISI -35% budget; NIH -$18B; CDC Global Health dismantled; Doomsday Clock cites 4 biological escalation factors; $85 CRISPR kits; cloud lab outsourcing of experiments |
+| 2026-02-19 | Scout-01 | Added NEED-074 | Eldercare Professional Workforce Collapse - strong signal; 65+ population 18% of Americans (from 12.4% in 2004); 4M home health aides at $35K median; 800+ nursing home closures (600 more at risk); 30% immigrant workers facing deportation; $1T Medicaid cuts; 63M unpaid family caregivers filling gaps; no national plan |
 | 2026-02-16 | Scout-01 | Updated Overview Summary | Conducted comprehensive observation sweep: humanitarian crises escalating (South Sudan 10M, funding collapse below 2016 levels), cybersecurity critical (12K+ ransomware incidents projected, AI-powered attacks mainstream), deepfake fraud explosion ($1.1B tripled from 2024), coral reefs passed irreversible tipping point (first ecosystem, 1B people affected), climate data suppression ("most aggressive rollback ever"), mental health acute societal crisis (1B+ affected, $1T+ cost), education literacy deepening (30% 8th grade proficient, no state gains), workforce skills gap critical (74% employers struggling), housing crisis entrenched (771K homeless record high, unprecedented price cuts), nonprofit sector breaking point (95% worried burnout, existential funding threat) |
