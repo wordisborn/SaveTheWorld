@@ -10,14 +10,16 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 76 | Initial signals detected, gathering evidence |
+| Observing | 79 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-21 (Scout-01 daily observation cycle)
+**Last Observation**: 2026-02-21 (Scout-01 afternoon observation cycle)
+
+**Observation Summary (2026-02-21 Afternoon)**: Second sweep of the day; deepened research across Myanmar humanitarian catastrophe, global wealth inequality and democratic erosion, climate tipping point cascade science, Sudan famine expansion, AMR breakthrough, AI labor displacement inflection, and youth mental health technology developments. **MYANMAR — NEW NEED (NEED-077): "ALMOST INVISIBLE" CATASTROPHE**: UN calls Myanmar's crisis "almost invisible" despite being one of the world's worst. 16.2M people (45%+ of population, 5M children) need life-saving aid. 3.6M+ internally displaced — record high; 12M+ face acute hunger with 1M at emergency levels. Economy lost ~$100B since coup; 2025 earthquake compounded food insecurity for 2M more. Only 25% of 2025 humanitarian plan funded; junta's sham Feb 2026 elections (USDP landslide, widely dismissed as fraudulent) dismissed by international community. ICJ Rohingya genocide ruling expected within 3-6 months. EU allocated €63M Jan 30, 2026. Another simultaneous state collapse compounding an already overwhelmed humanitarian system. **WEALTH INEQUALITY — NEW NEED (NEED-078): BILLIONAIRES AS DEMOCRATIC THREAT**: Oxfam January 2026 report: 3,000+ billionaires, $18.3 trillion in wealth — an 81% real-terms increase since 2020 and 16.2% in the past year alone (3x the annual average). Elon Musk became first person in history to hold $500B+ in wealth. Poorest 50% hold 0.52% of global wealth; richest 1% own 43.8%. Billionaires are 4,000x more likely to hold political office than ordinary people. Six billionaires control 9 of the top 10 social media platforms. G20 expert committee: richest 1% increased wealth 2,655x more than bottom 50% since 2000. Highly unequal countries 7x more likely to experience democratic backsliding. WEF Global Risks Report 2026 identifies inequality as one of most interconnected global risks. World Inequality Report 2026 calls this outcome of "political and institutional choices, not economic inevitability." **CLIMATE TIPPING POINTS — NEW NEED (NEED-079): HOTHOUSE EARTH CASCADE**: Feb 11, 2026 study in *One Earth* (Oregon State University/Ripple et al.): "Earth's climate is now departing from the stable conditions that supported human civilization for millennia." 16 tipping elements analyzed; 10 could self-accelerate once triggered. AMOC weakening → Amazon dieback cascade risk confirmed. Greenland and West Antarctic ice sheets showing destabilization; boreal permafrost, mountain glaciers, and Amazon rainforest "on the verge." 1.5°C breached for 12 consecutive months. Carbon release from Amazon dieback would cascade into additional tipping points. Johan Rockström: "Earth's natural buffering capacity is weakening, feedbacks are pushing the system toward instability." Window "rapidly closing" — "course correction needed quickly." **SUDAN FAMINE EXPANDING**: 9 areas now in famine (was 5 in 2024). Two new North Darfur areas: Um Baru (53% of children 6mo-5yr with acute malnutrition) and Kernoi (32%). 2026 response plan ($2.9B) only 5.5% funded. New Sudan Humanitarian Fund: $700M pledged ($200M US + $500M UAE). **AMR CRISPR BREAKTHROUGH (Feb 17, 2026)**: Pro-AG pPro-MobV system spreads through bacterial communities and disables resistance genes — potentially reversible at scale. But: only 27 antibiotics in global clinical pipeline (6 innovative). Absence of a major infectious disease emergency in 2025 reduced political urgency. **AI LABOR DISPLACEMENT INFLECTION**: Investors confirm 2026 is the year AI shifts from "augmentation" to "replacement." MIT: 11.7% of U.S. jobs already automatable with current AI. Enterprise VCs predict agents will displace labor directly, not just make workers more efficient. SHRM (Feb 17, 2026) found workers remain largely unaware of their displacement risk. Automation tax proposals gaining traction. **YOUTH MENTAL HEALTH AND AI CHATBOTS (Feb 18, 2026)**: 1 in 8 teens now turn to AI chatbots (ChatGPT, etc.) for emotional support — because they're immediate and accessible when therapy waitlists stretch months. Central 2026 question: "Whether safeguards, standards, and accountability will be put in place quickly enough to protect young people." NYC Mayor Mamdani launches Elevate You clinics ($4M MetroPlusHealth) for ages 16-25. Serious mental illness in young adults quadrupled (3% to 12%) in just over a decade. **Signal priority updated: NEED-011 (mass-casualty humanitarian), NEED-079 (hothouse Earth — potentially irreversible), NEED-078 (billionaire-democratic erosion — structural threat), NEED-077 (Myanmar — invisible catastrophe), NEED-075 (civil liberties emergency).**
 
 **Observation Summary (2026-02-21)**: Conducted sweep across civil liberties crisis, DRC humanitarian catastrophe, deepfake fraud escalation, AI agent governance gaps, biosecurity developments, youth mental health research, food security pipeline breaks, and climate activism criminalization. **CIVIL LIBERTIES EMERGENCY — NEW NEED (NEED-075)**: FBI Joint Terrorism Task Forces, operating under Trump's NSPM-7, are now investigating peaceful climate activists as domestic terrorists. Extinction Rebellion NYC reports 7+ activists visited by FBI counterterrorism agents since Trump's second term began; Feb 19, 2026 story broke nationally. DOJ opened investigation into Climate Defiance after "viral peaceful protest." First-ever antifa domestic terrorism trial underway in Texas (9 protesters face terrorism charges from ICE detention facility protest). NSPM-7 identifies "anti-American," "anti-capitalism," and "anti-Christianity" views as terrorism indicators — civil liberties groups call it "broadest criminalization of free speech since McCarthyism." 31 members of Congress sent alarm letters. NYCLU, ACLU, Brennan Center challenging. FBI refused to confirm or deny. **DRC CONGO CATASTROPHE — NEW NEED (NEED-076)**: M23 rebels (backed by Rwanda with 3,000-4,000 troops) now control Goma and Bukavu — major eastern DRC cities seized in January 2025. 7M+ internally displaced (one of world's largest displacement crises). 26.6M facing acute food insecurity nationwide; 3M at emergency IPC Phase 4 levels — "almost double since last year." WFP warning of "complete halt of all emergency food assistance" in eastern provinces by Feb/March 2026 due to total pipeline break. War crimes documented: forced recruitment including children, sexual violence, executions. Doha ceasefire talks underway but ground situation remains volatile. **DEEPFAKE FRAUD: $40B BY 2027**: Deloitte projects GenAI fraud will hit $40B by 2027 in US alone (was $12.5B in 2024). Deepfakes now responsible for 1 in 5 biometric fraud attempts. Deepfake selfies increased 58% in 2025. Synthetic identity fraud is fastest-growing financial crime ($5B/year). 81% of AI-fraud cases involve deepfakes. **AI AGENT GOVERNANCE: 80% BLIND**: 80% of organizations deploying autonomous AI cannot track in real-time what those systems are doing or who's responsible. Only 23% have enterprise-wide agent identity management. Cascading failures: single compromised agent poisoned 87% of downstream decision-making within 4 hours in simulation. OWASP released AI Agent Security Top 10 for 2026. **AI BIOSECURITY DEEPENING**: New Feb 2026 report reveals "mirror life" as potential existential-level biological threat; Evo 2 model (128K genomes, 90% accuracy predicting disease-causing mutations) released Feb 2025 — safeguards circumvented within weeks of predecessor's release; Washington "biodefense blind spot" — US strategy confuses natural pandemics with deliberate bioweapons, creating dangerous gap. **CLIMATE CO₂ RECORD**: Largest annual CO₂ increase ever recorded in 2024 (3.5 ppm above 2023, largest since modern measurements began 1957). Ocean gained 23 Zetta Joules of heat in 2025 — equivalent to all of Earth's power sources running continuously for 37 years. **Signal priority unchanged: NEED-011 (mass-casualty scale), NEED-075 (civil liberties emergency — new), NEED-055 (climate regulatory gutted), NEED-076 (DRC pipeline break — new).**
 
@@ -2225,12 +2227,12 @@ However, this may be primarily a financial regulation and market dynamics proble
 **ID**: NEED-035
 **Status**: observing
 **First Observed**: 2026-02-09
-**Last Updated**: 2026-02-09
+**Last Updated**: 2026-02-21
 **Signal Strength**: critical
 **Scout**: Scout-01
 
 ### The Need
-Sudan is the world's largest hunger crisis. More people are living in famine conditions in Sudan than the rest of the world combined. Famine conditions are confirmed in Al Fasher and Kadugli, with risk of famine in 20 additional areas across Greater Darfur and Greater Kordofan. More than 21 million people face acute or worse food insecurity. Roughly 375,000 Sudanese face catastrophic hunger — the highest level. The Sudanese Civil War will enter its fourth year in April 2026. OCHA estimates 33.7 million people will require assistance in 2026, a 10% increase from the previous year. The conflict has killed tens of thousands, displaced nearly 11 million, and driven multiple regions into famine. South Kordofan is now the epicenter of the war, with civilians facing intensified fighting and near-total blockage of humanitarian supplies. More than 70% of Sudan's hospitals have been destroyed, with more than 120,000 confirmed cholera cases and over 3,000 deaths. WFP urgently requires $700 million to continue operations from January to June 2026. In 2025, 62% of needs went unfunded. The US has committed $200 million to a new UN fund, but humanitarian organizations reaching 80% of people in 27 famine and risk-of-famine areas can only address a fraction of total needs.
+Sudan is the world's largest hunger crisis. More people are living in famine conditions in Sudan than the rest of the world combined. As of February 2026, famine has now spread to **nine areas** — in 2024 it was five. Two new areas in North Darfur were confirmed in early 2026: **Um Baru** (nearly 53% of children aged 6 months to nearly 5 years suffering from acute malnutrition) and **Kernoi** (32% of children with acute malnutrition). The 2026 response plan ($2.9 billion) has received only **5.5% of needed funds**. Violence and siege warfare have pushed 19.2 million people — 40% of the population — into crisis or worse levels of food insecurity. Over 200,000 people endure catastrophic starvation risk daily. The Sudanese Civil War will enter its fourth year in April 2026. OCHA estimates 33.7 million people require assistance in 2026, a 10% increase from the prior year. South Kordofan and Darfur face near-total blockage of humanitarian supplies. More than 70% of Sudan's hospitals have been destroyed, with 120,000+ confirmed cholera cases and 3,000+ deaths. A new Sudan Humanitarian Fund launched in early 2026 with $700M pledged ($200M US + $500M UAE) but this covers only 24% of the $2.9B needed.
 
 ### Evidence
 - [World Food Programme - Famine in Sudan](https://www.wfp.org/emergencies/sudan): Sudan as world's largest hunger crisis
@@ -2238,11 +2240,16 @@ Sudan is the world's largest hunger crisis. More people are living in famine con
 - [PBS NewsHour - Biblical Famine Warning](https://www.pbs.org/newshour/show/head-of-humanitarian-group-urges-nations-to-step-up-sudan-aid-to-prevent-biblical-famine): Humanitarian leader warns of catastrophic scale
 - [Norwegian Refugee Council - Countdown to Catastrophe](https://www.nrc.no/news/2026/sudan-countdown-to-catastrophe-in-kordofan-as-world-once-again-looks-away): Kordofan crisis, world looking away
 - [ReliefWeb - Sudan Becomes World's Hungriest Country](https://reliefweb.int/report/sudan/sudan-becomes-worlds-hungriest-country-famine-spreads-two-new-areas-darfur): Famine spreading to new areas
+- [NBC News - Famine spreads to more towns in Sudan's Darfur (Feb 2026)](https://www.nbcnews.com/world/africa/famine-spreads-towns-sudans-darfur-region-hunger-experts-warn-war-rcna257561): Two new famine areas: Um Baru (53% child acute malnutrition) and Kernoi (32%) — ninth and tenth famine areas total
+- [Action Against Hunger - Sudan Hungriest Country](https://www.actionagainsthunger.org/press-releases/sudan-becomes-the-worlds-hungriest-country-as-famine-spreads-to-two-new-areas-of-darfur/): No end in sight despite some agricultural production in eastern Sudan
+- [UN News Feb 2026 - South Sudan/Gaza/Sudan update](https://news.un.org/en/story/2026/02/1167005): Feb 20 update — WFP operating under severe pipeline pressure, six operations globally at risk including Sudan
+
+**2026-02-21 Update**: Famine has expanded to nine areas of Sudan. Two new North Darfur areas confirmed in early 2026: Um Baru (53% of children 6mo-5yr with acute malnutrition — catastrophic by any measure) and Kernoi (32%). 2026 response plan only 5.5% funded ($2.9B needed). New Sudan Humanitarian Fund ($700M: US $200M + UAE $500M) is a meaningful but insufficient step — covers approximately one-quarter of the annual plan. The trajectory is worsening: nine famine areas vs. five in 2024, with no ceasefire in sight and access blockages persisting in South Kordofan and Darfur.
 
 ### Connections
-- Related to: NEED-011 (humanitarian aid efficiency crisis — same funding collapse), NEED-018 (global food insecurity — Sudan is largest crisis)
+- Related to: NEED-011 (humanitarian aid efficiency crisis — same funding collapse), NEED-018 (global food insecurity — Sudan is largest crisis), NEED-077 (Myanmar — simultaneous catastrophic need competing for same aid pool)
 - Potentially addresses: Mass starvation prevention, humanitarian aid effectiveness, conflict resolution support
-- Blocked by: Active warfare blocking humanitarian access, massive funding shortfall (62% unfunded in 2025)
+- Blocked by: Active warfare blocking humanitarian access, massive funding shortfall (5.5% funded in 2026)
 
 ### Research Notes
 "More people are living in famine conditions in Sudan than the rest of the world combined." This single sentence captures the crisis scale.
@@ -4227,7 +4234,7 @@ Over 50% of workforce planning to quit represents existential threat to healthca
 **ID**: NEED-061
 **Status**: observing
 **First Observed**: 2026-02-14
-**Last Updated**: 2026-02-19
+**Last Updated**: 2026-02-21
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -4280,6 +4287,12 @@ Additional evidence:
 - [World Economic Forum - Why we must act now on AMR](https://www.weforum.org/stories/2026/01/why-act-now-antimicrobial-resistance/): Davos AMR Compact, 50+ organizations
 - [Nature npj - Economic challenges in antibiotic development](https://www.nature.com/articles/s44259-025-00123-1): Market failure analysis, pipeline crisis
 - [Novo Nordisk Foundation - Gr-ADI announcement](https://novonordiskfonden.dk/en/news/new-global-consortium-aims-to-transform-antibiotic-discovery-to-counter-the-growing-amr-crisis): First open data-sharing antibiotic model
+
+**2026-02-21 Update — CRISPR GENE DRIVE BREAKTHROUGH**: ScienceDaily reported (Feb 17, 2026) that researchers developed the Pro-Active Genetics (Pro-AG) system — specifically **pPro-MobV** — designed to spread through bacterial communities and disable the genes that make bacteria resistant to antibiotics. Unlike previous CRISPR approaches targeting individual bacteria, this system can propagate through a population — a true "gene drive" for bacteria. This could theoretically reverse resistance in clinical settings, livestock, and environments. Key caveat: this is early-stage research (not yet in trials); safety/containment questions about gene drives spreading through microbial ecosystems are substantial. The irony of 2026: unprecedented scientific progress (CRISPR gene drives, AI-assisted drug discovery, open data-sharing consortiums) is occurring simultaneously with the worst funding/political environment for AMR in a decade — "absence of a widespread infectious disease emergency in 2025 has hindered progress" per TAXIS Pharmaceuticals analysis.
+
+Additional evidence (2026-02-21):
+- [ScienceDaily - CRISPR system could reverse antibiotic resistance (Feb 17, 2026)](https://www.sciencedaily.com/releases/2026/02/260217005717.htm): Pro-AG pPro-MobV system — gene drive approach spreading resistance-disabling mutations through bacterial communities
+- [TAXIS Pharmaceuticals analysis](https://taxispharma.com/absence-of-a-widespread-infectious-disease-emergency-in-2025-has-hindered-progress-in-combating-amr/): Lack of emergency in 2025 reduced political urgency despite accelerating threat
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -5010,6 +5023,169 @@ The DRC crisis has structural depth beyond the immediate M23 conflict:
 
 ---
 
+## Need: Myanmar Humanitarian Crisis — The Forgotten Catastrophe
+
+**ID**: NEED-077
+**Status**: observing
+**First Observed**: 2026-02-21
+**Last Updated**: 2026-02-21
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+Myanmar is experiencing one of the world's worst humanitarian crises — yet it remains so chronically underreported that the UN's own humanitarian coordinator called it "almost invisible." Five years since the military coup of 2021, a perfect storm of intensifying armed conflict, economic collapse (GDP down ~$100B), natural disaster (7.7-magnitude earthquake, March 2025), and now the collapse of international aid has left 16.2 million people — 45%+ of the population, including 5 million children — in need of life-saving assistance. At 3.6 million, internally displaced people are at a record high. 12 million+ face acute hunger; 1 million are expected to reach emergency levels in 2026. Yet humanitarian funding covered only 25% of needs in 2025. The 2026 plan has already been cut from $1.4B to $890M and targets only 4.9 million people — just 30% of those in need. Military-backed sham elections (December 2025–January 2026) dismissed internationally as fraudulent further entrenched the junta. An ICJ ruling on the Rohingya genocide case is expected within 3-6 months. Myanmar is simultaneously facing state collapse, food catastrophe, mass displacement, and international abandonment — while Sudan, Gaza, DRC, and Haiti compete for the same shrinking global humanitarian attention.
+
+### Evidence
+- [UN News — "Almost Invisible Crisis"](https://news.un.org/en/story/2025/12/1166618): UN Resident Coordinator Gwyn Lewis describes Myanmar crisis as "almost invisible" to the world despite being one of the most dire
+- [OCHA Myanmar HNRP 2026](https://www.unocha.org/publications/report/myanmar/myanmar-humanitarian-needs-and-response-plan-2026): 16.2M need life-saving assistance and protection in 2026
+- [WFP Myanmar 2026 Warning](https://www.wfp.org/news/wfp-warns-myanmar-faces-rising-displacement-and-unacceptable-hunger-levels-2026): 12M+ face acute hunger; 1M at emergency levels
+- [HRW Myanmar Junta Atrocities (Jan 28, 2026)](https://www.hrw.org/news/2026/01/28/myanmar-junta-atrocities-surge-5-years-since-coup): Junta intensified airstrikes in 2025, targeting schools, hospitals, religious sites, displaced person camps; 408 attacks during election period killing 170+ civilians
+- [USCRI Myanmar Situation Update February 2026](https://refugees.org/situation-update-myanmar-burma-february-2026/): Earthquake impacts 2M food insecure; displacement expected to reach 4M in 2026
+- [Myanmar Crisis Response Plan 2026 (IOM)](https://crisisresponse.iom.int/response/myanmar-crisis-response-plan-2026): $890M plan, down from $1.4B, targeting only 30% of those in need
+- [EU Myanmar Allocation (Jan 30, 2026)](https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-allocates-eu63-million-response-crisis-myanmar-and-its-impact-neighbouring-countries-2026-01-30_en): €63M allocated, among few positive donor signals in shrinking global aid environment
+
+### Connections
+- Related to: NEED-011 (humanitarian aid efficiency — Myanmar competes in same collapsed pool), NEED-018 (global food insecurity — Myanmar is sixth simultaneous crisis), NEED-035 (Sudan), NEED-036 (Haiti), NEED-076 (DRC)
+- Potentially addresses: Conflict early warning, displaced person documentation, humanitarian logistics routing, diaspora engagement platforms (Burmese diaspora internationally active), accountability documentation systems
+- Blocked by: Military junta control, restricted humanitarian access (especially Rakhine State), USAID dismantlement, global attention and funding collapse
+
+### Research Notes
+**The invisibility problem is structural, not incidental.** Myanmar lacks the geopolitical salience of Ukraine (NATO), the media profile of Gaza (Middle East centrality), or the regional urgency of DRC (mineral supply chains). It has been in crisis for five years — long enough to become "background noise." UN leadership explicitly flagged this visibility failure.
+
+**The accountability window**: The ICJ Rohingya genocide case ruling (expected within 3-6 months) could create a significant legal and political accountability moment. Software tools for evidence preservation, victim testimony documentation, and legal support could extend the reach of accountability mechanisms.
+
+**The diaspora angle**: The global Burmese diaspora (substantial in the US, UK, Thailand, Malaysia, Australia) is politically active and mobilized. Diaspora-to-verified-humanitarian-pipeline platforms could channel significant untapped resources.
+
+**The AI earthquake connection**: The March 2025 earthquake struck central Myanmar — key agricultural land — destroying crops and irrigation systems affecting 2M people's food security. This mirrors a pattern of compound crisis where AI-assisted early warning and logistics optimization could significantly reduce harm.
+
+**What software can do**:
+1. Humanitarian logistics routing for conflict-restricted areas (river routes, alternative channels)
+2. Diaspora mobilization platforms connecting Burmese expatriates to verified organizations
+3. Conflict-safe evidence documentation for ICJ proceedings
+4. Real-time food security monitoring integrating satellite and ground data
+5. Secure communications for civil society inside Myanmar
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (Myanmar humanitarian crisis, 2026 compound crisis)
+- [x] Feasibility seems plausible (diaspora mobilization, logistics, evidence documentation)
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Extreme Wealth Concentration and Billionaire-Driven Democratic Erosion
+
+**ID**: NEED-078
+**Status**: observing
+**First Observed**: 2026-02-21
+**Last Updated**: 2026-02-21
+**Signal Strength**: critical
+**Scout**: Scout-01
+
+### The Need
+Global billionaire wealth has reached $18.3 trillion — an 81% real-terms increase since 2020, with 16.2% growth in 2025 alone (three times the annual average). For the first time in history, the world has more than 3,000 billionaires, and one individual (Elon Musk) holds over $500 billion. The richest 1% own 43.8% of all global wealth; the poorest 50% hold 0.52%. Between 2000 and 2024, the richest 1% increased their wealth 2,655 times more than the bottom 50%. But wealth concentration is not merely an economic equity problem — it is now documented as a structural threat to democratic governance. Billionaires are 4,000 times more likely to hold political office than ordinary people. Six billionaires control 9 of the world's top 10 social media platforms. Eight of the top 10 AI companies are billionaire-controlled. Highly unequal countries are seven times more likely to experience democratic backsliding. The WEF Global Risks Report 2026, the World Inequality Report 2026, and the Oxfam January 2026 report converge on the same finding: the concentration of economic power is translating directly into political power, undermining accountability, elections, and institutional trust.
+
+### Evidence
+- [Oxfam January 2026 — "Resisting the Rule of the Rich"](https://www.oxfam.org.uk/get-involved/campaign-with-oxfam/fight-inequality/oxfams-global-inequality-report/): 3,000+ billionaires, $18.3T wealth, 81% above 2020; billionaires 4,000x more likely to hold political office; calls wealth "highly dangerous to democracy"
+- [Common Dreams — "Billionaire Wealth Record High"](https://www.commondreams.org/news/billionaire-wealth-record-high): Oxfam's $18.3T wealth figure; $2.5T increase in a single year; enough to eradicate extreme poverty 26 times over
+- [World Inequality Report 2026](https://wir2026.wid.world/insight/global-economic-inequity/): G20 expert committee findings; 1% increased wealth 2,655x more than bottom 50% since 2000; number of billionaires exceeds 3,000 globally
+- [Democracy Without Borders — "Extreme Wealth Inequality Threatening Democracy"](https://www.democracywithoutborders.org/40592/extreme-wealth-inequality-is-threatening-democracy-reports-warn/): Highly unequal countries 7x more likely to experience democratic backsliding; wealth-to-political-power conversion documented
+- [CNBC — "K-Shaped Economy"](https://www.cnbc.com/2026/01/30/wealth-inequality-k-shaped-economy-united-states-consumer-spending-trump.html): Confidence gap between highest and lowest earners at widest in over a decade in 2025
+- [WEF Oxfam — "How to Reclaim Our Future"](https://www.weforum.org/stories/2026/01/how-to-reclaim-our-future-from-extreme-wealth/): WEF Global Risks Report 2026 identifies inequality as interconnected risk linking to social fragmentation and political instability
+- [The Wire — "'Top 1% Own 43.8%'"](https://m.thewire.in/article/rights/oxfam-inequality-report-billionaires-rich-powerful-democracy-power-symmetry): Billionaire political office holding, media ownership, AI company control concentrated in same hands
+
+### Connections
+- Related to: NEED-012 (government trust collapse — wealth inequality as driver), NEED-023 (deepfakes threatening democracy — billionaire platform control enables this), NEED-015 (housing unaffordability — income inequality as primary driver), NEED-053 (intergenerational wealth — hereditary housing emerging)
+- Potentially addresses: Wealth transparency platforms, democratic accountability tools, policy advocacy platforms, progressive taxation advocacy systems, inequality tracking infrastructure
+- Blocked by: Political capture by wealthy interests, regulatory frameworks designed by the same concentration of power, billionaire media control creating structural information asymmetries
+
+### Research Notes
+**The self-reinforcing loop is the core danger.** Wealth creates political influence → political influence shapes tax and regulatory policy → policy preserves and expands wealth concentration. Billionaires now control the dominant platforms through which political information is disseminated, the AI systems that will shape future cognitive landscapes, and the media ecosystems that frame public understanding of these dynamics.
+
+**The democratic mechanism**: Oxfam documents that 100 billionaire families spent $2.6 billion — 16.5% of total political contributions — in 2024. In 2000, that figure was $18 million (0.6%). The scale shift is extraordinary and accelerating.
+
+**The proposed remedy**: G20 expert committee and Nobel laureate Joseph Stiglitz call for an International Panel on Inequality modeled on the IPCC — a body that would systematically track wealth distribution, policy impacts, and provide evidence-based recommendations across governments. Oxfam calls for 3% global wealth tax on centimillionaires/billionaires that would raise $750B/year — equivalent to all low/middle-income country education budgets combined.
+
+**Software's role**:
+1. Wealth transparency platforms (tracking billionaire political spending, media ownership, regulatory capture)
+2. Campaign finance monitoring and public accountability tools
+3. Alternative democratic participation platforms not controlled by billionaires
+4. Inequality tracking infrastructure (making World Inequality Lab data accessible and actionable)
+5. Open-source local news and civic information platforms outside billionaire media control
+
+**The AI dimension**: With 8 of 10 top AI companies billionaire-controlled, the systems that will shape labor markets, information access, and cognitive tools are increasingly owned by the same individuals whose wealth has outpaced accountability mechanisms.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (wealth-democratic erosion nexus, 2026 data)
+- [ ] Feasibility seems plausible
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Climate Hothouse Earth — Cascading Tipping Points
+
+**ID**: NEED-079
+**Status**: observing
+**First Observed**: 2026-02-21
+**Last Updated**: 2026-02-21
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+A landmark study published February 11, 2026 in *One Earth* ("The Risk of a Hothouse Earth Trajectory," led by Oregon State University's William Ripple with Johan Rockström, Katherine Richardson, and others) synthesizes findings on 16 Earth system tipping elements and concludes that Earth's climate is now departing from the stable conditions that have supported human civilization for millennia. Multiple tipping points are closer to destabilization than previously believed. 10 of the 16 tipping elements could self-accelerate heating if triggered. The critical dynamic is cascade: AMOC weakening → reduced tropical rainfall → Amazon dieback → carbon release → further warming → additional tipping points triggered. The Greenland and West Antarctic ice sheets are already showing signs of destabilization; boreal permafrost, mountain glaciers, and the Amazon rainforest appear to be "on the verge." The 1.5°C Paris threshold has been exceeded for 12 consecutive months. Scientists warn the window to avoid these irreversible cascades is "rapidly closing." This is distinct from the general climate crisis (already tracked) — it concerns specifically the feedback loop dynamics that could make warming self-sustaining and irreversible even with deep emissions cuts. This is the difference between "a problem we can solve" and "a point of no return."
+
+### Evidence
+- [One Earth — "The Risk of a Hothouse Earth Trajectory" (Feb 11, 2026)](https://www.euronews.com/green/2026/02/11/hothouse-earth-scientists-sound-alarm-as-multiple-climate-systems-near-critical-tipping-po): International collaboration; 16 tipping elements; AMOC-Amazon cascade risk; warning on irreversibility
+- [Oregon State University Newsroom](https://news.oregonstate.edu/news/course-correction-needed-quickly-avoid-pathway-%E2%80%98hothouse-earth%E2%80%99-scenario-scientists-say): Ripple: "Earth's climate is now departing from stable conditions that supported human civilization for millennia"
+- [Common Dreams — "Earth Hurtling Toward Hothouse Trajectory"](https://www.commondreams.org/news/climate-tipping-points): Johan Rockström: "Earth's natural buffering capacity is weakening, feedbacks are pushing the system toward instability"
+- [IIASA — "Course Correction Needed Quickly"](https://iiasa.ac.at/news/feb-2026/course-correction-needed-quickly-to-avoid-pathway-to-hothouse-earth-scenario): Co-author Christopher Wolf: "crossing even some of those thresholds could commit the planet to a hothouse trajectory with long-lasting and possibly irreversible consequences"
+- [Phys.org — "Quick course correction needed"](https://phys.org/news/2026-02-quick-hothouse-earth-scenario-scientists.html): Paper published Feb 11, 2026 in *One Earth* (Cell Press); review of climate feedback loops and 16 tipping elements
+- [ScienceDaily — "Earth hits first tipping point"](https://www.sciencedaily.com/releases/2025/10/251029002920.htm): Coral reef ecosystem already crossed irreversible tipping point in 2025 — first confirmed crossing
+- [Euronews — "Hothouse Earth scientists sound alarm"](https://www.euronews.com/green/2026/02/11/hothouse-earth-scientists-sound-alarm-as-multiple-climate-systems-near-critical-tipping-po): Multiple Earth systems closer to destabilization than previously believed
+
+### Connections
+- Related to: NEED-006 (climate justice — vulnerable communities hit first), NEED-009 (climate displacement — hothouse scenario dramatically increases displacement), NEED-033 (water security — hothouse Earth destroys water systems), NEED-055 (climate data suppression — US withdrawal removes major monitoring capacity precisely when most critical)
+- Potentially addresses: Tipping point early warning systems, global climate monitoring networks, AMOC/Amazon sensor infrastructure, open-source climate modeling platforms, policy action platforms
+- Blocked by: US withdrawal from UNFCCC, climate data suppression (NOAA/NASA funding threats), political inertia, economic models that fail to capture non-linear tipping dynamics (University of Exeter critique)
+
+### Research Notes
+**What makes this distinct from general climate coverage in this graph**: This is not about emissions trajectories or policy debates — it is about whether we are approaching self-sustaining, irreversible physical processes. The AMOC weakening (confirmed), Amazon stress (documented), Greenland destabilization (observed) are not projections but measured phenomena. The tipping cascade transforms the problem from "reduce harm progressively" to "prevent catastrophic discontinuity."
+
+**The AMOC-Amazon feedback chain** is the most documented and alarming cascade:
+1. Greenhouse gases → Arctic warming → Greenland melt → freshwater influx → AMOC slows
+2. AMOC slowdown → changes in tropical rainfall distribution → drought in northern Amazon
+3. Amazon drought + deforestation → Amazon dieback (forest → savanna)
+4. Amazon dieback → massive CO₂ release → additional warming
+5. Additional warming → accelerates all other tipping elements
+
+The Amazon is simultaneously under deforestation pressure (Brazil/Bolivia/Peru policies) and climate stress — a compounding risk that is not captured in single-variable analyses.
+
+**The economic models failure** (Exeter/Carbon Tracker research): Current financial models focus on GDP impacts and miss non-linear tipping dynamics, compound events, and ecosystem collapse — systematically underpricing climate risk and creating asset bubbles that could trigger a financial crash worse than 2008 when reality diverges from assumptions.
+
+**The monitoring gap is urgent**: With US threatening to shut CO₂ monitoring at Mauna Loa and NASA climate satellites, the scientific community risks losing the very measurement infrastructure needed to detect and respond to cascade signals. Open-source, internationally distributed climate monitoring is now a survival infrastructure question.
+
+**Software opportunities**:
+1. Real-time tipping point monitoring dashboards (integrating AMOC, Greenland, Amazon, permafrost data)
+2. Climate economic risk modeling (beyond GDP — capturing non-linear and compound events)
+3. Open-source climate sensor networks (replacing US withdrawal from monitoring)
+4. Ecosystem stress early warning systems (Amazon, permafrost, AMOC current tracking)
+5. Public-facing tipping point visualization and policy action tools
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (tipping cascade dynamics, distinct from general climate coverage)
+- [x] Feasibility seems plausible (monitoring systems, early warning infrastructure)
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -5038,7 +5214,9 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | **Surveillance and Control** | NEED-027, NEED-021, NEED-019, NEED-028 | Mass digital surveillance eroding privacy while AI-powered cybercrime and security threats create authoritarian pressures |
 | **Critical Systems Failure** | NEED-026, NEED-009, NEED-024 | Infrastructure decay (water, energy), global water bankruptcy, and data center environmental impacts creating compound crisis in essential systems |
 | **Civil Liberties and Democratic Erosion** | NEED-075, NEED-023, NEED-027, NEED-032 | Peaceful protesters classified as domestic terrorists, deepfakes threatening elections, mass surveillance expanding — the infrastructure of democratic participation under systematic attack |
-| **Compounding Humanitarian Collapse** | NEED-011, NEED-035, NEED-036, NEED-076 | Sudan famine, Haiti state collapse, DRC M23 catastrophe, and Gaza siege — simultaneous crises overwhelming a humanitarian system whose funding has fallen below 2016 levels while need reaches all-time highs |
+| **Compounding Humanitarian Collapse** | NEED-011, NEED-035, NEED-036, NEED-076, NEED-077 | Sudan famine (9 areas), Haiti state collapse, DRC M23 catastrophe, Myanmar "invisible catastrophe," and Gaza siege — five simultaneous crises overwhelming a humanitarian system whose funding has fallen below 2016 levels while need reaches all-time highs |
+| **Wealth and Power Concentration** | NEED-078, NEED-012, NEED-023, NEED-075 | Billionaire wealth at record $18.3T reshaping political power, media control, AI development, and democratic accountability — economic concentration translating directly into governance capture |
+| **Planetary Boundary Emergencies** | NEED-079, NEED-033, NEED-009, NEED-006 | Hothouse Earth tipping cascade, global water bankruptcy, climate displacement — Earth systems approaching irreversible destabilization while US withdraws from monitoring and governance |
 
 ---
 
@@ -5229,3 +5407,10 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-21 | Scout-01 | Updated NEED-013 | Added Feb 21 AI agent governance data: 80% of organizations cannot track AI agent activity in real time; only 23% have enterprise-wide agent identity management; OWASP AI Agent Security Top 10 released; cascading failures — single compromised agent poisoned 87% of downstream decisions in 4 hours in simulation; International AI Safety Report confirms "evaluation gap" (models distinguish eval vs deployment, alter behavior) |
 | 2026-02-21 | Scout-01 | Updated Clusters | Added Civil Liberties and Democratic Erosion cluster (NEED-075, 023, 027, 032); added Compounding Humanitarian Collapse cluster (NEED-011, 035, 036, 076); expanded from 16 to 18 thematic clusters |
 | 2026-02-16 | Scout-01 | Updated Overview Summary | Conducted comprehensive observation sweep: humanitarian crises escalating (South Sudan 10M, funding collapse below 2016 levels), cybersecurity critical (12K+ ransomware incidents projected, AI-powered attacks mainstream), deepfake fraud explosion ($1.1B tripled from 2024), coral reefs passed irreversible tipping point (first ecosystem, 1B people affected), climate data suppression ("most aggressive rollback ever"), mental health acute societal crisis (1B+ affected, $1T+ cost), education literacy deepening (30% 8th grade proficient, no state gains), workforce skills gap critical (74% employers struggling), housing crisis entrenched (771K homeless record high, unprecedented price cuts), nonprofit sector breaking point (95% worried burnout, existential funding threat) |
+| 2026-02-21 | Scout-01 | Updated Overview | Increased observing count from 76 to 79 needs; afternoon cycle |
+| 2026-02-21 | Scout-01 | Added NEED-077 | Myanmar Humanitarian Crisis — The Forgotten Catastrophe - URGENT signal; 16.2M need aid (45%+ of population, 5M children); 3.6M+ displaced (record); 12M+ food insecure; only 25% of 2025 plan funded; UN calls it "almost invisible" crisis; junta sham elections Feb 2026; ICJ Rohingya genocide ruling expected within 3-6 months; USAID dismantlement compounding existing crisis |
+| 2026-02-21 | Scout-01 | Added NEED-078 | Extreme Wealth Concentration and Billionaire-Driven Democratic Erosion - CRITICAL signal; 3,000+ billionaires, $18.3T wealth (81% above 2020); richest 1% own 43.8% of all wealth; billionaires 4,000x more likely to hold political office; 6 billionaires control 9 of 10 top social media platforms; 8 of 10 AI companies billionaire-controlled; highly unequal countries 7x more likely to experience democratic backsliding; Oxfam Jan 2026 and World Inequality Report 2026 converge on democratic threat framing |
+| 2026-02-21 | Scout-01 | Added NEED-079 | Climate Hothouse Earth — Cascading Tipping Points - URGENT signal; Feb 11, 2026 One Earth study by Ripple et al.; 16 tipping elements; AMOC weakening → Amazon dieback cascade confirmed; Greenland/West Antarctic ice sheets destabilizing; boreal permafrost and Amazon "on the verge"; 1.5°C exceeded for 12 consecutive months; Rockström: "Earth's natural buffering capacity is weakening"; window "rapidly closing" for course correction |
+| 2026-02-21 | Scout-01 | Updated NEED-035 | Sudan famine expanded to 9 areas (was 5 in 2024); two new North Darfur areas: Um Baru (53% child acute malnutrition) and Kernoi (32%); 2026 response plan only 5.5% funded; New Sudan Humanitarian Fund $700M ($200M US + $500M UAE) covers only ~24% of need |
+| 2026-02-21 | Scout-01 | Updated NEED-061 | Added CRISPR gene drive breakthrough: Pro-AG pPro-MobV system (Feb 17, 2026) designed to spread through bacterial communities disabling resistance genes; could potentially reverse resistance at scale; significant safety/containment questions remain; contrasted with political inertia and pipeline thinness |
+| 2026-02-21 | Scout-01 | Updated Clusters | Added Wealth and Power Concentration cluster (NEED-078, 012, 023, 075); added Planetary Boundary Emergencies cluster (NEED-079, 033, 009, 006); expanded Compounding Humanitarian Collapse cluster to include NEED-077; expanded from 18 to 21 thematic clusters |
