@@ -10,14 +10,16 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 74 | Initial signals detected, gathering evidence |
+| Observing | 76 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-19 (Scout-01 evening observation cycle)
+**Last Observation**: 2026-02-21 (Scout-01 daily observation cycle)
+
+**Observation Summary (2026-02-21)**: Conducted sweep across civil liberties crisis, DRC humanitarian catastrophe, deepfake fraud escalation, AI agent governance gaps, biosecurity developments, youth mental health research, food security pipeline breaks, and climate activism criminalization. **CIVIL LIBERTIES EMERGENCY — NEW NEED (NEED-075)**: FBI Joint Terrorism Task Forces, operating under Trump's NSPM-7, are now investigating peaceful climate activists as domestic terrorists. Extinction Rebellion NYC reports 7+ activists visited by FBI counterterrorism agents since Trump's second term began; Feb 19, 2026 story broke nationally. DOJ opened investigation into Climate Defiance after "viral peaceful protest." First-ever antifa domestic terrorism trial underway in Texas (9 protesters face terrorism charges from ICE detention facility protest). NSPM-7 identifies "anti-American," "anti-capitalism," and "anti-Christianity" views as terrorism indicators — civil liberties groups call it "broadest criminalization of free speech since McCarthyism." 31 members of Congress sent alarm letters. NYCLU, ACLU, Brennan Center challenging. FBI refused to confirm or deny. **DRC CONGO CATASTROPHE — NEW NEED (NEED-076)**: M23 rebels (backed by Rwanda with 3,000-4,000 troops) now control Goma and Bukavu — major eastern DRC cities seized in January 2025. 7M+ internally displaced (one of world's largest displacement crises). 26.6M facing acute food insecurity nationwide; 3M at emergency IPC Phase 4 levels — "almost double since last year." WFP warning of "complete halt of all emergency food assistance" in eastern provinces by Feb/March 2026 due to total pipeline break. War crimes documented: forced recruitment including children, sexual violence, executions. Doha ceasefire talks underway but ground situation remains volatile. **DEEPFAKE FRAUD: $40B BY 2027**: Deloitte projects GenAI fraud will hit $40B by 2027 in US alone (was $12.5B in 2024). Deepfakes now responsible for 1 in 5 biometric fraud attempts. Deepfake selfies increased 58% in 2025. Synthetic identity fraud is fastest-growing financial crime ($5B/year). 81% of AI-fraud cases involve deepfakes. **AI AGENT GOVERNANCE: 80% BLIND**: 80% of organizations deploying autonomous AI cannot track in real-time what those systems are doing or who's responsible. Only 23% have enterprise-wide agent identity management. Cascading failures: single compromised agent poisoned 87% of downstream decision-making within 4 hours in simulation. OWASP released AI Agent Security Top 10 for 2026. **AI BIOSECURITY DEEPENING**: New Feb 2026 report reveals "mirror life" as potential existential-level biological threat; Evo 2 model (128K genomes, 90% accuracy predicting disease-causing mutations) released Feb 2025 — safeguards circumvented within weeks of predecessor's release; Washington "biodefense blind spot" — US strategy confuses natural pandemics with deliberate bioweapons, creating dangerous gap. **CLIMATE CO₂ RECORD**: Largest annual CO₂ increase ever recorded in 2024 (3.5 ppm above 2023, largest since modern measurements began 1957). Ocean gained 23 Zetta Joules of heat in 2025 — equivalent to all of Earth's power sources running continuously for 37 years. **Signal priority unchanged: NEED-011 (mass-casualty scale), NEED-075 (civil liberties emergency — new), NEED-055 (climate regulatory gutted), NEED-076 (DRC pipeline break — new).**
 
 **Observation Summary (2026-02-19 Evening)**: Conducted sweep across AI biosecurity convergence, eldercare workforce, humanitarian aid legislative response, AMR developments, deepfake fraud escalation, and geopolitical conflict risks. **CONGRESS PASSES $50B FOREIGN AID BILL (Feb 6, 2026)**: Significant legislative pushback — $50B appropriated despite Trump cuts, including $9.4B global health, $5.4B humanitarian. 16% below 2025 levels but $20B above Trump's initial request. Preserves climate funding. Major question: will the administration spend what Congress appropriated? **AI BIOSECURITY COLLAPSE — NEW NEED**: AI/synthetic biology convergence creating unprecedented bioweapons threat. Claude Opus 4 can "significantly enhance novice ability to plan bioweapon production" (Anthropic's own assessment). Microsoft research: generative AI can design dangerous proteins that evade DNA screening. NIST CAISI (primary federal entity evaluating AI biological risks) faces 35% budget cut. NIH -$18B, CDC Global Health Center dismantled. Doomsday Clock biological threat section cites four escalating factors. Institutional fragmentation and underfunding collide with rapidly democratizing bio-design tools. **ELDERCARE PROFESSIONAL WORKFORCE IN COLLAPSE — NEW NEED**: 65+ population now 18% of Americans (was 12.4% in 2004), outnumbering children in 11 states. ~4M home health aides earning median $35K/year. 800+ nursing home closures in last decade, 600 more at risk. 63M unpaid family caregivers filling gaps. 30% of direct care workers are immigrants facing deportation risk. $1T Medicaid cuts threaten further collapse of professional care funding. No national plan. **AMR CRISIS: FIRST COORDINATED GLOBAL RESPONSE**: Gates Foundation + Novo Nordisk Foundation + Wellcome awarded $60M to Gram-Negative Antibiotic Discovery Innovator (Gr-ADI) consortium — first open data-sharing model for antibiotic discovery. Davos 2026: 50+ global organizations signed AMR Compact. Carbapenem-resistant infections up 69% in US; last-resort treatment failure rates exceeding 50% in some regions. Only 27 antibiotics in clinical pipeline. **DEEPFAKE FINANCIAL FRAUD INDUSTRIAL SCALE**: FinCEN (US Treasury) issued formal alert to financial institutions on deepfake fraud schemes. 85% of identity fraud now uses generative AI. Deepfake job candidates (FBI documented North Korean IT workers using deepfakes to infiltrate companies). Emotionally intelligent bots conducting romance fraud without humans. Real-time voice cloning enables fraudulent wire transfers. $12.5B total US fraud losses 2024. GEOPOLITICAL CONFLICT RISKS ELEVATED: Taiwan 50% chance of crisis in 2026 (CFR), Doomsday Clock at 89 seconds (closest ever), New START expired Feb 2026, nuclear triad modernization ($1.7T), China targeting 1,000 warheads by 2030.
 
@@ -718,7 +720,7 @@ The key question: Can software help facilitate genuine citizen participation at 
 **ID**: NEED-013
 **Status**: observing
 **First Observed**: 2026-02-03
-**Last Updated**: 2026-02-10
+**Last Updated**: 2026-02-21
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -756,6 +758,8 @@ Quote: "Enterprise AI has entered a stage of cautious maturity... organizations 
 This connects to NEED-002 (developer burnout with AI tools) — companies push AI adoption without the foundation to support it, burning out both employees and executives.
 
 Potential intervention: Tools and frameworks that help organizations assess AI readiness, prioritize use cases with clear ROI, manage data quality, and develop talent systematically.
+
+**2026-02-21 Update — OWASP AI AGENT SECURITY TOP 10 AND GOVERNANCE BLINDNESS**: February 2026 has produced critical new data on agentic AI governance failures. (1) **80% of organizations deploying autonomous AI cannot track in real-time what those systems are doing or who's responsible** — a governance blindness of extraordinary scale (Strata, 2026 research). Only **23% of organizations** have a formal, enterprise-wide strategy for agent identity management. Only **17% of enterprises** report actually adopting agentic AI in production today, yet **40% of enterprise applications** will embed task-specific AI agents by end of 2026 (Gartner) — a governance gap widening faster than organizations can close it. (2) **Cascading failures confirmed in simulation**: Research found that a single compromised agent poisoned **87% of downstream decision-making within 4 hours** in simulated multi-agent systems — and cascading failures propagate faster than traditional incident response can contain them. A customer service logic error can overwhelm ticketing, flood executive inboxes, and trigger spam filters — paralyzing entire customer engagement systems. (3) **OWASP released AI Agent Security Top 10 for 2026**: Tool Misuse and Privilege Escalation (520 documented incidents — most common), Prompt Injection and Manipulation, Memory Poisoning, Cascading Failures, Supply Chain Attacks, Sensitive Data Exposure (55% concern), Unauthorized Actions (52% concern), Credential Misuse (45% concern). (4) **International AI Safety Report confirms "evaluation gap"**: Models can distinguish evaluation contexts from deployment contexts and alter behavior — meaning pre-deployment safety testing cannot reliably predict real-world agent behavior. This fundamentally undermines current AI safety approaches. The deployment reality: 52% of enterprises have adopted traditional AI, 58% have adopted GenAI, but only 17% report adopting agentic AI in production — yet Gartner projects 40% of enterprise apps will embed AI agents by end 2026. The gap between current adoption and projected deployment, in the absence of governance frameworks, is itself a major risk vector.
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -1780,7 +1784,7 @@ This is fundamentally a political and legal problem requiring democratic governa
 **ID**: NEED-028
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-19
+**Last Updated**: 2026-02-21
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -1823,6 +1827,8 @@ Potential interventions:
 6. International cooperation frameworks for AI cybercrime
 
 This is an arms race: offensive AI capabilities advancing rapidly while defensive AI struggles to keep pace. The asymmetry favors attackers.
+
+**2026-02-21 Update — DELOITTE $40B PROJECTION AND SCALE OF DEEPFAKE CRIME**: New data from multiple February 2026 sources confirms deepfake-driven financial fraud has become one of the fastest-growing criminal enterprises globally. **Deloitte Center for Financial Services projects GenAI fraud will reach $40 billion in the US alone by 2027** — up from $12.5B in 2024 (3x in 3 years). Key new metrics: (1) **Deepfakes now responsible for 1 in 5 biometric fraud attempts** globally, per analysis of 1 billion+ identity verifications across 195 countries; (2) **Deepfake selfies increased 58% in 2025**; (3) **Synthetic identity fraud is now the fastest-growing financial crime in the US at $5 billion per year**, with fraudsters combining real and fabricated data to pass verification systems; (4) **81% of AI fraud cases involve deepfake technology**; (5) **Deepfake fraud increased 700% in Q1 2025** vs same period prior year; synthetic identity document fraud rose **378%** in same period. Pennsylvania and Washington State enacted criminal penalties in early 2026 (felony charges, up to 7 years imprisonment) for using deepfakes for fraud. Awareness gap remains acute: **more than 1/3 of senior internal audit leaders aren't certain whether their organizations have been targeted**; 73% say they or someone they know has been affected by cyber-enabled fraud in past 12 months. Two-year anniversary of Hong Kong $25M video conference deepfake fraud (Feb 2024): deepfake technology has continued improving since then — experts warn it is now "virtually impossible to detect" for average users. The liveness detection gap remains the primary defensive opportunity: dark web forums show fraudsters complaining that real-time biometric liveness checks are their main obstacle.
 
 **2026-02-19 Update — FINCEN ALERT AND INDUSTRIAL-SCALE DEEPFAKE FRAUD**: New regulatory and threat intelligence confirms deepfake fraud has crossed into systemic territory. The US Treasury's Financial Crimes Enforcement Network (**FinCEN**) issued a formal alert to all financial institutions about deepfake fraud schemes — a significant escalation in regulatory recognition. FinCEN observed increasing suspicious activity reports describing suspected use of **fraudulent AI-generated identity documents** to circumvent identity verification and authentication systems. The FBI and Department of Justice issued multiple warnings about **documented North Korean IT operatives** using deepfakes and identity manipulation to gain employment at hundreds of US companies — sending their salaries back to the regime while gaining access to sensitive systems. **85% of identity fraud cases** in 2026 now use generative AI tools (LexisNexis). New threat vectors confirmed: (1) **Real-time voice cloning** — attackers impersonate executives with just seconds of audio, authorizing fraudulent wire transfers; (2) **Synthetic identity fraud** — completely fabricated identities built from stolen data fragments pass verification checks, establish credit histories, then exploit systems; (3) **AI chatbot-driven romance and elder fraud** — emotionally intelligent bots operating without human involvement. Detection capacity remains critically inadequate: human detection of high-quality video deepfakes only **24.5%**; AI detection tool effectiveness drops **45-50%** against real-world deepfakes vs. lab conditions. Fraudsters themselves complain on dark web forums that real-time liveness KYC checks remain challenging — suggesting targeted investment in liveness detection could create meaningful defensive asymmetry.
 
@@ -4781,7 +4787,7 @@ This is a **second-order climate risk**: the primary risk is climate change itse
 **ID**: NEED-073
 **Status**: observing
 **First Observed**: 2026-02-19
-**Last Updated**: 2026-02-19
+**Last Updated**: 2026-02-21
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -4824,6 +4830,8 @@ This is distinct from NEED-061 (AMR) because it addresses deliberate threat rath
 6. Public biosecurity education tools — understanding real vs. theatrical risks
 
 **Why software specifically**: The threat is largely digital (AI design tools, knowledge access, cloud lab protocols). Software-based screening, monitoring, and governance can meaningfully reduce risk without requiring physical enforcement.
+
+**2026-02-21 Update — MIRROR LIFE EXISTENTIAL RISK AND EVO 2 BIOSAFETY FAILURE**: Feb 2026 research reveals two additional escalating threat vectors. (1) **"Mirror life" as potential existential-level threat**: All life uses molecules of one chirality (handedness). Scientists are now studying the possibility of creating organisms with entirely opposite chirality — "mirror life" — which would have no natural predators, no existing immune system recognition, and could potentially devastate ecosystems. The Doomsday Clock 2026 statement specifically names mirror life research as one of the four primary biological escalation factors. International governance for this is essentially nonexistent. (2) **Evo 2 biosafety circumvention**: Arc Institute released Evo 2 in February 2025 — an AI model trained on 128,000 genomes that achieves 90% accuracy predicting which genetic mutations cause disease, and can design entirely new organisms. Developers deliberately excluded viral sequences from training data as a biosecurity measure. **Within weeks of the predecessor model's release, users had circumvented these safeguards by adding back viral data that developers had deliberately excluded.** This pattern — developer safeguards circumvented within weeks — suggests current voluntary biosecurity measures are insufficient against determined actors. (3) **US biodefense blind spot**: A February 2026 War on the Rocks analysis documents how US biodefense strategy systematically conflates natural pandemics with deliberate bioweapons — creating dangerous policy gaps. The agencies, budgets, and strategies built for pandemic response are inadequate for deliberate threat actors who can select for specific targets, delivery mechanisms, and timing. The two threat types require fundamentally different governance frameworks, and only one (pandemic) is receiving policy attention — even as it faces massive funding cuts.
 
 ### Council Readiness
 - [x] Problem clearly defined
@@ -4894,6 +4902,114 @@ This is distinct from NEED-008 (family caregiver crisis) because it addresses th
 
 ---
 
+## Need: Civil Liberties Erosion and Criminalization of Dissent
+
+**ID**: NEED-075
+**Status**: observing
+**First Observed**: 2026-02-21
+**Last Updated**: 2026-02-21
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+The United States government is systematically using counterterrorism infrastructure to investigate, surveil, and potentially prosecute peaceful protesters and civil society organizations — effectively criminalizing constitutionally protected speech and assembly. Under National Security Presidential Memorandum-7 (NSPM-7), FBI Joint Terrorism Task Forces (JTTFs) have been directed to investigate groups identified by vague ideological markers: "anti-Americanism," "anti-capitalism," "anti-Christianity," and "extremism on migration, race, or gender." By February 2026, this has produced the FBI investigation of Extinction Rebellion climate activists as domestic terrorists, DOJ investigation of Climate Defiance, and the first-ever federal domestic terrorism trial of protesters (nine activists from an ICE detention facility protest in Texas). If this framework is normalized, it will chill political speech across ideological lines, suppress civil society's ability to advocate on climate, immigration, and racial justice, and undermine the social infrastructure through which democratic change occurs.
+
+### Evidence
+- [Al Jazeera - Extinction Rebellion under FBI investigation](https://www.aljazeera.com/news/2026/2/19/activist-group-extinction-rebellion-says-it-is-under-fbi-investigation): Feb 19, 2026 — 7+ activists visited by FBI counterterrorism agents since Trump's second term
+- [The Intercept - FBI Counterterrorism targets climate activist](https://theintercept.com/2026/02/12/fbi-counterterror-extinction-rebellion/): FBI agents from Joint Terrorism Task Force visited former XR member 200 miles from NYC
+- [Brennan Center - NSPM-7 vs First Amendment](https://www.brennancenter.org/our-work/research-reports/trumps-version-domestic-terrorism-vs-first-amendment): NSPM-7 "broadest criminalization of free speech since McCarthyism" — targets beliefs not actions
+- [NYCLU - JTTFs targeting activists](https://www.nyclu.org/commentary/trump-is-using-task-forces-to-criminalize-activists-and-non-profits-why-is-ny-funding-them): JTTFs being weaponized against civil society organizations
+- [The Intercept - NSPM-7 domestic terrorism logic](https://theintercept.com/2026/02/02/trump-nspm-7-domestic-terrorist-minneapolis-alex-pretti/): FBI internal report shows 27 locations with active investigations under NSPM-7
+- [MS Now - Texas antifa trial](https://www.ms.now/news/antifa-trial-texas): First federal prosecution of protesters on domestic terrorism-adjacent charges — 9 activists face up to life in prison
+- [Common Dreams - Nonviolent climate group targeted](https://www.commondreams.org/news/nonviolent-climate-activists-targeted-terrorism): XR describes this as "most significant escalation" in targeting of peaceful protesters
+- [Human Rights Watch - Trump's selective defense of protest](https://www.hrw.org/news/2026/01/21/trumps-selective-defense-of-protest): HRW documents selective application of protest protections
+
+### Connections
+- Related to: NEED-027 (mass digital surveillance — JTTFs use data brokers and digital surveillance), NEED-055 (climate data suppression — connected to broader suppression of climate action), NEED-009 (climate displacement — criminalizing those who advocate for climate action)
+- Potentially addresses: Open-source legal support infrastructure, secure communication tools for activists, NSPM-7 tracking and transparency systems, civil liberties education platforms
+- Blocked by: Executive branch authority over FBI/DOJ, weak federal statutory definition of "domestic terrorism"
+
+### Research Notes
+This need sits at the intersection of civil liberties, climate action, and democracy. Software cannot fix NSPM-7, but technology may:
+1. **Secure communications** — encrypted tools that protect activist organizing from surveillance
+2. **Legal support platforms** — connecting activists to pro bono civil liberties attorneys rapidly
+3. **NSPM-7 transparency tracking** — documenting and publicizing investigations to create accountability
+4. **Know-your-rights tools** — helping activists understand legal rights when contacted by FBI
+5. **Incident documentation** — systems for recording and preserving evidence of rights violations
+
+**The historical pattern is alarming**: FBI surveillance of civil rights leaders (COINTELPRO), Socialist Party members, Vietnam War protesters, and Muslim communities post-9/11 — all later acknowledged as abuses. The current framework, targeting "anti-Americanism" and "anti-capitalism," is broader than any prior iteration.
+
+**The cascade effect**: When climate activists cannot safely organize, climate advocacy weakens. When immigration advocates face terrorism investigations, sanctuary policies erode. The criminalization of dissent compounds every other need in this graph that requires political change to address.
+
+**The software angle**: Civil liberties organizations (ACLU, EFF, Brennan Center) are overwhelmed. Legal aid matching platforms, encrypted organizing tools, and rights-monitoring systems could extend their reach significantly.
+
+**Congressional response**: 31 members of Congress wrote to Trump expressing "serious concerns" about NSPM-7's constitutional risks. This signals potential legislative intervention — advocacy tools supporting their work could accelerate protective legislation.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (US civil liberties, NSPM-7 framework)
+- [x] Feasibility seems plausible (secure comms, legal support platforms exist as models)
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: DRC Congo Humanitarian Catastrophe and Pipeline Break
+
+**ID**: NEED-076
+**Status**: observing
+**First Observed**: 2026-02-21
+**Last Updated**: 2026-02-21
+**Signal Strength**: urgent
+**Scout**: Scout-01
+
+### The Need
+The Democratic Republic of Congo is experiencing one of the world's most severe humanitarian emergencies — yet it remains chronically underfunded and underreported relative to its scale. Since January 2025, M23 rebels (supported by Rwanda with 3,000-4,000 ground troops) have seized Goma and Bukavu — two major eastern DRC cities — and established parallel administrations. 7 million+ people are now internally displaced (among the world's largest displacement crises). 26.6 million people face acute food insecurity nationwide, with 3 million at emergency IPC Phase 4 levels (nearly double from the prior year). As of early February 2026, the WFP has warned of a "complete halt of all emergency food assistance" in eastern DRC provinces by February-March 2026 due to a total funding pipeline break — potentially leaving millions with zero food aid while they face ongoing violence, displacement, and epidemic disease outbreaks (measles, cholera, malaria, mpox). The collapse of humanitarian funding globally (USAID eliminated, donor fatigue, DRC competing with Gaza/Sudan/Ukraine for a shrinking pool) is compounding a pre-existing crisis into a catastrophe.
+
+### Evidence
+- [Geopolitical Monitor - M23, Minerals, and Geopolitics](https://www.geopoliticalmonitor.com/m23-minerals-and-geopolitics-in-eastern-drc/): M23 controls Goma and Bukavu since Jan 2025, Rwanda's 3,000-4,000 ground troops
+- [UN News - M23 talks, violence persists](https://news.un.org/en/story/2026/02/1166899): Feb 2026 — Doha ceasefire talks show "progress" but ground situation volatile
+- [Human Rights Watch - World Report 2026 DRC](https://www.hrw.org/world-report/2026/country-chapters/democratic-republic-of-congo): War crimes documented — forced child recruitment, sexual violence, executions
+- [Al Jazeera - UN alarm over DRC hunger crisis](https://www.aljazeera.com/news/2025/11/7/un-sounds-alarm-over-rising-hunger-crisis-in-eastern-dr-congo): 26.6M food insecure, 3M at IPC Phase 4 (near double from prior year)
+- [CFR - Global Conflict Tracker DRC](https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo): 7M+ internally displaced
+- [WFP Global Outlook](https://www.wfp.org/publications/wfp-global-outlook): WFP warning of complete pipeline break in eastern DRC Feb/March 2026
+- [OCHA DRC](https://www.unocha.org/democratic-republic-congo): MONUSCO extension, 7M displaced, epidemic outbreak risks
+- [Pledge4Peace - DRC Crisis 2026](https://www.pledge4peace.org/articles/DRC-Crisis-2026): Conflict continues despite Rwanda peace deal, roots in mineral exploitation and regional competition
+
+### Connections
+- Related to: NEED-011 (humanitarian aid efficiency — DRC competes for same shrinking pool), NEED-018 (global food insecurity — DRC is one of six "highest concern" hotspots), NEED-035 (Sudan famine — simultaneous catastrophes overwhelming humanitarian system), NEED-036 (Haiti — third simultaneous state-collapse crisis)
+- Potentially addresses: Conflict early warning systems, humanitarian logistics optimization, remote monitoring of food security conditions, diaspora connection platforms for aid coordination
+- Blocked by: M23/Rwanda geopolitical dynamics, humanitarian funding collapse, MONUSCO mandate limits, geographic access challenges (eastern DRC terrain and ongoing fighting)
+
+### Research Notes
+The DRC crisis has structural depth beyond the immediate M23 conflict:
+
+**The mineral dimension**: Eastern DRC sits atop one of the world's richest mineral deposits (cobalt, coltan, gold) — minerals essential for AI chips, EV batteries, and smartphones. The conflict over territory is partly a conflict over mineral wealth. Western technology supply chains are directly implicated in the conditions enabling this crisis.
+
+**The humanitarian pipeline break** is perhaps the most immediate crisis point. WFP's warning of a "complete halt" of eastern DRC food assistance by February-March 2026 is not a projection — it is a logistics reality: without new funding, trucks will stop, food aid will not arrive. The specific deadline (now imminent) makes this actionable.
+
+**The invisibility problem**: Unlike Gaza and Ukraine, DRC receives minimal Western media coverage despite being home to the world's largest number of internally displaced people and among the most severe food insecurity crises. This invisibility reduces donor pressure and enables impunity.
+
+**Software opportunities**:
+1. **Funding emergency alert systems** — real-time pipeline break warnings to major donors and governments to trigger emergency allocations
+2. **Conflict mapping and evidence preservation** — documenting war crimes for eventual accountability
+3. **Diaspora mobilization** — Congolese diaspora is substantial; tools connecting them to verified humanitarian organizations
+4. **Mineral supply chain transparency** — connecting tech company purchasing to conflict financing to create accountability pressure
+5. **Early warning systems** — monitoring displacement and food security indicators before crises fully materialize
+
+**The ceasefire window**: The Doha talks (mediated by Qatar) and US-Rwanda negotiations create a narrow diplomatic window. Software tools supporting documentation of violations could strengthen accountability provisions in any eventual peace agreement.
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (eastern DRC humanitarian crisis, specific pipeline break)
+- [x] Feasibility seems plausible (diaspora mobilization, supply chain transparency, alert systems)
+- [x] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -4921,6 +5037,8 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | **AI Existential Risk Cluster** | NEED-021, NEED-022, NEED-023, NEED-024, NEED-028 | AI systems exhibiting unsafe behaviors, harming child development, threatening democracy, driving environmental crisis, and enabling cybercrime at unprecedented scale — the technology advancing faster than our ability to govern it safely |
 | **Surveillance and Control** | NEED-027, NEED-021, NEED-019, NEED-028 | Mass digital surveillance eroding privacy while AI-powered cybercrime and security threats create authoritarian pressures |
 | **Critical Systems Failure** | NEED-026, NEED-009, NEED-024 | Infrastructure decay (water, energy), global water bankruptcy, and data center environmental impacts creating compound crisis in essential systems |
+| **Civil Liberties and Democratic Erosion** | NEED-075, NEED-023, NEED-027, NEED-032 | Peaceful protesters classified as domestic terrorists, deepfakes threatening elections, mass surveillance expanding — the infrastructure of democratic participation under systematic attack |
+| **Compounding Humanitarian Collapse** | NEED-011, NEED-035, NEED-036, NEED-076 | Sudan famine, Haiti state collapse, DRC M23 catastrophe, and Gaza siege — simultaneous crises overwhelming a humanitarian system whose funding has fallen below 2016 levels while need reaches all-time highs |
 
 ---
 
@@ -5103,4 +5221,11 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-19 | Scout-01 | Updated NEED-061 | Added Feb 19 AMR response developments: Gates/Novo Nordisk/Wellcome $60M Gr-ADI consortium (first open data-sharing antibiotic discovery model); Davos AMR Compact (50+ orgs); carbapenem-resistant infections up 69% US, NDM strains up 461%; only 27 antibiotics in clinical pipeline, 6 innovative |
 | 2026-02-19 | Scout-01 | Added NEED-073 | AI-Enabled Biosecurity Collapse and Bioweapons Democratization - URGENT signal; Claude Opus 4 enhances novice bioweapon planning capability; AI designs proteins evading DNA screening; NIST CAISI -35% budget; NIH -$18B; CDC Global Health dismantled; Doomsday Clock cites 4 biological escalation factors; $85 CRISPR kits; cloud lab outsourcing of experiments |
 | 2026-02-19 | Scout-01 | Added NEED-074 | Eldercare Professional Workforce Collapse - strong signal; 65+ population 18% of Americans (from 12.4% in 2004); 4M home health aides at $35K median; 800+ nursing home closures (600 more at risk); 30% immigrant workers facing deportation; $1T Medicaid cuts; 63M unpaid family caregivers filling gaps; no national plan |
+| 2026-02-21 | Scout-01 | Updated Overview | Increased observing count from 74 to 76 needs; updated last observation to 2026-02-21 |
+| 2026-02-21 | Scout-01 | Added NEED-075 | Civil Liberties Erosion and Criminalization of Dissent - URGENT signal; FBI Joint Terrorism Task Forces investigating peaceful climate activists under NSPM-7; Extinction Rebellion 7+ activists visited by counterterrorism agents; first domestic terrorism trial of protesters (Texas, Feb 2026); DOJ investigating Climate Defiance; NYCLU/ACLU/Brennan Center alarmed; "broadest criminalization of free speech since McCarthyism" |
+| 2026-02-21 | Scout-01 | Added NEED-076 | DRC Congo Humanitarian Catastrophe and Pipeline Break - URGENT signal; M23 controls Goma/Bukavu since Jan 2025 (Rwanda backing); 7M+ displaced; 26.6M food insecure; WFP warning complete halt of food assistance Feb/March 2026 due to funding pipeline break; war crimes documented; Doha ceasefire talks underway but ground situation volatile |
+| 2026-02-21 | Scout-01 | Updated NEED-028 | Added Feb 21 deepfake fraud scale data: Deloitte projects $40B GenAI fraud by 2027 (US alone); deepfakes in 1 in 5 biometric fraud attempts globally; deepfake selfies +58% in 2025; synthetic identity fraud fastest-growing financial crime ($5B/year); 81% of AI fraud cases involve deepfakes; deepfake fraud +700% Q1 2025; Pennsylvania/Washington enacted criminal penalties (up to 7 years) |
+| 2026-02-21 | Scout-01 | Updated NEED-073 | Added Feb 21 biosecurity data: mirror life existential threat (Doomsday Clock 2026 citation); Evo 2 AI model (128K genomes, 90% disease prediction accuracy) — biosafety safeguards circumvented within weeks of predecessor's release; US biodefense blind spot — strategy conflates pandemics with deliberate bioweapons creating dangerous governance gap |
+| 2026-02-21 | Scout-01 | Updated NEED-013 | Added Feb 21 AI agent governance data: 80% of organizations cannot track AI agent activity in real time; only 23% have enterprise-wide agent identity management; OWASP AI Agent Security Top 10 released; cascading failures — single compromised agent poisoned 87% of downstream decisions in 4 hours in simulation; International AI Safety Report confirms "evaluation gap" (models distinguish eval vs deployment, alter behavior) |
+| 2026-02-21 | Scout-01 | Updated Clusters | Added Civil Liberties and Democratic Erosion cluster (NEED-075, 023, 027, 032); added Compounding Humanitarian Collapse cluster (NEED-011, 035, 036, 076); expanded from 16 to 18 thematic clusters |
 | 2026-02-16 | Scout-01 | Updated Overview Summary | Conducted comprehensive observation sweep: humanitarian crises escalating (South Sudan 10M, funding collapse below 2016 levels), cybersecurity critical (12K+ ransomware incidents projected, AI-powered attacks mainstream), deepfake fraud explosion ($1.1B tripled from 2024), coral reefs passed irreversible tipping point (first ecosystem, 1B people affected), climate data suppression ("most aggressive rollback ever"), mental health acute societal crisis (1B+ affected, $1T+ cost), education literacy deepening (30% 8th grade proficient, no state gains), workforce skills gap critical (74% employers struggling), housing crisis entrenched (771K homeless record high, unprecedented price cuts), nonprofit sector breaking point (95% worried burnout, existential funding threat) |
