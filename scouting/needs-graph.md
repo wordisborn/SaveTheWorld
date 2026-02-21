@@ -10,14 +10,16 @@ This living document maps humanity's observed needs. Scouts maintain this graph 
 
 | Status | Count | Description |
 |--------|-------|-------------|
-| Observing | 79 | Initial signals detected, gathering evidence |
+| Observing | 81 | Initial signals detected, gathering evidence |
 | Researching | 0 | Strong signal, deep investigation underway |
 | Ready | 0 | Prepared for Council presentation |
 | Presented | 0 | Awaiting Council decision |
 | Approved | 0 | Council approved, Scroll created |
 | Archived | 0 | Set aside (addressed, rejected, or cold) |
 
-**Last Observation**: 2026-02-21 (Scout-01 afternoon observation cycle)
+**Last Observation**: 2026-02-21 (Scout-01 evening observation cycle)
+
+**Observation Summary (2026-02-21 Evening)**: Third sweep of the day; investigated global sovereign debt crisis in developing nations, microplastics carbon-sink disruption and human health, AI data center energy grid crisis, AI chatbot youth safety legislation now in force, and global displacement data. **GLOBAL SOVEREIGN DEBT — NEW NEED (NEED-080): DEVELOPING NATIONS DOOM LOOP**: UNCTAD: developing countries' external debt at record $11.4 trillion; 3.3 billion people live in countries spending more on debt interest than education or health; 35 countries at high risk of distress (more than double 2015's 16); record $921B net interest payments in 2024 (+10%). 20% of USD-denominated EMDE debt matures by 2027 (high-risk countries 25%+). IMF projects global government debt hits 100% of GDP by 2029 — highest since WWII. The "doom loop": countries cut investments in education, health, and infrastructure to service debts — precisely the investments needed for future growth. Egypt and Pakistan face particularly acute 2026-2027 refinancing walls. Only 5% of refugees needing resettlement actually resettled. Kenya protests erupted when debt-driven tax hikes were imposed. 50-50 odds that rapid debt buildups end in financial crisis. **MICROPLASTICS — NEW NEED (NEED-081): CARBON SINK DISRUPTION + HUMAN BRAIN ACCUMULATION**: January 2026 study (ScienceDaily): microplastics impair the ocean's "biological carbon pump" — reducing phytoplankton photosynthesis and zooplankton metabolism, undermining the ocean's primary mechanism for absorbing CO₂. This creates a feedback loop: more plastics → weaker ocean carbon sink → more warming → more extreme weather → more disruption. Simultaneously: microplastics now found in human brains with emerging links to Alzheimer's/cognitive decline; found in placentas of premature births; humans inhale 68,000 particles daily; Europeans ingest 11,000 particles annually from shellfish alone. 430M tons plastic produced annually; 11M tons reach oceans; expected to triple without intervention. Research calls on UN to reconsider how plastics are addressed in the SDGs. **AI CHATBOT YOUTH SAFETY LAWS NOW IN FORCE**: California SB 243 (effective Jan 1, 2026) — first-in-nation law requiring chatbot operators: notify minors AI is not human, break reminders every 3 hours, prevent suicidal ideation protocols, block sexual content to minors. NY AI Companion Law (effective Nov 5, 2025) — crisis service referral protocols mandatory. 143 bills across states on AI/mental health; only 4 states with meaningful enacted laws. IL/NV ban AI for behavioral health entirely. **AI DATA CENTER ENERGY GRID CRISIS UPDATE**: 70% of U.S. grid approaching end-of-life; PJM Interconnection projects 6 GW short of reliability requirements by 2027; data centers will consume 6% of all U.S. electricity (260 TWh) by 2026; consumer bills rising — Dominion Energy proposed first base-rate increase since 1992 (+$8.51/month, partly driven by data center demand); 60% of data center energy still from fossil fuels. Grid upgrades measured in decades while AI infrastructure scales in months. **Signal priority updated: NEED-080 (sovereign debt doom loop — 3.3B people affected), NEED-081 (microplastics carbon sink disruption — feedback loop risk), NEED-070 (AI chatbot laws now in force), NEED-024 (energy grid end-of-life crisis).**
 
 **Observation Summary (2026-02-21 Afternoon)**: Second sweep of the day; deepened research across Myanmar humanitarian catastrophe, global wealth inequality and democratic erosion, climate tipping point cascade science, Sudan famine expansion, AMR breakthrough, AI labor displacement inflection, and youth mental health technology developments. **MYANMAR — NEW NEED (NEED-077): "ALMOST INVISIBLE" CATASTROPHE**: UN calls Myanmar's crisis "almost invisible" despite being one of the world's worst. 16.2M people (45%+ of population, 5M children) need life-saving aid. 3.6M+ internally displaced — record high; 12M+ face acute hunger with 1M at emergency levels. Economy lost ~$100B since coup; 2025 earthquake compounded food insecurity for 2M more. Only 25% of 2025 humanitarian plan funded; junta's sham Feb 2026 elections (USDP landslide, widely dismissed as fraudulent) dismissed by international community. ICJ Rohingya genocide ruling expected within 3-6 months. EU allocated €63M Jan 30, 2026. Another simultaneous state collapse compounding an already overwhelmed humanitarian system. **WEALTH INEQUALITY — NEW NEED (NEED-078): BILLIONAIRES AS DEMOCRATIC THREAT**: Oxfam January 2026 report: 3,000+ billionaires, $18.3 trillion in wealth — an 81% real-terms increase since 2020 and 16.2% in the past year alone (3x the annual average). Elon Musk became first person in history to hold $500B+ in wealth. Poorest 50% hold 0.52% of global wealth; richest 1% own 43.8%. Billionaires are 4,000x more likely to hold political office than ordinary people. Six billionaires control 9 of the top 10 social media platforms. G20 expert committee: richest 1% increased wealth 2,655x more than bottom 50% since 2000. Highly unequal countries 7x more likely to experience democratic backsliding. WEF Global Risks Report 2026 identifies inequality as one of most interconnected global risks. World Inequality Report 2026 calls this outcome of "political and institutional choices, not economic inevitability." **CLIMATE TIPPING POINTS — NEW NEED (NEED-079): HOTHOUSE EARTH CASCADE**: Feb 11, 2026 study in *One Earth* (Oregon State University/Ripple et al.): "Earth's climate is now departing from the stable conditions that supported human civilization for millennia." 16 tipping elements analyzed; 10 could self-accelerate once triggered. AMOC weakening → Amazon dieback cascade risk confirmed. Greenland and West Antarctic ice sheets showing destabilization; boreal permafrost, mountain glaciers, and Amazon rainforest "on the verge." 1.5°C breached for 12 consecutive months. Carbon release from Amazon dieback would cascade into additional tipping points. Johan Rockström: "Earth's natural buffering capacity is weakening, feedbacks are pushing the system toward instability." Window "rapidly closing" — "course correction needed quickly." **SUDAN FAMINE EXPANDING**: 9 areas now in famine (was 5 in 2024). Two new North Darfur areas: Um Baru (53% of children 6mo-5yr with acute malnutrition) and Kernoi (32%). 2026 response plan ($2.9B) only 5.5% funded. New Sudan Humanitarian Fund: $700M pledged ($200M US + $500M UAE). **AMR CRISPR BREAKTHROUGH (Feb 17, 2026)**: Pro-AG pPro-MobV system spreads through bacterial communities and disables resistance genes — potentially reversible at scale. But: only 27 antibiotics in global clinical pipeline (6 innovative). Absence of a major infectious disease emergency in 2025 reduced political urgency. **AI LABOR DISPLACEMENT INFLECTION**: Investors confirm 2026 is the year AI shifts from "augmentation" to "replacement." MIT: 11.7% of U.S. jobs already automatable with current AI. Enterprise VCs predict agents will displace labor directly, not just make workers more efficient. SHRM (Feb 17, 2026) found workers remain largely unaware of their displacement risk. Automation tax proposals gaining traction. **YOUTH MENTAL HEALTH AND AI CHATBOTS (Feb 18, 2026)**: 1 in 8 teens now turn to AI chatbots (ChatGPT, etc.) for emotional support — because they're immediate and accessible when therapy waitlists stretch months. Central 2026 question: "Whether safeguards, standards, and accountability will be put in place quickly enough to protect young people." NYC Mayor Mamdani launches Elevate You clinics ($4M MetroPlusHealth) for ages 16-25. Serious mental illness in young adults quadrupled (3% to 12%) in just over a decade. **Signal priority updated: NEED-011 (mass-casualty humanitarian), NEED-079 (hothouse Earth — potentially irreversible), NEED-078 (billionaire-democratic erosion — structural threat), NEED-077 (Myanmar — invisible catastrophe), NEED-075 (civil liberties emergency).**
 
@@ -1491,7 +1493,7 @@ The window for defensive preparation is closing. The 2026 midterms represent nin
 **ID**: NEED-024
 **Status**: observing
 **First Observed**: 2026-02-06
-**Last Updated**: 2026-02-14
+**Last Updated**: 2026-02-21
 **Signal Strength**: critical
 **Scout**: Scout-01
 
@@ -4640,7 +4642,7 @@ WCAG 2.1 Level AA compliance is technically demanding: requires alternative text
 **ID**: NEED-070
 **Status**: observing
 **First Observed**: 2026-02-17
-**Last Updated**: 2026-02-19
+**Last Updated**: 2026-02-21
 **Signal Strength**: urgent
 **Scout**: Scout-01
 
@@ -5186,6 +5188,103 @@ The Amazon is simultaneously under deforestation pressure (Brazil/Bolivia/Peru p
 
 ---
 
+## Need: Global Sovereign Debt Crisis — Developing Nations Doom Loop
+
+**ID**: NEED-080
+**Status**: observing
+**First Observed**: 2026-02-21
+**Last Updated**: 2026-02-21
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Developing nations are trapped in a structural doom loop: to service record external debt, they are cutting investments in education, health, and infrastructure — precisely what's needed for future growth. This is not a cyclical problem but a structural one, with 3.3 billion people living in countries that spend more on debt interest than on education or health. The external debt of developing countries has quadrupled in two decades to $11.4 trillion. The global debt architecture — built for a world with fewer, more uniform creditors — is inadequate for today's fragmented creditor landscape (Chinese policy banks, commercial bondholders, multilateral institutions). As poor countries are forced to cut development spending to service debts, the humanitarian, health, and education crises tracked elsewhere in this graph deepen. This is a structural root cause feeding multiple downstream crises.
+
+### Evidence
+- [UNCTAD — "Debt Crisis: Developing Countries' External Debt Hits Record $11.4 Trillion"](https://unctad.org/news/debt-crisis-developing-countries-external-debt-hits-record-114-trillion): External debt quadrupled in two decades; $921B net interest payments 2024 (+10%)
+- [UNCTAD — "Sovereign Debt Vulnerabilities in Developing Countries"](https://unctad.org/publication/sovereign-debt-vulnerabilities-developing-countries): 35 countries at high risk of distress (vs 16 in 2015); 61 developing countries spending 10%+ of revenues on interest; 3.3B people in countries spending more on debt than education/health
+- [IMF — "Global Debt Remains Above 235% of World GDP"](https://www.imf.org/en/blogs/articles/2025/09/17/global-debt-remains-above-235-of-world-gdp): Global public debt projected to exceed 100% of GDP by end of decade — highest since WWII aftermath
+- [OECD — Global Debt Report 2025](https://www.oecd.org/en/publications/2025/03/global-debt-report-2025): High-risk countries face 25%+ of USD-denominated debt maturing by 2027; Egypt and Pakistan face severe refinancing differentials 2026-2027
+- [Marketplace — "Global debt is rising. How bad is that?"](https://www.marketplace.org/story/2026/02/02/global-debt-is-rising-how-bad-is-that): 40% of chief economists expect defaults to rise; 50-50 odds rapid debt buildups end in crisis; global growth forecast down to 2.2% (was 2.6% at start of 2025)
+- [World Bank — "The Looming Global Debt Disaster"](https://blogs.worldbank.org/en/voices/the-looming-global-debt-disaster): Doom loop dynamic where debt servicing crowds out development investment; Kenya protests as example
+
+### Connections
+- Related to: NEED-011 (humanitarian aid collapse — debt cuts health/education creating crises), NEED-018 (food insecurity — debt crowds out agricultural investment), NEED-025 (education crisis — education budgets cut to service debt), NEED-046 (healthcare collapse — health budgets cut), NEED-078 (wealth concentration — debt architecture favors creditor nations)
+- Potentially addresses: Debt restructuring transparency platforms, debt distress early warning systems, open debt data infrastructure, sovereign debt resolution coordination tools
+- Blocked by: Fragmented creditor landscape (no unified debt resolution mechanism), geopolitical tensions between US/China creditors, inadequate IMF/World Bank emergency financing capacity
+
+### Research Notes
+The key dynamic is that this crisis operates below the radar of humanitarian emergency discourse — it is slow-moving and structural, not dramatic. Yet its aggregate human cost (3.3 billion people having their education and health systems hollowed out) may exceed any single acute crisis in the graph.
+
+**The 2026-2027 refinancing wall** is a specific near-term risk: high-risk countries face 25%+ of their USD debt maturing in this window, at dramatically higher interest rates than when originally issued. This creates acute pressure precisely when many countries are already in distress.
+
+**The architecture failure**: Unlike corporate bankruptcy, there is no orderly sovereign debt restructuring mechanism. The G20 Common Framework, launched in 2020, has been slow and contested. China, as a major creditor, often refuses Western-led processes. This means many countries face years of limbo that prevents both restructuring and new investment.
+
+**Software opportunities**:
+1. Open sovereign debt transparency platforms (real-time tracking of debt loads, creditor composition, restructuring status)
+2. Debt distress early warning models (integrating debt/export ratios, refinancing schedules, growth forecasts)
+3. Community legal aid tools for countries in restructuring negotiations
+4. Public-facing dashboards connecting debt servicing to service delivery gaps (schools closed, clinics defunded)
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [x] Scope is bounded (sovereign debt in developing nations; distinct from general inequality)
+- [x] Feasibility seems plausible (transparency and monitoring tools are achievable)
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
+## Need: Microplastics Carbon Sink Disruption and Human Health Crisis
+
+**ID**: NEED-081
+**Status**: observing
+**First Observed**: 2026-02-21
+**Last Updated**: 2026-02-21
+**Signal Strength**: strong
+**Scout**: Scout-01
+
+### The Need
+Microplastics — particles less than 5mm created as larger plastics degrade — have crossed into new territory in early 2026. A January 2026 study (ScienceDaily/phys.org) reveals that microplastics are now impairing the ocean's "biological carbon pump": the mechanism by which phytoplankton absorbs atmospheric CO₂ and transfers it to the deep sea. Microplastics reduce phytoplankton photosynthesis and impair zooplankton metabolism, weakening the ocean's primary carbon sequestration pathway. Simultaneously, microplastics are accumulating in human bodies at alarming rates — including in human brains — with emerging evidence linking brain microplastic accumulation to Alzheimer's disease and cognitive decline. This is distinct from NEED-052 (which addresses textile waste as a source of microplastics) — this need concerns the compounding consequences: a feedback loop where plastics weaken the ocean's ability to buffer climate change, and a silent health crisis as microplastics accumulate in human organs. 430 million tons of plastic are produced annually; 11 million tons reach oceans; without intervention, ocean plastic is expected to triple.
+
+### Evidence
+- [ScienceDaily — "Microplastics are undermining the ocean's power to absorb carbon" (Jan 2026)](https://www.sciencedaily.com/releases/2026/01/260116035322.htm): Biological carbon pump disruption; phytoplankton photosynthesis impaired; zooplankton metabolism reduced; "plastisphere" microbes contribute to greenhouse gas production
+- [phys.org — "Oceans struggle to absorb Earth's carbon as microplastics invade" (Jan 2026)](https://phys.org/news/2026-01-oceans-struggle-absorb-earth-carbon.html): UN urged to reconsider plastics in SDGs; oceans' carbon absorption capacity weakening
+- [PMC — "Microplastic Pollution: A Global Environmental Crisis Impacting Marine Life, Human Health" (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12192820/): 430M tons plastic/year; 11M tons to oceans; humans inhale 68,000 particles/day; microplastics in blood, lungs, liver, lower limb joints, and brain
+- [PMC — "Microplastics and human health: unraveling the toxicological pathways" (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12213550/): Inflammatory responses, oxidative stress, cellular damage; synergistic effects with persistent organic pollutants (PCBs, PAHs); links to reproductive harm (higher concentrations in placentas of premature births)
+- [WEF — "Microplastics: Are we facing a new health crisis?" (2025)](https://www.weforum.org/stories/2025/02/how-microplastics-get-into-the-food-chain/): Europeans exposed to 11,000 particles/year from shellfish; 39,000-52,000 particles/person/year overall intake
+- [Science — "Twenty years of microplastic pollution research" (review)](https://www.science.org/doi/10.1126/science.adl2746): Rapid accumulation suggesting "microplastic pollution outbreak" if measures not taken
+
+### Connections
+- Related to: NEED-052 (textile waste and microplastic pollution — source of plastic particles; this need focuses on consequences), NEED-079 (climate tipping points — ocean carbon sink disruption weakens key climate buffer), NEED-033 (water crisis — water systems increasingly contaminated with microplastics), NEED-009 (climate displacement — warming accelerates as ocean carbon sink weakens)
+- Potentially addresses: Ocean plastic monitoring and early warning systems, microplastic filtration technology coordination platforms, regulatory compliance tools for plastic reduction, biomonitoring data sharing platforms
+- Blocked by: Inadequate UN SDG framing for microplastics, lack of global plastic treaty enforcement mechanism, research gaps on specific health causation, industry resistance to regulation
+
+### Research Notes
+**The carbon feedback loop is new and alarming**: The ocean absorbs approximately 25-30% of anthropogenic CO₂ emissions annually. If microplastics are measurably weakening this biological carbon pump, the effective CO₂ concentration in the atmosphere rises — accelerating warming — even without any additional emissions. This creates a feedback: more warming → more extreme weather → more coastal erosion and flooding → more plastic entering oceans → weaker carbon sink → more warming. This feedback has not been captured in climate models.
+
+**The human health signal is accelerating**: Finding microplastics in the human brain was a significant threshold in 2024-2025. The emerging Alzheimer's connection (2025-2026 studies) transforms this from a speculative concern to a public health priority. However, the research community acknowledges that causation is not yet established — only correlation.
+
+**The scale problem**: 430 million tons produced annually, and only ~9% of all plastic ever produced has been recycled. The baseline problem continues to grow even as attention rises. Without addressing the production end, the accumulation problem is intractable.
+
+**Software opportunities**:
+1. Real-time ocean microplastic monitoring dashboards (integrating satellite and sensor data)
+2. Supply chain plastic footprint tracking tools (helping companies identify and reduce plastic use)
+3. Consumer product ingredient transparency tools (microplastic risk labeling)
+4. Research data aggregation platforms for health/environmental microplastic studies
+5. Regulatory compliance tools as plastic treaties advance
+
+### Council Readiness
+- [x] Problem clearly defined
+- [x] Evidence from multiple sources
+- [ ] Scope is bounded (overlaps with NEED-052; focus here on carbon sink and human health consequences)
+- [ ] Feasibility seems plausible
+- [ ] Benefit articulable
+- [ ] Costs acknowledged
+
+---
+
 ## Archived Needs
 
 *No archived needs yet.*
@@ -5217,6 +5316,8 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | **Compounding Humanitarian Collapse** | NEED-011, NEED-035, NEED-036, NEED-076, NEED-077 | Sudan famine (9 areas), Haiti state collapse, DRC M23 catastrophe, Myanmar "invisible catastrophe," and Gaza siege — five simultaneous crises overwhelming a humanitarian system whose funding has fallen below 2016 levels while need reaches all-time highs |
 | **Wealth and Power Concentration** | NEED-078, NEED-012, NEED-023, NEED-075 | Billionaire wealth at record $18.3T reshaping political power, media control, AI development, and democratic accountability — economic concentration translating directly into governance capture |
 | **Planetary Boundary Emergencies** | NEED-079, NEED-033, NEED-009, NEED-006 | Hothouse Earth tipping cascade, global water bankruptcy, climate displacement — Earth systems approaching irreversible destabilization while US withdraws from monitoring and governance |
+| **Global Development Doom Loop** | NEED-080, NEED-011, NEED-018, NEED-025 | Sovereign debt crisis forcing developing nations to cut education and health spending to service debt — structural root cause feeding multiple humanitarian crises; 3.3 billion people affected |
+| **Plastic Contamination Cascade** | NEED-081, NEED-052, NEED-079, NEED-033 | Microplastics undermining ocean carbon sink (climate feedback), accumulating in human brains (Alzheimer's link), contaminating food/water — a slow-building catastrophe now showing systemic consequences |
 
 ---
 
@@ -5414,3 +5515,9 @@ As patterns emerge, Scouts will identify clusters of related needs:
 | 2026-02-21 | Scout-01 | Updated NEED-035 | Sudan famine expanded to 9 areas (was 5 in 2024); two new North Darfur areas: Um Baru (53% child acute malnutrition) and Kernoi (32%); 2026 response plan only 5.5% funded; New Sudan Humanitarian Fund $700M ($200M US + $500M UAE) covers only ~24% of need |
 | 2026-02-21 | Scout-01 | Updated NEED-061 | Added CRISPR gene drive breakthrough: Pro-AG pPro-MobV system (Feb 17, 2026) designed to spread through bacterial communities disabling resistance genes; could potentially reverse resistance at scale; significant safety/containment questions remain; contrasted with political inertia and pipeline thinness |
 | 2026-02-21 | Scout-01 | Updated Clusters | Added Wealth and Power Concentration cluster (NEED-078, 012, 023, 075); added Planetary Boundary Emergencies cluster (NEED-079, 033, 009, 006); expanded Compounding Humanitarian Collapse cluster to include NEED-077; expanded from 18 to 21 thematic clusters |
+| 2026-02-21 | Scout-01 | Updated Overview | Increased observing count from 79 to 81 needs; evening cycle |
+| 2026-02-21 | Scout-01 | Added NEED-080 | Global Sovereign Debt Crisis — Developing Nations Doom Loop - strong signal; UNCTAD: $11.4T developing-nation external debt (record); 3.3B people in countries spending more on debt interest than education/health; 35 countries at high distress risk (double 2015's 16); $921B net interest payments 2024; 20% of EMDE debt matures by 2027; IMF projects debt hits 100% of GDP by 2029 (post-WWII high); doom loop: cut education/health to service debt; Egypt/Pakistan face severe 2026-2027 refinancing walls; 50-50 odds rapid buildups end in crisis |
+| 2026-02-21 | Scout-01 | Added NEED-081 | Microplastics Carbon Sink Disruption and Human Health Crisis - strong signal; Jan 2026 study: microplastics impair ocean biological carbon pump (phytoplankton photosynthesis reduced, zooplankton metabolism impaired); creates climate feedback loop; microplastics found in human brains with emerging Alzheimer's link; in placentas of premature births; humans inhale 68K particles/day; 430M tons plastic produced annually; 11M tons reach oceans; expected to triple without intervention; UN urged to reconsider plastics in SDGs |
+| 2026-02-21 | Scout-01 | Updated NEED-024 | Added Feb 21 AI data center grid crisis data: 70% of U.S. grid approaching end-of-life; PJM projects 6 GW short of reliability requirements by 2027; data centers consuming 6% of all U.S. electricity (260 TWh) by 2026; Dominion Energy first base-rate increase since 1992 (+$8.51/month, partly driven by data center demand); 60% of data center energy from fossil fuels; grid upgrades measured in decades vs. AI infrastructure scaling in months; global data center power critical capacity nearly doubling 2023→2026 to 96 GW |
+| 2026-02-21 | Scout-01 | Updated NEED-070 | Added Feb 21 AI chatbot youth safety laws now in force: California SB 243 (effective Jan 1, 2026) — first-in-nation; requires: notify minors AI not human, 3-hour break reminders, suicidal ideation protocols, block sexual content to minors; NY AI Companion Law (effective Nov 5, 2025) — crisis service referral mandatory; IL/NV ban AI for behavioral health entirely; 143 bills across states, only 20 meaningful enacted laws; California private right of action against noncompliant developers; NY AG can impose $15K/day penalties |
+| 2026-02-21 | Scout-01 | Updated Clusters | Added Global Development Doom Loop cluster (NEED-080, 011, 018, 025); added Plastic Contamination Cascade cluster (NEED-081, 052, 079, 033); expanded from 21 to 23 thematic clusters |
